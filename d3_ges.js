@@ -12,7 +12,7 @@ function ForceGraph ({
     nodeStroke = "#fff", // node stroke color
     nodeStrokeWidth = 1.5, // node stroke width, in pixels
     nodeStrokeOpacity = 1, // node stroke opacity
-    nodeRadius = 5, // node radius, in pixels
+    nodeRadius = 8, // node radius, in pixels
     nodeStrength=-1,
     linkSource = ({source}) => source, // given d in links, returns a node identifier string
     linkTarget = ({target}) => target, // given d in links, returns a node identifier string
@@ -65,7 +65,7 @@ function ForceGraph ({
     const svg = d3.create("svg")
       .attr("width", width)
       .attr("height", height)
-      .attr("viewBox", [-width/1.5, -height/1.5, width*1.5, height*1.5])
+      .attr("viewBox", [-width/1.5, -height*1.1, width*1.5, height*3])
       .attr("style", "max-width: 100%; height: auto; height: intrinsic;");
     
     const edge = svg.append("g")
@@ -288,12 +288,17 @@ function render(data) {
         index) => arr.indexOf(item) === index);
   }
 
-  //c(data);
+  function getUniqueListBy(arr, key) {
+    return [...new Map(arr.map(item => [item[key], item])).values()]
+  }
+
+  c(data);
   let data_clean = {};
-  data_clean['nodes'] = removeDuplicates(data.nodes);
-  data_clean['edges'] = removeDuplicates(data.edges);
-  //c(data_clean);
-  chart = ForceGraph(data, {
+  //data_clean['nodes'] = removeDuplicates(data.nodes);
+  data_clean['nodes'] = getUniqueListBy(data.nodes,'key');
+  data_clean['edges'] = data.edges;
+  c(data_clean);
+  chart = ForceGraph(data_clean, {
       nodeId: d => d.key,
       nodeGroup: d => d.attributes.department,
       nodeTitle: d => `${d.attributes.name}\n${d.attributes.department}`,
