@@ -1,0 +1,1191 @@
+{
+  "options": {
+    "type": "undirected",
+    "multi": false,
+    "allowSelfLoops": false
+  },
+  "attributes": {
+    "creator": "Citation Index",
+    "lastModifiedDate": "2023-01-17"
+  },
+  "nodes": [
+    {
+      "key": "uid-glzilnik",
+      "attributes": {
+        "label": "G Zilnik",
+        "name": "Gabe Zilnik",
+        "known?": true,
+        "orcid?": false,
+        "ncsu?": true,
+        "affiliations": [
+          "North Carolina State University"
+        ],
+        "countries": [
+          "US"
+        ],
+        "uid": "glzilnik",
+        "url": "https://ci.lib.ncsu.edu/profiles/glzilnik",
+        "active?": false,
+        "department": "Entomology and Plant Pathology",
+        "college": "College of Agriculture and Life Sciences",
+        "ncsu_affiliations": [
+          "Entomology and Plant Pathology",
+          "Genetic Engineering and Society"
+        ],
+        "cluster?": true,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "role": "student",
+        "building": null,
+        "count": 3,
+        "oa_count": 0,
+        "years": [
+          2021,
+          2016
+        ],
+        "year_recent": 2021,
+        "article_concepts": [
+
+        ],
+        "host_venues": [
+          "Crop Protection",
+          "Journal of Economic Entomology"
+        ],
+        "color": "#6F7D1C",
+        "size": 20
+      }
+    },
+    {
+      "key": "https://orcid.org/0000-0003-0157-5191",
+      "attributes": {
+        "label": "G Zilnik",
+        "name": "Gabriel Zilnik",
+        "known?": false,
+        "orcid?": null,
+        "ncsu?": true,
+        "affiliations": [
+          "North Carolina State University"
+        ],
+        "countries": [
+          "US"
+        ],
+        "color": "#000000",
+        "size": 10
+      }
+    },
+    {
+      "key": "uid-hjburrac",
+      "attributes": {
+        "label": "H Burrack",
+        "name": "Hannah Burrack",
+        "known?": true,
+        "orcid?": true,
+        "ncsu?": true,
+        "affiliations": [
+          "North Carolina State University"
+        ],
+        "countries": [
+          "US"
+        ],
+        "uid": "hjburrac",
+        "url": "https://ci.lib.ncsu.edu/profiles/hjburrac",
+        "orcid": "0000-0002-8460-8245",
+        "active?": true,
+        "department": "Entomology and Plant Pathology",
+        "college": "College of Agriculture and Life Sciences",
+        "ncsu_affiliations": [
+          "Entomology and Plant Pathology",
+          "Genetic Engineering and Society"
+        ],
+        "cluster?": true,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "role": "staff",
+        "building": "Headhouse Unit 1 At Method",
+        "count": 73,
+        "oa_count": 33,
+        "years": [
+          2023,
+          2022,
+          2021,
+          2020,
+          2019,
+          2018,
+          2017,
+          2016,
+          2015,
+          2014,
+          2013,
+          2012,
+          2011,
+          2009,
+          2008
+        ],
+        "year_recent": 2023,
+        "article_concepts": [
+          "Abiotic component",
+          "Abiotic stress",
+          "Abundance (ecology)",
+          "Aculeata",
+          "Adaptation (eye)",
+          "Aerospace engineering",
+          "Agricultural pest",
+          "Agricultural science",
+          "Agriculture",
+          "Agroecosystem",
+          "Agroforestry",
+          "Agronomy",
+          "Aphid",
+          "Apidae",
+          "Apoidea",
+          "Approximate Bayesian computation",
+          "Artificial intelligence",
+          "Berry",
+          "Biochemistry",
+          "Biological dispersal",
+          "Biological pest control",
+          "Biology",
+          "Blowing a raspberry",
+          "Botany",
+          "Braconidae",
+          "Chemistry",
+          "Classical mechanics",
+          "Cold storage",
+          "Colonization",
+          "Competition (biology)",
+          "Composite material",
+          "Computer science",
+          "Context (archaeology)",
+          "Crop",
+          "Cultivar",
+          "Curing of tobacco",
+          "Damages",
+          "Demographic history",
+          "Demography",
+          "Density dependence",
+          "Drosophila (subgenus)",
+          "Drosophila melanogaster",
+          "Drosophila suzukii",
+          "Drosophilidae",
+          "Ecological niche",
+          "Ecology",
+          "Econometrics",
+          "Economics",
+          "Ecosystem",
+          "Ecosystem services",
+          "Ectotherm",
+          "Engineering",
+          "Entomology",
+          "Environmental science",
+          "Evolutionary biology",
+          "Feather",
+          "Feather meal",
+          "Fecundity",
+          "Fish <Actinopterygii>",
+          "Fish meal",
+          "Fishery",
+          "Flue",
+          "Food preference",
+          "Food science",
+          "Foraging",
+          "Frugivore",
+          "Function (biology)",
+          "Gene",
+          "Genetic diversity",
+          "Genetic structure",
+          "Genetic variation",
+          "Genetics",
+          "Genome",
+          "Genomics",
+          "Geography",
+          "Growing season",
+          "Habitat",
+          "Helicoverpa armigera",
+          "Helicoverpa zea",
+          "Heliothis virescens",
+          "Honey Bees",
+          "Honey bee",
+          "Horticulture",
+          "Host (biology)",
+          "Hymenoptera",
+          "Ichneumonidae",
+          "Ideal free distribution",
+          "Imidacloprid",
+          "Infestation",
+          "Integrated pest management",
+          "Interspecific competition",
+          "Intraguild predation",
+          "Intraspecific competition",
+          "Invasive species",
+          "Larva",
+          "Law",
+          "Lepidoptera genitalia",
+          "Macroeconomics",
+          "Materials science",
+          "Mathematics",
+          "Meal",
+          "Microeconomics",
+          "Mottle",
+          "Myzus persicae",
+          "Neuroscience",
+          "Niche",
+          "Noctuidae",
+          "Organic chemistry",
+          "Overwintering",
+          "PEST analysis",
+          "Paleontology",
+          "Parasitism",
+          "Parasitoid",
+          "Pest control",
+          "Pesticide",
+          "Phenotype",
+          "Phenotypic plasticity",
+          "Physics",
+          "Plant virus",
+          "Political science",
+          "Pollen",
+          "Pollination",
+          "Pollinator",
+          "Polyphenism",
+          "Population",
+          "Population density",
+          "Population dynamics",
+          "Population ecology",
+          "Population genetics",
+          "Population genomics",
+          "Population growth",
+          "Population model",
+          "Postharvest",
+          "Predation",
+          "Predator",
+          "Preference",
+          "Primer (cosmetics)",
+          "Production (economics)",
+          "Productivity",
+          "Programming language",
+          "Pupa",
+          "Quantitative trait locus",
+          "Quarantine",
+          "Range (aeronautics)",
+          "Resistance (ecology)",
+          "Ripening",
+          "Rubus",
+          "San Joaquin",
+          "Selection (genetic algorithm)",
+          "Simultaneity",
+          "Sociology",
+          "Soil science",
+          "Species richness",
+          "Statistics",
+          "Sterile insect technique",
+          "Temperate climate",
+          "Toxicology",
+          "Trait",
+          "Trophic level",
+          "Vineyard",
+          "Virology",
+          "Virus",
+          "Vital rates",
+          "Waste management",
+          "Wine",
+          "Wine grape",
+          "Wing",
+          "Worker bee",
+          "Zoology"
+        ],
+        "host_venues": [
+          "Acta horticulturae",
+          "Agriculture, Ecosystems & Environment",
+          "Agronomy Journal",
+          "Annals of The Entomological Society of America",
+          "Apidologie",
+          "Biological Control",
+          "California Agriculture",
+          "Communications biology",
+          "Crop Protection",
+          "Ecological Entomology",
+          "Ecology and Evolution",
+          "Entomologia Experimentalis Et Applicata",
+          "Environmental Entomology",
+          "Florida Entomologist",
+          "Frontiers in Ecology and Evolution",
+          "G3: Genes, Genomes, Genetics",
+          "Insects",
+          "International Journal of Fruit Science",
+          "International journal of pest management",
+          "Journal of Applied Entomology",
+          "Journal of Economic Entomology",
+          "Journal of Environmental Economics and Management",
+          "Journal of Environmental Management",
+          "Journal of Integrated Pest Management",
+          "Journal of Pest Science",
+          "Molecular Biology and Evolution",
+          "PLOS ONE",
+          "Pest Management Science",
+          "Plant Disease",
+          "Scientific Reports",
+          "bioRxiv"
+        ],
+        "color": "#6F7D1C",
+        "size": 10
+      }
+    },
+    {
+      "key": "uid-dakraus",
+      "attributes": {
+        "label": "D Kraus",
+        "name": "Dylan Andrew Kraus",
+        "known?": true,
+        "orcid?": false,
+        "ncsu?": true,
+        "affiliations": [
+          "North Carolina State University"
+        ],
+        "countries": [
+          "US"
+        ],
+        "uid": "dakraus",
+        "url": "https://ci.lib.ncsu.edu/profiles/dakraus",
+        "active?": false,
+        "department": "Entomology and Plant Pathology",
+        "college": "College of Agriculture and Life Sciences",
+        "ncsu_affiliations": [
+          "Entomology and Plant Pathology"
+        ],
+        "cluster?": false,
+        "clusters": [
+
+        ],
+        "role": null,
+        "building": null,
+        "count": 4,
+        "oa_count": 1,
+        "years": [
+          2021,
+          2017,
+          2015,
+          2013
+        ],
+        "year_recent": 2021,
+        "article_concepts": [
+
+        ],
+        "host_venues": [
+          "Crop Protection",
+          "Entomologia Experimentalis Et Applicata",
+          "Journal of Economic Entomology",
+          "Pest Management Science"
+        ],
+        "color": "#6F7D1C",
+        "size": 10
+      }
+    },
+    {
+      "key": "timantonelli",
+      "attributes": {
+        "label": "T Antonelli",
+        "name": "Tim Antonelli",
+        "known?": false,
+        "orcid?": null,
+        "ncsu?": false,
+        "affiliations": [
+          "Worcester State University"
+        ],
+        "countries": [
+          "US"
+        ],
+        "color": "#BFBFBD",
+        "size": 10
+      }
+    },
+    {
+      "key": "uid-acclayt2",
+      "attributes": {
+        "label": "A Clayton",
+        "name": "Amanda Clayton",
+        "known?": true,
+        "orcid?": false,
+        "ncsu?": true,
+        "affiliations": [
+          "North Carolina State University"
+        ],
+        "countries": [
+          "US"
+        ],
+        "uid": "acclayt2",
+        "url": "https://ci.lib.ncsu.edu/profiles/acclayt2",
+        "active?": false,
+        "department": "Agricultural & Resource Economics",
+        "college": "College of Agriculture and Life Sciences",
+        "ncsu_affiliations": [
+          "Agricultural & Resource Economics",
+          "Genetic Engineering and Society"
+        ],
+        "cluster?": true,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "role": null,
+        "building": null,
+        "count": 2,
+        "oa_count": 0,
+        "years": [
+          2019,
+          2016
+        ],
+        "year_recent": 2019,
+        "article_concepts": [
+
+        ],
+        "host_venues": [
+          "Community College Journal of Research and Practice"
+        ],
+        "color": "#6F7D1C",
+        "size": 10
+      }
+    },
+    {
+      "key": "uid-mshartzo",
+      "attributes": {
+        "label": "M Hartzog",
+        "name": "Molly S. Hartzog",
+        "known?": true,
+        "orcid?": false,
+        "ncsu?": true,
+        "affiliations": [
+          "North Carolina State University"
+        ],
+        "countries": [
+          "US"
+        ],
+        "uid": "mshartzo",
+        "url": "https://ci.lib.ncsu.edu/profiles/mshartzo",
+        "active?": false,
+        "department": "Communication Rhetoric and Digital Media",
+        "college": "College of Humanities and Social Sciences",
+        "ncsu_affiliations": [
+          "Communication Rhetoric and Digital Media"
+        ],
+        "cluster?": false,
+        "clusters": [
+
+        ],
+        "role": null,
+        "building": null,
+        "count": 2,
+        "oa_count": 0,
+        "years": [
+          2016,
+          2015
+        ],
+        "year_recent": 2016,
+        "article_concepts": [
+
+        ],
+        "host_venues": [
+
+        ],
+        "color": "#FAC800",
+        "size": 10
+      }
+    },
+    {
+      "key": "uid-shwebste",
+      "attributes": {
+        "label": "S Webster",
+        "name": "Sophia Webster",
+        "known?": true,
+        "orcid?": false,
+        "ncsu?": true,
+        "affiliations": [
+          "North Carolina State University"
+        ],
+        "countries": [
+          "US"
+        ],
+        "uid": "shwebste",
+        "url": "https://ci.lib.ncsu.edu/profiles/shwebste",
+        "active?": false,
+        "department": "Entomology and Plant Pathology",
+        "college": "College of Agriculture and Life Sciences",
+        "ncsu_affiliations": [
+          "Entomology and Plant Pathology"
+        ],
+        "cluster?": false,
+        "clusters": [
+
+        ],
+        "role": "staff",
+        "building": null,
+        "count": 2,
+        "oa_count": 1,
+        "years": [
+          2021,
+          2016
+        ],
+        "year_recent": 2021,
+        "article_concepts": [
+          "Aedes",
+          "Aedes aegypti",
+          "Biology",
+          "Ecology",
+          "Gene",
+          "Genetically modified organism",
+          "Genetics",
+          "Green fluorescent protein",
+          "Larva",
+          "Marker gene",
+          "Molecular biology",
+          "Recombinant DNA",
+          "Transgene",
+          "Vector (molecular biology)"
+        ],
+        "host_venues": [
+          "Journal of Medical Entomology"
+        ],
+        "color": "#6F7D1C",
+        "size": 10
+      }
+    }
+  ],
+  "edges": [
+    {
+      "source": "uid-glzilnik",
+      "target": "https://orcid.org/0000-0003-0157-5191",
+      "attributes": {
+        "label": 2,
+        "weight": 2,
+        "collaboration_count": 2,
+        "departments": "Entomology and Plant Pathology --- unknown",
+        "colleges": "College of Agriculture and Life Sciences --- unknown",
+        "buildings": "unknown --- unknown",
+        "roles": "student --- unknown",
+        "years": [
+          2021,
+          2021
+        ],
+        "year_recent": 2021,
+        "dois": [
+          "10.1093/jee/toab055",
+          "10.1016/j.cropro.2020.105413"
+        ],
+        "ncsu?": true,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          "Journal of Economic Entomology"
+        ],
+        "color": "#CC0000",
+        "size": 2
+      }
+    },
+    {
+      "source": "uid-glzilnik",
+      "target": "uid-hjburrac",
+      "attributes": {
+        "label": 2,
+        "weight": 2,
+        "collaboration_count": 2,
+        "departments": "Entomology and Plant Pathology == Entomology and Plant Pathology",
+        "colleges": "College of Agriculture and Life Sciences == College of Agriculture and Life Sciences",
+        "buildings": "Headhouse Unit 1 At Method --- unknown",
+        "roles": "staff -- student",
+        "years": [
+          2021,
+          2021
+        ],
+        "year_recent": 2021,
+        "dois": [
+          "10.1093/jee/toab055",
+          "10.1016/j.cropro.2020.105413"
+        ],
+        "ncsu?": true,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": true,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          "Journal of Economic Entomology"
+        ],
+        "color": "#CC0000",
+        "size": 2
+      }
+    },
+    {
+      "source": "uid-glzilnik",
+      "target": "uid-dakraus",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Entomology and Plant Pathology == Entomology and Plant Pathology",
+        "colleges": "College of Agriculture and Life Sciences == College of Agriculture and Life Sciences",
+        "buildings": "unknown --- unknown",
+        "roles": "student --- unknown",
+        "years": [
+          2021
+        ],
+        "year_recent": 2021,
+        "dois": [
+          "10.1016/j.cropro.2020.105413"
+        ],
+        "ncsu?": true,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          "Crop Protection"
+        ],
+        "color": "#CC0000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-glzilnik",
+      "target": "timantonelli",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Entomology and Plant Pathology --- unknown",
+        "colleges": "College of Agriculture and Life Sciences --- unknown",
+        "buildings": "unknown --- unknown",
+        "roles": "student --- unknown",
+        "years": [
+          2016
+        ],
+        "year_recent": 2016,
+        "dois": [
+          "10.1016/b978-0-12-800246-9.00001-6"
+        ],
+        "ncsu?": false,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          null
+        ],
+        "color": "#000000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-glzilnik",
+      "target": "uid-acclayt2",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Agricultural & Resource Economics -- Entomology and Plant Pathology",
+        "colleges": "College of Agriculture and Life Sciences == College of Agriculture and Life Sciences",
+        "buildings": "unknown --- unknown",
+        "roles": "student --- unknown",
+        "years": [
+          2016
+        ],
+        "year_recent": 2016,
+        "dois": [
+          "10.1016/b978-0-12-800246-9.00001-6"
+        ],
+        "ncsu?": true,
+        "cross_college?": false,
+        "cross_department?": true,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": true,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          null
+        ],
+        "color": "#CC0000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-glzilnik",
+      "target": "uid-mshartzo",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Communication Rhetoric and Digital Media -- Entomology and Plant Pathology",
+        "colleges": "College of Agriculture and Life Sciences -- College of Humanities and Social Sciences",
+        "buildings": "unknown --- unknown",
+        "roles": "student --- unknown",
+        "years": [
+          2016
+        ],
+        "year_recent": 2016,
+        "dois": [
+          "10.1016/b978-0-12-800246-9.00001-6"
+        ],
+        "ncsu?": true,
+        "cross_college?": true,
+        "cross_department?": true,
+        "cross_unit?": true,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          null
+        ],
+        "color": "#FAC800",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-glzilnik",
+      "target": "uid-shwebste",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Entomology and Plant Pathology == Entomology and Plant Pathology",
+        "colleges": "College of Agriculture and Life Sciences == College of Agriculture and Life Sciences",
+        "buildings": "unknown --- unknown",
+        "roles": "staff -- student",
+        "years": [
+          2016
+        ],
+        "year_recent": 2016,
+        "dois": [
+          "10.1016/b978-0-12-800246-9.00001-6"
+        ],
+        "ncsu?": true,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          null
+        ],
+        "color": "#CC0000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-hjburrac",
+      "target": "https://orcid.org/0000-0003-0157-5191",
+      "attributes": {
+        "label": 2,
+        "weight": 2,
+        "collaboration_count": 2,
+        "departments": "Entomology and Plant Pathology --- unknown",
+        "colleges": "College of Agriculture and Life Sciences --- unknown",
+        "buildings": "Headhouse Unit 1 At Method --- unknown",
+        "roles": "staff --- unknown",
+        "years": [
+          2021,
+          2021
+        ],
+        "year_recent": 2021,
+        "dois": [
+          "10.1093/jee/toab055",
+          "10.1016/j.cropro.2020.105413"
+        ],
+        "ncsu?": true,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          "Journal of Economic Entomology"
+        ],
+        "color": "#CC0000",
+        "size": 2
+      }
+    },
+    {
+      "source": "uid-hjburrac",
+      "target": "uid-dakraus",
+      "attributes": {
+        "label": 4,
+        "weight": 4,
+        "collaboration_count": 4,
+        "departments": "Entomology and Plant Pathology == Entomology and Plant Pathology",
+        "colleges": "College of Agriculture and Life Sciences == College of Agriculture and Life Sciences",
+        "buildings": "Headhouse Unit 1 At Method --- unknown",
+        "roles": "staff --- unknown",
+        "years": [
+          2021,
+          2017,
+          2015,
+          2013
+        ],
+        "year_recent": 2021,
+        "dois": [
+          "10.1016/j.cropro.2020.105413",
+          "10.1093/jee/tow289",
+          "10.1111/eea.12311",
+          "10.1002/ps.3489"
+        ],
+        "ncsu?": true,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          "Crop Protection"
+        ],
+        "color": "#CC0000",
+        "size": 4
+      }
+    },
+    {
+      "source": "uid-dakraus",
+      "target": "https://orcid.org/0000-0003-0157-5191",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Entomology and Plant Pathology --- unknown",
+        "colleges": "College of Agriculture and Life Sciences --- unknown",
+        "buildings": "unknown --- unknown",
+        "roles": "unknown == unknown",
+        "years": [
+          2021
+        ],
+        "year_recent": 2021,
+        "dois": [
+          "10.1016/j.cropro.2020.105413"
+        ],
+        "ncsu?": true,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": false,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          "Crop Protection"
+        ],
+        "color": "#CC0000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-acclayt2",
+      "target": "timantonelli",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Agricultural & Resource Economics --- unknown",
+        "colleges": "College of Agriculture and Life Sciences --- unknown",
+        "buildings": "unknown --- unknown",
+        "roles": "unknown == unknown",
+        "years": [
+          2016
+        ],
+        "year_recent": 2016,
+        "dois": [
+          "10.1016/b978-0-12-800246-9.00001-6"
+        ],
+        "ncsu?": false,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          null
+        ],
+        "color": "#000000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-acclayt2",
+      "target": "uid-mshartzo",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Agricultural & Resource Economics -- Communication Rhetoric and Digital Media",
+        "colleges": "College of Agriculture and Life Sciences -- College of Humanities and Social Sciences",
+        "buildings": "unknown --- unknown",
+        "roles": "unknown == unknown",
+        "years": [
+          2016
+        ],
+        "year_recent": 2016,
+        "dois": [
+          "10.1016/b978-0-12-800246-9.00001-6"
+        ],
+        "ncsu?": true,
+        "cross_college?": true,
+        "cross_department?": true,
+        "cross_unit?": true,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          null
+        ],
+        "color": "#FAC800",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-acclayt2",
+      "target": "uid-shwebste",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Agricultural & Resource Economics -- Entomology and Plant Pathology",
+        "colleges": "College of Agriculture and Life Sciences == College of Agriculture and Life Sciences",
+        "buildings": "unknown --- unknown",
+        "roles": "staff --- unknown",
+        "years": [
+          2016
+        ],
+        "year_recent": 2016,
+        "dois": [
+          "10.1016/b978-0-12-800246-9.00001-6"
+        ],
+        "ncsu?": true,
+        "cross_college?": false,
+        "cross_department?": true,
+        "cross_unit?": true,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          null
+        ],
+        "color": "#CC0000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-mshartzo",
+      "target": "timantonelli",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Communication Rhetoric and Digital Media --- unknown",
+        "colleges": "College of Humanities and Social Sciences --- unknown",
+        "buildings": "unknown --- unknown",
+        "roles": "unknown == unknown",
+        "years": [
+          2016
+        ],
+        "year_recent": 2016,
+        "dois": [
+          "10.1016/b978-0-12-800246-9.00001-6"
+        ],
+        "ncsu?": false,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": false,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          null
+        ],
+        "color": "#000000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-mshartzo",
+      "target": "uid-shwebste",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Communication Rhetoric and Digital Media -- Entomology and Plant Pathology",
+        "colleges": "College of Agriculture and Life Sciences -- College of Humanities and Social Sciences",
+        "buildings": "unknown --- unknown",
+        "roles": "staff --- unknown",
+        "years": [
+          2016
+        ],
+        "year_recent": 2016,
+        "dois": [
+          "10.1016/b978-0-12-800246-9.00001-6"
+        ],
+        "ncsu?": true,
+        "cross_college?": true,
+        "cross_department?": true,
+        "cross_unit?": true,
+        "cluster?": false,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          null
+        ],
+        "color": "#FAC800",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-shwebste",
+      "target": "timantonelli",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Entomology and Plant Pathology --- unknown",
+        "colleges": "College of Agriculture and Life Sciences --- unknown",
+        "buildings": "unknown --- unknown",
+        "roles": "staff --- unknown",
+        "years": [
+          2016
+        ],
+        "year_recent": 2016,
+        "dois": [
+          "10.1016/b978-0-12-800246-9.00001-6"
+        ],
+        "ncsu?": false,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": false,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          null
+        ],
+        "color": "#000000",
+        "size": 1
+      }
+    }
+  ]
+}

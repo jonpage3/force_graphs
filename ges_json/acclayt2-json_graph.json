@@ -1,0 +1,1148 @@
+{
+  "options": {
+    "type": "undirected",
+    "multi": false,
+    "allowSelfLoops": false
+  },
+  "attributes": {
+    "creator": "Citation Index",
+    "lastModifiedDate": "2023-01-17"
+  },
+  "nodes": [
+    {
+      "key": "uid-acclayt2",
+      "attributes": {
+        "label": "A Clayton",
+        "name": "Amanda Clayton",
+        "known?": true,
+        "orcid?": false,
+        "ncsu?": true,
+        "affiliations": [
+          "North Carolina State University"
+        ],
+        "countries": [
+          "US"
+        ],
+        "uid": "acclayt2",
+        "url": "https://ci.lib.ncsu.edu/profiles/acclayt2",
+        "active?": false,
+        "department": "Agricultural & Resource Economics",
+        "college": "College of Agriculture and Life Sciences",
+        "ncsu_affiliations": [
+          "Agricultural & Resource Economics",
+          "Genetic Engineering and Society"
+        ],
+        "cluster?": true,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "role": null,
+        "building": null,
+        "count": 2,
+        "oa_count": 0,
+        "years": [
+          2019,
+          2016
+        ],
+        "year_recent": 2019,
+        "article_concepts": [
+
+        ],
+        "host_venues": [
+          "Community College Journal of Research and Practice"
+        ],
+        "color": "#6F7D1C",
+        "size": 20
+      }
+    },
+    {
+      "key": "uid-pdumbach",
+      "attributes": {
+        "label": "P Umbach",
+        "name": "Paul Umbach",
+        "known?": true,
+        "orcid?": false,
+        "ncsu?": true,
+        "affiliations": [
+          "North Carolina State University"
+        ],
+        "countries": [
+          "US"
+        ],
+        "uid": "pdumbach",
+        "url": "https://ci.lib.ncsu.edu/profiles/pdumbach",
+        "active?": true,
+        "department": "Educational Leadership, Policy, and Human Development (ELPHD)",
+        "college": "College of Education",
+        "ncsu_affiliations": [
+          "Educational Leadership, Policy, and Human Development (ELPHD)"
+        ],
+        "cluster?": false,
+        "clusters": [
+
+        ],
+        "role": "faculty",
+        "building": "Poe Hall",
+        "count": 26,
+        "oa_count": 7,
+        "years": [
+          2022,
+          2020,
+          2019,
+          2016,
+          2012,
+          2011,
+          2010,
+          2009,
+          2008,
+          2006,
+          2005,
+          2004
+        ],
+        "year_recent": 2022,
+        "article_concepts": [
+          "Athletes",
+          "Character (mathematics)",
+          "Community college",
+          "Computer network",
+          "Computer science",
+          "Diversity (politics)",
+          "Economic growth",
+          "Economics",
+          "Geometry",
+          "Higher education",
+          "Institutional research",
+          "Law",
+          "Liberal arts education",
+          "Link (geometry)",
+          "Mathematics",
+          "Mathematics education",
+          "Medical education",
+          "Medicine",
+          "Optimal distinctiveness theory",
+          "Pedagogy",
+          "Physical therapy",
+          "Political science",
+          "Psychology",
+          "Public relations",
+          "Social psychology",
+          "Sociology",
+          "Student engagement"
+        ],
+        "host_venues": [
+          "Community College Journal of Research and Practice",
+          "New Directions for Institutional Research",
+          "Occupational and Environmental Medicine",
+          "Research in Higher Education",
+          "The Journal of Higher Education",
+          "The Review of Higher Education"
+        ],
+        "color": "#D14905",
+        "size": 10
+      }
+    },
+    {
+      "key": "uid-jlberkel",
+      "attributes": {
+        "label": "J Tuchmayer",
+        "name": "Jeremy Berkeley Tuchmayer",
+        "known?": true,
+        "orcid?": false,
+        "ncsu?": true,
+        "affiliations": [
+          "North Carolina State University"
+        ],
+        "countries": [
+          "US"
+        ],
+        "uid": "jlberkel",
+        "url": "https://ci.lib.ncsu.edu/profiles/jlberkel",
+        "active?": false,
+        "department": "Educational Leadership, Policy, and Human Development (ELPHD)",
+        "college": "College of Education",
+        "ncsu_affiliations": [
+          "Educational Leadership, Policy, and Human Development (ELPHD)"
+        ],
+        "cluster?": false,
+        "clusters": [
+
+        ],
+        "role": "student",
+        "building": null,
+        "count": 2,
+        "oa_count": 0,
+        "years": [
+          2019,
+          2014
+        ],
+        "year_recent": 2019,
+        "article_concepts": [
+
+        ],
+        "host_venues": [
+          "Community College Journal of Research and Practice",
+          "The Journal of Higher Education"
+        ],
+        "color": "#D14905",
+        "size": 10
+      }
+    },
+    {
+      "key": "https://orcid.org/0000-0003-1800-4504",
+      "attributes": {
+        "label": "A Clayton",
+        "name": "Ashley B. Clayton",
+        "known?": false,
+        "orcid?": null,
+        "ncsu?": false,
+        "affiliations": [
+          "Louisiana State University"
+        ],
+        "countries": [
+          "US"
+        ],
+        "color": "#BFBFBD",
+        "size": 10
+      }
+    },
+    {
+      "key": "kathleennsmith",
+      "attributes": {
+        "label": "K Smith",
+        "name": "Kathleen N. Smith",
+        "known?": false,
+        "orcid?": null,
+        "ncsu?": false,
+        "affiliations": [
+          "Seton Hall University"
+        ],
+        "countries": [
+          "US"
+        ],
+        "color": "#BFBFBD",
+        "size": 10
+      }
+    },
+    {
+      "key": "timantonelli",
+      "attributes": {
+        "label": "T Antonelli",
+        "name": "Tim Antonelli",
+        "known?": false,
+        "orcid?": null,
+        "ncsu?": false,
+        "affiliations": [
+          "Worcester State University"
+        ],
+        "countries": [
+          "US"
+        ],
+        "color": "#BFBFBD",
+        "size": 10
+      }
+    },
+    {
+      "key": "uid-mshartzo",
+      "attributes": {
+        "label": "M Hartzog",
+        "name": "Molly S. Hartzog",
+        "known?": true,
+        "orcid?": false,
+        "ncsu?": true,
+        "affiliations": [
+          "North Carolina State University"
+        ],
+        "countries": [
+          "US"
+        ],
+        "uid": "mshartzo",
+        "url": "https://ci.lib.ncsu.edu/profiles/mshartzo",
+        "active?": false,
+        "department": "Communication Rhetoric and Digital Media",
+        "college": "College of Humanities and Social Sciences",
+        "ncsu_affiliations": [
+          "Communication Rhetoric and Digital Media"
+        ],
+        "cluster?": false,
+        "clusters": [
+
+        ],
+        "role": null,
+        "building": null,
+        "count": 2,
+        "oa_count": 0,
+        "years": [
+          2016,
+          2015
+        ],
+        "year_recent": 2016,
+        "article_concepts": [
+
+        ],
+        "host_venues": [
+
+        ],
+        "color": "#FAC800",
+        "size": 10
+      }
+    },
+    {
+      "key": "uid-shwebste",
+      "attributes": {
+        "label": "S Webster",
+        "name": "Sophia Webster",
+        "known?": true,
+        "orcid?": false,
+        "ncsu?": true,
+        "affiliations": [
+          "North Carolina State University"
+        ],
+        "countries": [
+          "US"
+        ],
+        "uid": "shwebste",
+        "url": "https://ci.lib.ncsu.edu/profiles/shwebste",
+        "active?": false,
+        "department": "Entomology and Plant Pathology",
+        "college": "College of Agriculture and Life Sciences",
+        "ncsu_affiliations": [
+          "Entomology and Plant Pathology"
+        ],
+        "cluster?": false,
+        "clusters": [
+
+        ],
+        "role": "staff",
+        "building": null,
+        "count": 2,
+        "oa_count": 1,
+        "years": [
+          2021,
+          2016
+        ],
+        "year_recent": 2021,
+        "article_concepts": [
+          "Aedes",
+          "Aedes aegypti",
+          "Biology",
+          "Ecology",
+          "Gene",
+          "Genetically modified organism",
+          "Genetics",
+          "Green fluorescent protein",
+          "Larva",
+          "Marker gene",
+          "Molecular biology",
+          "Recombinant DNA",
+          "Transgene",
+          "Vector (molecular biology)"
+        ],
+        "host_venues": [
+          "Journal of Medical Entomology"
+        ],
+        "color": "#6F7D1C",
+        "size": 10
+      }
+    },
+    {
+      "key": "uid-glzilnik",
+      "attributes": {
+        "label": "G Zilnik",
+        "name": "Gabe Zilnik",
+        "known?": true,
+        "orcid?": false,
+        "ncsu?": true,
+        "affiliations": [
+          "North Carolina State University"
+        ],
+        "countries": [
+          "US"
+        ],
+        "uid": "glzilnik",
+        "url": "https://ci.lib.ncsu.edu/profiles/glzilnik",
+        "active?": false,
+        "department": "Entomology and Plant Pathology",
+        "college": "College of Agriculture and Life Sciences",
+        "ncsu_affiliations": [
+          "Entomology and Plant Pathology",
+          "Genetic Engineering and Society"
+        ],
+        "cluster?": true,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "role": "student",
+        "building": null,
+        "count": 3,
+        "oa_count": 0,
+        "years": [
+          2021,
+          2016
+        ],
+        "year_recent": 2021,
+        "article_concepts": [
+
+        ],
+        "host_venues": [
+          "Crop Protection",
+          "Journal of Economic Entomology"
+        ],
+        "color": "#6F7D1C",
+        "size": 10
+      }
+    }
+  ],
+  "edges": [
+    {
+      "source": "uid-acclayt2",
+      "target": "uid-pdumbach",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Agricultural & Resource Economics -- Educational Leadership, Policy, and Human Development (ELPHD)",
+        "colleges": "College of Agriculture and Life Sciences -- College of Education",
+        "buildings": "Poe Hall --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          2019
+        ],
+        "year_recent": 2019,
+        "dois": [
+          "10.1080/10668926.2018.1520658"
+        ],
+        "ncsu?": true,
+        "cross_college?": true,
+        "cross_department?": true,
+        "cross_unit?": true,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          "Community College Journal of Research and Practice"
+        ],
+        "color": "#FAC800",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-acclayt2",
+      "target": "uid-jlberkel",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Agricultural & Resource Economics -- Educational Leadership, Policy, and Human Development (ELPHD)",
+        "colleges": "College of Agriculture and Life Sciences -- College of Education",
+        "buildings": "unknown --- unknown",
+        "roles": "student --- unknown",
+        "years": [
+          2019
+        ],
+        "year_recent": 2019,
+        "dois": [
+          "10.1080/10668926.2018.1520658"
+        ],
+        "ncsu?": true,
+        "cross_college?": true,
+        "cross_department?": true,
+        "cross_unit?": true,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          "Community College Journal of Research and Practice"
+        ],
+        "color": "#FAC800",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-acclayt2",
+      "target": "https://orcid.org/0000-0003-1800-4504",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Agricultural & Resource Economics --- unknown",
+        "colleges": "College of Agriculture and Life Sciences --- unknown",
+        "buildings": "unknown --- unknown",
+        "roles": "unknown == unknown",
+        "years": [
+          2019
+        ],
+        "year_recent": 2019,
+        "dois": [
+          "10.1080/10668926.2018.1520658"
+        ],
+        "ncsu?": false,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          "Community College Journal of Research and Practice"
+        ],
+        "color": "#000000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-acclayt2",
+      "target": "kathleennsmith",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Agricultural & Resource Economics --- unknown",
+        "colleges": "College of Agriculture and Life Sciences --- unknown",
+        "buildings": "unknown --- unknown",
+        "roles": "unknown == unknown",
+        "years": [
+          2019
+        ],
+        "year_recent": 2019,
+        "dois": [
+          "10.1080/10668926.2018.1520658"
+        ],
+        "ncsu?": false,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          "Community College Journal of Research and Practice"
+        ],
+        "color": "#000000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-acclayt2",
+      "target": "timantonelli",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Agricultural & Resource Economics --- unknown",
+        "colleges": "College of Agriculture and Life Sciences --- unknown",
+        "buildings": "unknown --- unknown",
+        "roles": "unknown == unknown",
+        "years": [
+          2016
+        ],
+        "year_recent": 2016,
+        "dois": [
+          "10.1016/b978-0-12-800246-9.00001-6"
+        ],
+        "ncsu?": false,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          null
+        ],
+        "color": "#000000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-acclayt2",
+      "target": "uid-mshartzo",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Agricultural & Resource Economics -- Communication Rhetoric and Digital Media",
+        "colleges": "College of Agriculture and Life Sciences -- College of Humanities and Social Sciences",
+        "buildings": "unknown --- unknown",
+        "roles": "unknown == unknown",
+        "years": [
+          2016
+        ],
+        "year_recent": 2016,
+        "dois": [
+          "10.1016/b978-0-12-800246-9.00001-6"
+        ],
+        "ncsu?": true,
+        "cross_college?": true,
+        "cross_department?": true,
+        "cross_unit?": true,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          null
+        ],
+        "color": "#FAC800",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-acclayt2",
+      "target": "uid-shwebste",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Agricultural & Resource Economics -- Entomology and Plant Pathology",
+        "colleges": "College of Agriculture and Life Sciences == College of Agriculture and Life Sciences",
+        "buildings": "unknown --- unknown",
+        "roles": "staff --- unknown",
+        "years": [
+          2016
+        ],
+        "year_recent": 2016,
+        "dois": [
+          "10.1016/b978-0-12-800246-9.00001-6"
+        ],
+        "ncsu?": true,
+        "cross_college?": false,
+        "cross_department?": true,
+        "cross_unit?": true,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          null
+        ],
+        "color": "#CC0000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-acclayt2",
+      "target": "uid-glzilnik",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Agricultural & Resource Economics -- Entomology and Plant Pathology",
+        "colleges": "College of Agriculture and Life Sciences == College of Agriculture and Life Sciences",
+        "buildings": "unknown --- unknown",
+        "roles": "student --- unknown",
+        "years": [
+          2016
+        ],
+        "year_recent": 2016,
+        "dois": [
+          "10.1016/b978-0-12-800246-9.00001-6"
+        ],
+        "ncsu?": true,
+        "cross_college?": false,
+        "cross_department?": true,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": true,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          null
+        ],
+        "color": "#CC0000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-pdumbach",
+      "target": "https://orcid.org/0000-0003-1800-4504",
+      "attributes": {
+        "label": 2,
+        "weight": 2,
+        "collaboration_count": 2,
+        "departments": "Educational Leadership, Policy, and Human Development (ELPHD) --- unknown",
+        "colleges": "College of Education --- unknown",
+        "buildings": "Poe Hall --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          2020,
+          2019
+        ],
+        "year_recent": 2020,
+        "dois": [
+          "10.1353/rhe.2020.0036",
+          "10.1080/10668926.2018.1520658"
+        ],
+        "ncsu?": false,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": false,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+
+        ],
+        "cross_building?": false,
+        "concepts": [
+          "Community college",
+          "Psychology",
+          "Higher education",
+          "Medical education",
+          "Sociology",
+          "Mathematics education",
+          "Political science",
+          "Medicine",
+          "Law"
+        ],
+        "host_venues": [
+          "The Review of Higher Education"
+        ],
+        "color": "#000000",
+        "size": 2
+      }
+    },
+    {
+      "source": "uid-pdumbach",
+      "target": "uid-jlberkel",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Educational Leadership, Policy, and Human Development (ELPHD) == Educational Leadership, Policy, and Human Development (ELPHD)",
+        "colleges": "College of Education == College of Education",
+        "buildings": "Poe Hall --- unknown",
+        "roles": "faculty -- student",
+        "years": [
+          2019
+        ],
+        "year_recent": 2019,
+        "dois": [
+          "10.1080/10668926.2018.1520658"
+        ],
+        "ncsu?": true,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": false,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          "Community College Journal of Research and Practice"
+        ],
+        "color": "#CC0000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-pdumbach",
+      "target": "kathleennsmith",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Educational Leadership, Policy, and Human Development (ELPHD) --- unknown",
+        "colleges": "College of Education --- unknown",
+        "buildings": "Poe Hall --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          2019
+        ],
+        "year_recent": 2019,
+        "dois": [
+          "10.1080/10668926.2018.1520658"
+        ],
+        "ncsu?": false,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": false,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          "Community College Journal of Research and Practice"
+        ],
+        "color": "#000000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-jlberkel",
+      "target": "https://orcid.org/0000-0003-1800-4504",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Educational Leadership, Policy, and Human Development (ELPHD) --- unknown",
+        "colleges": "College of Education --- unknown",
+        "buildings": "unknown --- unknown",
+        "roles": "student --- unknown",
+        "years": [
+          2019
+        ],
+        "year_recent": 2019,
+        "dois": [
+          "10.1080/10668926.2018.1520658"
+        ],
+        "ncsu?": false,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": false,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          "Community College Journal of Research and Practice"
+        ],
+        "color": "#000000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-jlberkel",
+      "target": "kathleennsmith",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Educational Leadership, Policy, and Human Development (ELPHD) --- unknown",
+        "colleges": "College of Education --- unknown",
+        "buildings": "unknown --- unknown",
+        "roles": "student --- unknown",
+        "years": [
+          2019
+        ],
+        "year_recent": 2019,
+        "dois": [
+          "10.1080/10668926.2018.1520658"
+        ],
+        "ncsu?": false,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": false,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          "Community College Journal of Research and Practice"
+        ],
+        "color": "#000000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-mshartzo",
+      "target": "timantonelli",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Communication Rhetoric and Digital Media --- unknown",
+        "colleges": "College of Humanities and Social Sciences --- unknown",
+        "buildings": "unknown --- unknown",
+        "roles": "unknown == unknown",
+        "years": [
+          2016
+        ],
+        "year_recent": 2016,
+        "dois": [
+          "10.1016/b978-0-12-800246-9.00001-6"
+        ],
+        "ncsu?": false,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": false,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          null
+        ],
+        "color": "#000000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-mshartzo",
+      "target": "uid-shwebste",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Communication Rhetoric and Digital Media -- Entomology and Plant Pathology",
+        "colleges": "College of Agriculture and Life Sciences -- College of Humanities and Social Sciences",
+        "buildings": "unknown --- unknown",
+        "roles": "staff --- unknown",
+        "years": [
+          2016
+        ],
+        "year_recent": 2016,
+        "dois": [
+          "10.1016/b978-0-12-800246-9.00001-6"
+        ],
+        "ncsu?": true,
+        "cross_college?": true,
+        "cross_department?": true,
+        "cross_unit?": true,
+        "cluster?": false,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          null
+        ],
+        "color": "#FAC800",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-mshartzo",
+      "target": "uid-glzilnik",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Communication Rhetoric and Digital Media -- Entomology and Plant Pathology",
+        "colleges": "College of Agriculture and Life Sciences -- College of Humanities and Social Sciences",
+        "buildings": "unknown --- unknown",
+        "roles": "student --- unknown",
+        "years": [
+          2016
+        ],
+        "year_recent": 2016,
+        "dois": [
+          "10.1016/b978-0-12-800246-9.00001-6"
+        ],
+        "ncsu?": true,
+        "cross_college?": true,
+        "cross_department?": true,
+        "cross_unit?": true,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          null
+        ],
+        "color": "#FAC800",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-shwebste",
+      "target": "timantonelli",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Entomology and Plant Pathology --- unknown",
+        "colleges": "College of Agriculture and Life Sciences --- unknown",
+        "buildings": "unknown --- unknown",
+        "roles": "staff --- unknown",
+        "years": [
+          2016
+        ],
+        "year_recent": 2016,
+        "dois": [
+          "10.1016/b978-0-12-800246-9.00001-6"
+        ],
+        "ncsu?": false,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": false,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          null
+        ],
+        "color": "#000000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-shwebste",
+      "target": "uid-glzilnik",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Entomology and Plant Pathology == Entomology and Plant Pathology",
+        "colleges": "College of Agriculture and Life Sciences == College of Agriculture and Life Sciences",
+        "buildings": "unknown --- unknown",
+        "roles": "staff -- student",
+        "years": [
+          2016
+        ],
+        "year_recent": 2016,
+        "dois": [
+          "10.1016/b978-0-12-800246-9.00001-6"
+        ],
+        "ncsu?": true,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          null
+        ],
+        "color": "#CC0000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-glzilnik",
+      "target": "timantonelli",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Entomology and Plant Pathology --- unknown",
+        "colleges": "College of Agriculture and Life Sciences --- unknown",
+        "buildings": "unknown --- unknown",
+        "roles": "student --- unknown",
+        "years": [
+          2016
+        ],
+        "year_recent": 2016,
+        "dois": [
+          "10.1016/b978-0-12-800246-9.00001-6"
+        ],
+        "ncsu?": false,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          null
+        ],
+        "color": "#000000",
+        "size": 1
+      }
+    }
+  ]
+}

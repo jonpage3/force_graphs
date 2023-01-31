@@ -1,0 +1,195 @@
+{
+  "options": {
+    "type": "undirected",
+    "multi": false,
+    "allowSelfLoops": false
+  },
+  "attributes": {
+    "creator": "Citation Index",
+    "lastModifiedDate": "2023-01-14"
+  },
+  "nodes": [
+    {
+      "key": "uid-kimler",
+      "attributes": {
+        "label": "W Kimler",
+        "name": "William Kimler",
+        "known?": true,
+        "orcid?": false,
+        "ncsu?": true,
+        "affiliations": [
+          "North Carolina State University"
+        ],
+        "countries": [
+          "US"
+        ],
+        "uid": "kimler",
+        "url": "https://ci.lib.ncsu.edu/profiles/kimler",
+        "active?": true,
+        "department": "History",
+        "college": "College of Humanities and Social Sciences",
+        "ncsu_affiliations": [
+          "History",
+          "Genetic Engineering and Society"
+        ],
+        "cluster?": true,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "role": "faculty",
+        "building": "Withers Hall",
+        "count": 13,
+        "oa_count": 1,
+        "years": [
+          2012,
+          2010,
+          2005,
+          2004,
+          2003,
+          2000,
+          1999,
+          1998,
+          1997
+        ],
+        "year_recent": 2012,
+        "article_concepts": [
+          "Aesthetics",
+          "Canon",
+          "Cognitive science",
+          "Computer science",
+          "Darwinism",
+          "Epistemology",
+          "Linguistics",
+          "Materialism",
+          "Philosophy",
+          "Programming language",
+          "Psychology",
+          "Psychology of science",
+          "Reading (process)",
+          "Sociology",
+          "Unification"
+        ],
+        "host_venues": [
+          "American zoologist",
+          "Annals of Science",
+          "Configurations",
+          "Isis",
+          "Journal of World History",
+          "Journal of the History of Biology",
+          "The British Journal for the History of Science"
+        ],
+        "color": "#FAC800",
+        "size": 20
+      }
+    },
+    {
+      "key": "u-2254",
+      "attributes": {
+        "label": "J Jackson",
+        "name": "James R. Jackson",
+        "known?": true,
+        "orcid?": false,
+        "ncsu?": true,
+        "affiliations": [
+          "North Carolina State University"
+        ],
+        "countries": [
+          "US"
+        ],
+        "url": "https://ci.lib.ncsu.edu/profiles/2254",
+        "active?": false,
+        "department": "Zoology",
+        "college": "College of Sciences",
+        "ncsu_affiliations": [
+          "Zoology"
+        ],
+        "cluster?": false,
+        "clusters": [
+
+        ],
+        "role": null,
+        "building": null,
+        "count": 5,
+        "oa_count": 2,
+        "years": [
+          2001,
+          2000,
+          1999
+        ],
+        "year_recent": 2001,
+        "article_concepts": [
+          "Bass (fish)",
+          "Biology",
+          "Commercial fishing",
+          "Demography",
+          "Ecology",
+          "Engineering",
+          "Environmental science",
+          "Fish <Actinopterygii>",
+          "Fishery",
+          "Fishing",
+          "Geography",
+          "Geology",
+          "Habitat",
+          "Morone saxatilis",
+          "Oceanography",
+          "Population",
+          "Remote sensing",
+          "Seasonality",
+          "Sociology",
+          "Spatial distribution",
+          "Telecommunications",
+          "Telemetry"
+        ],
+        "host_venues": [
+          "Journal of the History of Biology",
+          "North American Journal of Fisheries Management",
+          "Transactions of The American Fisheries Society"
+        ],
+        "color": "#4156A1",
+        "size": 10
+      }
+    }
+  ],
+  "edges": [
+    {
+      "source": "uid-kimler",
+      "target": "u-2254",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "History -- Zoology",
+        "colleges": "College of Humanities and Social Sciences -- College of Sciences",
+        "buildings": "Withers Hall --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          1999
+        ],
+        "year_recent": 1999,
+        "dois": [
+          "10.1023/A:1004784904703"
+        ],
+        "ncsu?": true,
+        "cross_college?": true,
+        "cross_department?": true,
+        "cross_unit?": true,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          "Journal of the History of Biology"
+        ],
+        "color": "#FAC800",
+        "size": 1
+      }
+    }
+  ]
+}

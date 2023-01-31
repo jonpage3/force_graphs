@@ -1,0 +1,5799 @@
+{
+  "options": {
+    "type": "undirected",
+    "multi": false,
+    "allowSelfLoops": false
+  },
+  "attributes": {
+    "creator": "Citation Index",
+    "lastModifiedDate": "2023-01-14"
+  },
+  "nodes": [
+    {
+      "key": "uid-dmberube",
+      "attributes": {
+        "label": "D Berube",
+        "name": "David Berube",
+        "known?": true,
+        "orcid?": true,
+        "ncsu?": true,
+        "affiliations": [
+          "North Carolina State University"
+        ],
+        "countries": [
+          "US"
+        ],
+        "uid": "dmberube",
+        "url": "https://ci.lib.ncsu.edu/profiles/dmberube",
+        "orcid": "0000-0001-6751-0417",
+        "active?": true,
+        "department": "Communication",
+        "college": "College of Humanities and Social Sciences",
+        "ncsu_affiliations": [
+          "Communication",
+          "Genetic Engineering and Society",
+          "Communication Rhetoric and Digital Media"
+        ],
+        "cluster?": true,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "role": "faculty",
+        "building": "James B Hunt Jr Centennial Cam",
+        "count": 18,
+        "oa_count": 2,
+        "years": [
+          2020,
+          2018,
+          2017,
+          2013,
+          2011,
+          2009,
+          2008,
+          2006
+        ],
+        "year_recent": 2020,
+        "article_concepts": [
+          "Art",
+          "Artificial intelligence",
+          "Behaviour change",
+          "Biology",
+          "Computer science",
+          "Ecology",
+          "Economic growth",
+          "Economics",
+          "Engineering",
+          "Epistemology",
+          "Health care",
+          "Human–computer interaction",
+          "Knowledge management",
+          "Law",
+          "Literature",
+          "MEDLINE",
+          "Materials science",
+          "Mechanical engineering",
+          "Medical emergency",
+          "Medicine",
+          "Nanoparticle",
+          "Nanotechnology",
+          "Nursing",
+          "Phenomenon",
+          "Philosophy",
+          "Political science",
+          "Psychiatry",
+          "Psychological intervention",
+          "Psychology",
+          "Quality (philosophy)",
+          "Rhetorical question",
+          "Statement (logic)",
+          "Stroke (engine)",
+          "Sustainability",
+          "Telehealth",
+          "Telemedicine",
+          "Visualization"
+        ],
+        "host_venues": [
+          "Circulation",
+          "Journal of Communication",
+          "Journal of Nanoparticle Research",
+          "Journal of Risk Research",
+          "Lecture Notes in Computer Science",
+          "Nano Today",
+          "Nanotoxicology",
+          "Public Understanding of Science",
+          "Risk, systems and decisions",
+          "Wiley Interdisciplinary Reviews-nanomedicine and Nanobiotechnology"
+        ],
+        "color": "#FAC800",
+        "size": 20
+      }
+    },
+    {
+      "key": "uid-ebogomo",
+      "attributes": {
+        "label": "E Bogomoletc",
+        "name": "Ekaterina Bogomoletc",
+        "known?": true,
+        "orcid?": false,
+        "ncsu?": true,
+        "affiliations": [
+          "North Carolina State University"
+        ],
+        "countries": [
+          "US"
+        ],
+        "uid": "ebogomo",
+        "url": "https://ci.lib.ncsu.edu/profiles/ebogomo",
+        "active?": false,
+        "department": null,
+        "college": null,
+        "ncsu_affiliations": [
+
+        ],
+        "cluster?": false,
+        "clusters": [
+
+        ],
+        "role": "student",
+        "building": null,
+        "count": 4,
+        "oa_count": 1,
+        "years": [
+          2021,
+          2020,
+          2019
+        ],
+        "year_recent": 2021,
+        "article_concepts": [
+
+        ],
+        "host_venues": [
+          "Journal of Business and Technical Communication",
+          "Journal of Nanoparticle Research",
+          "Technical Communication Quarterly"
+        ],
+        "color": "#000000",
+        "size": 10
+      }
+    },
+    {
+      "key": "https://orcid.org/0000-0002-3940-1464",
+      "attributes": {
+        "label": "N Eng",
+        "name": "Nicholas Eng",
+        "known?": false,
+        "orcid?": null,
+        "ncsu?": false,
+        "affiliations": [
+          "Penn State College of Communications"
+        ],
+        "countries": [
+          "US"
+        ],
+        "color": "#BFBFBD",
+        "size": 10
+      }
+    },
+    {
+      "key": "uid-jljone21",
+      "attributes": {
+        "label": "J Jones",
+        "name": "Jacob Jones",
+        "known?": true,
+        "orcid?": false,
+        "ncsu?": true,
+        "affiliations": [
+          "North Carolina State University"
+        ],
+        "countries": [
+          "US"
+        ],
+        "uid": "jljone21",
+        "url": "https://ci.lib.ncsu.edu/profiles/jljone21",
+        "active?": true,
+        "department": "Materials Science & Engineering",
+        "college": "College of Engineering",
+        "ncsu_affiliations": [
+          "Materials Science & Engineering"
+        ],
+        "cluster?": false,
+        "clusters": [
+
+        ],
+        "role": "faculty",
+        "building": "Engineering Building I (EB1)",
+        "count": 250,
+        "oa_count": 84,
+        "years": [
+          2022,
+          2021,
+          2020,
+          2019,
+          2018,
+          2017,
+          2016,
+          2015,
+          2014,
+          2013,
+          2012,
+          2011,
+          2010,
+          2009,
+          2008,
+          2007,
+          2006,
+          2005,
+          2004
+        ],
+        "year_recent": 2022,
+        "article_concepts": [
+          "Absorption (acoustics)",
+          "Absorption spectroscopy",
+          "Acoustics",
+          "Activation energy",
+          "Actuator",
+          "Algorithm",
+          "Alloy",
+          "Alternative medicine",
+          "Alveolar macrophage",
+          "Ambient pressure",
+          "Analytical Chemistry (journal)",
+          "Anatomy",
+          "Annealing (glass)",
+          "Antiferroelectricity",
+          "Apoptosis",
+          "Aqueous solution",
+          "Archaeology",
+          "Arrhenius equation",
+          "Artificial intelligence",
+          "Artificial neural network",
+          "Astronomy",
+          "Asymmetry",
+          "Atmospheric temperature range",
+          "Atomic force microscopy",
+          "Atomic units",
+          "BIOS",
+          "Barium titanate",
+          "Bayesian inference",
+          "Bayesian probability",
+          "Beta oxidation",
+          "Biochemistry",
+          "Biology",
+          "Bismuth",
+          "Black phosphorus",
+          "Boundary (topology)",
+          "Bridging (networking)",
+          "Bronchoalveolar lavage",
+          "Business",
+          "Calcination",
+          "Cantilever",
+          "Capacitance",
+          "Capacitor",
+          "Carbon nanotube",
+          "Carnitine",
+          "Catalysis",
+          "Ceramic",
+          "Characterization (materials science)",
+          "Chemical engineering",
+          "Chemical physics",
+          "Chemistry",
+          "Chromatography",
+          "Civil engineering",
+          "Classical mechanics",
+          "Cobalt",
+          "Cobalt oxide",
+          "Combinatorics",
+          "Composite material",
+          "Computational chemistry",
+          "Computational physics",
+          "Computer graphics (images)",
+          "Computer network",
+          "Computer science",
+          "Computer security",
+          "Condensed matter physics",
+          "Configuration entropy",
+          "Conventional transmission electron microscope",
+          "Corporate governance",
+          "Crystal (programming language)",
+          "Crystal structure",
+          "Crystallite",
+          "Crystallization",
+          "Crystallography",
+          "Cubic zirconia",
+          "Curie temperature",
+          "Data science",
+          "Database",
+          "Demography",
+          "Density functional theory",
+          "Deposition (geology)",
+          "Detector",
+          "Dielectric",
+          "Dielectric response",
+          "Diffraction",
+          "Diffractometer",
+          "Diffusion",
+          "Displacement (psychology)",
+          "Distribution (mathematics)",
+          "Distribution function",
+          "Diversity (politics)",
+          "Domain (mathematical analysis)",
+          "Domain wall (magnetism)",
+          "Dopant",
+          "Doping",
+          "ESAT-6",
+          "Ecology",
+          "Economics",
+          "Electric field",
+          "Electrical engineering",
+          "Electrical resistivity and conductivity",
+          "Electrode",
+          "Electronics",
+          "Emerging technologies",
+          "Endocrinology",
+          "Enforcement",
+          "Engineering",
+          "Engineering ethics",
+          "Engineering physics",
+          "Entropy (arrow of time)",
+          "Environmental chemistry",
+          "Environmental planning",
+          "Environmental science",
+          "Epistemology",
+          "Epitaxy",
+          "Equity (law)",
+          "Ergodicity",
+          "Evaporation",
+          "Exfoliation joint",
+          "Extended X-ray absorption fine structure",
+          "Fabrication",
+          "Fatty acid",
+          "Ferroelectric ceramics",
+          "Ferroelectricity",
+          "Ferromagnetism",
+          "Fibrosis",
+          "Field (mathematics)",
+          "Field-effect transistor",
+          "Finance",
+          "Finite element method",
+          "Flexible electronics",
+          "Flexoelectricity",
+          "Fluorescence",
+          "Fluorite",
+          "Forensic engineering",
+          "Gender diversity",
+          "Gender equity",
+          "Gender studies",
+          "Gene",
+          "Genetics",
+          "Geology",
+          "Geometry",
+          "Geomorphology",
+          "Grain boundary",
+          "Grain size",
+          "Graphene",
+          "Hafnia",
+          "Hafnium",
+          "Halide",
+          "Hall effect",
+          "Hazardous waste",
+          "Hexagonal crystal system",
+          "History",
+          "Homogeneous",
+          "Image (mathematics)",
+          "Immunology",
+          "In situ",
+          "In vitro",
+          "Inclusion (mineral)",
+          "Induced polarization",
+          "Inference",
+          "Inflammation",
+          "Inkwell",
+          "Inorganic chemistry",
+          "Internal medicine",
+          "Interphase",
+          "Iodide",
+          "Ion",
+          "Ionic bonding",
+          "Ionic radius",
+          "Ionizing radiation",
+          "Iridium",
+          "Iron alloys",
+          "Irradiation",
+          "Key (lock)",
+          "Lanthanide",
+          "Lanthanum",
+          "Laser",
+          "Laser ablation",
+          "Lattice (music)",
+          "Lattice constant",
+          "Law",
+          "Layer (electronics)",
+          "Lead (geology)",
+          "Lead titanate",
+          "Lead zirconate titanate",
+          "Local field",
+          "Local structure",
+          "Lone pair",
+          "Lung",
+          "Machine learning",
+          "Macrophage",
+          "Magnetic field",
+          "Magnetization",
+          "Magnetoresistance",
+          "Management",
+          "Manganese",
+          "Manganese oxide",
+          "Markov chain Monte Carlo",
+          "Mass spectrometry",
+          "Materials science",
+          "Mathematical analysis",
+          "Mathematics",
+          "Medicine",
+          "Metal",
+          "Metallurgy",
+          "Metastability",
+          "Meteorology",
+          "Microelectronics",
+          "Microstructure",
+          "Mineralogy",
+          "Mitochondrion",
+          "Molecule",
+          "Monoclinic crystal system",
+          "Monte Carlo method",
+          "Motion (physics)",
+          "Multidisciplinary approach",
+          "Mycobacterium tuberculosis",
+          "Nano-",
+          "Nanoelectronics",
+          "Nanomaterials",
+          "Nanometrology",
+          "Nanoscopic scale",
+          "Nanotechnology",
+          "Natural bond orbital",
+          "Natural organic matter",
+          "Neuromorphic engineering",
+          "Neutron",
+          "Neutron diffraction",
+          "Neutron irradiation",
+          "Neutron scattering",
+          "Non-volatile memory",
+          "Nuclear physics",
+          "Nucleation",
+          "Oceanography",
+          "Octahedron",
+          "Operating system",
+          "Optics",
+          "Optoelectronics",
+          "Organic chemistry",
+          "Organic matter",
+          "Orientation (vector space)",
+          "Orthorhombic crystal system",
+          "Oxidative stress",
+          "Oxide",
+          "Oxygen",
+          "Pair distribution function",
+          "Paleontology",
+          "Particle size",
+          "Pathology",
+          "Pattern recognition (psychology)",
+          "Permittivity",
+          "Perovskite (structure)",
+          "Peroxisome",
+          "Peroxisome proliferator-activated receptor",
+          "Perspective (graphical)",
+          "Phase (matter)",
+          "Phase boundary",
+          "Phase transition",
+          "Philosophy",
+          "Phosphate",
+          "Phosphorus",
+          "Photochemistry",
+          "Photoluminescence",
+          "Physical chemistry",
+          "Physics",
+          "Piezoelectric coefficient",
+          "Piezoelectricity",
+          "Piezoresponse force microscopy",
+          "Pixel",
+          "Planar",
+          "Platinum",
+          "Polar",
+          "Polarizability",
+          "Polarization (electrochemistry)",
+          "Poling",
+          "Political science",
+          "Population",
+          "Posterior probability",
+          "Powder diffraction",
+          "Printed electronics",
+          "Prior probability",
+          "Probability distribution",
+          "Programming language",
+          "Property (philosophy)",
+          "Psychology",
+          "Psychotherapist",
+          "Pulmonary fibrosis",
+          "Pulsed laser deposition",
+          "Pure mathematics",
+          "Quantum dot",
+          "Quantum mechanics",
+          "Quantum yield",
+          "Quenching (fluorescence)",
+          "Radiation",
+          "Radiation damage",
+          "Radiochemistry",
+          "Raman spectroscopy",
+          "Range (aeronautics)",
+          "Receptor",
+          "Reciprocal lattice",
+          "Redox",
+          "Relative permittivity",
+          "Remanence",
+          "Residual",
+          "Residual stress",
+          "Reverse Monte Carlo",
+          "Rietveld refinement",
+          "Risk analysis (engineering)",
+          "Risk assessment",
+          "Risk management",
+          "Rotation (mathematics)",
+          "SIGNAL (programming language)",
+          "Saturation (graph theory)",
+          "Scalability",
+          "Scaling",
+          "Scanning electron microscope",
+          "Scanning transmission electron microscopy",
+          "Scattering",
+          "Science and engineering",
+          "Secondary ion mass spectrometry",
+          "Sediment",
+          "Semiconductor",
+          "Semiconductor device",
+          "Single crystal",
+          "Sintering",
+          "Social science",
+          "Sociology",
+          "Solid mechanics",
+          "Solid solution",
+          "Space (punctuation)",
+          "Spatial analysis",
+          "Spatial correlation",
+          "Spectroscopy",
+          "Spinel",
+          "Sputtering",
+          "Stability (learning theory)",
+          "State of matter",
+          "Statistical inference",
+          "Statistical physics",
+          "Statistics",
+          "Stoichiometry",
+          "Strain (injury)",
+          "Strain energy",
+          "Structural engineering",
+          "Structural stability",
+          "Substrate (aquarium)",
+          "Suite",
+          "Superconductivity",
+          "Sustainability",
+          "Symmetry breaking",
+          "Tape casting",
+          "Telecommunications",
+          "Tetragonal crystal system",
+          "Texture (cosmology)",
+          "Thermodynamics",
+          "Thermoelectric effect",
+          "Thin film",
+          "Tilt (camera)",
+          "Time of flight",
+          "Titanate",
+          "Transformation (genetics)",
+          "Transistor",
+          "Transmission electron microscopy",
+          "Trigonal crystal system",
+          "Tuberculosis",
+          "Ultrashort pulse",
+          "Underpinning",
+          "Unpaired electron",
+          "Voltage",
+          "Waste management",
+          "Women in science",
+          "Wurtzite crystal structure",
+          "X-ray",
+          "X-ray absorption spectroscopy",
+          "X-ray crystallography",
+          "X-ray spectroscopy",
+          "Zinc",
+          "Zinc compounds",
+          "Zirconate",
+          "Zirconium"
+        ],
+        "host_venues": [
+          "ACS Applied Materials & Interfaces",
+          "ACS applied electronic materials",
+          "AIP Advances",
+          "Acta Crystallographica",
+          "Acta Materialia",
+          "Advanced Functional Materials",
+          "Advanced Materials Interfaces",
+          "Advanced electronic materials",
+          "American Journal of Respiratory Cell and Molecular Biology",
+          "Applied Physics A",
+          "Applied Physics Letters",
+          "Applied physics reviews",
+          "Chemistry of Materials",
+          "Chemistry: A European Journal",
+          "Critical Reviews in Solid State and Materials Sciences",
+          "ECS Journal of Solid State Science and Technology",
+          "Environment International",
+          "Environmental Science & Technology",
+          "Environmental science. Nano",
+          "Ferroelectrics",
+          "Geochimica et Cosmochimica Acta",
+          "IEEE Transactions on Ultrasonics Ferroelectrics and Frequency Control",
+          "Industrial & Engineering Chemistry Research",
+          "Inorganic Chemistry",
+          "Journal of Alloys and Compounds",
+          "Journal of Applied Physics",
+          "Journal of Electroceramics",
+          "Journal of Materials Chemistry C",
+          "Journal of Materials Research",
+          "Journal of Materials Science",
+          "Journal of Materials Science: Materials in Electronics",
+          "Journal of Materiomics",
+          "Journal of Nanoparticle Research",
+          "Journal of Physical Chemistry C",
+          "Journal of Physics D",
+          "Journal of Power Sources",
+          "Journal of Solid State Chemistry",
+          "Journal of The European Ceramic Society",
+          "Journal of materials chemistry. A, Materials for energy and sustainability",
+          "Journal of the American Ceramic Society",
+          "Journal of the American Chemical Society",
+          "Journal of vacuum science & technology",
+          "Langmuir",
+          "Materialia",
+          "Materials & Design",
+          "Materials Chemistry and Physics",
+          "Materials Letters",
+          "Materials Science And Engineering: B",
+          "Materials research letters",
+          "Materials today communications",
+          "Mechanics of Materials",
+          "Microscopy and Microanalysis",
+          "Mrs Bulletin",
+          "Nano Energy",
+          "Nano LIFE",
+          "Nanotechnology",
+          "Nature Communications",
+          "Nature Materials",
+          "Nature Nanotechnology",
+          "Physica B-condensed Matter",
+          "Physica Status Solidi (rrl)",
+          "Physical Chemistry Chemical Physics",
+          "Physical Review B",
+          "Physical review",
+          "Review of Scientific Instruments",
+          "Science of The Total Environment",
+          "Scientific Reports",
+          "Scripta Materialia",
+          "Solid State Ionics",
+          "Surface and Interface Analysis",
+          "Technometrics",
+          "Thin Solid Films",
+          "Toxicology",
+          "Water Research"
+        ],
+        "color": "#990000",
+        "size": 10
+      }
+    },
+    {
+      "key": "https://orcid.org/0000-0002-3908-3291",
+      "attributes": {
+        "label": "N Jokerst",
+        "name": "Nan Marie Jokerst",
+        "known?": false,
+        "orcid?": null,
+        "ncsu?": false,
+        "affiliations": [
+          "Duke University"
+        ],
+        "countries": [
+          "US"
+        ],
+        "color": "#BFBFBD",
+        "size": 10
+      }
+    },
+    {
+      "key": "https://orcid.org/0000-0003-0592-9145",
+      "attributes": {
+        "label": "L Schwamm",
+        "name": "Lee H. Schwamm",
+        "known?": false,
+        "orcid?": null,
+        "ncsu?": false,
+        "affiliations": [
+
+        ],
+        "countries": [
+
+        ],
+        "color": "#BFBFBD",
+        "size": 10
+      }
+    },
+    {
+      "key": "nealerchumbler",
+      "attributes": {
+        "label": "N Chumbler",
+        "name": "Neale R. Chumbler",
+        "known?": false,
+        "orcid?": null,
+        "ncsu?": false,
+        "affiliations": [
+
+        ],
+        "countries": [
+
+        ],
+        "color": "#BFBFBD",
+        "size": 10
+      }
+    },
+    {
+      "key": "ebrown",
+      "attributes": {
+        "label": "E Brown",
+        "name": "E. Brown",
+        "known?": false,
+        "orcid?": null,
+        "ncsu?": null,
+        "affiliations": null,
+        "countries": null,
+        "color": "#BFBFBD",
+        "size": 10
+      }
+    },
+    {
+      "key": "https://orcid.org/0000-0002-3192-8093",
+      "attributes": {
+        "label": "G Fonarow",
+        "name": "Gregg C. Fonarow",
+        "known?": false,
+        "orcid?": null,
+        "ncsu?": false,
+        "affiliations": [
+
+        ],
+        "countries": [
+
+        ],
+        "color": "#BFBFBD",
+        "size": 10
+      }
+    },
+    {
+      "key": "karinnystrom",
+      "attributes": {
+        "label": "K Nystrom",
+        "name": "Karin Nystrom",
+        "known?": false,
+        "orcid?": null,
+        "ncsu?": false,
+        "affiliations": [
+
+        ],
+        "countries": [
+
+        ],
+        "color": "#BFBFBD",
+        "size": 10
+      }
+    },
+    {
+      "key": "https://orcid.org/0000-0001-8636-7724",
+      "attributes": {
+        "label": "R Suter",
+        "name": "Robert E. Suter",
+        "known?": false,
+        "orcid?": null,
+        "ncsu?": false,
+        "affiliations": [
+          "Emergency Medicine"
+        ],
+        "countries": [
+
+        ],
+        "color": "#BFBFBD",
+        "size": 10
+      }
+    },
+    {
+      "key": "mirianzavala",
+      "attributes": {
+        "label": "M Zavala",
+        "name": "Mirian Zavala",
+        "known?": false,
+        "orcid?": null,
+        "ncsu?": false,
+        "affiliations": [
+
+        ],
+        "countries": [
+
+        ],
+        "color": "#BFBFBD",
+        "size": 10
+      }
+    },
+    {
+      "key": "https://orcid.org/0000-0001-8403-9612",
+      "attributes": {
+        "label": "D Polsky",
+        "name": "Daniel Polsky",
+        "known?": false,
+        "orcid?": null,
+        "ncsu?": false,
+        "affiliations": [
+
+        ],
+        "countries": [
+
+        ],
+        "color": "#BFBFBD",
+        "size": 10
+      }
+    },
+    {
+      "key": "https://orcid.org/0000-0002-1373-1633",
+      "attributes": {
+        "label": "K Radhakrishnan",
+        "name": "Kavita Radhakrishnan",
+        "known?": false,
+        "orcid?": null,
+        "ncsu?": false,
+        "affiliations": [
+
+        ],
+        "countries": [
+
+        ],
+        "color": "#BFBFBD",
+        "size": 10
+      }
+    },
+    {
+      "key": "nathaniellacktman",
+      "attributes": {
+        "label": "N Lacktman",
+        "name": "Nathaniel Lacktman",
+        "known?": false,
+        "orcid?": null,
+        "ncsu?": false,
+        "affiliations": [
+
+        ],
+        "countries": [
+
+        ],
+        "color": "#BFBFBD",
+        "size": 10
+      }
+    },
+    {
+      "key": "katherinehorton",
+      "attributes": {
+        "label": "K Horton",
+        "name": "Katherine Horton",
+        "known?": false,
+        "orcid?": null,
+        "ncsu?": false,
+        "affiliations": [
+
+        ],
+        "countries": [
+
+        ],
+        "color": "#BFBFBD",
+        "size": 10
+      }
+    },
+    {
+      "key": "marybethmalcarney",
+      "attributes": {
+        "label": "M Malcarney",
+        "name": "Mary Beth Malcarney",
+        "known?": false,
+        "orcid?": null,
+        "ncsu?": false,
+        "affiliations": [
+
+        ],
+        "countries": [
+
+        ],
+        "color": "#BFBFBD",
+        "size": 10
+      }
+    },
+    {
+      "key": "https://orcid.org/0000-0003-2305-6755",
+      "attributes": {
+        "label": "J Halamka",
+        "name": "John Halamka",
+        "known?": false,
+        "orcid?": null,
+        "ncsu?": false,
+        "affiliations": [
+
+        ],
+        "countries": [
+
+        ],
+        "color": "#BFBFBD",
+        "size": 10
+      }
+    },
+    {
+      "key": "acolbytiner",
+      "attributes": {
+        "label": "A Tiner",
+        "name": "A. Colby Tiner",
+        "known?": false,
+        "orcid?": null,
+        "ncsu?": false,
+        "affiliations": [
+
+        ],
+        "countries": [
+
+        ],
+        "color": "#BFBFBD",
+        "size": 10
+      }
+    },
+    {
+      "key": "uid-clcummin",
+      "attributes": {
+        "label": "C Cummings",
+        "name": "Christopher Cummings",
+        "known?": true,
+        "orcid?": false,
+        "ncsu?": true,
+        "affiliations": [
+          "North Carolina State University"
+        ],
+        "countries": [
+          "US"
+        ],
+        "uid": "clcummin",
+        "url": "https://ci.lib.ncsu.edu/profiles/clcummin",
+        "active?": false,
+        "department": "Communication",
+        "college": "College of Humanities and Social Sciences",
+        "ncsu_affiliations": [
+          "Communication",
+          "Genetic Engineering and Society",
+          "Communication Rhetoric and Digital Media"
+        ],
+        "cluster?": true,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "role": "staff",
+        "building": "Fitts-Woolard Hall",
+        "count": 13,
+        "oa_count": 4,
+        "years": [
+          2022,
+          2021,
+          2020,
+          2013,
+          2011
+        ],
+        "year_recent": 2022,
+        "article_concepts": [
+          "2019-20 coronavirus outbreak",
+          "Betacoronavirus",
+          "Business",
+          "Comorbidity",
+          "Computer science",
+          "Coronavirus disease 2019 (COVID-19)",
+          "Data science",
+          "Disease",
+          "Engineering",
+          "Environmental health",
+          "Family medicine",
+          "Focus group",
+          "Gerontology",
+          "Grounded theory",
+          "Immunology",
+          "Infectious disease (medical specialty)",
+          "Influenza vaccine",
+          "Internal medicine",
+          "Knowledge management",
+          "Marketing",
+          "Mechanical engineering",
+          "Medicine",
+          "Neuroscience",
+          "Operating system",
+          "Outbreak",
+          "Pandemic",
+          "Pathology",
+          "Perception",
+          "Political science",
+          "Population",
+          "Process (computing)",
+          "Psychiatry",
+          "Psychology",
+          "Public relations",
+          "Qualitative research",
+          "Responsible Research and Innovation",
+          "Risk perception",
+          "Severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2)",
+          "Social science",
+          "Sociology",
+          "Stakeholder",
+          "Stakeholder engagement",
+          "Telecommunications",
+          "Upstream (networking)",
+          "Vaccination",
+          "Virology",
+          "Work (physics)",
+          "Young adult"
+        ],
+        "host_venues": [
+          "Environmental Communication-a Journal of Nature and Culture",
+          "Journal of Communication",
+          "Journal of Risk Research",
+          "NanoImpact",
+          "Nanotoxicology",
+          "PLOS ONE",
+          "Risk Analysis",
+          "Risk Management and Healthcare Policy",
+          "Risk, systems and decisions",
+          "Science, Technology, & Human Values"
+        ],
+        "color": "#FAC800",
+        "size": 10
+      }
+    },
+    {
+      "key": "maryelavelle",
+      "attributes": {
+        "label": "M Lavelle",
+        "name": "Mary E. Lavelle",
+        "known?": false,
+        "orcid?": null,
+        "ncsu?": true,
+        "affiliations": [
+          "North Carolina State University"
+        ],
+        "countries": [
+          "US"
+        ],
+        "color": "#000000",
+        "size": 10
+      }
+    },
+    {
+      "key": "uid-bwatson",
+      "attributes": {
+        "label": "B Watson",
+        "name": "Benjamin Watson",
+        "known?": true,
+        "orcid?": false,
+        "ncsu?": true,
+        "affiliations": [
+          "North Carolina State University"
+        ],
+        "countries": [
+          "US"
+        ],
+        "uid": "bwatson",
+        "url": "https://ci.lib.ncsu.edu/profiles/bwatson",
+        "active?": true,
+        "department": "Computer Science",
+        "college": "College of Engineering",
+        "ncsu_affiliations": [
+          "Computer Science",
+          "Center for Geospatial Analytics"
+        ],
+        "cluster?": true,
+        "clusters": [
+          "Center for Geospatial Analytics"
+        ],
+        "role": "faculty",
+        "building": "Engineering Building II (EB2)",
+        "count": 17,
+        "oa_count": 3,
+        "years": [
+          2021,
+          2019,
+          2014,
+          2013,
+          2010,
+          2009,
+          2008,
+          2006,
+          2004
+        ],
+        "year_recent": 2021,
+        "article_concepts": [
+          "Aerospace engineering",
+          "Affect (linguistics)",
+          "Artificial intelligence",
+          "Behaviour change",
+          "Biology",
+          "BitTorrent tracker",
+          "Bubble",
+          "Cognition",
+          "Cognitive flexibility",
+          "Cognitive map",
+          "Cognitive psychology",
+          "Cognitive training",
+          "Communication",
+          "Component (thermodynamics)",
+          "Component-based software engineering",
+          "Computer graphics (images)",
+          "Computer science",
+          "Computer security",
+          "Computer vision",
+          "Consistency (knowledge bases)",
+          "Data mining",
+          "Data visualization",
+          "Diagonal",
+          "Domain (mathematical analysis)",
+          "Ecology",
+          "Engineering",
+          "Exploit",
+          "Eye tracking",
+          "Field (mathematics)",
+          "Flexibility (engineering)",
+          "Focus (optics)",
+          "Fusion",
+          "Geology",
+          "Geometry",
+          "Geomorphology",
+          "Head (geology)",
+          "Human–computer interaction",
+          "Implementation",
+          "Information retrieval",
+          "Information visualization",
+          "Interactive visualization",
+          "Interface (matter)",
+          "Kalman filter",
+          "Knowledge management",
+          "Linguistics",
+          "Mathematical analysis",
+          "Mathematics",
+          "Maximum bubble pressure method",
+          "Multimedia",
+          "Neuroscience",
+          "Operating system",
+          "Optics",
+          "Parallel computing",
+          "Pedagogy",
+          "Philosophy",
+          "Physics",
+          "Programming language",
+          "Psychiatry",
+          "Psychological intervention",
+          "Psychology",
+          "Pure mathematics",
+          "Range (aeronautics)",
+          "Recall",
+          "Row",
+          "Sensor fusion",
+          "Software",
+          "Software engineering",
+          "Software system",
+          "Software visualization",
+          "Spatial ability",
+          "Spatial cognition",
+          "Statistics",
+          "Sustainability",
+          "Theoretical computer science",
+          "Thermodynamics",
+          "Timeline",
+          "Tracking (education)",
+          "Tracking system",
+          "User interface",
+          "Visualization"
+        ],
+        "host_venues": [
+          "2021 IEEE Conference on Virtual Reality and 3D User Interfaces Abstracts and Workshops (VRW)",
+          "Computer Graphics Forum",
+          "Human Factors in Computing Systems",
+          "IEEE Computer Graphics and Applications",
+          "IEEE Transactions on Visualization and Computer Graphics",
+          "Intelligent User Interfaces",
+          "International journal of human-computer studies",
+          "Lecture Notes in Computer Science",
+          "Personal and Ubiquitous Computing",
+          "Proceedings of the ACM on computer graphics and interactive techniques"
+        ],
+        "color": "#990000",
+        "size": 10
+      }
+    },
+    {
+      "key": "nickolayihristov",
+      "attributes": {
+        "label": "N Hristov",
+        "name": "Nickolay I. Hristov",
+        "known?": false,
+        "orcid?": null,
+        "ncsu?": false,
+        "affiliations": [
+          "Center for Design Innovation, Univ. North Carolina, USA#TAB#"
+        ],
+        "countries": [
+
+        ],
+        "color": "#BFBFBD",
+        "size": 10
+      }
+    },
+    {
+      "key": "carolstrohecker",
+      "attributes": {
+        "label": "C Strohecker",
+        "name": "Carol Strohecker",
+        "known?": false,
+        "orcid?": null,
+        "ncsu?": false,
+        "affiliations": [
+          "Center for Design Innovation, Univ. North Carolina, USA#TAB#"
+        ],
+        "countries": [
+
+        ],
+        "color": "#BFBFBD",
+        "size": 10
+      }
+    },
+    {
+      "key": "scottbetz",
+      "attributes": {
+        "label": "S Betz",
+        "name": "Scott Betz",
+        "known?": false,
+        "orcid?": null,
+        "ncsu?": false,
+        "affiliations": [
+          "Winston-Salem State University"
+        ],
+        "countries": [
+          "US"
+        ],
+        "color": "#BFBFBD",
+        "size": 10
+      }
+    },
+    {
+      "key": "https://orcid.org/0000-0002-0271-4264",
+      "attributes": {
+        "label": "L Allen",
+        "name": "Louise C. Allen",
+        "known?": false,
+        "orcid?": null,
+        "ncsu?": false,
+        "affiliations": [
+          "Winston-Salem State University"
+        ],
+        "countries": [
+          "US"
+        ],
+        "color": "#BFBFBD",
+        "size": 10
+      }
+    },
+    {
+      "key": "matthewburczyk",
+      "attributes": {
+        "label": "M Burczyk",
+        "name": "Matthew Burczyk",
+        "known?": false,
+        "orcid?": null,
+        "ncsu?": false,
+        "affiliations": [
+          "City of Winston-Salem, USA#TAB#"
+        ],
+        "countries": [
+
+        ],
+        "color": "#BFBFBD",
+        "size": 10
+      }
+    },
+    {
+      "key": "amberhoward",
+      "attributes": {
+        "label": "A Howard",
+        "name": "Amber Howard",
+        "known?": false,
+        "orcid?": null,
+        "ncsu?": false,
+        "affiliations": [
+          "University of Kindu"
+        ],
+        "countries": [
+          "CD"
+        ],
+        "color": "#BFBFBD",
+        "size": 10
+      }
+    },
+    {
+      "key": "williamanthonymcgee",
+      "attributes": {
+        "label": "W McGee",
+        "name": "William Anthony Mcgee",
+        "known?": false,
+        "orcid?": null,
+        "ncsu?": false,
+        "affiliations": [
+          "StokesCORE, USA#TAB#"
+        ],
+        "countries": [
+
+        ],
+        "color": "#BFBFBD",
+        "size": 10
+      }
+    },
+    {
+      "key": "matthewgymer",
+      "attributes": {
+        "label": "M Gymer",
+        "name": "Matthew Gymer",
+        "known?": false,
+        "orcid?": null,
+        "ncsu?": false,
+        "affiliations": [
+          "Novant Health"
+        ],
+        "countries": [
+          "US"
+        ],
+        "color": "#BFBFBD",
+        "size": 10
+      }
+    },
+    {
+      "key": "danielacaas",
+      "attributes": {
+        "label": "D Cañas",
+        "name": "Daniel A. Cañas",
+        "known?": false,
+        "orcid?": null,
+        "ncsu?": false,
+        "affiliations": [
+          "Wake Forest University"
+        ],
+        "countries": [
+          "US"
+        ],
+        "color": "#BFBFBD",
+        "size": 10
+      }
+    },
+    {
+      "key": "markkirstner",
+      "attributes": {
+        "label": "M Kirstner",
+        "name": "Mark Kirstner",
+        "known?": false,
+        "orcid?": null,
+        "ncsu?": false,
+        "affiliations": [
+          "Piedmont Together, USA#TAB#"
+        ],
+        "countries": [
+
+        ],
+        "color": "#BFBFBD",
+        "size": 10
+      }
+    },
+    {
+      "key": "nhristov",
+      "attributes": {
+        "label": "N Hristov",
+        "name": "N. Hristov",
+        "known?": false,
+        "orcid?": null,
+        "ncsu?": null,
+        "affiliations": null,
+        "countries": null,
+        "color": "#BFBFBD",
+        "size": 10
+      }
+    },
+    {
+      "key": "cstrohecker",
+      "attributes": {
+        "label": "C Strohecker",
+        "name": "C. Strohecker",
+        "known?": false,
+        "orcid?": null,
+        "ncsu?": null,
+        "affiliations": null,
+        "countries": null,
+        "color": "#BFBFBD",
+        "size": 10
+      }
+    },
+    {
+      "key": "sbetz",
+      "attributes": {
+        "label": "S Betz",
+        "name": "S. Betz",
+        "known?": false,
+        "orcid?": null,
+        "ncsu?": null,
+        "affiliations": null,
+        "countries": null,
+        "color": "#BFBFBD",
+        "size": 10
+      }
+    },
+    {
+      "key": "lallen",
+      "attributes": {
+        "label": "L Allen",
+        "name": "L. Allen",
+        "known?": false,
+        "orcid?": null,
+        "ncsu?": null,
+        "affiliations": null,
+        "countries": null,
+        "color": "#BFBFBD",
+        "size": 10
+      }
+    },
+    {
+      "key": "mburczyk",
+      "attributes": {
+        "label": "M Burczyk",
+        "name": "M. Burczyk",
+        "known?": false,
+        "orcid?": null,
+        "ncsu?": null,
+        "affiliations": null,
+        "countries": null,
+        "color": "#BFBFBD",
+        "size": 10
+      }
+    },
+    {
+      "key": "ahoward",
+      "attributes": {
+        "label": "A Howard",
+        "name": "A. Howard",
+        "known?": false,
+        "orcid?": null,
+        "ncsu?": null,
+        "affiliations": null,
+        "countries": null,
+        "color": "#BFBFBD",
+        "size": 10
+      }
+    },
+    {
+      "key": "wamcgee",
+      "attributes": {
+        "label": "W McGee",
+        "name": "W. A. McGee",
+        "known?": false,
+        "orcid?": null,
+        "ncsu?": null,
+        "affiliations": null,
+        "countries": null,
+        "color": "#BFBFBD",
+        "size": 10
+      }
+    },
+    {
+      "key": "mgymer",
+      "attributes": {
+        "label": "M Gymer",
+        "name": "M Gymer",
+        "known?": false,
+        "orcid?": null,
+        "ncsu?": null,
+        "affiliations": null,
+        "countries": null,
+        "color": "#BFBFBD",
+        "size": 10
+      }
+    },
+    {
+      "key": "dcanas",
+      "attributes": {
+        "label": "D Canas",
+        "name": "D. Canas",
+        "known?": false,
+        "orcid?": null,
+        "ncsu?": null,
+        "affiliations": null,
+        "countries": null,
+        "color": "#BFBFBD",
+        "size": 10
+      }
+    },
+    {
+      "key": "mkirstner",
+      "attributes": {
+        "label": "M Kirstner",
+        "name": "M. Kirstner",
+        "known?": false,
+        "orcid?": null,
+        "ncsu?": null,
+        "affiliations": null,
+        "countries": null,
+        "color": "#BFBFBD",
+        "size": 10
+      }
+    },
+    {
+      "key": "https://orcid.org/0000-0001-8357-4621",
+      "attributes": {
+        "label": "M Cacciatore",
+        "name": "Michael A. Cacciatore",
+        "known?": false,
+        "orcid?": null,
+        "ncsu?": false,
+        "affiliations": [
+          "University of Wisconsin–Madison"
+        ],
+        "countries": [
+          "US"
+        ],
+        "color": "#BFBFBD",
+        "size": 10
+      }
+    },
+    {
+      "key": "https://orcid.org/0000-0002-9914-5407",
+      "attributes": {
+        "label": "D Scheufele",
+        "name": "Dietram A. Scheufele",
+        "known?": false,
+        "orcid?": null,
+        "ncsu?": false,
+        "affiliations": [
+          "University of Wisconsin–Madison"
+        ],
+        "countries": [
+          "US"
+        ],
+        "color": "#BFBFBD",
+        "size": 10
+      }
+    },
+    {
+      "key": "jasonkalin",
+      "attributes": {
+        "label": "J Kalin",
+        "name": "Jason Kalin",
+        "known?": false,
+        "orcid?": null,
+        "ncsu?": true,
+        "affiliations": [
+          "North Carolina State University"
+        ],
+        "countries": [
+          "US"
+        ],
+        "color": "#000000",
+        "size": 10
+      }
+    },
+    {
+      "key": "jordanfrith",
+      "attributes": {
+        "label": "J Frith",
+        "name": "Jordan Frith",
+        "known?": false,
+        "orcid?": null,
+        "ncsu?": true,
+        "affiliations": [
+          "North Carolina State University"
+        ],
+        "countries": [
+          "US"
+        ],
+        "color": "#000000",
+        "size": 10
+      }
+    },
+    {
+      "key": "uid-arbinder",
+      "attributes": {
+        "label": "A Binder",
+        "name": "Andrew Binder",
+        "known?": true,
+        "orcid?": true,
+        "ncsu?": true,
+        "affiliations": [
+          "North Carolina State University"
+        ],
+        "countries": [
+          "US"
+        ],
+        "uid": "arbinder",
+        "url": "https://ci.lib.ncsu.edu/profiles/arbinder",
+        "orcid": "0000-0002-7080-7550",
+        "active?": true,
+        "department": "Communication",
+        "college": "College of Humanities and Social Sciences",
+        "ncsu_affiliations": [
+          "Communication",
+          "Genetic Engineering and Society",
+          "Communication Rhetoric and Digital Media",
+          "Center for Human Health and the Environment "
+        ],
+        "cluster?": true,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "role": "faculty",
+        "building": "Winston Hall",
+        "count": 25,
+        "oa_count": 6,
+        "years": [
+          2022,
+          2021,
+          2019,
+          2018,
+          2017,
+          2016,
+          2015,
+          2014,
+          2013,
+          2012,
+          2011,
+          2010,
+          2009
+        ],
+        "year_recent": 2022,
+        "article_concepts": [
+          "Advertising",
+          "Anthropology",
+          "Archaeology",
+          "Artificial intelligence",
+          "Biology",
+          "Business",
+          "Computer science",
+          "Context (archaeology)",
+          "Demography",
+          "Ecology",
+          "Economic shortage",
+          "Economics",
+          "Empirical research",
+          "Engineering",
+          "Environmental economics",
+          "Environmental health",
+          "Environmental justice",
+          "Environmental planning",
+          "Environmental science",
+          "Epistemology",
+          "Ethnic group",
+          "Feeling",
+          "Geography",
+          "Gerontology",
+          "Government (linguistics)",
+          "Health care",
+          "Health equity",
+          "Health literacy",
+          "Internal medicine",
+          "Irrigation",
+          "Knowledge management",
+          "Law",
+          "Linguistics",
+          "Literacy",
+          "Mechanical engineering",
+          "Medicine",
+          "Meta-analysis",
+          "Natural resource economics",
+          "Neuroscience",
+          "Nursing",
+          "Operating system",
+          "Pedagogy",
+          "Perception",
+          "Philosophy",
+          "Political science",
+          "Politics",
+          "Population",
+          "Process (computing)",
+          "Psychology",
+          "Public health",
+          "Public opinion",
+          "Public relations",
+          "Residence",
+          "Responsible Research and Innovation",
+          "Reuse",
+          "Risk perception",
+          "Sexual behavior",
+          "Social dynamics",
+          "Social psychology",
+          "Socioeconomic status",
+          "Sociology",
+          "Stakeholder",
+          "Stakeholder engagement",
+          "Telecommunications",
+          "Upstream (networking)",
+          "Waste management",
+          "Water conservation",
+          "Water resource management",
+          "Water resources",
+          "Water scarcity",
+          "Work (physics)"
+        ],
+        "host_venues": [
+          "Communication Research",
+          "Environmental Communication-a Journal of Nature and Culture",
+          "International Journal of Environmental Research and Public Health",
+          "JCOM, journal of science communication",
+          "Journal of Computer-Mediated Communication",
+          "Journal of Food Protection",
+          "Journal of Health Communication",
+          "Journal of Nanoparticle Research",
+          "Journal of Water Resources Planning and Management",
+          "Mass Communication and Society",
+          "NanoImpact",
+          "Negotiation and Conflict Management Research",
+          "Politics and the Life Sciences",
+          "Public Understanding of Science",
+          "Resources Conservation and Recycling",
+          "Risk Analysis",
+          "Science Communication",
+          "Sustainable Cities and Society",
+          "World Environmental and Water Resources Congress 2013",
+          "World Environmental and Water Resources Congress 2014",
+          "World Environmental and Water Resources Congress 2015"
+        ],
+        "color": "#FAC800",
+        "size": 10
+      }
+    },
+    {
+      "key": "robertwoldendick",
+      "attributes": {
+        "label": "R Oldendick",
+        "name": "Robert W. Oldendick",
+        "known?": false,
+        "orcid?": null,
+        "ncsu?": false,
+        "affiliations": [
+          "University of South Carolina"
+        ],
+        "countries": [
+          "US"
+        ],
+        "color": "#BFBFBD",
+        "size": 10
+      }
+    },
+    {
+      "key": "uid-memorain",
+      "attributes": {
+        "label": "M Morain",
+        "name": "Matthew E. Morain",
+        "known?": true,
+        "orcid?": false,
+        "ncsu?": true,
+        "affiliations": [
+          "North Carolina State University"
+        ],
+        "countries": [
+          "US"
+        ],
+        "uid": "memorain",
+        "url": "https://ci.lib.ncsu.edu/profiles/memorain",
+        "active?": false,
+        "department": "Communication Rhetoric and Digital Media",
+        "college": "College of Humanities and Social Sciences",
+        "ncsu_affiliations": [
+          "Communication Rhetoric and Digital Media"
+        ],
+        "cluster?": false,
+        "clusters": [
+
+        ],
+        "role": "student",
+        "building": null,
+        "count": 2,
+        "oa_count": 0,
+        "years": [
+          2011
+        ],
+        "year_recent": 2011,
+        "article_concepts": [
+
+        ],
+        "host_venues": [
+          "Journal of Communication"
+        ],
+        "color": "#FAC800",
+        "size": 10
+      }
+    },
+    {
+      "key": "uid-jhfrith",
+      "attributes": {
+        "label": "J Frith",
+        "name": "Jordan Harris Frith",
+        "known?": true,
+        "orcid?": false,
+        "ncsu?": true,
+        "affiliations": [
+          "North Carolina State University"
+        ],
+        "countries": [
+          "US"
+        ],
+        "uid": "jhfrith",
+        "url": "https://ci.lib.ncsu.edu/profiles/jhfrith",
+        "active?": false,
+        "department": "Communication Rhetoric and Digital Media",
+        "college": "College of Humanities and Social Sciences",
+        "ncsu_affiliations": [
+          "Communication Rhetoric and Digital Media"
+        ],
+        "cluster?": false,
+        "clusters": [
+
+        ],
+        "role": null,
+        "building": null,
+        "count": 8,
+        "oa_count": 0,
+        "years": [
+          2012,
+          2011,
+          2010
+        ],
+        "year_recent": 2012,
+        "article_concepts": [
+
+        ],
+        "host_venues": [
+          "Communication, Culture & Critique",
+          "Journal of Communication",
+          "Mobilities",
+          "Routledge eBooks"
+        ],
+        "color": "#FAC800",
+        "size": 10
+      }
+    },
+    {
+      "key": "https://orcid.org/0000-0001-5219-8782",
+      "attributes": {
+        "label": "P Borm",
+        "name": "Paul J. A. Borm",
+        "known?": false,
+        "orcid?": null,
+        "ncsu?": false,
+        "affiliations": [
+          "Zuyd University of Applied Sciences"
+        ],
+        "countries": [
+          "NL"
+        ],
+        "color": "#BFBFBD",
+        "size": 10
+      }
+    }
+  ],
+  "edges": [
+    {
+      "source": "uid-dmberube",
+      "target": "uid-ebogomo",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Communication --- unknown",
+        "colleges": "College of Humanities and Social Sciences --- unknown",
+        "buildings": "James B Hunt Jr Centennial Cam --- unknown",
+        "roles": "faculty -- student",
+        "years": [
+          2020
+        ],
+        "year_recent": 2020,
+        "dois": [
+          "10.1007/s11051-020-05022-2"
+        ],
+        "ncsu?": true,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          "Journal of Nanoparticle Research"
+        ],
+        "color": "#CC0000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-dmberube",
+      "target": "https://orcid.org/0000-0002-3940-1464",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Communication --- unknown",
+        "colleges": "College of Humanities and Social Sciences --- unknown",
+        "buildings": "James B Hunt Jr Centennial Cam --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          2020
+        ],
+        "year_recent": 2020,
+        "dois": [
+          "10.1007/s11051-020-05022-2"
+        ],
+        "ncsu?": false,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          "Journal of Nanoparticle Research"
+        ],
+        "color": "#000000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-dmberube",
+      "target": "uid-jljone21",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Communication -- Materials Science & Engineering",
+        "colleges": "College of Engineering -- College of Humanities and Social Sciences",
+        "buildings": "Engineering Building I (EB1) -- James B Hunt Jr Centennial Cam",
+        "roles": "faculty == faculty",
+        "years": [
+          2020
+        ],
+        "year_recent": 2020,
+        "dois": [
+          "10.1007/s11051-020-05022-2"
+        ],
+        "ncsu?": true,
+        "cross_college?": true,
+        "cross_department?": true,
+        "cross_unit?": true,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": true,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          "Journal of Nanoparticle Research"
+        ],
+        "color": "#FAC800",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-dmberube",
+      "target": "https://orcid.org/0000-0002-3908-3291",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Communication --- unknown",
+        "colleges": "College of Humanities and Social Sciences --- unknown",
+        "buildings": "James B Hunt Jr Centennial Cam --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          2020
+        ],
+        "year_recent": 2020,
+        "dois": [
+          "10.1007/s11051-020-05022-2"
+        ],
+        "ncsu?": false,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          "Journal of Nanoparticle Research"
+        ],
+        "color": "#000000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-dmberube",
+      "target": "https://orcid.org/0000-0003-0592-9145",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Communication --- unknown",
+        "colleges": "College of Humanities and Social Sciences --- unknown",
+        "buildings": "James B Hunt Jr Centennial Cam --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          2017
+        ],
+        "year_recent": 2017,
+        "dois": [
+          "10.1161/cir.0000000000000475"
+        ],
+        "ncsu?": false,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          "Telehealth",
+          "Medicine",
+          "Telemedicine",
+          "Stroke (engine)",
+          "Quality (philosophy)",
+          "Statement (logic)",
+          "Health care",
+          "MEDLINE",
+          "Medical emergency",
+          "Nursing",
+          "Mechanical engineering",
+          "Philosophy",
+          "Epistemology",
+          "Political science",
+          "Law",
+          "Engineering",
+          "Economics",
+          "Economic growth"
+        ],
+        "host_venues": [
+          "Circulation"
+        ],
+        "color": "#000000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-dmberube",
+      "target": "nealerchumbler",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Communication --- unknown",
+        "colleges": "College of Humanities and Social Sciences --- unknown",
+        "buildings": "James B Hunt Jr Centennial Cam --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          2017
+        ],
+        "year_recent": 2017,
+        "dois": [
+          "10.1161/cir.0000000000000475"
+        ],
+        "ncsu?": false,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          "Telehealth",
+          "Medicine",
+          "Telemedicine",
+          "Stroke (engine)",
+          "Quality (philosophy)",
+          "Statement (logic)",
+          "Health care",
+          "MEDLINE",
+          "Medical emergency",
+          "Nursing",
+          "Mechanical engineering",
+          "Philosophy",
+          "Epistemology",
+          "Political science",
+          "Law",
+          "Engineering",
+          "Economics",
+          "Economic growth"
+        ],
+        "host_venues": [
+          "Circulation"
+        ],
+        "color": "#000000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-dmberube",
+      "target": "ebrown",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Communication --- unknown",
+        "colleges": "College of Humanities and Social Sciences --- unknown",
+        "buildings": "James B Hunt Jr Centennial Cam --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          2017
+        ],
+        "year_recent": 2017,
+        "dois": [
+          "10.1161/cir.0000000000000475"
+        ],
+        "ncsu?": null,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          "Telehealth",
+          "Medicine",
+          "Telemedicine",
+          "Stroke (engine)",
+          "Quality (philosophy)",
+          "Statement (logic)",
+          "Health care",
+          "MEDLINE",
+          "Medical emergency",
+          "Nursing",
+          "Mechanical engineering",
+          "Philosophy",
+          "Epistemology",
+          "Political science",
+          "Law",
+          "Engineering",
+          "Economics",
+          "Economic growth"
+        ],
+        "host_venues": [
+          "Circulation"
+        ],
+        "color": "#000000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-dmberube",
+      "target": "https://orcid.org/0000-0002-3192-8093",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Communication --- unknown",
+        "colleges": "College of Humanities and Social Sciences --- unknown",
+        "buildings": "James B Hunt Jr Centennial Cam --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          2017
+        ],
+        "year_recent": 2017,
+        "dois": [
+          "10.1161/cir.0000000000000475"
+        ],
+        "ncsu?": false,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          "Telehealth",
+          "Medicine",
+          "Telemedicine",
+          "Stroke (engine)",
+          "Quality (philosophy)",
+          "Statement (logic)",
+          "Health care",
+          "MEDLINE",
+          "Medical emergency",
+          "Nursing",
+          "Mechanical engineering",
+          "Philosophy",
+          "Epistemology",
+          "Political science",
+          "Law",
+          "Engineering",
+          "Economics",
+          "Economic growth"
+        ],
+        "host_venues": [
+          "Circulation"
+        ],
+        "color": "#000000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-dmberube",
+      "target": "karinnystrom",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Communication --- unknown",
+        "colleges": "College of Humanities and Social Sciences --- unknown",
+        "buildings": "James B Hunt Jr Centennial Cam --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          2017
+        ],
+        "year_recent": 2017,
+        "dois": [
+          "10.1161/cir.0000000000000475"
+        ],
+        "ncsu?": false,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          "Telehealth",
+          "Medicine",
+          "Telemedicine",
+          "Stroke (engine)",
+          "Quality (philosophy)",
+          "Statement (logic)",
+          "Health care",
+          "MEDLINE",
+          "Medical emergency",
+          "Nursing",
+          "Mechanical engineering",
+          "Philosophy",
+          "Epistemology",
+          "Political science",
+          "Law",
+          "Engineering",
+          "Economics",
+          "Economic growth"
+        ],
+        "host_venues": [
+          "Circulation"
+        ],
+        "color": "#000000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-dmberube",
+      "target": "https://orcid.org/0000-0001-8636-7724",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Communication --- unknown",
+        "colleges": "College of Humanities and Social Sciences --- unknown",
+        "buildings": "James B Hunt Jr Centennial Cam --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          2017
+        ],
+        "year_recent": 2017,
+        "dois": [
+          "10.1161/cir.0000000000000475"
+        ],
+        "ncsu?": false,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          "Telehealth",
+          "Medicine",
+          "Telemedicine",
+          "Stroke (engine)",
+          "Quality (philosophy)",
+          "Statement (logic)",
+          "Health care",
+          "MEDLINE",
+          "Medical emergency",
+          "Nursing",
+          "Mechanical engineering",
+          "Philosophy",
+          "Epistemology",
+          "Political science",
+          "Law",
+          "Engineering",
+          "Economics",
+          "Economic growth"
+        ],
+        "host_venues": [
+          "Circulation"
+        ],
+        "color": "#000000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-dmberube",
+      "target": "mirianzavala",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Communication --- unknown",
+        "colleges": "College of Humanities and Social Sciences --- unknown",
+        "buildings": "James B Hunt Jr Centennial Cam --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          2017
+        ],
+        "year_recent": 2017,
+        "dois": [
+          "10.1161/cir.0000000000000475"
+        ],
+        "ncsu?": false,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          "Telehealth",
+          "Medicine",
+          "Telemedicine",
+          "Stroke (engine)",
+          "Quality (philosophy)",
+          "Statement (logic)",
+          "Health care",
+          "MEDLINE",
+          "Medical emergency",
+          "Nursing",
+          "Mechanical engineering",
+          "Philosophy",
+          "Epistemology",
+          "Political science",
+          "Law",
+          "Engineering",
+          "Economics",
+          "Economic growth"
+        ],
+        "host_venues": [
+          "Circulation"
+        ],
+        "color": "#000000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-dmberube",
+      "target": "https://orcid.org/0000-0001-8403-9612",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Communication --- unknown",
+        "colleges": "College of Humanities and Social Sciences --- unknown",
+        "buildings": "James B Hunt Jr Centennial Cam --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          2017
+        ],
+        "year_recent": 2017,
+        "dois": [
+          "10.1161/cir.0000000000000475"
+        ],
+        "ncsu?": false,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          "Telehealth",
+          "Medicine",
+          "Telemedicine",
+          "Stroke (engine)",
+          "Quality (philosophy)",
+          "Statement (logic)",
+          "Health care",
+          "MEDLINE",
+          "Medical emergency",
+          "Nursing",
+          "Mechanical engineering",
+          "Philosophy",
+          "Epistemology",
+          "Political science",
+          "Law",
+          "Engineering",
+          "Economics",
+          "Economic growth"
+        ],
+        "host_venues": [
+          "Circulation"
+        ],
+        "color": "#000000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-dmberube",
+      "target": "https://orcid.org/0000-0002-1373-1633",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Communication --- unknown",
+        "colleges": "College of Humanities and Social Sciences --- unknown",
+        "buildings": "James B Hunt Jr Centennial Cam --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          2017
+        ],
+        "year_recent": 2017,
+        "dois": [
+          "10.1161/cir.0000000000000475"
+        ],
+        "ncsu?": false,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          "Telehealth",
+          "Medicine",
+          "Telemedicine",
+          "Stroke (engine)",
+          "Quality (philosophy)",
+          "Statement (logic)",
+          "Health care",
+          "MEDLINE",
+          "Medical emergency",
+          "Nursing",
+          "Mechanical engineering",
+          "Philosophy",
+          "Epistemology",
+          "Political science",
+          "Law",
+          "Engineering",
+          "Economics",
+          "Economic growth"
+        ],
+        "host_venues": [
+          "Circulation"
+        ],
+        "color": "#000000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-dmberube",
+      "target": "nathaniellacktman",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Communication --- unknown",
+        "colleges": "College of Humanities and Social Sciences --- unknown",
+        "buildings": "James B Hunt Jr Centennial Cam --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          2017
+        ],
+        "year_recent": 2017,
+        "dois": [
+          "10.1161/cir.0000000000000475"
+        ],
+        "ncsu?": false,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          "Telehealth",
+          "Medicine",
+          "Telemedicine",
+          "Stroke (engine)",
+          "Quality (philosophy)",
+          "Statement (logic)",
+          "Health care",
+          "MEDLINE",
+          "Medical emergency",
+          "Nursing",
+          "Mechanical engineering",
+          "Philosophy",
+          "Epistemology",
+          "Political science",
+          "Law",
+          "Engineering",
+          "Economics",
+          "Economic growth"
+        ],
+        "host_venues": [
+          "Circulation"
+        ],
+        "color": "#000000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-dmberube",
+      "target": "katherinehorton",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Communication --- unknown",
+        "colleges": "College of Humanities and Social Sciences --- unknown",
+        "buildings": "James B Hunt Jr Centennial Cam --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          2017
+        ],
+        "year_recent": 2017,
+        "dois": [
+          "10.1161/cir.0000000000000475"
+        ],
+        "ncsu?": false,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          "Telehealth",
+          "Medicine",
+          "Telemedicine",
+          "Stroke (engine)",
+          "Quality (philosophy)",
+          "Statement (logic)",
+          "Health care",
+          "MEDLINE",
+          "Medical emergency",
+          "Nursing",
+          "Mechanical engineering",
+          "Philosophy",
+          "Epistemology",
+          "Political science",
+          "Law",
+          "Engineering",
+          "Economics",
+          "Economic growth"
+        ],
+        "host_venues": [
+          "Circulation"
+        ],
+        "color": "#000000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-dmberube",
+      "target": "marybethmalcarney",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Communication --- unknown",
+        "colleges": "College of Humanities and Social Sciences --- unknown",
+        "buildings": "James B Hunt Jr Centennial Cam --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          2017
+        ],
+        "year_recent": 2017,
+        "dois": [
+          "10.1161/cir.0000000000000475"
+        ],
+        "ncsu?": false,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          "Telehealth",
+          "Medicine",
+          "Telemedicine",
+          "Stroke (engine)",
+          "Quality (philosophy)",
+          "Statement (logic)",
+          "Health care",
+          "MEDLINE",
+          "Medical emergency",
+          "Nursing",
+          "Mechanical engineering",
+          "Philosophy",
+          "Epistemology",
+          "Political science",
+          "Law",
+          "Engineering",
+          "Economics",
+          "Economic growth"
+        ],
+        "host_venues": [
+          "Circulation"
+        ],
+        "color": "#000000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-dmberube",
+      "target": "https://orcid.org/0000-0003-2305-6755",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Communication --- unknown",
+        "colleges": "College of Humanities and Social Sciences --- unknown",
+        "buildings": "James B Hunt Jr Centennial Cam --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          2017
+        ],
+        "year_recent": 2017,
+        "dois": [
+          "10.1161/cir.0000000000000475"
+        ],
+        "ncsu?": false,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          "Telehealth",
+          "Medicine",
+          "Telemedicine",
+          "Stroke (engine)",
+          "Quality (philosophy)",
+          "Statement (logic)",
+          "Health care",
+          "MEDLINE",
+          "Medical emergency",
+          "Nursing",
+          "Mechanical engineering",
+          "Philosophy",
+          "Epistemology",
+          "Political science",
+          "Law",
+          "Engineering",
+          "Economics",
+          "Economic growth"
+        ],
+        "host_venues": [
+          "Circulation"
+        ],
+        "color": "#000000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-dmberube",
+      "target": "acolbytiner",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Communication --- unknown",
+        "colleges": "College of Humanities and Social Sciences --- unknown",
+        "buildings": "James B Hunt Jr Centennial Cam --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          2017
+        ],
+        "year_recent": 2017,
+        "dois": [
+          "10.1161/cir.0000000000000475"
+        ],
+        "ncsu?": false,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          "Telehealth",
+          "Medicine",
+          "Telemedicine",
+          "Stroke (engine)",
+          "Quality (philosophy)",
+          "Statement (logic)",
+          "Health care",
+          "MEDLINE",
+          "Medical emergency",
+          "Nursing",
+          "Mechanical engineering",
+          "Philosophy",
+          "Epistemology",
+          "Political science",
+          "Law",
+          "Engineering",
+          "Economics",
+          "Economic growth"
+        ],
+        "host_venues": [
+          "Circulation"
+        ],
+        "color": "#000000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-dmberube",
+      "target": "uid-clcummin",
+      "attributes": {
+        "label": 5,
+        "weight": 5,
+        "collaboration_count": 5,
+        "departments": "Communication == Communication",
+        "colleges": "College of Humanities and Social Sciences == College of Humanities and Social Sciences",
+        "buildings": "Fitts-Woolard Hall -- James B Hunt Jr Centennial Cam",
+        "roles": "faculty -- staff",
+        "years": [
+          2013,
+          2011,
+          2011,
+          2011,
+          2011
+        ],
+        "year_recent": 2013,
+        "dois": [
+          "10.1080/13669877.2013.788544",
+          "10.3109/17435390.2010.521633",
+          "10.1007/s11051-011-0325-z",
+          "10.1111/j.1460-2466.2011.01560.x",
+          "10.1111/j.1460-2466.2010.01535.x"
+        ],
+        "ncsu?": true,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": true,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": true,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          "Journal of Risk Research"
+        ],
+        "color": "#CC0000",
+        "size": 5
+      }
+    },
+    {
+      "source": "uid-dmberube",
+      "target": "maryelavelle",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Communication --- unknown",
+        "colleges": "College of Humanities and Social Sciences --- unknown",
+        "buildings": "James B Hunt Jr Centennial Cam --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          2013
+        ],
+        "year_recent": 2013,
+        "dois": [
+          "10.1080/13669877.2013.788544"
+        ],
+        "ncsu?": true,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          "Journal of Risk Research"
+        ],
+        "color": "#CC0000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-dmberube",
+      "target": "uid-bwatson",
+      "attributes": {
+        "label": 2,
+        "weight": 2,
+        "collaboration_count": 2,
+        "departments": "Communication -- Computer Science",
+        "colleges": "College of Engineering -- College of Humanities and Social Sciences",
+        "buildings": "Engineering Building II (EB2) -- James B Hunt Jr Centennial Cam",
+        "roles": "faculty == faculty",
+        "years": [
+          2013,
+          2013
+        ],
+        "year_recent": 2013,
+        "dois": [
+          "10.1007/978-3-642-39351-8_35"
+        ],
+        "ncsu?": true,
+        "cross_college?": true,
+        "cross_department?": true,
+        "cross_unit?": true,
+        "cluster?": true,
+        "clusters?": true,
+        "cross_cluster?": true,
+        "clusters": [
+          "Center for Geospatial Analytics",
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": true,
+        "concepts": [
+          "Sustainability",
+          "Computer science",
+          "Visualization",
+          "Behaviour change",
+          "Human–computer interaction",
+          "Knowledge management",
+          "Artificial intelligence",
+          "Psychology",
+          "Ecology",
+          "Psychiatry",
+          "Psychological intervention",
+          "Biology"
+        ],
+        "host_venues": [
+          "Lecture Notes in Computer Science"
+        ],
+        "color": "#FAC800",
+        "size": 2
+      }
+    },
+    {
+      "source": "uid-dmberube",
+      "target": "nickolayihristov",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Communication --- unknown",
+        "colleges": "College of Humanities and Social Sciences --- unknown",
+        "buildings": "James B Hunt Jr Centennial Cam --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          2013
+        ],
+        "year_recent": 2013,
+        "dois": [
+          "10.1007/978-3-642-39351-8_35"
+        ],
+        "ncsu?": false,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          "Sustainability",
+          "Computer science",
+          "Visualization",
+          "Behaviour change",
+          "Human–computer interaction",
+          "Knowledge management",
+          "Artificial intelligence",
+          "Psychology",
+          "Ecology",
+          "Psychiatry",
+          "Psychological intervention",
+          "Biology"
+        ],
+        "host_venues": [
+          "Lecture Notes in Computer Science"
+        ],
+        "color": "#000000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-dmberube",
+      "target": "carolstrohecker",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Communication --- unknown",
+        "colleges": "College of Humanities and Social Sciences --- unknown",
+        "buildings": "James B Hunt Jr Centennial Cam --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          2013
+        ],
+        "year_recent": 2013,
+        "dois": [
+          "10.1007/978-3-642-39351-8_35"
+        ],
+        "ncsu?": false,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          "Sustainability",
+          "Computer science",
+          "Visualization",
+          "Behaviour change",
+          "Human–computer interaction",
+          "Knowledge management",
+          "Artificial intelligence",
+          "Psychology",
+          "Ecology",
+          "Psychiatry",
+          "Psychological intervention",
+          "Biology"
+        ],
+        "host_venues": [
+          "Lecture Notes in Computer Science"
+        ],
+        "color": "#000000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-dmberube",
+      "target": "scottbetz",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Communication --- unknown",
+        "colleges": "College of Humanities and Social Sciences --- unknown",
+        "buildings": "James B Hunt Jr Centennial Cam --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          2013
+        ],
+        "year_recent": 2013,
+        "dois": [
+          "10.1007/978-3-642-39351-8_35"
+        ],
+        "ncsu?": false,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          "Sustainability",
+          "Computer science",
+          "Visualization",
+          "Behaviour change",
+          "Human–computer interaction",
+          "Knowledge management",
+          "Artificial intelligence",
+          "Psychology",
+          "Ecology",
+          "Psychiatry",
+          "Psychological intervention",
+          "Biology"
+        ],
+        "host_venues": [
+          "Lecture Notes in Computer Science"
+        ],
+        "color": "#000000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-dmberube",
+      "target": "https://orcid.org/0000-0002-0271-4264",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Communication --- unknown",
+        "colleges": "College of Humanities and Social Sciences --- unknown",
+        "buildings": "James B Hunt Jr Centennial Cam --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          2013
+        ],
+        "year_recent": 2013,
+        "dois": [
+          "10.1007/978-3-642-39351-8_35"
+        ],
+        "ncsu?": false,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          "Sustainability",
+          "Computer science",
+          "Visualization",
+          "Behaviour change",
+          "Human–computer interaction",
+          "Knowledge management",
+          "Artificial intelligence",
+          "Psychology",
+          "Ecology",
+          "Psychiatry",
+          "Psychological intervention",
+          "Biology"
+        ],
+        "host_venues": [
+          "Lecture Notes in Computer Science"
+        ],
+        "color": "#000000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-dmberube",
+      "target": "matthewburczyk",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Communication --- unknown",
+        "colleges": "College of Humanities and Social Sciences --- unknown",
+        "buildings": "James B Hunt Jr Centennial Cam --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          2013
+        ],
+        "year_recent": 2013,
+        "dois": [
+          "10.1007/978-3-642-39351-8_35"
+        ],
+        "ncsu?": false,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          "Sustainability",
+          "Computer science",
+          "Visualization",
+          "Behaviour change",
+          "Human–computer interaction",
+          "Knowledge management",
+          "Artificial intelligence",
+          "Psychology",
+          "Ecology",
+          "Psychiatry",
+          "Psychological intervention",
+          "Biology"
+        ],
+        "host_venues": [
+          "Lecture Notes in Computer Science"
+        ],
+        "color": "#000000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-dmberube",
+      "target": "amberhoward",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Communication --- unknown",
+        "colleges": "College of Humanities and Social Sciences --- unknown",
+        "buildings": "James B Hunt Jr Centennial Cam --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          2013
+        ],
+        "year_recent": 2013,
+        "dois": [
+          "10.1007/978-3-642-39351-8_35"
+        ],
+        "ncsu?": false,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          "Sustainability",
+          "Computer science",
+          "Visualization",
+          "Behaviour change",
+          "Human–computer interaction",
+          "Knowledge management",
+          "Artificial intelligence",
+          "Psychology",
+          "Ecology",
+          "Psychiatry",
+          "Psychological intervention",
+          "Biology"
+        ],
+        "host_venues": [
+          "Lecture Notes in Computer Science"
+        ],
+        "color": "#000000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-dmberube",
+      "target": "williamanthonymcgee",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Communication --- unknown",
+        "colleges": "College of Humanities and Social Sciences --- unknown",
+        "buildings": "James B Hunt Jr Centennial Cam --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          2013
+        ],
+        "year_recent": 2013,
+        "dois": [
+          "10.1007/978-3-642-39351-8_35"
+        ],
+        "ncsu?": false,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          "Sustainability",
+          "Computer science",
+          "Visualization",
+          "Behaviour change",
+          "Human–computer interaction",
+          "Knowledge management",
+          "Artificial intelligence",
+          "Psychology",
+          "Ecology",
+          "Psychiatry",
+          "Psychological intervention",
+          "Biology"
+        ],
+        "host_venues": [
+          "Lecture Notes in Computer Science"
+        ],
+        "color": "#000000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-dmberube",
+      "target": "matthewgymer",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Communication --- unknown",
+        "colleges": "College of Humanities and Social Sciences --- unknown",
+        "buildings": "James B Hunt Jr Centennial Cam --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          2013
+        ],
+        "year_recent": 2013,
+        "dois": [
+          "10.1007/978-3-642-39351-8_35"
+        ],
+        "ncsu?": false,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          "Sustainability",
+          "Computer science",
+          "Visualization",
+          "Behaviour change",
+          "Human–computer interaction",
+          "Knowledge management",
+          "Artificial intelligence",
+          "Psychology",
+          "Ecology",
+          "Psychiatry",
+          "Psychological intervention",
+          "Biology"
+        ],
+        "host_venues": [
+          "Lecture Notes in Computer Science"
+        ],
+        "color": "#000000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-dmberube",
+      "target": "danielacaas",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Communication --- unknown",
+        "colleges": "College of Humanities and Social Sciences --- unknown",
+        "buildings": "James B Hunt Jr Centennial Cam --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          2013
+        ],
+        "year_recent": 2013,
+        "dois": [
+          "10.1007/978-3-642-39351-8_35"
+        ],
+        "ncsu?": false,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          "Sustainability",
+          "Computer science",
+          "Visualization",
+          "Behaviour change",
+          "Human–computer interaction",
+          "Knowledge management",
+          "Artificial intelligence",
+          "Psychology",
+          "Ecology",
+          "Psychiatry",
+          "Psychological intervention",
+          "Biology"
+        ],
+        "host_venues": [
+          "Lecture Notes in Computer Science"
+        ],
+        "color": "#000000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-dmberube",
+      "target": "markkirstner",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Communication --- unknown",
+        "colleges": "College of Humanities and Social Sciences --- unknown",
+        "buildings": "James B Hunt Jr Centennial Cam --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          2013
+        ],
+        "year_recent": 2013,
+        "dois": [
+          "10.1007/978-3-642-39351-8_35"
+        ],
+        "ncsu?": false,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          "Sustainability",
+          "Computer science",
+          "Visualization",
+          "Behaviour change",
+          "Human–computer interaction",
+          "Knowledge management",
+          "Artificial intelligence",
+          "Psychology",
+          "Ecology",
+          "Psychiatry",
+          "Psychological intervention",
+          "Biology"
+        ],
+        "host_venues": [
+          "Lecture Notes in Computer Science"
+        ],
+        "color": "#000000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-dmberube",
+      "target": "nhristov",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Communication --- unknown",
+        "colleges": "College of Humanities and Social Sciences --- unknown",
+        "buildings": "James B Hunt Jr Centennial Cam --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          2013
+        ],
+        "year_recent": 2013,
+        "dois": [
+
+        ],
+        "ncsu?": null,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          null
+        ],
+        "color": "#000000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-dmberube",
+      "target": "cstrohecker",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Communication --- unknown",
+        "colleges": "College of Humanities and Social Sciences --- unknown",
+        "buildings": "James B Hunt Jr Centennial Cam --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          2013
+        ],
+        "year_recent": 2013,
+        "dois": [
+
+        ],
+        "ncsu?": null,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          null
+        ],
+        "color": "#000000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-dmberube",
+      "target": "sbetz",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Communication --- unknown",
+        "colleges": "College of Humanities and Social Sciences --- unknown",
+        "buildings": "James B Hunt Jr Centennial Cam --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          2013
+        ],
+        "year_recent": 2013,
+        "dois": [
+
+        ],
+        "ncsu?": null,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          null
+        ],
+        "color": "#000000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-dmberube",
+      "target": "lallen",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Communication --- unknown",
+        "colleges": "College of Humanities and Social Sciences --- unknown",
+        "buildings": "James B Hunt Jr Centennial Cam --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          2013
+        ],
+        "year_recent": 2013,
+        "dois": [
+
+        ],
+        "ncsu?": null,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          null
+        ],
+        "color": "#000000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-dmberube",
+      "target": "mburczyk",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Communication --- unknown",
+        "colleges": "College of Humanities and Social Sciences --- unknown",
+        "buildings": "James B Hunt Jr Centennial Cam --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          2013
+        ],
+        "year_recent": 2013,
+        "dois": [
+
+        ],
+        "ncsu?": null,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          null
+        ],
+        "color": "#000000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-dmberube",
+      "target": "ahoward",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Communication --- unknown",
+        "colleges": "College of Humanities and Social Sciences --- unknown",
+        "buildings": "James B Hunt Jr Centennial Cam --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          2013
+        ],
+        "year_recent": 2013,
+        "dois": [
+
+        ],
+        "ncsu?": null,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          null
+        ],
+        "color": "#000000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-dmberube",
+      "target": "wamcgee",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Communication --- unknown",
+        "colleges": "College of Humanities and Social Sciences --- unknown",
+        "buildings": "James B Hunt Jr Centennial Cam --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          2013
+        ],
+        "year_recent": 2013,
+        "dois": [
+
+        ],
+        "ncsu?": null,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          null
+        ],
+        "color": "#000000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-dmberube",
+      "target": "mgymer",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Communication --- unknown",
+        "colleges": "College of Humanities and Social Sciences --- unknown",
+        "buildings": "James B Hunt Jr Centennial Cam --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          2013
+        ],
+        "year_recent": 2013,
+        "dois": [
+
+        ],
+        "ncsu?": null,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          null
+        ],
+        "color": "#000000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-dmberube",
+      "target": "dcanas",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Communication --- unknown",
+        "colleges": "College of Humanities and Social Sciences --- unknown",
+        "buildings": "James B Hunt Jr Centennial Cam --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          2013
+        ],
+        "year_recent": 2013,
+        "dois": [
+
+        ],
+        "ncsu?": null,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          null
+        ],
+        "color": "#000000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-dmberube",
+      "target": "mkirstner",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Communication --- unknown",
+        "colleges": "College of Humanities and Social Sciences --- unknown",
+        "buildings": "James B Hunt Jr Centennial Cam --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          2013
+        ],
+        "year_recent": 2013,
+        "dois": [
+
+        ],
+        "ncsu?": null,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          null
+        ],
+        "color": "#000000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-dmberube",
+      "target": "https://orcid.org/0000-0001-8357-4621",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Communication --- unknown",
+        "colleges": "College of Humanities and Social Sciences --- unknown",
+        "buildings": "James B Hunt Jr Centennial Cam --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          2011
+        ],
+        "year_recent": 2011,
+        "dois": [
+          "10.3109/17435390.2010.521633"
+        ],
+        "ncsu?": false,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          "Nanotoxicology"
+        ],
+        "color": "#000000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-dmberube",
+      "target": "https://orcid.org/0000-0002-9914-5407",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Communication --- unknown",
+        "colleges": "College of Humanities and Social Sciences --- unknown",
+        "buildings": "James B Hunt Jr Centennial Cam --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          2011
+        ],
+        "year_recent": 2011,
+        "dois": [
+          "10.3109/17435390.2010.521633"
+        ],
+        "ncsu?": false,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          "Nanotoxicology"
+        ],
+        "color": "#000000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-dmberube",
+      "target": "jasonkalin",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Communication --- unknown",
+        "colleges": "College of Humanities and Social Sciences --- unknown",
+        "buildings": "James B Hunt Jr Centennial Cam --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          2011
+        ],
+        "year_recent": 2011,
+        "dois": [
+          "10.3109/17435390.2010.521633"
+        ],
+        "ncsu?": true,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          "Nanotoxicology"
+        ],
+        "color": "#CC0000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-dmberube",
+      "target": "jordanfrith",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Communication --- unknown",
+        "colleges": "College of Humanities and Social Sciences --- unknown",
+        "buildings": "James B Hunt Jr Centennial Cam --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          2011
+        ],
+        "year_recent": 2011,
+        "dois": [
+          "10.1007/s11051-011-0325-z"
+        ],
+        "ncsu?": true,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          "Journal of Nanoparticle Research"
+        ],
+        "color": "#CC0000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-dmberube",
+      "target": "uid-arbinder",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Communication == Communication",
+        "colleges": "College of Humanities and Social Sciences == College of Humanities and Social Sciences",
+        "buildings": "James B Hunt Jr Centennial Cam -- Winston Hall",
+        "roles": "faculty == faculty",
+        "years": [
+          2011
+        ],
+        "year_recent": 2011,
+        "dois": [
+          "10.1007/s11051-011-0325-z"
+        ],
+        "ncsu?": true,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": true,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": true,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          "Journal of Nanoparticle Research"
+        ],
+        "color": "#CC0000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-dmberube",
+      "target": "robertwoldendick",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Communication --- unknown",
+        "colleges": "College of Humanities and Social Sciences --- unknown",
+        "buildings": "James B Hunt Jr Centennial Cam --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          2011
+        ],
+        "year_recent": 2011,
+        "dois": [
+          "10.1007/s11051-011-0325-z"
+        ],
+        "ncsu?": false,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          "Journal of Nanoparticle Research"
+        ],
+        "color": "#000000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-dmberube",
+      "target": "uid-memorain",
+      "attributes": {
+        "label": 2,
+        "weight": 2,
+        "collaboration_count": 2,
+        "departments": "Communication -- Communication Rhetoric and Digital Media",
+        "colleges": "College of Humanities and Social Sciences == College of Humanities and Social Sciences",
+        "buildings": "James B Hunt Jr Centennial Cam --- unknown",
+        "roles": "faculty -- student",
+        "years": [
+          2011,
+          2011
+        ],
+        "year_recent": 2011,
+        "dois": [
+          "10.1111/j.1460-2466.2011.01560.x",
+          "10.1111/j.1460-2466.2010.01535.x"
+        ],
+        "ncsu?": true,
+        "cross_college?": false,
+        "cross_department?": true,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          "Journal of Communication"
+        ],
+        "color": "#CC0000",
+        "size": 2
+      }
+    },
+    {
+      "source": "uid-dmberube",
+      "target": "uid-jhfrith",
+      "attributes": {
+        "label": 2,
+        "weight": 2,
+        "collaboration_count": 2,
+        "departments": "Communication -- Communication Rhetoric and Digital Media",
+        "colleges": "College of Humanities and Social Sciences == College of Humanities and Social Sciences",
+        "buildings": "James B Hunt Jr Centennial Cam --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          2011,
+          2011
+        ],
+        "year_recent": 2011,
+        "dois": [
+          "10.1111/j.1460-2466.2011.01560.x",
+          "10.1111/j.1460-2466.2010.01535.x"
+        ],
+        "ncsu?": true,
+        "cross_college?": false,
+        "cross_department?": true,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          "Journal of Communication"
+        ],
+        "color": "#CC0000",
+        "size": 2
+      }
+    },
+    {
+      "source": "uid-dmberube",
+      "target": "https://orcid.org/0000-0001-5219-8782",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Communication --- unknown",
+        "colleges": "College of Humanities and Social Sciences --- unknown",
+        "buildings": "James B Hunt Jr Centennial Cam --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          2008
+        ],
+        "year_recent": 2008,
+        "dois": [
+          "10.1016/S1748-0132(08)70016-1"
+        ],
+        "ncsu?": false,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          "Nano Today"
+        ],
+        "color": "#000000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-ebogomo",
+      "target": "https://orcid.org/0000-0002-3940-1464",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "unknown --- unknown",
+        "colleges": "unknown --- unknown",
+        "buildings": "unknown --- unknown",
+        "roles": "student --- unknown",
+        "years": [
+          2020
+        ],
+        "year_recent": 2020,
+        "dois": [
+          "10.1007/s11051-020-05022-2"
+        ],
+        "ncsu?": false,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": false,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          "Journal of Nanoparticle Research"
+        ],
+        "color": "#000000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-ebogomo",
+      "target": "uid-jljone21",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Materials Science & Engineering --- unknown",
+        "colleges": "College of Engineering --- unknown",
+        "buildings": "Engineering Building I (EB1) --- unknown",
+        "roles": "faculty -- student",
+        "years": [
+          2020
+        ],
+        "year_recent": 2020,
+        "dois": [
+          "10.1007/s11051-020-05022-2"
+        ],
+        "ncsu?": true,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": false,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          "Journal of Nanoparticle Research"
+        ],
+        "color": "#CC0000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-ebogomo",
+      "target": "https://orcid.org/0000-0002-3908-3291",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "unknown --- unknown",
+        "colleges": "unknown --- unknown",
+        "buildings": "unknown --- unknown",
+        "roles": "student --- unknown",
+        "years": [
+          2020
+        ],
+        "year_recent": 2020,
+        "dois": [
+          "10.1007/s11051-020-05022-2"
+        ],
+        "ncsu?": false,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": false,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          "Journal of Nanoparticle Research"
+        ],
+        "color": "#000000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-jljone21",
+      "target": "https://orcid.org/0000-0002-3940-1464",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Materials Science & Engineering --- unknown",
+        "colleges": "College of Engineering --- unknown",
+        "buildings": "Engineering Building I (EB1) --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          2020
+        ],
+        "year_recent": 2020,
+        "dois": [
+          "10.1007/s11051-020-05022-2"
+        ],
+        "ncsu?": false,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": false,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          "Journal of Nanoparticle Research"
+        ],
+        "color": "#000000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-jljone21",
+      "target": "https://orcid.org/0000-0002-3908-3291",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Materials Science & Engineering --- unknown",
+        "colleges": "College of Engineering --- unknown",
+        "buildings": "Engineering Building I (EB1) --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          2020
+        ],
+        "year_recent": 2020,
+        "dois": [
+          "10.1007/s11051-020-05022-2"
+        ],
+        "ncsu?": false,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": false,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          "Journal of Nanoparticle Research"
+        ],
+        "color": "#000000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-clcummin",
+      "target": "uid-arbinder",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Communication == Communication",
+        "colleges": "College of Humanities and Social Sciences == College of Humanities and Social Sciences",
+        "buildings": "Fitts-Woolard Hall -- Winston Hall",
+        "roles": "faculty -- staff",
+        "years": [
+          2021
+        ],
+        "year_recent": 2021,
+        "dois": [
+          "10.1016/j.impact.2021.100365"
+        ],
+        "ncsu?": true,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": true,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": true,
+        "concepts": [
+          "Stakeholder",
+          "Upstream (networking)",
+          "Stakeholder engagement",
+          "Business",
+          "Work (physics)",
+          "Responsible Research and Innovation",
+          "Process (computing)",
+          "Knowledge management",
+          "Public relations",
+          "Political science",
+          "Engineering",
+          "Computer science",
+          "Mechanical engineering",
+          "Telecommunications",
+          "Operating system"
+        ],
+        "host_venues": [
+          "NanoImpact"
+        ],
+        "color": "#CC0000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-clcummin",
+      "target": "maryelavelle",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Communication --- unknown",
+        "colleges": "College of Humanities and Social Sciences --- unknown",
+        "buildings": "Fitts-Woolard Hall --- unknown",
+        "roles": "staff --- unknown",
+        "years": [
+          2013
+        ],
+        "year_recent": 2013,
+        "dois": [
+          "10.1080/13669877.2013.788544"
+        ],
+        "ncsu?": true,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          "Journal of Risk Research"
+        ],
+        "color": "#CC0000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-clcummin",
+      "target": "https://orcid.org/0000-0001-8357-4621",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Communication --- unknown",
+        "colleges": "College of Humanities and Social Sciences --- unknown",
+        "buildings": "Fitts-Woolard Hall --- unknown",
+        "roles": "staff --- unknown",
+        "years": [
+          2011
+        ],
+        "year_recent": 2011,
+        "dois": [
+          "10.3109/17435390.2010.521633"
+        ],
+        "ncsu?": false,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          "Nanotoxicology"
+        ],
+        "color": "#000000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-clcummin",
+      "target": "https://orcid.org/0000-0002-9914-5407",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Communication --- unknown",
+        "colleges": "College of Humanities and Social Sciences --- unknown",
+        "buildings": "Fitts-Woolard Hall --- unknown",
+        "roles": "staff --- unknown",
+        "years": [
+          2011
+        ],
+        "year_recent": 2011,
+        "dois": [
+          "10.3109/17435390.2010.521633"
+        ],
+        "ncsu?": false,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          "Nanotoxicology"
+        ],
+        "color": "#000000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-clcummin",
+      "target": "jasonkalin",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Communication --- unknown",
+        "colleges": "College of Humanities and Social Sciences --- unknown",
+        "buildings": "Fitts-Woolard Hall --- unknown",
+        "roles": "staff --- unknown",
+        "years": [
+          2011
+        ],
+        "year_recent": 2011,
+        "dois": [
+          "10.3109/17435390.2010.521633"
+        ],
+        "ncsu?": true,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          "Nanotoxicology"
+        ],
+        "color": "#CC0000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-clcummin",
+      "target": "uid-memorain",
+      "attributes": {
+        "label": 2,
+        "weight": 2,
+        "collaboration_count": 2,
+        "departments": "Communication -- Communication Rhetoric and Digital Media",
+        "colleges": "College of Humanities and Social Sciences == College of Humanities and Social Sciences",
+        "buildings": "Fitts-Woolard Hall --- unknown",
+        "roles": "staff -- student",
+        "years": [
+          2011,
+          2011
+        ],
+        "year_recent": 2011,
+        "dois": [
+          "10.1111/j.1460-2466.2011.01560.x",
+          "10.1111/j.1460-2466.2010.01535.x"
+        ],
+        "ncsu?": true,
+        "cross_college?": false,
+        "cross_department?": true,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          "Journal of Communication"
+        ],
+        "color": "#CC0000",
+        "size": 2
+      }
+    },
+    {
+      "source": "uid-clcummin",
+      "target": "uid-jhfrith",
+      "attributes": {
+        "label": 2,
+        "weight": 2,
+        "collaboration_count": 2,
+        "departments": "Communication -- Communication Rhetoric and Digital Media",
+        "colleges": "College of Humanities and Social Sciences == College of Humanities and Social Sciences",
+        "buildings": "Fitts-Woolard Hall --- unknown",
+        "roles": "staff --- unknown",
+        "years": [
+          2011,
+          2011
+        ],
+        "year_recent": 2011,
+        "dois": [
+          "10.1111/j.1460-2466.2011.01560.x",
+          "10.1111/j.1460-2466.2010.01535.x"
+        ],
+        "ncsu?": true,
+        "cross_college?": false,
+        "cross_department?": true,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          "Journal of Communication"
+        ],
+        "color": "#CC0000",
+        "size": 2
+      }
+    },
+    {
+      "source": "uid-bwatson",
+      "target": "nickolayihristov",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Computer Science --- unknown",
+        "colleges": "College of Engineering --- unknown",
+        "buildings": "Engineering Building II (EB2) --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          2013
+        ],
+        "year_recent": 2013,
+        "dois": [
+          "10.1007/978-3-642-39351-8_35"
+        ],
+        "ncsu?": false,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Center for Geospatial Analytics"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          "Sustainability",
+          "Computer science",
+          "Visualization",
+          "Behaviour change",
+          "Human–computer interaction",
+          "Knowledge management",
+          "Artificial intelligence",
+          "Psychology",
+          "Ecology",
+          "Psychiatry",
+          "Psychological intervention",
+          "Biology"
+        ],
+        "host_venues": [
+          "Lecture Notes in Computer Science"
+        ],
+        "color": "#000000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-bwatson",
+      "target": "carolstrohecker",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Computer Science --- unknown",
+        "colleges": "College of Engineering --- unknown",
+        "buildings": "Engineering Building II (EB2) --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          2013
+        ],
+        "year_recent": 2013,
+        "dois": [
+          "10.1007/978-3-642-39351-8_35"
+        ],
+        "ncsu?": false,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Center for Geospatial Analytics"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          "Sustainability",
+          "Computer science",
+          "Visualization",
+          "Behaviour change",
+          "Human–computer interaction",
+          "Knowledge management",
+          "Artificial intelligence",
+          "Psychology",
+          "Ecology",
+          "Psychiatry",
+          "Psychological intervention",
+          "Biology"
+        ],
+        "host_venues": [
+          "Lecture Notes in Computer Science"
+        ],
+        "color": "#000000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-bwatson",
+      "target": "scottbetz",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Computer Science --- unknown",
+        "colleges": "College of Engineering --- unknown",
+        "buildings": "Engineering Building II (EB2) --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          2013
+        ],
+        "year_recent": 2013,
+        "dois": [
+          "10.1007/978-3-642-39351-8_35"
+        ],
+        "ncsu?": false,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Center for Geospatial Analytics"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          "Sustainability",
+          "Computer science",
+          "Visualization",
+          "Behaviour change",
+          "Human–computer interaction",
+          "Knowledge management",
+          "Artificial intelligence",
+          "Psychology",
+          "Ecology",
+          "Psychiatry",
+          "Psychological intervention",
+          "Biology"
+        ],
+        "host_venues": [
+          "Lecture Notes in Computer Science"
+        ],
+        "color": "#000000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-bwatson",
+      "target": "https://orcid.org/0000-0002-0271-4264",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Computer Science --- unknown",
+        "colleges": "College of Engineering --- unknown",
+        "buildings": "Engineering Building II (EB2) --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          2013
+        ],
+        "year_recent": 2013,
+        "dois": [
+          "10.1007/978-3-642-39351-8_35"
+        ],
+        "ncsu?": false,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Center for Geospatial Analytics"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          "Sustainability",
+          "Computer science",
+          "Visualization",
+          "Behaviour change",
+          "Human–computer interaction",
+          "Knowledge management",
+          "Artificial intelligence",
+          "Psychology",
+          "Ecology",
+          "Psychiatry",
+          "Psychological intervention",
+          "Biology"
+        ],
+        "host_venues": [
+          "Lecture Notes in Computer Science"
+        ],
+        "color": "#000000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-bwatson",
+      "target": "matthewburczyk",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Computer Science --- unknown",
+        "colleges": "College of Engineering --- unknown",
+        "buildings": "Engineering Building II (EB2) --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          2013
+        ],
+        "year_recent": 2013,
+        "dois": [
+          "10.1007/978-3-642-39351-8_35"
+        ],
+        "ncsu?": false,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Center for Geospatial Analytics"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          "Sustainability",
+          "Computer science",
+          "Visualization",
+          "Behaviour change",
+          "Human–computer interaction",
+          "Knowledge management",
+          "Artificial intelligence",
+          "Psychology",
+          "Ecology",
+          "Psychiatry",
+          "Psychological intervention",
+          "Biology"
+        ],
+        "host_venues": [
+          "Lecture Notes in Computer Science"
+        ],
+        "color": "#000000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-bwatson",
+      "target": "amberhoward",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Computer Science --- unknown",
+        "colleges": "College of Engineering --- unknown",
+        "buildings": "Engineering Building II (EB2) --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          2013
+        ],
+        "year_recent": 2013,
+        "dois": [
+          "10.1007/978-3-642-39351-8_35"
+        ],
+        "ncsu?": false,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Center for Geospatial Analytics"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          "Sustainability",
+          "Computer science",
+          "Visualization",
+          "Behaviour change",
+          "Human–computer interaction",
+          "Knowledge management",
+          "Artificial intelligence",
+          "Psychology",
+          "Ecology",
+          "Psychiatry",
+          "Psychological intervention",
+          "Biology"
+        ],
+        "host_venues": [
+          "Lecture Notes in Computer Science"
+        ],
+        "color": "#000000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-bwatson",
+      "target": "williamanthonymcgee",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Computer Science --- unknown",
+        "colleges": "College of Engineering --- unknown",
+        "buildings": "Engineering Building II (EB2) --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          2013
+        ],
+        "year_recent": 2013,
+        "dois": [
+          "10.1007/978-3-642-39351-8_35"
+        ],
+        "ncsu?": false,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Center for Geospatial Analytics"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          "Sustainability",
+          "Computer science",
+          "Visualization",
+          "Behaviour change",
+          "Human–computer interaction",
+          "Knowledge management",
+          "Artificial intelligence",
+          "Psychology",
+          "Ecology",
+          "Psychiatry",
+          "Psychological intervention",
+          "Biology"
+        ],
+        "host_venues": [
+          "Lecture Notes in Computer Science"
+        ],
+        "color": "#000000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-bwatson",
+      "target": "matthewgymer",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Computer Science --- unknown",
+        "colleges": "College of Engineering --- unknown",
+        "buildings": "Engineering Building II (EB2) --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          2013
+        ],
+        "year_recent": 2013,
+        "dois": [
+          "10.1007/978-3-642-39351-8_35"
+        ],
+        "ncsu?": false,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Center for Geospatial Analytics"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          "Sustainability",
+          "Computer science",
+          "Visualization",
+          "Behaviour change",
+          "Human–computer interaction",
+          "Knowledge management",
+          "Artificial intelligence",
+          "Psychology",
+          "Ecology",
+          "Psychiatry",
+          "Psychological intervention",
+          "Biology"
+        ],
+        "host_venues": [
+          "Lecture Notes in Computer Science"
+        ],
+        "color": "#000000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-bwatson",
+      "target": "danielacaas",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Computer Science --- unknown",
+        "colleges": "College of Engineering --- unknown",
+        "buildings": "Engineering Building II (EB2) --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          2013
+        ],
+        "year_recent": 2013,
+        "dois": [
+          "10.1007/978-3-642-39351-8_35"
+        ],
+        "ncsu?": false,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Center for Geospatial Analytics"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          "Sustainability",
+          "Computer science",
+          "Visualization",
+          "Behaviour change",
+          "Human–computer interaction",
+          "Knowledge management",
+          "Artificial intelligence",
+          "Psychology",
+          "Ecology",
+          "Psychiatry",
+          "Psychological intervention",
+          "Biology"
+        ],
+        "host_venues": [
+          "Lecture Notes in Computer Science"
+        ],
+        "color": "#000000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-bwatson",
+      "target": "markkirstner",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Computer Science --- unknown",
+        "colleges": "College of Engineering --- unknown",
+        "buildings": "Engineering Building II (EB2) --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          2013
+        ],
+        "year_recent": 2013,
+        "dois": [
+          "10.1007/978-3-642-39351-8_35"
+        ],
+        "ncsu?": false,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Center for Geospatial Analytics"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          "Sustainability",
+          "Computer science",
+          "Visualization",
+          "Behaviour change",
+          "Human–computer interaction",
+          "Knowledge management",
+          "Artificial intelligence",
+          "Psychology",
+          "Ecology",
+          "Psychiatry",
+          "Psychological intervention",
+          "Biology"
+        ],
+        "host_venues": [
+          "Lecture Notes in Computer Science"
+        ],
+        "color": "#000000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-bwatson",
+      "target": "nhristov",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Computer Science --- unknown",
+        "colleges": "College of Engineering --- unknown",
+        "buildings": "Engineering Building II (EB2) --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          2013
+        ],
+        "year_recent": 2013,
+        "dois": [
+
+        ],
+        "ncsu?": null,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Center for Geospatial Analytics"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          null
+        ],
+        "color": "#000000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-bwatson",
+      "target": "cstrohecker",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Computer Science --- unknown",
+        "colleges": "College of Engineering --- unknown",
+        "buildings": "Engineering Building II (EB2) --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          2013
+        ],
+        "year_recent": 2013,
+        "dois": [
+
+        ],
+        "ncsu?": null,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Center for Geospatial Analytics"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          null
+        ],
+        "color": "#000000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-bwatson",
+      "target": "sbetz",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Computer Science --- unknown",
+        "colleges": "College of Engineering --- unknown",
+        "buildings": "Engineering Building II (EB2) --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          2013
+        ],
+        "year_recent": 2013,
+        "dois": [
+
+        ],
+        "ncsu?": null,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Center for Geospatial Analytics"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          null
+        ],
+        "color": "#000000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-bwatson",
+      "target": "lallen",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Computer Science --- unknown",
+        "colleges": "College of Engineering --- unknown",
+        "buildings": "Engineering Building II (EB2) --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          2013
+        ],
+        "year_recent": 2013,
+        "dois": [
+
+        ],
+        "ncsu?": null,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Center for Geospatial Analytics"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          null
+        ],
+        "color": "#000000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-bwatson",
+      "target": "mburczyk",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Computer Science --- unknown",
+        "colleges": "College of Engineering --- unknown",
+        "buildings": "Engineering Building II (EB2) --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          2013
+        ],
+        "year_recent": 2013,
+        "dois": [
+
+        ],
+        "ncsu?": null,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Center for Geospatial Analytics"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          null
+        ],
+        "color": "#000000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-bwatson",
+      "target": "ahoward",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Computer Science --- unknown",
+        "colleges": "College of Engineering --- unknown",
+        "buildings": "Engineering Building II (EB2) --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          2013
+        ],
+        "year_recent": 2013,
+        "dois": [
+
+        ],
+        "ncsu?": null,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Center for Geospatial Analytics"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          null
+        ],
+        "color": "#000000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-bwatson",
+      "target": "wamcgee",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Computer Science --- unknown",
+        "colleges": "College of Engineering --- unknown",
+        "buildings": "Engineering Building II (EB2) --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          2013
+        ],
+        "year_recent": 2013,
+        "dois": [
+
+        ],
+        "ncsu?": null,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Center for Geospatial Analytics"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          null
+        ],
+        "color": "#000000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-bwatson",
+      "target": "mgymer",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Computer Science --- unknown",
+        "colleges": "College of Engineering --- unknown",
+        "buildings": "Engineering Building II (EB2) --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          2013
+        ],
+        "year_recent": 2013,
+        "dois": [
+
+        ],
+        "ncsu?": null,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Center for Geospatial Analytics"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          null
+        ],
+        "color": "#000000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-bwatson",
+      "target": "dcanas",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Computer Science --- unknown",
+        "colleges": "College of Engineering --- unknown",
+        "buildings": "Engineering Building II (EB2) --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          2013
+        ],
+        "year_recent": 2013,
+        "dois": [
+
+        ],
+        "ncsu?": null,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Center for Geospatial Analytics"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          null
+        ],
+        "color": "#000000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-bwatson",
+      "target": "mkirstner",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Computer Science --- unknown",
+        "colleges": "College of Engineering --- unknown",
+        "buildings": "Engineering Building II (EB2) --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          2013
+        ],
+        "year_recent": 2013,
+        "dois": [
+
+        ],
+        "ncsu?": null,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Center for Geospatial Analytics"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          null
+        ],
+        "color": "#000000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-arbinder",
+      "target": "https://orcid.org/0000-0001-8357-4621",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Communication --- unknown",
+        "colleges": "College of Humanities and Social Sciences --- unknown",
+        "buildings": "Winston Hall --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          2012
+        ],
+        "year_recent": 2012,
+        "dois": [
+          "10.1177/0963662510390159"
+        ],
+        "ncsu?": false,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          "Public Understanding of Science"
+        ],
+        "color": "#000000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-arbinder",
+      "target": "https://orcid.org/0000-0002-9914-5407",
+      "attributes": {
+        "label": 5,
+        "weight": 5,
+        "collaboration_count": 5,
+        "departments": "Communication --- unknown",
+        "colleges": "College of Humanities and Social Sciences --- unknown",
+        "buildings": "Winston Hall --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          2012,
+          2012,
+          2011,
+          2011,
+          2009
+        ],
+        "year_recent": 2012,
+        "dois": [
+          "10.1177/0963662510390159",
+          "10.1017/S0730938400014246",
+          "10.1111/j.1539-6924.2010.01516.x",
+          "10.1080/15205436.2010.491933",
+          "10.1177/0093650209333023"
+        ],
+        "ncsu?": false,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          "Public Understanding of Science"
+        ],
+        "color": "#000000",
+        "size": 5
+      }
+    },
+    {
+      "source": "uid-arbinder",
+      "target": "jordanfrith",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Communication --- unknown",
+        "colleges": "College of Humanities and Social Sciences --- unknown",
+        "buildings": "Winston Hall --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          2011
+        ],
+        "year_recent": 2011,
+        "dois": [
+          "10.1007/S11051-011-0325-Z"
+        ],
+        "ncsu?": true,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          "Journal of Nanoparticle Research"
+        ],
+        "color": "#CC0000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-arbinder",
+      "target": "robertwoldendick",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Communication --- unknown",
+        "colleges": "College of Humanities and Social Sciences --- unknown",
+        "buildings": "Winston Hall --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          2011
+        ],
+        "year_recent": 2011,
+        "dois": [
+          "10.1007/S11051-011-0325-Z"
+        ],
+        "ncsu?": false,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          "Journal of Nanoparticle Research"
+        ],
+        "color": "#000000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-memorain",
+      "target": "uid-jhfrith",
+      "attributes": {
+        "label": 2,
+        "weight": 2,
+        "collaboration_count": 2,
+        "departments": "Communication Rhetoric and Digital Media == Communication Rhetoric and Digital Media",
+        "colleges": "College of Humanities and Social Sciences == College of Humanities and Social Sciences",
+        "buildings": "unknown --- unknown",
+        "roles": "student --- unknown",
+        "years": [
+          2011,
+          2011
+        ],
+        "year_recent": 2011,
+        "dois": [
+          "10.1111/j.1460-2466.2011.01560.x",
+          "10.1111/j.1460-2466.2010.01535.x"
+        ],
+        "ncsu?": true,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": false,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          "Journal of Communication"
+        ],
+        "color": "#CC0000",
+        "size": 2
+      }
+    }
+  ]
+}

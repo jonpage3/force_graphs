@@ -1,0 +1,4416 @@
+{
+  "options": {
+    "type": "undirected",
+    "multi": false,
+    "allowSelfLoops": false
+  },
+  "attributes": {
+    "creator": "Citation Index",
+    "lastModifiedDate": "2023-01-14"
+  },
+  "nodes": [
+    {
+      "key": "uid-dcorcutt",
+      "attributes": {
+        "label": "D Orcutt",
+        "name": "Darby Orcutt",
+        "known?": true,
+        "orcid?": true,
+        "ncsu?": true,
+        "affiliations": [
+          "North Carolina State University"
+        ],
+        "countries": [
+          "US"
+        ],
+        "uid": "dcorcutt",
+        "url": "https://ci.lib.ncsu.edu/profiles/dcorcutt",
+        "orcid": "0000-0002-4202-6431",
+        "active?": true,
+        "department": "Genetic Engineering and Society",
+        "college": "NC State",
+        "ncsu_affiliations": [
+          "Genetic Engineering and Society",
+          "NC State University Libraries"
+        ],
+        "cluster?": true,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "role": "faculty",
+        "building": "D.H. Hill Jr. Library (East Wi",
+        "count": 156,
+        "oa_count": 17,
+        "years": [
+          2021,
+          2020,
+          2018,
+          2017,
+          2016,
+          2015,
+          2014,
+          2013,
+          2012,
+          2011,
+          2010,
+          2009,
+          2008,
+          2007,
+          2006,
+          2005,
+          2004,
+          2003,
+          2002
+        ],
+        "year_recent": 2021,
+        "article_concepts": [
+          "Advertising",
+          "Algorithm",
+          "Art",
+          "Artificial intelligence",
+          "Biology",
+          "Biomedicine",
+          "Business",
+          "Business model",
+          "Cataloging",
+          "Collection development",
+          "Comics",
+          "Commerce",
+          "Computer science",
+          "Content (measure theory)",
+          "Convergence (economics)",
+          "Curriculum",
+          "Data collection",
+          "Data science",
+          "Database",
+          "Digital content",
+          "Economic growth",
+          "Economics",
+          "Embedded system",
+          "Engineering",
+          "Epistemology",
+          "Fair use",
+          "Foundation (evidence)",
+          "Genetics",
+          "Globe",
+          "History",
+          "Human–computer interaction",
+          "Industrial organization",
+          "Industry 4.0",
+          "Information retrieval",
+          "Interlibrary loan",
+          "Internet privacy",
+          "Law",
+          "Library science",
+          "Literature",
+          "Marketing",
+          "Mashup",
+          "Mathematical analysis",
+          "Mathematics",
+          "Medicine",
+          "Multimedia",
+          "Ophthalmology",
+          "Phase (matter)",
+          "Philosophy",
+          "Physics",
+          "Political science",
+          "Public administration",
+          "Quantum mechanics",
+          "Reference desk",
+          "Service (business)",
+          "Session (web analytics)",
+          "South carolina",
+          "Special collections",
+          "State (computer science)",
+          "Statistics",
+          "Subject (documents)",
+          "Subject matter",
+          "Technological convergence",
+          "Telecommunications",
+          "The Internet",
+          "Web standards",
+          "Workflow",
+          "World Wide Web"
+        ],
+        "host_venues": [
+          "Charleston Conference",
+          "Choice Reviews Online",
+          "Collection Management",
+          "Library Resources & Technical Services",
+          "Research in Science & Technological Education",
+          "against the grain"
+        ],
+        "color": "#BD5383",
+        "size": 20
+      }
+    },
+    {
+      "key": "uid-ksmulvey",
+      "attributes": {
+        "label": "K Mulvey",
+        "name": "Kelly Lynn Mulvey",
+        "known?": true,
+        "orcid?": false,
+        "ncsu?": true,
+        "affiliations": [
+          "North Carolina State University"
+        ],
+        "countries": [
+          "US"
+        ],
+        "uid": "ksmulvey",
+        "url": "https://ci.lib.ncsu.edu/profiles/ksmulvey",
+        "active?": true,
+        "department": "Psychology",
+        "college": "College of Humanities and Social Sciences",
+        "ncsu_affiliations": [
+          "Psychology"
+        ],
+        "cluster?": false,
+        "clusters": [
+
+        ],
+        "role": "faculty",
+        "building": "Poe Hall",
+        "count": 54,
+        "oa_count": 20,
+        "years": [
+          2023,
+          2022,
+          2021,
+          2020,
+          2019,
+          2018
+        ],
+        "year_recent": 2023,
+        "article_concepts": [
+          "Accidental",
+          "Acoustics",
+          "Adult Learning",
+          "Adult education",
+          "Aggression",
+          "Ambivalence",
+          "Anthropology",
+          "Archaeology",
+          "Artificial intelligence",
+          "Attribution",
+          "Biology",
+          "Blame",
+          "Bystander effect",
+          "Card sorting",
+          "Career development",
+          "Class (philosophy)",
+          "Clinical psychology",
+          "Cluster (spacecraft)",
+          "Cognition",
+          "Cognitive psychology",
+          "Community of practice",
+          "Computer science",
+          "Context (archaeology)",
+          "Coronavirus disease 2019 (COVID-19)",
+          "Demographic economics",
+          "Developmental Science",
+          "Developmental psychology",
+          "Disease",
+          "Early childhood",
+          "Ecology",
+          "Economic growth",
+          "Economics",
+          "Educational research",
+          "Empathy",
+          "Engineering",
+          "Engineering ethics",
+          "Environmental health",
+          "Epistemology",
+          "Ethnic group",
+          "Exploratory factor analysis",
+          "Feeling",
+          "Forgiveness",
+          "Fragmentation (computing)",
+          "Gender gap",
+          "Gender role",
+          "Gender studies",
+          "General partnership",
+          "German",
+          "Girl",
+          "Government (linguistics)",
+          "Harm",
+          "Health care",
+          "Health literacy",
+          "Health psychology",
+          "Higher education",
+          "History",
+          "Hostility",
+          "Identity (music)",
+          "Immigration",
+          "Inclusion (mineral)",
+          "Infectious disease (medical specialty)",
+          "Informal education",
+          "Informal learning",
+          "Information literacy",
+          "Ingroups and outgroups",
+          "Interpersonal communication",
+          "Interpersonal relationship",
+          "Intervention (counseling)",
+          "Law",
+          "Linguistics",
+          "Literacy",
+          "MEDLINE",
+          "Management",
+          "Manifesto",
+          "Mathematics education",
+          "Medical education",
+          "Medicine",
+          "Morality",
+          "Neuroscience",
+          "Newspaper",
+          "Nursing",
+          "Operating system",
+          "Outgroup",
+          "Paleontology",
+          "Pandemic",
+          "Pathology",
+          "Pedagogy",
+          "Peer group",
+          "Peer victimization",
+          "Perception",
+          "Perspective (graphical)",
+          "Philosophy",
+          "Physics",
+          "Poison control",
+          "Political science",
+          "Positive Youth Development",
+          "Prejudice (legal term)",
+          "Process (computing)",
+          "Programming language",
+          "Prosocial behavior",
+          "PsycINFO",
+          "Psychiatry",
+          "Psychological intervention",
+          "Psychology",
+          "Psychometrics",
+          "Public health",
+          "Public relations",
+          "Punishment (psychology)",
+          "Quantum mechanics",
+          "Race (biology)",
+          "Recall",
+          "Refugee",
+          "SPARK (programming language)",
+          "Scale (ratio)",
+          "Science education",
+          "Science learning",
+          "Selection (genetic algorithm)",
+          "Set (abstract data type)",
+          "Social exclusion",
+          "Social group",
+          "Social identity theory",
+          "Social media",
+          "Social psychology",
+          "Social skills",
+          "Sociology",
+          "Stereotype (UML)",
+          "Student engagement",
+          "Suicide prevention",
+          "Task (project management)",
+          "Theory of mind",
+          "Turkish",
+          "Underrepresented Minority",
+          "Workforce",
+          "World Wide Web",
+          "Young adult"
+        ],
+        "host_venues": [
+          "British Journal of Development Psychology",
+          "Child Development",
+          "Cognitive Science",
+          "Cyberpsychology, Behavior, and Social Networking",
+          "Developmental Psychology",
+          "Early Childhood Research Quarterly",
+          "Frontiers in Psychology",
+          "Group Processes & Intergroup Relations",
+          "Human Development",
+          "Journal of Applied Developmental Psychology",
+          "Journal of Child and Family Studies",
+          "Journal of Diversity in Higher Education",
+          "Journal of Emotional and Behavioral Disorders",
+          "Journal of Experimental Child Psychology",
+          "Journal of Research in Science Teaching",
+          "Journal of Research on Adolescence",
+          "Journal of Science Education and Technology",
+          "Journal of Social Issues",
+          "Journal of Social and Personal Relationships",
+          "Journal of Sport & Exercise Psychology",
+          "Journal of Youth and Adolescence",
+          "Journal of experimental psychology",
+          "Merrill-palmer Quarterly-journal of Developmental Psychology",
+          "Monographs of The Society for Research in Child Development",
+          "New Directions for Child and Adolescent Development",
+          "PLOS ONE",
+          "Psychology of Violence",
+          "Research Quarterly for Exercise and Sport",
+          "Research in Science & Technological Education",
+          "School Psychology Review",
+          "Sex Roles",
+          "Visitor Studies",
+          "Youth & Society"
+        ],
+        "color": "#FAC800",
+        "size": 10
+      }
+    },
+    {
+      "key": "uid-ajjoy",
+      "attributes": {
+        "label": "A Joy",
+        "name": "Angelina Joy",
+        "known?": true,
+        "orcid?": false,
+        "ncsu?": true,
+        "affiliations": [
+          "North Carolina State University"
+        ],
+        "countries": [
+          "US"
+        ],
+        "uid": "ajjoy",
+        "url": "https://ci.lib.ncsu.edu/profiles/ajjoy",
+        "active?": true,
+        "department": null,
+        "college": null,
+        "ncsu_affiliations": [
+
+        ],
+        "cluster?": false,
+        "clusters": [
+
+        ],
+        "role": "student",
+        "building": null,
+        "count": 11,
+        "oa_count": 9,
+        "years": [
+          2023,
+          2022,
+          2021,
+          2020
+        ],
+        "year_recent": 2023,
+        "article_concepts": [
+          "Acoustics",
+          "Adult Learning",
+          "Adult education",
+          "Anthropology",
+          "Artificial intelligence",
+          "Biology",
+          "Career development",
+          "Class (philosophy)",
+          "Cluster (spacecraft)",
+          "Cognitive psychology",
+          "Community of practice",
+          "Computer science",
+          "Context (archaeology)",
+          "Coronavirus disease 2019 (COVID-19)",
+          "Developmental Science",
+          "Developmental psychology",
+          "Disease",
+          "Early childhood",
+          "Economic growth",
+          "Economics",
+          "Educational research",
+          "Engineering",
+          "Engineering ethics",
+          "Ethnic group",
+          "Gender studies",
+          "General partnership",
+          "Government (linguistics)",
+          "Health care",
+          "Health literacy",
+          "Health psychology",
+          "Higher education",
+          "Identity (music)",
+          "Inclusion (mineral)",
+          "Infectious disease (medical specialty)",
+          "Informal education",
+          "Informal learning",
+          "Information literacy",
+          "Interpersonal communication",
+          "Interpersonal relationship",
+          "Law",
+          "Linguistics",
+          "Literacy",
+          "Mathematics education",
+          "Medical education",
+          "Medicine",
+          "Neuroscience",
+          "Newspaper",
+          "Nursing",
+          "Operating system",
+          "Paleontology",
+          "Pandemic",
+          "Pathology",
+          "Pedagogy",
+          "Perception",
+          "Philosophy",
+          "Physics",
+          "Political science",
+          "Positive Youth Development",
+          "Process (computing)",
+          "Programming language",
+          "Psychology",
+          "Public health",
+          "Public relations",
+          "Recall",
+          "Science education",
+          "Science learning",
+          "Selection (genetic algorithm)",
+          "Social group",
+          "Social identity theory",
+          "Social media",
+          "Social psychology",
+          "Social skills",
+          "Sociology",
+          "Stereotype (UML)",
+          "Student engagement",
+          "Underrepresented Minority",
+          "Workforce",
+          "Young adult"
+        ],
+        "host_venues": [
+          "Frontiers in Psychology",
+          "Journal of Experimental Child Psychology",
+          "Journal of Research in Science Teaching",
+          "Journal of Youth and Adolescence",
+          "New Directions for Child and Adolescent Development",
+          "PLOS ONE",
+          "Research in Science & Technological Education",
+          "Sex Roles",
+          "Visitor Studies",
+          "Youth & Society"
+        ],
+        "color": "#000000",
+        "size": 10
+      }
+    },
+    {
+      "key": "uid-mwcaslin",
+      "attributes": {
+        "label": "M Caslin",
+        "name": "Michael Caslin",
+        "known?": true,
+        "orcid?": false,
+        "ncsu?": true,
+        "affiliations": [
+          "North Carolina State University"
+        ],
+        "countries": [
+          "US"
+        ],
+        "uid": "mwcaslin",
+        "url": "https://ci.lib.ncsu.edu/profiles/mwcaslin",
+        "active?": true,
+        "department": null,
+        "college": null,
+        "ncsu_affiliations": [
+
+        ],
+        "cluster?": false,
+        "clusters": [
+
+        ],
+        "role": "student",
+        "building": null,
+        "count": 1,
+        "oa_count": 0,
+        "years": [
+          2021
+        ],
+        "year_recent": 2021,
+        "article_concepts": [
+
+        ],
+        "host_venues": [
+          "Research in Science & Technological Education"
+        ],
+        "color": "#000000",
+        "size": 10
+      }
+    },
+    {
+      "key": "uid-deserye",
+      "attributes": {
+        "label": "D Eseryel",
+        "name": "Deniz Eseryel",
+        "known?": true,
+        "orcid?": true,
+        "ncsu?": true,
+        "affiliations": [
+          "North Carolina State University"
+        ],
+        "countries": [
+          "US"
+        ],
+        "uid": "deserye",
+        "url": "https://ci.lib.ncsu.edu/profiles/deserye",
+        "orcid": "0000-0002-6274-4633",
+        "active?": true,
+        "department": "Digital Transformation of Education",
+        "college": "NC State",
+        "ncsu_affiliations": [
+          "Digital Transformation of Education",
+          "Education"
+        ],
+        "cluster?": true,
+        "clusters": [
+          "Digital Transformation of Education"
+        ],
+        "role": "faculty",
+        "building": "Poe Hall",
+        "count": 46,
+        "oa_count": 7,
+        "years": [
+          2021,
+          2018,
+          2017,
+          2016,
+          2015,
+          2014,
+          2013,
+          2012,
+          2011,
+          2010,
+          2009,
+          2005,
+          2004,
+          2003,
+          2002,
+          1999
+        ],
+        "year_recent": 2021,
+        "article_concepts": [
+          "Adventure",
+          "Artificial intelligence",
+          "Biology",
+          "Class (philosophy)",
+          "Cognition",
+          "Cognitive psychology",
+          "Computer science",
+          "Dreyfus model of skill acquisition",
+          "Economic growth",
+          "Economics",
+          "Environmental health",
+          "Game design",
+          "Geometry",
+          "Human multitasking",
+          "Mathematics",
+          "Mathematics education",
+          "Medical education",
+          "Medicine",
+          "Mobile device",
+          "Multimedia",
+          "Neuroscience",
+          "Paleontology",
+          "Point (geometry)",
+          "Population",
+          "Psychology",
+          "Teaching method",
+          "Test (biology)",
+          "The Internet",
+          "World Wide Web"
+        ],
+        "host_venues": [
+          "ASME 2016 International Mechanical Engineering Congress and Exposition",
+          "ASME 2017 International Mechanical Engineering Congress and Exposition",
+          "Computer-aided Design and Applications",
+          "Educational Technology Research and Development",
+          "IGI Global eBooks",
+          "International Conference on Intelligent Transportation Systems",
+          "Journal of Computing in Higher Education",
+          "Journal of Educational Computing Research",
+          "Journal of Information Technology Education : Innovations in Practice",
+          "Journal of Strategic Information Systems",
+          "Research in Science & Technological Education",
+          "Springer New York eBooks",
+          "Technology, Knowledge, and Learning"
+        ],
+        "color": "#BD5383",
+        "size": 10
+      }
+    },
+    {
+      "key": "uid-mkatti",
+      "attributes": {
+        "label": "M Katti",
+        "name": "Madhusudan Katti",
+        "known?": true,
+        "orcid?": true,
+        "ncsu?": true,
+        "affiliations": [
+          "North Carolina State University"
+        ],
+        "countries": [
+          "US"
+        ],
+        "uid": "mkatti",
+        "url": "https://ci.lib.ncsu.edu/profiles/mkatti",
+        "orcid": "0000-0003-3076-3562",
+        "active?": true,
+        "department": "Forestry & Environmental Resources",
+        "college": "College of Natural Resources",
+        "ncsu_affiliations": [
+          "Forestry & Environmental Resources",
+          "Global Water, Sanitation and Hygiene",
+          "Leadership in Public Science"
+        ],
+        "cluster?": true,
+        "clusters": [
+          "Global Water, Sanitation and Hygiene",
+          "Leadership in Public Science"
+        ],
+        "role": "faculty",
+        "building": "Jordan Hall Addition",
+        "count": 77,
+        "oa_count": 25,
+        "years": [
+          2022,
+          2021,
+          2020,
+          2019,
+          2018,
+          2017,
+          2016,
+          2014,
+          2013,
+          2012,
+          2011,
+          2010,
+          2009,
+          2008,
+          2007,
+          2006,
+          2005,
+          2004,
+          2003,
+          2002,
+          2001,
+          1999,
+          1997,
+          1996,
+          1995,
+          1994,
+          1992,
+          1990,
+          1989
+        ],
+        "year_recent": 2022,
+        "keywords": [
+          "urban ecology",
+          "public science",
+          "reconciliation ecology",
+          "conservation",
+          "evolutionary biology",
+          "biodiversity"
+        ],
+        "article_concepts": [
+          "Acoustics",
+          "Agroforestry",
+          "Anatomy",
+          "Anolis",
+          "Anthropology",
+          "Archaeology",
+          "Artificial intelligence",
+          "Bacillus (shape)",
+          "Bacillus pumilus",
+          "Bacteria",
+          "Biochemistry",
+          "Biodiversity",
+          "Biodiversity conservation",
+          "Biodiversity hotspot",
+          "Biology",
+          "Biosphere",
+          "Biota",
+          "Botany",
+          "Business",
+          "Canopy",
+          "Cartography",
+          "Citizen science",
+          "Cognitive science",
+          "Computer science",
+          "Demography",
+          "Disturbance (geology)",
+          "Diversity (politics)",
+          "Ecology",
+          "Economic growth",
+          "Economics",
+          "Ecosystem",
+          "Ecosystem services",
+          "Embedded system",
+          "Engineering",
+          "Environmental ethics",
+          "Environmental planning",
+          "Environmental resource management",
+          "Environmental science",
+          "Environmental stewardship",
+          "Epistemology",
+          "Evolutionary biology",
+          "Feces",
+          "Finance",
+          "Finch",
+          "Flexibility (engineering)",
+          "Functional diversity",
+          "Gene",
+          "Genetics",
+          "Genome",
+          "Geography",
+          "Global biodiversity",
+          "Green infrastructure",
+          "Habitat",
+          "Iguanidae",
+          "Image (mathematics)",
+          "Inclusion (mineral)",
+          "Indigenous",
+          "Internet privacy",
+          "Introduced species",
+          "Land cover",
+          "Land use",
+          "Landscaping",
+          "Law",
+          "Lizard",
+          "Management",
+          "Marketing",
+          "Metropolitan area",
+          "Microbial ecology",
+          "Microbiology",
+          "Natural (archaeology)",
+          "Natural resource",
+          "Natural selection",
+          "Nexus (standard)",
+          "Noise (video)",
+          "Paleontology",
+          "Philosophy",
+          "Phylogenetic diversity",
+          "Phylogenetic tree",
+          "Physical geography",
+          "Physics",
+          "Planetary boundaries",
+          "Plant diversity",
+          "Plant species",
+          "Political science",
+          "Politics",
+          "Population",
+          "Promotion (chess)",
+          "Psychology",
+          "Public relations",
+          "Rebranding",
+          "Reproduction",
+          "Sauria",
+          "Scale (ratio)",
+          "Selection (genetic algorithm)",
+          "Social capital",
+          "Social media",
+          "Social science",
+          "Socioeconomic status",
+          "Sociology",
+          "Sociology of scientific knowledge",
+          "Sound (geography)",
+          "Soundscape",
+          "Sparrow",
+          "Species richness",
+          "Stewardship (theology)",
+          "Strain (injury)",
+          "Sustainability",
+          "The Internet",
+          "Threatened species",
+          "Thriving",
+          "Traditional knowledge",
+          "Understory",
+          "Urban ecology",
+          "Urban ecosystem",
+          "Urban planning",
+          "Urbanization",
+          "Warrant",
+          "Water resource management",
+          "Whole genome sequencing",
+          "Wildlife",
+          "World Wide Web",
+          "Zoning",
+          "Zoology",
+          "photoperiodism"
+        ],
+        "host_venues": [
+          "Animal Behaviour",
+          "BioScience",
+          "Computers, Environment and Urban Systems",
+          "Diversity and Distributions",
+          "Ecography",
+          "Ecology",
+          "Frontiers in Ecology and Evolution",
+          "Genome Announcements",
+          "Ideas in Ecology and Evolution",
+          "Inter disciplina",
+          "Journal of Animal Ecology",
+          "Journal of Theoretical Biology",
+          "Journal of Urban Ecology",
+          "Nature",
+          "Nature Ecology and Evolution",
+          "Nature Precedings",
+          "Proceedings of The Royal Society B: Biological Sciences",
+          "Research in Science & Technological Education",
+          "Science",
+          "Springer Netherlands eBooks",
+          "Sustainability",
+          "The American Naturalist",
+          "The Journal of Experimental Biology",
+          "Trends in Ecology and Evolution",
+          "Urban Ecosystems",
+          "bioRxiv"
+        ],
+        "color": "#855735",
+        "size": 10
+      }
+    },
+    {
+      "key": "datacite",
+      "attributes": {
+        "label": "DataCite",
+        "name": "DataCite ",
+        "known?": false,
+        "orcid?": null,
+        "ncsu?": null,
+        "affiliations": null,
+        "countries": null,
+        "color": "#BFBFBD",
+        "size": 10
+      }
+    },
+    {
+      "key": "jasonjefferies",
+      "attributes": {
+        "label": "J Jefferies",
+        "name": "Jason Jefferies",
+        "known?": false,
+        "orcid?": null,
+        "ncsu?": null,
+        "affiliations": null,
+        "countries": null,
+        "color": "#BFBFBD",
+        "size": 10
+      }
+    },
+    {
+      "key": "markuswust",
+      "attributes": {
+        "label": "M Wust",
+        "name": "Markus Wust",
+        "known?": false,
+        "orcid?": null,
+        "ncsu?": null,
+        "affiliations": null,
+        "countries": null,
+        "color": "#BFBFBD",
+        "size": 10
+      }
+    },
+    {
+      "key": "natashacooper",
+      "attributes": {
+        "label": "N Cooper",
+        "name": "Natasha Cooper",
+        "known?": false,
+        "orcid?": null,
+        "ncsu?": false,
+        "affiliations": [
+
+        ],
+        "countries": [
+
+        ],
+        "color": "#BFBFBD",
+        "size": 10
+      }
+    },
+    {
+      "key": "petermccracken",
+      "attributes": {
+        "label": "P McCracken",
+        "name": "Peter McCracken",
+        "known?": false,
+        "orcid?": null,
+        "ncsu?": false,
+        "affiliations": [
+
+        ],
+        "countries": [
+
+        ],
+        "color": "#BFBFBD",
+        "size": 10
+      }
+    },
+    {
+      "key": "ellenrotenberg",
+      "attributes": {
+        "label": "E Rotenberg",
+        "name": "Ellen Rotenberg",
+        "known?": false,
+        "orcid?": null,
+        "ncsu?": false,
+        "affiliations": [
+
+        ],
+        "countries": [
+
+        ],
+        "color": "#BFBFBD",
+        "size": 10
+      }
+    },
+    {
+      "key": "uid-mpark",
+      "attributes": {
+        "label": "M Waller",
+        "name": "Mira Waller",
+        "known?": true,
+        "orcid?": true,
+        "ncsu?": true,
+        "affiliations": [
+          "North Carolina State University"
+        ],
+        "countries": [
+          "US"
+        ],
+        "uid": "mpark",
+        "url": "https://ci.lib.ncsu.edu/profiles/mpark",
+        "orcid": "0000-0003-3829-1803",
+        "active?": false,
+        "department": "NC State University Libraries",
+        "college": "NC State University Libraries",
+        "ncsu_affiliations": [
+          "NC State University Libraries"
+        ],
+        "cluster?": false,
+        "clusters": [
+
+        ],
+        "role": "faculty",
+        "building": null,
+        "count": 18,
+        "oa_count": 5,
+        "years": [
+          2019,
+          2018,
+          2017,
+          2011,
+          2009
+        ],
+        "year_recent": 2019,
+        "keywords": [
+          "Librarian",
+          "Research engagement",
+          "Liaison",
+          "Data Science",
+          "Scholarly Communication",
+          "Open practice"
+        ],
+        "article_concepts": [
+          "Academic library",
+          "Aeronautics",
+          "Architectural engineering",
+          "Art",
+          "Biochemistry",
+          "Chemistry",
+          "Computer science",
+          "Curriculum",
+          "Data collection",
+          "Data science",
+          "Engineering",
+          "Engineering management",
+          "Gene",
+          "History",
+          "Knowledge management",
+          "Law",
+          "Library science",
+          "Marine engineering",
+          "Nuts and bolts",
+          "Open educational resources",
+          "Political science",
+          "Programming language",
+          "Publishing",
+          "Scaffold",
+          "Scholarly communication",
+          "Social science",
+          "Sociology",
+          "Structural engineering",
+          "Subject (documents)",
+          "Subject matter",
+          "Transformation (genetics)",
+          "Viewpoints",
+          "Visual arts",
+          "World Wide Web"
+        ],
+        "host_venues": [
+          "Charleston Conference",
+          "Journal of Scholarly Publishing"
+        ],
+        "color": "#BD5383",
+        "size": 10
+      }
+    },
+    {
+      "key": "scottawarren",
+      "attributes": {
+        "label": "S Warren",
+        "name": "Scott A Warren",
+        "known?": false,
+        "orcid?": null,
+        "ncsu?": false,
+        "affiliations": [
+
+        ],
+        "countries": [
+
+        ],
+        "color": "#BFBFBD",
+        "size": 10
+      }
+    },
+    {
+      "key": "uid-amwisema",
+      "attributes": {
+        "label": "A Wiseman",
+        "name": "Angela Wiseman",
+        "known?": true,
+        "orcid?": true,
+        "ncsu?": true,
+        "affiliations": [
+          "North Carolina State University"
+        ],
+        "countries": [
+          "US"
+        ],
+        "uid": "amwisema",
+        "url": "https://ci.lib.ncsu.edu/profiles/amwisema",
+        "orcid": "0000-0001-6894-5498",
+        "active?": true,
+        "department": "Elementary Education",
+        "college": "College of Education",
+        "ncsu_affiliations": [
+          "Elementary Education",
+          "Education"
+        ],
+        "cluster?": false,
+        "clusters": [
+
+        ],
+        "role": "faculty",
+        "building": "Poe Hall",
+        "count": 24,
+        "oa_count": 1,
+        "years": [
+          2022,
+          2021,
+          2020,
+          2019,
+          2018,
+          2017,
+          2016,
+          2013,
+          2012,
+          2011,
+          2009
+        ],
+        "year_recent": 2022,
+        "article_concepts": [
+          "Higher education",
+          "Instructional design",
+          "Law",
+          "Mathematics education",
+          "Pedagogy",
+          "Political science",
+          "Psychology",
+          "Sociology",
+          "Teacher education",
+          "Teaching method"
+        ],
+        "host_venues": [
+          "Childrens Literature in Education",
+          "Collection Management",
+          "Early Childhood Education Journal",
+          "English teaching",
+          "European Journal of Teacher Education",
+          "Journal of Adolescent & Adult Literacy",
+          "Journal of Early Childhood Literacy",
+          "Journal of Latinos and Education",
+          "Journal of Research in Childhood Education",
+          "Journal of Social Work Education",
+          "Literacy",
+          "Pedagogies: An International Journal",
+          "Reading & Writing Quarterly"
+        ],
+        "color": "#D14905",
+        "size": 10
+      }
+    },
+    {
+      "key": "awiseman",
+      "attributes": {
+        "label": "A Wiseman",
+        "name": "A. Wiseman",
+        "known?": false,
+        "orcid?": null,
+        "ncsu?": null,
+        "affiliations": null,
+        "countries": null,
+        "color": "#BFBFBD",
+        "size": 10
+      }
+    },
+    {
+      "key": "uid-hjtebbe",
+      "attributes": {
+        "label": "H Tebbe",
+        "name": "Heidi Tebbe",
+        "known?": true,
+        "orcid?": true,
+        "ncsu?": true,
+        "affiliations": [
+          "North Carolina State University"
+        ],
+        "countries": [
+          "US"
+        ],
+        "uid": "hjtebbe",
+        "url": "https://ci.lib.ncsu.edu/profiles/hjtebbe",
+        "orcid": "0000-0002-5482-4035",
+        "active?": false,
+        "department": "NC State University Libraries",
+        "college": "NC State University Libraries",
+        "ncsu_affiliations": [
+          "NC State University Libraries"
+        ],
+        "cluster?": false,
+        "clusters": [
+
+        ],
+        "role": "faculty",
+        "building": null,
+        "count": 3,
+        "oa_count": 2,
+        "years": [
+          2017,
+          2016
+        ],
+        "year_recent": 2017,
+        "article_concepts": [
+          "Architectural engineering",
+          "Biochemistry",
+          "Chemistry",
+          "Computer science",
+          "Data science",
+          "Engineering",
+          "Gene",
+          "Nuts and bolts",
+          "Structural engineering",
+          "Transformation (genetics)",
+          "World Wide Web"
+        ],
+        "host_venues": [
+          "Charleston Conference",
+          "Serials Review"
+        ],
+        "color": "#BD5383",
+        "size": 10
+      }
+    },
+    {
+      "key": "williammcross",
+      "attributes": {
+        "label": "W Cross",
+        "name": "William M. Cross",
+        "known?": false,
+        "orcid?": null,
+        "ncsu?": false,
+        "affiliations": [
+
+        ],
+        "countries": [
+
+        ],
+        "color": "#BFBFBD",
+        "size": 10
+      }
+    },
+    {
+      "key": "nancyherther",
+      "attributes": {
+        "label": "N Herther",
+        "name": "Nancy Herther",
+        "known?": false,
+        "orcid?": null,
+        "ncsu?": false,
+        "affiliations": [
+
+        ],
+        "countries": [
+
+        ],
+        "color": "#BFBFBD",
+        "size": 10
+      }
+    },
+    {
+      "key": "danieldollar",
+      "attributes": {
+        "label": "D Dollar",
+        "name": "Daniel Dollar",
+        "known?": false,
+        "orcid?": null,
+        "ncsu?": false,
+        "affiliations": [
+
+        ],
+        "countries": [
+
+        ],
+        "color": "#BFBFBD",
+        "size": 10
+      }
+    },
+    {
+      "key": "https://orcid.org/0000-0002-7898-3428",
+      "attributes": {
+        "label": "A Wise",
+        "name": "Alicia Wise",
+        "known?": false,
+        "orcid?": null,
+        "ncsu?": false,
+        "affiliations": [
+
+        ],
+        "countries": [
+
+        ],
+        "color": "#BFBFBD",
+        "size": 10
+      }
+    },
+    {
+      "key": "megwhite",
+      "attributes": {
+        "label": "M White",
+        "name": "Meg White",
+        "known?": false,
+        "orcid?": null,
+        "ncsu?": false,
+        "affiliations": [
+
+        ],
+        "countries": [
+
+        ],
+        "color": "#BFBFBD",
+        "size": 10
+      }
+    },
+    {
+      "key": "crossrefmetadatasearch",
+      "attributes": {
+        "label": "C Search",
+        "name": "Crossref Metadata Search",
+        "known?": false,
+        "orcid?": null,
+        "ncsu?": null,
+        "affiliations": null,
+        "countries": null,
+        "color": "#BFBFBD",
+        "size": 10
+      }
+    },
+    {
+      "key": "marcsinger",
+      "attributes": {
+        "label": "Orcutt",
+        "name": "Marc Singer",
+        "known?": false,
+        "orcid?": null,
+        "ncsu?": false,
+        "affiliations": [
+
+        ],
+        "countries": [
+
+        ],
+        "color": "#BFBFBD",
+        "size": 10
+      }
+    },
+    {
+      "key": "genyaogara",
+      "attributes": {
+        "label": "G O'Gara",
+        "name": "Genya O'Gara",
+        "known?": false,
+        "orcid?": null,
+        "ncsu?": false,
+        "affiliations": [
+
+        ],
+        "countries": [
+
+        ],
+        "color": "#BFBFBD",
+        "size": 10
+      }
+    },
+    {
+      "key": "u-28412",
+      "attributes": {
+        "label": "B Norberg",
+        "name": "Brian Robert Norberg",
+        "known?": true,
+        "orcid?": false,
+        "ncsu?": true,
+        "affiliations": [
+          "North Carolina State University"
+        ],
+        "countries": [
+          "US"
+        ],
+        "url": "https://ci.lib.ncsu.edu/profiles/28412",
+        "active?": false,
+        "department": "NC State University Libraries",
+        "college": "NC State University Libraries",
+        "ncsu_affiliations": [
+          "NC State University Libraries"
+        ],
+        "cluster?": false,
+        "clusters": [
+
+        ],
+        "role": null,
+        "building": null,
+        "count": 3,
+        "oa_count": 1,
+        "years": [
+          2014,
+          2012,
+          2011
+        ],
+        "year_recent": 2014,
+        "article_concepts": [
+          "Computer science",
+          "Internet privacy",
+          "Mashup",
+          "The Internet",
+          "Web standards",
+          "World Wide Web"
+        ],
+        "host_venues": [
+          "Charleston Conference"
+        ],
+        "color": "#BD5383",
+        "size": 10
+      }
+    },
+    {
+      "key": "uid-jnvicker",
+      "attributes": {
+        "label": "J Vickery",
+        "name": "John Vickery",
+        "known?": true,
+        "orcid?": true,
+        "ncsu?": true,
+        "affiliations": [
+          "North Carolina State University"
+        ],
+        "countries": [
+          "US"
+        ],
+        "uid": "jnvicker",
+        "url": "https://ci.lib.ncsu.edu/profiles/jnvicker",
+        "orcid": "0000-0001-9875-3809",
+        "active?": true,
+        "department": "NC State University Libraries",
+        "college": "NC State University Libraries",
+        "ncsu_affiliations": [
+          "NC State University Libraries"
+        ],
+        "cluster?": false,
+        "clusters": [
+
+        ],
+        "role": "faculty",
+        "building": "D.H. Hill Jr. Library (East Wi",
+        "count": 6,
+        "oa_count": 3,
+        "years": [
+          2020,
+          2015,
+          2012,
+          2011,
+          2007
+        ],
+        "year_recent": 2020,
+        "article_concepts": [
+          "Business",
+          "Computer science",
+          "Computer security",
+          "Currency",
+          "Data science",
+          "Economics",
+          "Emphasis (telecommunications)",
+          "Epistemology",
+          "Focus (optics)",
+          "Information retrieval",
+          "Internet privacy",
+          "Key (lock)",
+          "Law",
+          "Marketing",
+          "Mashup",
+          "Monetary economics",
+          "Optics",
+          "Paradigm shift",
+          "Philosophy",
+          "Physics",
+          "Political science",
+          "Publishing",
+          "Relevance (law)",
+          "Scholarly communication",
+          "Service (business)",
+          "Telecommunications",
+          "The Internet",
+          "Web standards",
+          "World Wide Web"
+        ],
+        "host_venues": [
+          "Charleston Conference",
+          "Evidence Based Library and Information Practice",
+          "Serials Review"
+        ],
+        "color": "#BD5383",
+        "size": 10
+      }
+    },
+    {
+      "key": "bnorberg",
+      "attributes": {
+        "label": "B Norberg",
+        "name": "B. Norberg",
+        "known?": false,
+        "orcid?": null,
+        "ncsu?": null,
+        "affiliations": null,
+        "countries": null,
+        "color": "#BFBFBD",
+        "size": 10
+      }
+    },
+    {
+      "key": "jvickery",
+      "attributes": {
+        "label": "J Vickery",
+        "name": "J. Vickery",
+        "known?": false,
+        "orcid?": null,
+        "ncsu?": null,
+        "affiliations": null,
+        "countries": null,
+        "color": "#BFBFBD",
+        "size": 10
+      }
+    },
+    {
+      "key": "ogarag",
+      "attributes": {
+        "label": "O G.",
+        "name": "O’Gara G.",
+        "known?": false,
+        "orcid?": null,
+        "ncsu?": null,
+        "affiliations": null,
+        "countries": null,
+        "color": "#BFBFBD",
+        "size": 10
+      }
+    },
+    {
+      "key": "bberg",
+      "attributes": {
+        "label": "B Berg",
+        "name": "B. Berg",
+        "known?": false,
+        "orcid?": null,
+        "ncsu?": null,
+        "affiliations": null,
+        "countries": null,
+        "color": "#BFBFBD",
+        "size": 10
+      }
+    },
+    {
+      "key": "bdenton",
+      "attributes": {
+        "label": "B Denton",
+        "name": "B. Denton",
+        "known?": false,
+        "orcid?": null,
+        "ncsu?": null,
+        "affiliations": null,
+        "countries": null,
+        "color": "#BFBFBD",
+        "size": 10
+      }
+    },
+    {
+      "key": "hnelson",
+      "attributes": {
+        "label": "H Nelson",
+        "name": "H. Nelson",
+        "known?": false,
+        "orcid?": null,
+        "ncsu?": null,
+        "affiliations": null,
+        "countries": null,
+        "color": "#BFBFBD",
+        "size": 10
+      }
+    },
+    {
+      "key": "hbalasubramanian",
+      "attributes": {
+        "label": "H Balasubramanian",
+        "name": "H. Balasubramanian",
+        "known?": false,
+        "orcid?": null,
+        "ncsu?": null,
+        "affiliations": null,
+        "countries": null,
+        "color": "#BFBFBD",
+        "size": 10
+      }
+    },
+    {
+      "key": "arahman",
+      "attributes": {
+        "label": "A Rahman",
+        "name": "A. Rahman",
+        "known?": false,
+        "orcid?": null,
+        "ncsu?": null,
+        "affiliations": null,
+        "countries": null,
+        "color": "#BFBFBD",
+        "size": 10
+      }
+    },
+    {
+      "key": "abailey",
+      "attributes": {
+        "label": "A Bailey",
+        "name": "A. Bailey",
+        "known?": false,
+        "orcid?": null,
+        "ncsu?": null,
+        "affiliations": null,
+        "countries": null,
+        "color": "#BFBFBD",
+        "size": 10
+      }
+    },
+    {
+      "key": "klindor",
+      "attributes": {
+        "label": "K Lindor",
+        "name": "K. Lindor",
+        "known?": false,
+        "orcid?": null,
+        "ncsu?": null,
+        "affiliations": null,
+        "countries": null,
+        "color": "#BFBFBD",
+        "size": 10
+      }
+    },
+    {
+      "key": "uid-hmdavis4",
+      "attributes": {
+        "label": "H Davis",
+        "name": "Hilary Davis",
+        "known?": true,
+        "orcid?": true,
+        "ncsu?": true,
+        "affiliations": [
+          "North Carolina State University"
+        ],
+        "countries": [
+          "US"
+        ],
+        "uid": "hmdavis4",
+        "url": "https://ci.lib.ncsu.edu/profiles/hmdavis4",
+        "orcid": "0000-0002-2613-1717",
+        "active?": true,
+        "department": "NC State University Libraries",
+        "college": "NC State University Libraries",
+        "ncsu_affiliations": [
+          "NC State University Libraries"
+        ],
+        "cluster?": false,
+        "clusters": [
+
+        ],
+        "role": "faculty",
+        "building": "D.H. Hill Jr. Library (East Wi",
+        "count": 38,
+        "oa_count": 13,
+        "years": [
+          2022,
+          2020,
+          2019,
+          2018,
+          2017,
+          2016,
+          2015,
+          2014,
+          2013,
+          2012,
+          2011,
+          2010,
+          2009,
+          2008,
+          2007,
+          2005
+        ],
+        "year_recent": 2022,
+        "keywords": [
+          "Collection strategy",
+          "research engagement",
+          "librarian",
+          "science librarian",
+          "research data services",
+          "NCSU"
+        ],
+        "article_concepts": [
+          "Accounting",
+          "Algorithm",
+          "Art",
+          "Audit",
+          "Biology",
+          "Biomedicine",
+          "Business",
+          "Collection development",
+          "Commit",
+          "Computer network",
+          "Computer science",
+          "Computer security",
+          "Context (archaeology)",
+          "Currency",
+          "Data collection",
+          "Data science",
+          "Database",
+          "Economics",
+          "Emphasis (telecommunications)",
+          "Engineering",
+          "Epistemology",
+          "Focus (optics)",
+          "Genetics",
+          "Geometry",
+          "Impromptu",
+          "Interlibrary loan",
+          "Key (lock)",
+          "Knowledge management",
+          "Law",
+          "Library science",
+          "Marketing",
+          "Mathematics",
+          "Mechanical engineering",
+          "Medicine",
+          "Monetary economics",
+          "Operating system",
+          "Optics",
+          "Outreach",
+          "Paleontology",
+          "Paradigm shift",
+          "Philosophy",
+          "Physics",
+          "Point (geometry)",
+          "Political science",
+          "Presentation (obstetrics)",
+          "Process (computing)",
+          "Programming language",
+          "Psychology",
+          "Public administration",
+          "Public relations",
+          "Publishing",
+          "RDM",
+          "Radiology",
+          "Scholarly communication",
+          "Service (business)",
+          "Session (web analytics)",
+          "Set (abstract data type)",
+          "South carolina",
+          "Space (punctuation)",
+          "State (computer science)",
+          "Statistics",
+          "Subject (documents)",
+          "Telecommunications",
+          "Work (physics)",
+          "Workflow",
+          "World Wide Web"
+        ],
+        "host_venues": [
+          "Charleston Conference",
+          "Collection Management",
+          "Insights: The UKSG Journal",
+          "Journal of Librarianship and Scholarly Communication",
+          "Library Resources & Technical Services",
+          "Proceedings of the Association for Information Science and Technology",
+          "Serials Review",
+          "against the grain"
+        ],
+        "color": "#BD5383",
+        "size": 10
+      }
+    },
+    {
+      "key": "https://orcid.org/0000-0002-8405-4780",
+      "attributes": {
+        "label": "A Day",
+        "name": "Annette Day",
+        "known?": true,
+        "orcid?": false,
+        "ncsu?": true,
+        "affiliations": [
+          "North Carolina State University"
+        ],
+        "countries": [
+          "US"
+        ],
+        "url": "https://ci.lib.ncsu.edu/profiles/10965",
+        "active?": false,
+        "department": "NC State University Libraries",
+        "college": "NC State University Libraries",
+        "ncsu_affiliations": [
+          "NC State University Libraries"
+        ],
+        "cluster?": false,
+        "clusters": [
+
+        ],
+        "role": null,
+        "building": null,
+        "count": 2,
+        "oa_count": 2,
+        "years": [
+          2008
+        ],
+        "year_recent": 2008,
+        "article_concepts": [
+          "Algorithm",
+          "Biology",
+          "Biomedicine",
+          "Collection development",
+          "Computer science",
+          "Genetics",
+          "Interlibrary loan",
+          "Library science",
+          "Political science",
+          "Public administration",
+          "Session (web analytics)",
+          "South carolina",
+          "State (computer science)",
+          "World Wide Web"
+        ],
+        "host_venues": [
+          "Collection Management"
+        ],
+        "color": "#BD5383",
+        "size": 10
+      }
+    },
+    {
+      "key": "traceypowell",
+      "attributes": {
+        "label": "T Powell",
+        "name": "Tracey Powell",
+        "known?": false,
+        "orcid?": null,
+        "ncsu?": false,
+        "affiliations": [
+
+        ],
+        "countries": [
+
+        ],
+        "color": "#BFBFBD",
+        "size": 10
+      }
+    },
+    {
+      "key": "u-10965",
+      "attributes": {
+        "label": "A Day",
+        "name": "Annette Day",
+        "known?": true,
+        "orcid?": false,
+        "ncsu?": true,
+        "affiliations": [
+          "North Carolina State University"
+        ],
+        "countries": [
+          "US"
+        ],
+        "url": "https://ci.lib.ncsu.edu/profiles/10965",
+        "active?": false,
+        "department": "NC State University Libraries",
+        "college": "NC State University Libraries",
+        "ncsu_affiliations": [
+          "NC State University Libraries"
+        ],
+        "cluster?": false,
+        "clusters": [
+
+        ],
+        "role": null,
+        "building": null,
+        "count": 2,
+        "oa_count": 2,
+        "years": [
+          2008
+        ],
+        "year_recent": 2008,
+        "article_concepts": [
+          "Algorithm",
+          "Biology",
+          "Biomedicine",
+          "Collection development",
+          "Computer science",
+          "Genetics",
+          "Interlibrary loan",
+          "Library science",
+          "Political science",
+          "Public administration",
+          "Session (web analytics)",
+          "South carolina",
+          "State (computer science)",
+          "World Wide Web"
+        ],
+        "host_venues": [
+          "Collection Management"
+        ],
+        "color": "#BD5383",
+        "size": 10
+      }
+    }
+  ],
+  "edges": [
+    {
+      "source": "uid-dcorcutt",
+      "target": "uid-ksmulvey",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Genetic Engineering and Society -- Psychology",
+        "colleges": "College of Humanities and Social Sciences -- NC State",
+        "buildings": "D.H. Hill Jr. Library (East Wi -- Poe Hall",
+        "roles": "faculty == faculty",
+        "years": [
+          2021
+        ],
+        "year_recent": 2021,
+        "dois": [
+          "10.1080/02635143.2021.1944077"
+        ],
+        "ncsu?": true,
+        "cross_college?": true,
+        "cross_department?": true,
+        "cross_unit?": true,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": true,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          "Research in Science & Technological Education"
+        ],
+        "color": "#FAC800",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-dcorcutt",
+      "target": "uid-ajjoy",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Genetic Engineering and Society --- unknown",
+        "colleges": "NC State --- unknown",
+        "buildings": "D.H. Hill Jr. Library (East Wi --- unknown",
+        "roles": "faculty -- student",
+        "years": [
+          2021
+        ],
+        "year_recent": 2021,
+        "dois": [
+          "10.1080/02635143.2021.1944077"
+        ],
+        "ncsu?": true,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          "Research in Science & Technological Education"
+        ],
+        "color": "#CC0000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-dcorcutt",
+      "target": "uid-mwcaslin",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Genetic Engineering and Society --- unknown",
+        "colleges": "NC State --- unknown",
+        "buildings": "D.H. Hill Jr. Library (East Wi --- unknown",
+        "roles": "faculty -- student",
+        "years": [
+          2021
+        ],
+        "year_recent": 2021,
+        "dois": [
+          "10.1080/02635143.2021.1944077"
+        ],
+        "ncsu?": true,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          "Research in Science & Technological Education"
+        ],
+        "color": "#CC0000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-dcorcutt",
+      "target": "uid-deserye",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Digital Transformation of Education -- Genetic Engineering and Society",
+        "colleges": "NC State == NC State",
+        "buildings": "D.H. Hill Jr. Library (East Wi -- Poe Hall",
+        "roles": "faculty == faculty",
+        "years": [
+          2021
+        ],
+        "year_recent": 2021,
+        "dois": [
+          "10.1080/02635143.2021.1944077"
+        ],
+        "ncsu?": true,
+        "cross_college?": false,
+        "cross_department?": true,
+        "cross_unit?": true,
+        "cluster?": true,
+        "clusters?": true,
+        "cross_cluster?": true,
+        "clusters": [
+          "Digital Transformation of Education",
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": true,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          "Research in Science & Technological Education"
+        ],
+        "color": "#CC0000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-dcorcutt",
+      "target": "uid-mkatti",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Forestry & Environmental Resources -- Genetic Engineering and Society",
+        "colleges": "College of Natural Resources -- NC State",
+        "buildings": "D.H. Hill Jr. Library (East Wi -- Jordan Hall Addition",
+        "roles": "faculty == faculty",
+        "years": [
+          2021
+        ],
+        "year_recent": 2021,
+        "dois": [
+          "10.1080/02635143.2021.1944077"
+        ],
+        "ncsu?": true,
+        "cross_college?": true,
+        "cross_department?": true,
+        "cross_unit?": true,
+        "cluster?": true,
+        "clusters?": true,
+        "cross_cluster?": true,
+        "clusters": [
+          "Genetic Engineering and Society",
+          "Global Water, Sanitation and Hygiene",
+          "Leadership in Public Science"
+        ],
+        "cross_building?": true,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          "Research in Science & Technological Education"
+        ],
+        "color": "#FAC800",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-dcorcutt",
+      "target": "datacite",
+      "attributes": {
+        "label": 6,
+        "weight": 6,
+        "collaboration_count": 6,
+        "departments": "Genetic Engineering and Society --- unknown",
+        "colleges": "NC State --- unknown",
+        "buildings": "D.H. Hill Jr. Library (East Wi --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          2020,
+          2020,
+          2020,
+          2020,
+          2020,
+          2020
+        ],
+        "year_recent": 2020,
+        "dois": [
+          "10.6084/m9.figshare.11916759.v1",
+          "10.6084/m9.figshare.11916759",
+          "10.6084/m9.figshare.11908011.v1",
+          "10.6084/m9.figshare.11908011",
+          "10.6084/m9.figshare.11908338.v1",
+          "10.6084/m9.figshare.11908338"
+        ],
+        "ncsu?": null,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          null
+        ],
+        "color": "#000000",
+        "size": 6
+      }
+    },
+    {
+      "source": "uid-dcorcutt",
+      "target": "jasonjefferies",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Genetic Engineering and Society --- unknown",
+        "colleges": "NC State --- unknown",
+        "buildings": "D.H. Hill Jr. Library (East Wi --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          2017
+        ],
+        "year_recent": 2017,
+        "dois": [
+
+        ],
+        "ncsu?": null,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          null
+        ],
+        "color": "#000000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-dcorcutt",
+      "target": "markuswust",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Genetic Engineering and Society --- unknown",
+        "colleges": "NC State --- unknown",
+        "buildings": "D.H. Hill Jr. Library (East Wi --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          2017
+        ],
+        "year_recent": 2017,
+        "dois": [
+
+        ],
+        "ncsu?": null,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          null
+        ],
+        "color": "#000000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-dcorcutt",
+      "target": "natashacooper",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Genetic Engineering and Society --- unknown",
+        "colleges": "NC State --- unknown",
+        "buildings": "D.H. Hill Jr. Library (East Wi --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          2017
+        ],
+        "year_recent": 2017,
+        "dois": [
+          "10.5703/1288284316446"
+        ],
+        "ncsu?": false,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          "Business",
+          "Industry 4.0",
+          "Commerce",
+          "Marketing",
+          "Industrial organization",
+          "Engineering",
+          "Embedded system"
+        ],
+        "host_venues": [
+          "Charleston Conference"
+        ],
+        "color": "#000000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-dcorcutt",
+      "target": "petermccracken",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Genetic Engineering and Society --- unknown",
+        "colleges": "NC State --- unknown",
+        "buildings": "D.H. Hill Jr. Library (East Wi --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          2017
+        ],
+        "year_recent": 2017,
+        "dois": [
+          "10.5703/1288284316446"
+        ],
+        "ncsu?": false,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          "Business",
+          "Industry 4.0",
+          "Commerce",
+          "Marketing",
+          "Industrial organization",
+          "Engineering",
+          "Embedded system"
+        ],
+        "host_venues": [
+          "Charleston Conference"
+        ],
+        "color": "#000000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-dcorcutt",
+      "target": "ellenrotenberg",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Genetic Engineering and Society --- unknown",
+        "colleges": "NC State --- unknown",
+        "buildings": "D.H. Hill Jr. Library (East Wi --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          2017
+        ],
+        "year_recent": 2017,
+        "dois": [
+          "10.5703/1288284316446"
+        ],
+        "ncsu?": false,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          "Business",
+          "Industry 4.0",
+          "Commerce",
+          "Marketing",
+          "Industrial organization",
+          "Engineering",
+          "Embedded system"
+        ],
+        "host_venues": [
+          "Charleston Conference"
+        ],
+        "color": "#000000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-dcorcutt",
+      "target": "uid-mpark",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Genetic Engineering and Society -- NC State University Libraries",
+        "colleges": "NC State -- NC State University Libraries",
+        "buildings": "D.H. Hill Jr. Library (East Wi --- unknown",
+        "roles": "faculty == faculty",
+        "years": [
+          2017
+        ],
+        "year_recent": 2017,
+        "dois": [
+          "10.5703/1288284316478"
+        ],
+        "ncsu?": true,
+        "cross_college?": true,
+        "cross_department?": true,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          "Subject (documents)",
+          "Subject matter",
+          "History",
+          "Computer science",
+          "Political science",
+          "World Wide Web",
+          "Law",
+          "Curriculum"
+        ],
+        "host_venues": [
+          "Charleston Conference"
+        ],
+        "color": "#FAC800",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-dcorcutt",
+      "target": "scottawarren",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Genetic Engineering and Society --- unknown",
+        "colleges": "NC State --- unknown",
+        "buildings": "D.H. Hill Jr. Library (East Wi --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          2017
+        ],
+        "year_recent": 2017,
+        "dois": [
+          "10.5703/1288284316478"
+        ],
+        "ncsu?": false,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          "Subject (documents)",
+          "Subject matter",
+          "History",
+          "Computer science",
+          "Political science",
+          "World Wide Web",
+          "Law",
+          "Curriculum"
+        ],
+        "host_venues": [
+          "Charleston Conference"
+        ],
+        "color": "#000000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-dcorcutt",
+      "target": "uid-amwisema",
+      "attributes": {
+        "label": 6,
+        "weight": 6,
+        "collaboration_count": 6,
+        "departments": "Elementary Education -- Genetic Engineering and Society",
+        "colleges": "College of Education -- NC State",
+        "buildings": "D.H. Hill Jr. Library (East Wi -- Poe Hall",
+        "roles": "faculty == faculty",
+        "years": [
+          2016,
+          2016,
+          2016,
+          2016,
+          2016,
+          2016
+        ],
+        "year_recent": 2016,
+        "dois": [
+          "10.1080/01462679.2016.1249991"
+        ],
+        "ncsu?": true,
+        "cross_college?": true,
+        "cross_department?": true,
+        "cross_unit?": true,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": true,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          null
+        ],
+        "color": "#FAC800",
+        "size": 6
+      }
+    },
+    {
+      "source": "uid-dcorcutt",
+      "target": "awiseman",
+      "attributes": {
+        "label": 5,
+        "weight": 5,
+        "collaboration_count": 5,
+        "departments": "Genetic Engineering and Society --- unknown",
+        "colleges": "NC State --- unknown",
+        "buildings": "D.H. Hill Jr. Library (East Wi --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          2016,
+          2016,
+          2016,
+          2016,
+          2016
+        ],
+        "year_recent": 2016,
+        "dois": [
+
+        ],
+        "ncsu?": null,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          null
+        ],
+        "color": "#000000",
+        "size": 5
+      }
+    },
+    {
+      "source": "uid-dcorcutt",
+      "target": "uid-hjtebbe",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Genetic Engineering and Society -- NC State University Libraries",
+        "colleges": "NC State -- NC State University Libraries",
+        "buildings": "D.H. Hill Jr. Library (East Wi --- unknown",
+        "roles": "faculty == faculty",
+        "years": [
+          2016
+        ],
+        "year_recent": 2016,
+        "dois": [
+          "10.5703/1288284316298"
+        ],
+        "ncsu?": true,
+        "cross_college?": true,
+        "cross_department?": true,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          "Computer science",
+          "Data science",
+          "World Wide Web"
+        ],
+        "host_venues": [
+          null
+        ],
+        "color": "#FAC800",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-dcorcutt",
+      "target": "williammcross",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Genetic Engineering and Society --- unknown",
+        "colleges": "NC State --- unknown",
+        "buildings": "D.H. Hill Jr. Library (East Wi --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          2016
+        ],
+        "year_recent": 2016,
+        "dois": [
+          "10.5703/1288284316327"
+        ],
+        "ncsu?": false,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          "Fair use",
+          "Digital content",
+          "Advertising",
+          "World Wide Web",
+          "Globe",
+          "Business",
+          "Computer science",
+          "Multimedia",
+          "Internet privacy",
+          "Political science",
+          "Law",
+          "Medicine",
+          "Ophthalmology"
+        ],
+        "host_venues": [
+          null
+        ],
+        "color": "#000000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-dcorcutt",
+      "target": "nancyherther",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Genetic Engineering and Society --- unknown",
+        "colleges": "NC State --- unknown",
+        "buildings": "D.H. Hill Jr. Library (East Wi --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          2016
+        ],
+        "year_recent": 2016,
+        "dois": [
+          "10.5703/1288284316233"
+        ],
+        "ncsu?": false,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          "Business",
+          "Computer science",
+          "Data science"
+        ],
+        "host_venues": [
+          null
+        ],
+        "color": "#000000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-dcorcutt",
+      "target": "danieldollar",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Genetic Engineering and Society --- unknown",
+        "colleges": "NC State --- unknown",
+        "buildings": "D.H. Hill Jr. Library (East Wi --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          2016
+        ],
+        "year_recent": 2016,
+        "dois": [
+          "10.5703/1288284316233"
+        ],
+        "ncsu?": false,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          "Business",
+          "Computer science",
+          "Data science"
+        ],
+        "host_venues": [
+          null
+        ],
+        "color": "#000000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-dcorcutt",
+      "target": "https://orcid.org/0000-0002-7898-3428",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Genetic Engineering and Society --- unknown",
+        "colleges": "NC State --- unknown",
+        "buildings": "D.H. Hill Jr. Library (East Wi --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          2016
+        ],
+        "year_recent": 2016,
+        "dois": [
+          "10.5703/1288284316233"
+        ],
+        "ncsu?": false,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          "Business",
+          "Computer science",
+          "Data science"
+        ],
+        "host_venues": [
+          null
+        ],
+        "color": "#000000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-dcorcutt",
+      "target": "megwhite",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Genetic Engineering and Society --- unknown",
+        "colleges": "NC State --- unknown",
+        "buildings": "D.H. Hill Jr. Library (East Wi --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          2016
+        ],
+        "year_recent": 2016,
+        "dois": [
+          "10.5703/1288284316233"
+        ],
+        "ncsu?": false,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          "Business",
+          "Computer science",
+          "Data science"
+        ],
+        "host_venues": [
+          null
+        ],
+        "color": "#000000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-dcorcutt",
+      "target": "crossrefmetadatasearch",
+      "attributes": {
+        "label": 7,
+        "weight": 7,
+        "collaboration_count": 7,
+        "departments": "Genetic Engineering and Society --- unknown",
+        "colleges": "NC State --- unknown",
+        "buildings": "D.H. Hill Jr. Library (East Wi --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          2015,
+          2014,
+          2014,
+          2011,
+          2011,
+          2010,
+          2010
+        ],
+        "year_recent": 2015,
+        "dois": [
+          "10.5860/choice.186972",
+          "10.5860/choice.52-0662",
+          "10.5860/choice.51-6495",
+          "10.5860/choice.48-2761",
+          "10.5860/choice.48-5404",
+          "10.5860/choice.48-1203",
+          "10.5860/choice.48-0593"
+        ],
+        "ncsu?": null,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          "Choice Reviews Online"
+        ],
+        "color": "#000000",
+        "size": 7
+      }
+    },
+    {
+      "source": "uid-dcorcutt",
+      "target": "marcsinger",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Genetic Engineering and Society --- unknown",
+        "colleges": "NC State --- unknown",
+        "buildings": "D.H. Hill Jr. Library (East Wi --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          2012
+        ],
+        "year_recent": 2012,
+        "dois": [
+          "10.5860/choice.49-6707"
+        ],
+        "ncsu?": false,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          "Choice Reviews Online"
+        ],
+        "color": "#000000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-dcorcutt",
+      "target": "genyaogara",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Genetic Engineering and Society --- unknown",
+        "colleges": "NC State --- unknown",
+        "buildings": "D.H. Hill Jr. Library (East Wi --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          2012
+        ],
+        "year_recent": 2012,
+        "dois": [
+          "10.5703/1288284314831"
+        ],
+        "ncsu?": false,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          "History"
+        ],
+        "host_venues": [
+          "Charleston Conference"
+        ],
+        "color": "#000000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-dcorcutt",
+      "target": "u-28412",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Genetic Engineering and Society -- NC State University Libraries",
+        "colleges": "NC State -- NC State University Libraries",
+        "buildings": "D.H. Hill Jr. Library (East Wi --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          2012
+        ],
+        "year_recent": 2012,
+        "dois": [
+          "10.5703/1288284314899"
+        ],
+        "ncsu?": true,
+        "cross_college?": true,
+        "cross_department?": true,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          "Mashup",
+          "Internet privacy",
+          "Computer science",
+          "World Wide Web",
+          "The Internet",
+          "Web standards"
+        ],
+        "host_venues": [
+          "Charleston Conference"
+        ],
+        "color": "#FAC800",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-dcorcutt",
+      "target": "uid-jnvicker",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Genetic Engineering and Society -- NC State University Libraries",
+        "colleges": "NC State -- NC State University Libraries",
+        "buildings": "D.H. Hill Jr. Library (East Wi == D.H. Hill Jr. Library (East Wi",
+        "roles": "faculty == faculty",
+        "years": [
+          2012
+        ],
+        "year_recent": 2012,
+        "dois": [
+          "10.5703/1288284314899"
+        ],
+        "ncsu?": true,
+        "cross_college?": true,
+        "cross_department?": true,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          "Mashup",
+          "Internet privacy",
+          "Computer science",
+          "World Wide Web",
+          "The Internet",
+          "Web standards"
+        ],
+        "host_venues": [
+          "Charleston Conference"
+        ],
+        "color": "#FAC800",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-dcorcutt",
+      "target": "bnorberg",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Genetic Engineering and Society --- unknown",
+        "colleges": "NC State --- unknown",
+        "buildings": "D.H. Hill Jr. Library (East Wi --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          2011
+        ],
+        "year_recent": 2011,
+        "dois": [
+
+        ],
+        "ncsu?": null,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          null
+        ],
+        "color": "#000000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-dcorcutt",
+      "target": "jvickery",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Genetic Engineering and Society --- unknown",
+        "colleges": "NC State --- unknown",
+        "buildings": "D.H. Hill Jr. Library (East Wi --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          2011
+        ],
+        "year_recent": 2011,
+        "dois": [
+
+        ],
+        "ncsu?": null,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          null
+        ],
+        "color": "#000000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-dcorcutt",
+      "target": "ogarag",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Genetic Engineering and Society --- unknown",
+        "colleges": "NC State --- unknown",
+        "buildings": "D.H. Hill Jr. Library (East Wi --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          2010
+        ],
+        "year_recent": 2010,
+        "dois": [
+
+        ],
+        "ncsu?": null,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          null
+        ],
+        "color": "#000000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-dcorcutt",
+      "target": "bberg",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Genetic Engineering and Society --- unknown",
+        "colleges": "NC State --- unknown",
+        "buildings": "D.H. Hill Jr. Library (East Wi --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          2010
+        ],
+        "year_recent": 2010,
+        "dois": [
+
+        ],
+        "ncsu?": null,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          null
+        ],
+        "color": "#000000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-dcorcutt",
+      "target": "bdenton",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Genetic Engineering and Society --- unknown",
+        "colleges": "NC State --- unknown",
+        "buildings": "D.H. Hill Jr. Library (East Wi --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          2010
+        ],
+        "year_recent": 2010,
+        "dois": [
+
+        ],
+        "ncsu?": null,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          null
+        ],
+        "color": "#000000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-dcorcutt",
+      "target": "hnelson",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Genetic Engineering and Society --- unknown",
+        "colleges": "NC State --- unknown",
+        "buildings": "D.H. Hill Jr. Library (East Wi --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          2010
+        ],
+        "year_recent": 2010,
+        "dois": [
+
+        ],
+        "ncsu?": null,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          null
+        ],
+        "color": "#000000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-dcorcutt",
+      "target": "hbalasubramanian",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Genetic Engineering and Society --- unknown",
+        "colleges": "NC State --- unknown",
+        "buildings": "D.H. Hill Jr. Library (East Wi --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          2010
+        ],
+        "year_recent": 2010,
+        "dois": [
+
+        ],
+        "ncsu?": null,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          null
+        ],
+        "color": "#000000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-dcorcutt",
+      "target": "arahman",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Genetic Engineering and Society --- unknown",
+        "colleges": "NC State --- unknown",
+        "buildings": "D.H. Hill Jr. Library (East Wi --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          2010
+        ],
+        "year_recent": 2010,
+        "dois": [
+
+        ],
+        "ncsu?": null,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          null
+        ],
+        "color": "#000000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-dcorcutt",
+      "target": "abailey",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Genetic Engineering and Society --- unknown",
+        "colleges": "NC State --- unknown",
+        "buildings": "D.H. Hill Jr. Library (East Wi --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          2010
+        ],
+        "year_recent": 2010,
+        "dois": [
+
+        ],
+        "ncsu?": null,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          null
+        ],
+        "color": "#000000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-dcorcutt",
+      "target": "klindor",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Genetic Engineering and Society --- unknown",
+        "colleges": "NC State --- unknown",
+        "buildings": "D.H. Hill Jr. Library (East Wi --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          2010
+        ],
+        "year_recent": 2010,
+        "dois": [
+
+        ],
+        "ncsu?": null,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          null
+        ],
+        "color": "#000000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-dcorcutt",
+      "target": "uid-hmdavis4",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Genetic Engineering and Society -- NC State University Libraries",
+        "colleges": "NC State -- NC State University Libraries",
+        "buildings": "D.H. Hill Jr. Library (East Wi == D.H. Hill Jr. Library (East Wi",
+        "roles": "faculty == faculty",
+        "years": [
+          2008
+        ],
+        "year_recent": 2008,
+        "dois": [
+          "10.1080/01462670802045566"
+        ],
+        "ncsu?": true,
+        "cross_college?": true,
+        "cross_department?": true,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          "Interlibrary loan",
+          "Session (web analytics)",
+          "Library science",
+          "Collection development",
+          "South carolina",
+          "Biomedicine",
+          "State (computer science)",
+          "Computer science",
+          "World Wide Web",
+          "Political science",
+          "Public administration",
+          "Algorithm",
+          "Biology",
+          "Genetics"
+        ],
+        "host_venues": [
+          "Collection Management"
+        ],
+        "color": "#FAC800",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-dcorcutt",
+      "target": "https://orcid.org/0000-0002-8405-4780",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Genetic Engineering and Society -- NC State University Libraries",
+        "colleges": "NC State -- NC State University Libraries",
+        "buildings": "D.H. Hill Jr. Library (East Wi --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          2008
+        ],
+        "year_recent": 2008,
+        "dois": [
+          "10.1080/01462670802045566"
+        ],
+        "ncsu?": true,
+        "cross_college?": true,
+        "cross_department?": true,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          "Interlibrary loan",
+          "Session (web analytics)",
+          "Library science",
+          "Collection development",
+          "South carolina",
+          "Biomedicine",
+          "State (computer science)",
+          "Computer science",
+          "World Wide Web",
+          "Political science",
+          "Public administration",
+          "Algorithm",
+          "Biology",
+          "Genetics"
+        ],
+        "host_venues": [
+          "Collection Management"
+        ],
+        "color": "#FAC800",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-dcorcutt",
+      "target": "traceypowell",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Genetic Engineering and Society --- unknown",
+        "colleges": "NC State --- unknown",
+        "buildings": "D.H. Hill Jr. Library (East Wi --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          2006
+        ],
+        "year_recent": 2006,
+        "dois": [
+          "10.7771/2380-176x.5010"
+        ],
+        "ncsu?": false,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          "Computer science",
+          "World Wide Web",
+          "Database",
+          "Information retrieval",
+          "Data science"
+        ],
+        "host_venues": [
+          "against the grain"
+        ],
+        "color": "#000000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-ksmulvey",
+      "target": "uid-ajjoy",
+      "attributes": {
+        "label": 11,
+        "weight": 11,
+        "collaboration_count": 11,
+        "departments": "Psychology --- unknown",
+        "colleges": "College of Humanities and Social Sciences --- unknown",
+        "buildings": "Poe Hall --- unknown",
+        "roles": "faculty -- student",
+        "years": [
+          2023,
+          2022,
+          2022,
+          2022,
+          2022,
+          2021,
+          2021,
+          2021,
+          2021,
+          2020,
+          2020
+        ],
+        "year_recent": 2023,
+        "dois": [
+          "10.1016/j.jecp.2022.105573",
+          "10.1007/s11199-022-01327-9",
+          "10.1177/0044118X221085296",
+          "10.1007/s10964-022-01694-2",
+          "10.1002/tea.21762",
+          "10.1371/journal.pone.0259523",
+          "10.1080/02635143.2021.1944077",
+          "10.1080/10645578.2021.1930467",
+          "10.3389/fpsyg.2021.635839",
+          "10.1371/journal.pone.0236279",
+          "10.1002/cad.20364"
+        ],
+        "ncsu?": true,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": false,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          "Journal of Experimental Child Psychology"
+        ],
+        "color": "#CC0000",
+        "size": 11
+      }
+    },
+    {
+      "source": "uid-ksmulvey",
+      "target": "uid-mwcaslin",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Psychology --- unknown",
+        "colleges": "College of Humanities and Social Sciences --- unknown",
+        "buildings": "Poe Hall --- unknown",
+        "roles": "faculty -- student",
+        "years": [
+          2021
+        ],
+        "year_recent": 2021,
+        "dois": [
+          "10.1080/02635143.2021.1944077"
+        ],
+        "ncsu?": true,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": false,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          "Research in Science & Technological Education"
+        ],
+        "color": "#CC0000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-ksmulvey",
+      "target": "uid-deserye",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Digital Transformation of Education -- Psychology",
+        "colleges": "College of Humanities and Social Sciences -- NC State",
+        "buildings": "Poe Hall == Poe Hall",
+        "roles": "faculty == faculty",
+        "years": [
+          2021
+        ],
+        "year_recent": 2021,
+        "dois": [
+          "10.1080/02635143.2021.1944077"
+        ],
+        "ncsu?": true,
+        "cross_college?": true,
+        "cross_department?": true,
+        "cross_unit?": true,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Digital Transformation of Education"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          "Research in Science & Technological Education"
+        ],
+        "color": "#FAC800",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-ksmulvey",
+      "target": "uid-mkatti",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Forestry & Environmental Resources -- Psychology",
+        "colleges": "College of Humanities and Social Sciences -- College of Natural Resources",
+        "buildings": "Jordan Hall Addition -- Poe Hall",
+        "roles": "faculty == faculty",
+        "years": [
+          2021
+        ],
+        "year_recent": 2021,
+        "dois": [
+          "10.1080/02635143.2021.1944077"
+        ],
+        "ncsu?": true,
+        "cross_college?": true,
+        "cross_department?": true,
+        "cross_unit?": true,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Global Water, Sanitation and Hygiene",
+          "Leadership in Public Science"
+        ],
+        "cross_building?": true,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          "Research in Science & Technological Education"
+        ],
+        "color": "#FAC800",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-ajjoy",
+      "target": "uid-mwcaslin",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "unknown --- unknown",
+        "colleges": "unknown --- unknown",
+        "buildings": "unknown --- unknown",
+        "roles": "student == student",
+        "years": [
+          2021
+        ],
+        "year_recent": 2021,
+        "dois": [
+          "10.1080/02635143.2021.1944077"
+        ],
+        "ncsu?": true,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": false,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          "Research in Science & Technological Education"
+        ],
+        "color": "#CC0000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-ajjoy",
+      "target": "uid-deserye",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Digital Transformation of Education --- unknown",
+        "colleges": "NC State --- unknown",
+        "buildings": "Poe Hall --- unknown",
+        "roles": "faculty -- student",
+        "years": [
+          2021
+        ],
+        "year_recent": 2021,
+        "dois": [
+          "10.1080/02635143.2021.1944077"
+        ],
+        "ncsu?": true,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Digital Transformation of Education"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          "Research in Science & Technological Education"
+        ],
+        "color": "#CC0000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-ajjoy",
+      "target": "uid-mkatti",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Forestry & Environmental Resources --- unknown",
+        "colleges": "College of Natural Resources --- unknown",
+        "buildings": "Jordan Hall Addition --- unknown",
+        "roles": "faculty -- student",
+        "years": [
+          2021
+        ],
+        "year_recent": 2021,
+        "dois": [
+          "10.1080/02635143.2021.1944077"
+        ],
+        "ncsu?": true,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Global Water, Sanitation and Hygiene",
+          "Leadership in Public Science"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          "Research in Science & Technological Education"
+        ],
+        "color": "#CC0000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-mwcaslin",
+      "target": "uid-deserye",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Digital Transformation of Education --- unknown",
+        "colleges": "NC State --- unknown",
+        "buildings": "Poe Hall --- unknown",
+        "roles": "faculty -- student",
+        "years": [
+          2021
+        ],
+        "year_recent": 2021,
+        "dois": [
+          "10.1080/02635143.2021.1944077"
+        ],
+        "ncsu?": true,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Digital Transformation of Education"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          "Research in Science & Technological Education"
+        ],
+        "color": "#CC0000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-mwcaslin",
+      "target": "uid-mkatti",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Forestry & Environmental Resources --- unknown",
+        "colleges": "College of Natural Resources --- unknown",
+        "buildings": "Jordan Hall Addition --- unknown",
+        "roles": "faculty -- student",
+        "years": [
+          2021
+        ],
+        "year_recent": 2021,
+        "dois": [
+          "10.1080/02635143.2021.1944077"
+        ],
+        "ncsu?": true,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Global Water, Sanitation and Hygiene",
+          "Leadership in Public Science"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          "Research in Science & Technological Education"
+        ],
+        "color": "#CC0000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-deserye",
+      "target": "uid-mkatti",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Digital Transformation of Education -- Forestry & Environmental Resources",
+        "colleges": "College of Natural Resources -- NC State",
+        "buildings": "Jordan Hall Addition -- Poe Hall",
+        "roles": "faculty == faculty",
+        "years": [
+          2021
+        ],
+        "year_recent": 2021,
+        "dois": [
+          "10.1080/02635143.2021.1944077"
+        ],
+        "ncsu?": true,
+        "cross_college?": true,
+        "cross_department?": true,
+        "cross_unit?": true,
+        "cluster?": true,
+        "clusters?": true,
+        "cross_cluster?": true,
+        "clusters": [
+          "Digital Transformation of Education",
+          "Global Water, Sanitation and Hygiene",
+          "Leadership in Public Science"
+        ],
+        "cross_building?": true,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          "Research in Science & Technological Education"
+        ],
+        "color": "#FAC800",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-mpark",
+      "target": "scottawarren",
+      "attributes": {
+        "label": 2,
+        "weight": 2,
+        "collaboration_count": 2,
+        "departments": "NC State University Libraries --- unknown",
+        "colleges": "NC State University Libraries --- unknown",
+        "buildings": "unknown --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          2019,
+          2017
+        ],
+        "year_recent": 2019,
+        "dois": [
+          "10.5703/1288284317052",
+          "10.5703/1288284316478"
+        ],
+        "ncsu?": false,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": false,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+
+        ],
+        "cross_building?": false,
+        "concepts": [
+          "Computer science",
+          "Scaffold",
+          "Programming language"
+        ],
+        "host_venues": [
+          null
+        ],
+        "color": "#000000",
+        "size": 2
+      }
+    },
+    {
+      "source": "uid-mpark",
+      "target": "uid-hjtebbe",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "NC State University Libraries == NC State University Libraries",
+        "colleges": "NC State University Libraries == NC State University Libraries",
+        "buildings": "unknown --- unknown",
+        "roles": "faculty == faculty",
+        "years": [
+          2017
+        ],
+        "year_recent": 2017,
+        "dois": [
+          "10.5703/1288284316477"
+        ],
+        "ncsu?": true,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": false,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+
+        ],
+        "cross_building?": false,
+        "concepts": [
+          "Nuts and bolts",
+          "Transformation (genetics)",
+          "Architectural engineering",
+          "Engineering",
+          "Structural engineering",
+          "Biochemistry",
+          "Chemistry",
+          "Gene"
+        ],
+        "host_venues": [
+          "Charleston Conference"
+        ],
+        "color": "#CC0000",
+        "size": 1
+      }
+    },
+    {
+      "source": "u-28412",
+      "target": "uid-jnvicker",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "NC State University Libraries == NC State University Libraries",
+        "colleges": "NC State University Libraries == NC State University Libraries",
+        "buildings": "D.H. Hill Jr. Library (East Wi --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          2012
+        ],
+        "year_recent": 2012,
+        "dois": [
+          "10.5703/1288284314899"
+        ],
+        "ncsu?": true,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": false,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+
+        ],
+        "cross_building?": false,
+        "concepts": [
+          "Mashup",
+          "Internet privacy",
+          "Computer science",
+          "World Wide Web",
+          "The Internet",
+          "Web standards"
+        ],
+        "host_venues": [
+          "Charleston Conference"
+        ],
+        "color": "#CC0000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-jnvicker",
+      "target": "uid-hmdavis4",
+      "attributes": {
+        "label": 2,
+        "weight": 2,
+        "collaboration_count": 2,
+        "departments": "NC State University Libraries == NC State University Libraries",
+        "colleges": "NC State University Libraries == NC State University Libraries",
+        "buildings": "D.H. Hill Jr. Library (East Wi == D.H. Hill Jr. Library (East Wi",
+        "roles": "faculty == faculty",
+        "years": [
+          2020,
+          2007
+        ],
+        "year_recent": 2020,
+        "dois": [
+          "10.1080/00987913.2020.1806652",
+          "10.1016/j.serrev.2006.11.004"
+        ],
+        "ncsu?": true,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": false,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          "Serials Review"
+        ],
+        "color": "#CC0000",
+        "size": 2
+      }
+    },
+    {
+      "source": "uid-hmdavis4",
+      "target": "datacite",
+      "attributes": {
+        "label": 2,
+        "weight": 2,
+        "collaboration_count": 2,
+        "departments": "NC State University Libraries --- unknown",
+        "colleges": "NC State University Libraries --- unknown",
+        "buildings": "D.H. Hill Jr. Library (East Wi --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          2022,
+          2019
+        ],
+        "year_recent": 2022,
+        "dois": [
+          "10.17605/osf.io/2x4cn",
+          "10.5061/dryad.fttdz08nw"
+        ],
+        "ncsu?": null,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": false,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          null
+        ],
+        "color": "#000000",
+        "size": 2
+      }
+    },
+    {
+      "source": "uid-hmdavis4",
+      "target": "crossrefmetadatasearch",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "NC State University Libraries --- unknown",
+        "colleges": "NC State University Libraries --- unknown",
+        "buildings": "D.H. Hill Jr. Library (East Wi --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          2016
+        ],
+        "year_recent": 2016,
+        "dois": [
+          "10.7771/2380-176x.6190"
+        ],
+        "ncsu?": null,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": false,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+
+        ],
+        "cross_building?": false,
+        "concepts": [
+          "Art"
+        ],
+        "host_venues": [
+          "against the grain"
+        ],
+        "color": "#000000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-hmdavis4",
+      "target": "williammcross",
+      "attributes": {
+        "label": 3,
+        "weight": 3,
+        "collaboration_count": 3,
+        "departments": "NC State University Libraries --- unknown",
+        "colleges": "NC State University Libraries --- unknown",
+        "buildings": "D.H. Hill Jr. Library (East Wi --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          2016,
+          2015,
+          2014
+        ],
+        "year_recent": 2016,
+        "dois": [
+
+        ],
+        "ncsu?": null,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": false,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          null
+        ],
+        "color": "#000000",
+        "size": 3
+      }
+    },
+    {
+      "source": "uid-hmdavis4",
+      "target": "https://orcid.org/0000-0002-8405-4780",
+      "attributes": {
+        "label": 6,
+        "weight": 6,
+        "collaboration_count": 6,
+        "departments": "NC State University Libraries == NC State University Libraries",
+        "colleges": "NC State University Libraries == NC State University Libraries",
+        "buildings": "D.H. Hill Jr. Library (East Wi --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          2013,
+          2012,
+          2012,
+          2009,
+          2008,
+          2008
+        ],
+        "year_recent": 2013,
+        "dois": [
+          "10.5703/1288284314822",
+          "10.1080/01462670802045566"
+        ],
+        "ncsu?": true,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": false,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          null
+        ],
+        "color": "#CC0000",
+        "size": 6
+      }
+    },
+    {
+      "source": "u-10965",
+      "target": "uid-hmdavis4",
+      "attributes": {
+        "label": 2,
+        "weight": 2,
+        "collaboration_count": 2,
+        "departments": "NC State University Libraries == NC State University Libraries",
+        "colleges": "NC State University Libraries == NC State University Libraries",
+        "buildings": "D.H. Hill Jr. Library (East Wi --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          2008,
+          2008
+        ],
+        "year_recent": 2008,
+        "dois": [
+          "10.1080/01462670802045566"
+        ],
+        "ncsu?": true,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": false,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+
+        ],
+        "cross_building?": false,
+        "concepts": [
+          "Interlibrary loan",
+          "Session (web analytics)",
+          "Library science",
+          "Collection development",
+          "South carolina",
+          "Biomedicine",
+          "State (computer science)",
+          "Computer science",
+          "World Wide Web",
+          "Political science",
+          "Public administration",
+          "Algorithm",
+          "Biology",
+          "Genetics"
+        ],
+        "host_venues": [
+          "Collection Management"
+        ],
+        "color": "#CC0000",
+        "size": 2
+      }
+    },
+    {
+      "source": "u-10965",
+      "target": "https://orcid.org/0000-0002-8405-4780",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "NC State University Libraries == NC State University Libraries",
+        "colleges": "NC State University Libraries == NC State University Libraries",
+        "buildings": "unknown --- unknown",
+        "roles": "unknown == unknown",
+        "years": [
+          2008
+        ],
+        "year_recent": 2008,
+        "dois": [
+          "10.1080/01462670802045566"
+        ],
+        "ncsu?": true,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": false,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+
+        ],
+        "cross_building?": false,
+        "concepts": [
+          "Interlibrary loan",
+          "Session (web analytics)",
+          "Library science",
+          "Collection development",
+          "South carolina",
+          "Biomedicine",
+          "State (computer science)",
+          "Computer science",
+          "World Wide Web",
+          "Political science",
+          "Public administration",
+          "Algorithm",
+          "Biology",
+          "Genetics"
+        ],
+        "host_venues": [
+          "Collection Management"
+        ],
+        "color": "#CC0000",
+        "size": 1
+      }
+    }
+  ]
+}

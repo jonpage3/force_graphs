@@ -1,0 +1,3451 @@
+{
+  "options": {
+    "type": "undirected",
+    "multi": false,
+    "allowSelfLoops": false
+  },
+  "attributes": {
+    "creator": "Citation Index",
+    "lastModifiedDate": "2023-01-15"
+  },
+  "nodes": [
+    {
+      "key": "uid-waklobas",
+      "attributes": {
+        "label": "W Klobasa",
+        "name": "William Klobasa",
+        "known?": true,
+        "orcid?": false,
+        "ncsu?": true,
+        "affiliations": [
+          "North Carolina State University"
+        ],
+        "countries": [
+          "US"
+        ],
+        "uid": "waklobas",
+        "url": "https://ci.lib.ncsu.edu/profiles/waklobas",
+        "active?": true,
+        "department": "Entomology and Plant Pathology",
+        "college": "College of Agriculture and Life Sciences",
+        "ncsu_affiliations": [
+          "Entomology and Plant Pathology",
+          "Genetic Engineering and Society"
+        ],
+        "cluster?": true,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "role": "staff",
+        "building": "Thomas Hall",
+        "count": 3,
+        "oa_count": 3,
+        "years": [
+          2021,
+          2017
+        ],
+        "year_recent": 2021,
+        "article_concepts": [
+
+        ],
+        "host_venues": [
+          "Archives of Insect Biochemistry and Physiology",
+          "Insect Molecular Biology",
+          "Journal of Visualized Experiments"
+        ],
+        "color": "#6F7D1C",
+        "size": 20
+      }
+    },
+    {
+      "key": "uid-fchu",
+      "attributes": {
+        "label": "F Chu",
+        "name": "Fu-Chyun Chu",
+        "known?": true,
+        "orcid?": false,
+        "ncsu?": true,
+        "affiliations": [
+          "North Carolina State University"
+        ],
+        "countries": [
+          "US"
+        ],
+        "uid": "fchu",
+        "url": "https://ci.lib.ncsu.edu/profiles/fchu",
+        "active?": true,
+        "department": "Plant Pathology",
+        "college": "College of Agriculture and Life Sciences",
+        "ncsu_affiliations": [
+          "Plant Pathology",
+          "Entomology and Plant Pathology"
+        ],
+        "cluster?": false,
+        "clusters": [
+
+        ],
+        "role": "other",
+        "building": null,
+        "count": 4,
+        "oa_count": 2,
+        "years": [
+          2021,
+          2019,
+          2018,
+          2017
+        ],
+        "year_recent": 2021,
+        "article_concepts": [
+          "Biology",
+          "Botany",
+          "CRISPR",
+          "Cas9",
+          "Computational biology",
+          "Gene",
+          "Genetics",
+          "Genome",
+          "Genome editing",
+          "PEST analysis",
+          "RNA",
+          "RNA interference",
+          "Western corn rootworm"
+        ],
+        "host_venues": [
+          "Archives of Insect Biochemistry and Physiology",
+          "Journal of Visualized Experiments"
+        ],
+        "color": "#6F7D1C",
+        "size": 10
+      }
+    },
+    {
+      "key": "uid-obhuot",
+      "attributes": {
+        "label": "O Huot",
+        "name": "Ordom Huot",
+        "known?": true,
+        "orcid?": false,
+        "ncsu?": true,
+        "affiliations": [
+          "North Carolina State University"
+        ],
+        "countries": [
+          "US"
+        ],
+        "uid": "obhuot",
+        "url": "https://ci.lib.ncsu.edu/profiles/obhuot",
+        "active?": false,
+        "department": "Entomology and Plant Pathology",
+        "college": "College of Agriculture and Life Sciences",
+        "ncsu_affiliations": [
+          "Entomology and Plant Pathology"
+        ],
+        "cluster?": false,
+        "clusters": [
+
+        ],
+        "role": "staff",
+        "building": null,
+        "count": 2,
+        "oa_count": 1,
+        "years": [
+          2021,
+          2018
+        ],
+        "year_recent": 2021,
+        "article_concepts": [
+          "Biology",
+          "Ecology",
+          "Evolutionary biology",
+          "Gene",
+          "Genetics",
+          "Genome",
+          "Insect",
+          "Phylogenetic tree",
+          "Phylogenetics",
+          "Plant virus",
+          "Rabies virus",
+          "Rhabdoviridae",
+          "Virology",
+          "Virus",
+          "Virus classification"
+        ],
+        "host_venues": [
+          "Current Opinion in Virology",
+          "Journal of Visualized Experiments"
+        ],
+        "color": "#6F7D1C",
+        "size": 10
+      }
+    },
+    {
+      "key": "uid-npgrubbs",
+      "attributes": {
+        "label": "N Grubbs",
+        "name": "Nathaniel Paul Grubbs",
+        "known?": true,
+        "orcid?": false,
+        "ncsu?": true,
+        "affiliations": [
+          "North Carolina State University"
+        ],
+        "countries": [
+          "US"
+        ],
+        "uid": "npgrubbs",
+        "url": "https://ci.lib.ncsu.edu/profiles/npgrubbs",
+        "active?": false,
+        "department": "Entomology and Plant Pathology",
+        "college": "College of Agriculture and Life Sciences",
+        "ncsu_affiliations": [
+          "Entomology and Plant Pathology",
+          "Genetics"
+        ],
+        "cluster?": false,
+        "clusters": [
+
+        ],
+        "role": "staff",
+        "building": null,
+        "count": 12,
+        "oa_count": 9,
+        "years": [
+          2021,
+          2020,
+          2019,
+          2018,
+          2017,
+          2015,
+          2013,
+          2007
+        ],
+        "year_recent": 2021,
+        "article_concepts": [
+          "ATP-binding cassette transporter",
+          "Agricultural productivity",
+          "Agricultural science",
+          "Agriculture",
+          "Agronomy",
+          "Anatomy",
+          "Appendage",
+          "Biochemistry",
+          "Biology",
+          "Biotechnology",
+          "Botany",
+          "Business",
+          "CRISPR",
+          "Cas9",
+          "Compound eye",
+          "Computational biology",
+          "Computer science",
+          "De novo transcriptome assembly",
+          "Drosophila (subgenus)",
+          "Drosophila melanogaster",
+          "Ecology",
+          "Economics",
+          "Embryogenesis",
+          "Evolutionary biology",
+          "Eye color",
+          "Forward genetics",
+          "Function (biology)",
+          "Gene",
+          "Gene drive",
+          "Gene expression",
+          "Gene family",
+          "Genetic screen",
+          "Genetics",
+          "Genome",
+          "Genome editing",
+          "Herbivore",
+          "Honey Bees",
+          "Honey bee",
+          "Imaginal disc",
+          "Insect",
+          "Macroeconomics",
+          "Model organism",
+          "Mutant",
+          "Mutation",
+          "Optics",
+          "PEST analysis",
+          "Parasite hosting",
+          "Pest control",
+          "Phenotype",
+          "Physics",
+          "Plant virus",
+          "Production (economics)",
+          "RNA",
+          "RNA interference",
+          "RNA virus",
+          "Recombinant DNA",
+          "Red flour beetle",
+          "Transcriptome",
+          "Transporter",
+          "Transversion",
+          "Vector (molecular biology)",
+          "Virology",
+          "Virus",
+          "Western corn rootworm",
+          "White (mutation)",
+          "World Wide Web",
+          "Zoology"
+        ],
+        "host_venues": [
+          "Archives of Insect Biochemistry and Physiology",
+          "BMC Genomics",
+          "Developmental Biology",
+          "Evolution & Development",
+          "Genetics",
+          "GigaScience",
+          "Insect Molecular Biology",
+          "Journal of Responsible Innovation",
+          "Journal of Visualized Experiments",
+          "Molecular Plant-microbe Interactions",
+          "PLOS ONE"
+        ],
+        "color": "#6F7D1C",
+        "size": 10
+      }
+    },
+    {
+      "key": "uid-drotenb",
+      "attributes": {
+        "label": "D Rotenberg",
+        "name": "Dorith Rotenberg",
+        "known?": true,
+        "orcid?": true,
+        "ncsu?": true,
+        "affiliations": [
+          "North Carolina State University"
+        ],
+        "countries": [
+          "US"
+        ],
+        "uid": "drotenb",
+        "url": "https://ci.lib.ncsu.edu/profiles/drotenb",
+        "orcid": "0000-0002-9018-8822",
+        "active?": true,
+        "department": "Entomology and Plant Pathology",
+        "college": "College of Agriculture and Life Sciences",
+        "ncsu_affiliations": [
+          "Entomology and Plant Pathology",
+          "Genetic Engineering and Society"
+        ],
+        "cluster?": true,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "role": "faculty",
+        "building": "Partners Building II",
+        "count": 47,
+        "oa_count": 27,
+        "years": [
+          2022,
+          2021,
+          2020,
+          2019,
+          2018,
+          2017,
+          2016,
+          2015,
+          2014,
+          2013,
+          2012,
+          2011,
+          2010,
+          2009,
+          2008,
+          2007,
+          2006,
+          2005,
+          2004,
+          2003
+        ],
+        "year_recent": 2022,
+        "article_concepts": [
+          "ATPase",
+          "Adaptation (eye)",
+          "Agronomy",
+          "Alfalfa mosaic virus",
+          "Arthropod",
+          "Bacteria",
+          "Barley yellow dwarf",
+          "Begomovirus",
+          "Biochemistry",
+          "Biology",
+          "Biomass (ecology)",
+          "Biotechnology",
+          "Body plan",
+          "Botany",
+          "Brassica",
+          "Brassica rapa",
+          "Bunyaviridae",
+          "Cell biology",
+          "Chemistry",
+          "Coat protein",
+          "Comparative genomics",
+          "Compost",
+          "Computational biology",
+          "Context (archaeology)",
+          "Contig",
+          "Crop",
+          "Crop rotation",
+          "Delphacidae",
+          "Demography",
+          "Diamondback moth",
+          "Ecology",
+          "Electrical engineering",
+          "Engineering",
+          "Enzyme",
+          "Evolutionary biology",
+          "Fertilizer",
+          "Field experiment",
+          "Geminiviridae",
+          "Gene",
+          "Gene expression",
+          "Gene family",
+          "Gene knockdown",
+          "Genetically modified crops",
+          "Genetics",
+          "Genome",
+          "Genome evolution",
+          "Genome project",
+          "Genomics",
+          "Glycoprotein",
+          "Grain yield",
+          "Greenhouse",
+          "Hemiptera",
+          "Homoptera",
+          "Horticulture",
+          "Identification (biology)",
+          "Illumina dye sequencing",
+          "Insect",
+          "Jasmonic acid",
+          "KEGG",
+          "Larva",
+          "Lepidoptera genitalia",
+          "Luteovirus",
+          "Medicine",
+          "Messenger RNA",
+          "Microbiology",
+          "Midgut",
+          "Mite",
+          "Molecular biology",
+          "Neuroscience",
+          "Nymph",
+          "PEST analysis",
+          "Paleontology",
+          "Phylogenetic tree",
+          "Phylogenetics",
+          "Phylum",
+          "Plant defense against herbivory",
+          "Plant virus",
+          "Planthopper",
+          "Plutella",
+          "Plutellidae",
+          "Population",
+          "Proteome",
+          "Proteomics",
+          "RNA",
+          "RNA interference",
+          "RNA silencing",
+          "Recombinant DNA",
+          "Reverse transcription polymerase chain reaction",
+          "Rhizosphere",
+          "Salicylic acid",
+          "Saliva",
+          "Salivary gland",
+          "Sequence assembly",
+          "Sociology",
+          "Soil conditioner",
+          "Soil water",
+          "Spider mite",
+          "Tetranychus urticae",
+          "Thripidae",
+          "Thrips",
+          "Tillage",
+          "Tiller (botany)",
+          "Titer",
+          "Tobacco rattle virus",
+          "Tomato spotted wilt virus",
+          "Tomato yellow leaf curl virus",
+          "Tospovirus",
+          "Transcriptome",
+          "Transgene",
+          "Transmission (telecommunications)",
+          "Vector (molecular biology)",
+          "Veterinary medicine",
+          "Viral evolution",
+          "Viral life cycle",
+          "Viral replication",
+          "Viral vector",
+          "Virology",
+          "Virus",
+          "Western flower thrips"
+        ],
+        "host_venues": [
+          "Advances in Virus Research",
+          "BMC Biology",
+          "BMC Genomics",
+          "Current Opinion in Virology",
+          "Current opinion in insect science",
+          "Frontiers in Plant Science",
+          "Genome Biology",
+          "Hortscience",
+          "Insect Biochemistry and Molecular Biology",
+          "Insect Molecular Biology",
+          "Journal of Entomological Science",
+          "Journal of General Virology",
+          "Journal of Insect Physiology",
+          "Journal of Virological Methods",
+          "Journal of Virology",
+          "Journal of Visualized Experiments",
+          "Journal of insect science",
+          "Molecular Plant-microbe Interactions",
+          "Nature Biotechnology",
+          "PLOS ONE",
+          "Phytopathology",
+          "Plant Disease",
+          "Plant Health Progress",
+          "Plant Pathology",
+          "Soil Biology & Biochemistry",
+          "Soil Science",
+          "Virology",
+          "bioRxiv"
+        ],
+        "color": "#6F7D1C",
+        "size": 10
+      }
+    },
+    {
+      "key": "uid-awhitfi",
+      "attributes": {
+        "label": "A Whitfield",
+        "name": "Anna Whitfield",
+        "known?": true,
+        "orcid?": false,
+        "ncsu?": true,
+        "affiliations": [
+          "North Carolina State University"
+        ],
+        "countries": [
+          "US"
+        ],
+        "uid": "awhitfi",
+        "url": "https://ci.lib.ncsu.edu/profiles/awhitfi",
+        "active?": true,
+        "department": "Plant Pathology",
+        "college": "College of Agriculture and Life Sciences",
+        "ncsu_affiliations": [
+          "Plant Pathology",
+          "Entomology and Plant Pathology",
+          "Genetic Engineering and Society",
+          "Genetics and Genomics Academy"
+        ],
+        "cluster?": true,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "role": "faculty",
+        "building": "Thomas Hall",
+        "count": 42,
+        "oa_count": 28,
+        "years": [
+          2022,
+          2021,
+          2020,
+          2019,
+          2018,
+          2017,
+          2016,
+          2015,
+          2013,
+          2007,
+          2005
+        ],
+        "year_recent": 2022,
+        "article_concepts": [
+          "Agrobacterium",
+          "Agronomy",
+          "Alfalfa mosaic virus",
+          "Anatomy",
+          "Archaeology",
+          "Bacteria",
+          "Begomovirus",
+          "Biochemistry",
+          "Biology",
+          "Biotechnology",
+          "Botany",
+          "Bunyaviridae",
+          "Cell biology",
+          "Chemistry",
+          "Chromatography",
+          "Coat protein",
+          "Complementary DNA",
+          "Computational biology",
+          "Crop",
+          "Cytoplasm",
+          "DNA",
+          "DNA sequencing",
+          "Ecology",
+          "Electrical engineering",
+          "Engineering",
+          "Evolutionary biology",
+          "Extraction (chemistry)",
+          "Fire ant",
+          "Foregut",
+          "Geminiviridae",
+          "GenBank",
+          "Gene",
+          "Gene expression",
+          "Gene family",
+          "Genetics",
+          "Genome",
+          "Genome project",
+          "Geography",
+          "Glycoprotein",
+          "Green fluorescent protein",
+          "Host (biology)",
+          "Human virome",
+          "Hymenoptera",
+          "Identification (biology)",
+          "Insect",
+          "Larva",
+          "Law",
+          "Loop-mediated isothermal amplification",
+          "Materials science",
+          "Midgut",
+          "Molecular biology",
+          "Mononegavirales",
+          "Mosaic",
+          "Mosaic virus",
+          "Movement protein",
+          "Nicotiana benthamiana",
+          "Nucleic acid",
+          "Nucleoprotein",
+          "PEST analysis",
+          "Paramyxoviridae",
+          "Phosphoprotein",
+          "Phosphorylation",
+          "Phylogenetic tree",
+          "Phylogenetics",
+          "Phylum",
+          "Plant defense against herbivory",
+          "Plant virus",
+          "Political science",
+          "Politics",
+          "Polymerase",
+          "Proteome",
+          "Proteomics",
+          "RNA",
+          "RNA extraction",
+          "RNA interference",
+          "RNA polymerase",
+          "RNA virus",
+          "RNA-dependent RNA polymerase",
+          "Rabies virus",
+          "Ratification",
+          "Recombinant DNA",
+          "Red imported fire ant",
+          "Reporter gene",
+          "Rhabdoviridae",
+          "Salivary gland",
+          "Sequence (biology)",
+          "Sequence assembly",
+          "Taxon",
+          "Taxonomy (biology)",
+          "Thripidae",
+          "Thrips",
+          "Tissue tropism",
+          "Tobacco rattle virus",
+          "Tomato spotted wilt virus",
+          "Tospovirus",
+          "Transcriptome",
+          "Transformation (genetics)",
+          "Transmission (telecommunications)",
+          "Tropism",
+          "Vector (molecular biology)",
+          "Viral disease",
+          "Viral evolution",
+          "Viral life cycle",
+          "Viral replication",
+          "Viral vector",
+          "Virology",
+          "Virus",
+          "Virus classification",
+          "Western flower thrips",
+          "Whole genome sequencing",
+          "Zea mays",
+          "Zoology"
+        ],
+        "host_venues": [
+          "Advances in Virus Research",
+          "Archives of Virology",
+          "BMC Biology",
+          "Biosensors and Bioelectronics",
+          "Current Opinion in Virology",
+          "Current opinion in insect science",
+          "European Journal of Plant Pathology",
+          "Frontiers in Plant Science",
+          "Insect Biochemistry and Molecular Biology",
+          "Journal of Biomolecular Structure & Dynamics",
+          "Journal of General Virology",
+          "Journal of Insect Physiology",
+          "Journal of Virological Methods",
+          "Journal of Virology",
+          "Journal of Visualized Experiments",
+          "Microbiology resource announcements",
+          "Molecular Plant Pathology",
+          "Molecular Plant-microbe Interactions",
+          "Proceedings of the National Academy of Sciences of the United States of America",
+          "Soil Biology & Biochemistry",
+          "Virology",
+          "Virology Journal",
+          "Virus Research"
+        ],
+        "color": "#6F7D1C",
+        "size": 10
+      }
+    },
+    {
+      "key": "uid-mdlorenz",
+      "attributes": {
+        "label": "M Lorenzen",
+        "name": "Marce Lorenzen",
+        "known?": true,
+        "orcid?": true,
+        "ncsu?": true,
+        "affiliations": [
+          "North Carolina State University"
+        ],
+        "countries": [
+          "US"
+        ],
+        "uid": "mdlorenz",
+        "url": "https://ci.lib.ncsu.edu/profiles/mdlorenz",
+        "orcid": "0000-0003-2318-1388",
+        "active?": true,
+        "department": "Entomology and Plant Pathology",
+        "college": "College of Agriculture and Life Sciences",
+        "ncsu_affiliations": [
+          "Entomology and Plant Pathology",
+          "Genetic Engineering and Society",
+          "Genetics and Genomics Academy"
+        ],
+        "cluster?": true,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "role": "faculty",
+        "building": "Thomas Hall",
+        "count": 48,
+        "oa_count": 32,
+        "years": [
+          2022,
+          2021,
+          2020,
+          2019,
+          2018,
+          2017,
+          2016,
+          2015,
+          2014,
+          2013,
+          2012,
+          2011,
+          2010,
+          2009,
+          2008,
+          2007,
+          2006,
+          2005,
+          2004,
+          2003,
+          2002,
+          1999
+        ],
+        "year_recent": 2022,
+        "article_concepts": [
+          "ATP-binding cassette transporter",
+          "Acheta",
+          "Agricultural productivity",
+          "Agricultural science",
+          "Agriculture",
+          "Agronomy",
+          "Allele",
+          "Annotation",
+          "Argonaute",
+          "Bacillus thuringiensis",
+          "Bacteria",
+          "Bacterial artificial chromosome",
+          "Biochemistry",
+          "Biological dispersal",
+          "Biology",
+          "Biotechnology",
+          "Bostrichidae",
+          "Botany",
+          "Business",
+          "CRISPR",
+          "Cadherin",
+          "Caenorhabditis elegans",
+          "Cas9",
+          "Catalysis",
+          "Cell",
+          "Cell biology",
+          "Chemistry",
+          "Chitin",
+          "Chitosan",
+          "Chromosome",
+          "Cloning (programming)",
+          "Comparative genomics",
+          "Complementary DNA",
+          "Compound eye",
+          "Computational biology",
+          "Computer science",
+          "Contig",
+          "Cover (algebra)",
+          "Cricket",
+          "DNA methylation",
+          "Database",
+          "De novo transcriptome assembly",
+          "Demography",
+          "Dicer",
+          "Distribution (mathematics)",
+          "Drosophila (subgenus)",
+          "Drosophila melanogaster",
+          "Ecology",
+          "Economics",
+          "Element (criminal law)",
+          "Embryogenesis",
+          "Engineering",
+          "Enhancer",
+          "Enhancer trap",
+          "European corn borer",
+          "Evolutionary biology",
+          "Expressed sequence tag",
+          "Eye color",
+          "Forward genetics",
+          "Function (biology)",
+          "Functional genomics",
+          "Gene",
+          "Gene Annotation",
+          "Gene density",
+          "Gene drive",
+          "Gene expression",
+          "Gene expression profiling",
+          "Gene family",
+          "Gene flow",
+          "Gene knockdown",
+          "Gene mapping",
+          "Gene prediction",
+          "Gene silencing",
+          "Genetic distance",
+          "Genetic diversity",
+          "Genetic linkage",
+          "Genetic screen",
+          "Genetic structure",
+          "Genetic variation",
+          "Genetics",
+          "Genome",
+          "Genome browser",
+          "Genome editing",
+          "Genome evolution",
+          "Genome project",
+          "Genome size",
+          "Genomics",
+          "Geographical distance",
+          "Hemolymph",
+          "Herbivore",
+          "Heterochromatin",
+          "Honey Bees",
+          "Honey bee",
+          "Insect",
+          "Insertional mutagenesis",
+          "Isolation by distance",
+          "Larva",
+          "Law",
+          "Lepidoptera genitalia",
+          "Lethal allele",
+          "Linkage (software)",
+          "Locus (genetics)",
+          "Macroeconomics",
+          "Manduca",
+          "Manduca sexta",
+          "Mathematical analysis",
+          "Mathematics",
+          "Mating",
+          "Mechanical engineering",
+          "Mendelian inheritance",
+          "Microarray",
+          "Microarray analysis techniques",
+          "Microbiology",
+          "Microsatellite",
+          "Model organism",
+          "Molecular biology",
+          "Mutagenesis",
+          "Mutant",
+          "Mutation",
+          "Nuclease",
+          "Optics",
+          "Organic chemistry",
+          "Organism",
+          "Ostrinia",
+          "PEST analysis",
+          "Parasite hosting",
+          "Pest control",
+          "Phenotype",
+          "Phosphine",
+          "Physics",
+          "Plant virus",
+          "Political science",
+          "Population",
+          "Population genetics",
+          "Production (economics)",
+          "Programming language",
+          "Pyralidae",
+          "RNA",
+          "RNA interference",
+          "RNA silencing",
+          "RNA virus",
+          "RNA-Seq",
+          "Receptor",
+          "Recombinant DNA",
+          "Red flour beetle",
+          "RefSeq",
+          "Repeated sequence",
+          "Retrotransposon",
+          "Ribonuclease III",
+          "Sequence assembly",
+          "Sequence-tagged site",
+          "Sociology",
+          "Subfamily",
+          "Toxin",
+          "Transcription factor",
+          "Transcriptome",
+          "Transformation (genetics)",
+          "Transporter",
+          "Transposable element",
+          "Transversion",
+          "UniGene",
+          "Vector (molecular biology)",
+          "Vermilion",
+          "Virology",
+          "Virus",
+          "Western corn rootworm",
+          "White (mutation)",
+          "Whole genome sequencing",
+          "Wild type",
+          "World Wide Web",
+          "Zoology",
+          "Zygote",
+          "cDNA library",
+          "microRNA"
+        ],
+        "host_venues": [
+          "Archives of Insect Biochemistry and Physiology",
+          "BMC Biology",
+          "BMC Genomics",
+          "CSH Protocols",
+          "Ecology and Evolution",
+          "Environmental Entomology",
+          "Evolution & Development",
+          "Genes",
+          "Genetics",
+          "GenomeBiology.com (London. Print)",
+          "GigaScience",
+          "InTech eBooks",
+          "Insect Biochemistry and Molecular Biology",
+          "Insect Molecular Biology",
+          "Insects",
+          "Journal of Biological Chemistry",
+          "Journal of Insect Physiology",
+          "Journal of Proteome Research",
+          "Journal of Responsible Innovation",
+          "Journal of Visualized Experiments",
+          "Journal of insect science",
+          "Molecular Genetics and Genomics",
+          "Molecular Plant-microbe Interactions",
+          "Nature",
+          "Nucleic Acids Research",
+          "PLOS ONE",
+          "Proceedings of the National Academy of Sciences of the United States of America",
+          "Scientific Reports"
+        ],
+        "color": "#6F7D1C",
+        "size": 10
+      }
+    },
+    {
+      "key": "https://orcid.org/0000-0001-9739-5237",
+      "attributes": {
+        "label": "M Lorenzen",
+        "name": "Marcé D. Lorenzen",
+        "known?": false,
+        "orcid?": null,
+        "ncsu?": true,
+        "affiliations": [
+          "North Carolina State University"
+        ],
+        "countries": [
+          "US"
+        ],
+        "color": "#000000",
+        "size": 10
+      }
+    },
+    {
+      "key": "fchu",
+      "attributes": {
+        "label": "F Chu",
+        "name": "F. Chu",
+        "known?": false,
+        "orcid?": null,
+        "ncsu?": true,
+        "affiliations": [
+          "North Carolina State University"
+        ],
+        "countries": [
+          "US"
+        ],
+        "color": "#000000",
+        "size": 10
+      }
+    },
+    {
+      "key": "uid-pwu7",
+      "attributes": {
+        "label": "P Wu",
+        "name": "Pei-Shan Wu",
+        "known?": true,
+        "orcid?": false,
+        "ncsu?": true,
+        "affiliations": [
+          "North Carolina State University"
+        ],
+        "countries": [
+          "US"
+        ],
+        "uid": "pwu7",
+        "url": "https://ci.lib.ncsu.edu/profiles/pwu7",
+        "active?": false,
+        "department": "Entomology and Plant Pathology",
+        "college": "College of Agriculture and Life Sciences",
+        "ncsu_affiliations": [
+          "Entomology and Plant Pathology"
+        ],
+        "cluster?": false,
+        "clusters": [
+
+        ],
+        "role": null,
+        "building": null,
+        "count": 2,
+        "oa_count": 1,
+        "years": [
+          2018,
+          2017
+        ],
+        "year_recent": 2018,
+        "article_concepts": [
+          "Biology",
+          "Botany",
+          "CRISPR",
+          "Cas9",
+          "Computational biology",
+          "Gene",
+          "Genetics",
+          "Genome",
+          "Genome editing",
+          "PEST analysis",
+          "RNA",
+          "RNA interference",
+          "Western corn rootworm"
+        ],
+        "host_venues": [
+          "Insect Molecular Biology",
+          "Journal of Visualized Experiments"
+        ],
+        "color": "#6F7D1C",
+        "size": 10
+      }
+    },
+    {
+      "key": "uid-spinzi",
+      "attributes": {
+        "label": "S Pinzi",
+        "name": "Sofia Pinzi",
+        "known?": true,
+        "orcid?": false,
+        "ncsu?": true,
+        "affiliations": [
+          "North Carolina State University"
+        ],
+        "countries": [
+          "US"
+        ],
+        "uid": "spinzi",
+        "url": "https://ci.lib.ncsu.edu/profiles/spinzi",
+        "active?": true,
+        "department": "Entomology and Plant Pathology",
+        "college": "College of Agriculture and Life Sciences",
+        "ncsu_affiliations": [
+          "Entomology and Plant Pathology"
+        ],
+        "cluster?": false,
+        "clusters": [
+
+        ],
+        "role": "staff",
+        "building": "Gardner Hall",
+        "count": 3,
+        "oa_count": 1,
+        "years": [
+          2019,
+          2018,
+          2017
+        ],
+        "year_recent": 2019,
+        "article_concepts": [
+          "Biology",
+          "Botany",
+          "CRISPR",
+          "Cas9",
+          "Computational biology",
+          "Gene",
+          "Genetics",
+          "Genome",
+          "Genome editing",
+          "PEST analysis",
+          "RNA",
+          "RNA interference",
+          "Western corn rootworm"
+        ],
+        "host_venues": [
+          "Archives of Insect Biochemistry and Physiology",
+          "Insect Molecular Biology",
+          "Journal of Visualized Experiments"
+        ],
+        "color": "#6F7D1C",
+        "size": 10
+      }
+    },
+    {
+      "key": "sgorski",
+      "attributes": {
+        "label": "S Gorski",
+        "name": "S. Gorski",
+        "known?": false,
+        "orcid?": null,
+        "ncsu?": true,
+        "affiliations": [
+          "North Carolina State University"
+        ],
+        "countries": [
+          "US"
+        ],
+        "color": "#000000",
+        "size": 10
+      }
+    },
+    {
+      "key": "uid-yjcardoz",
+      "attributes": {
+        "label": "Y Cardoza",
+        "name": "Yasmin Cardoza",
+        "known?": true,
+        "orcid?": false,
+        "ncsu?": true,
+        "affiliations": [
+          "North Carolina State University"
+        ],
+        "countries": [
+          "US"
+        ],
+        "uid": "yjcardoz",
+        "url": "https://ci.lib.ncsu.edu/profiles/yjcardoz",
+        "active?": true,
+        "department": "Entomology and Plant Pathology",
+        "college": "College of Agriculture and Life Sciences",
+        "ncsu_affiliations": [
+          "Entomology and Plant Pathology",
+          "Genetic Engineering and Society"
+        ],
+        "cluster?": true,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "role": "faculty",
+        "building": "Gardner Hall",
+        "count": 21,
+        "oa_count": 4,
+        "years": [
+          2017,
+          2015,
+          2014,
+          2013,
+          2012,
+          2011,
+          2010,
+          2009,
+          2008
+        ],
+        "year_recent": 2017,
+        "article_concepts": [
+          "Biology",
+          "Botany",
+          "Germplasm",
+          "Hemiptera",
+          "Horticulture",
+          "Zoology"
+        ],
+        "host_venues": [
+          "Biological Control",
+          "Canadian Journal of Forest Research",
+          "Clean-soil Air Water",
+          "Crop Science",
+          "Entomologia Experimentalis Et Applicata",
+          "Environmental Entomology",
+          "Insect Molecular Biology",
+          "Journal of Economic Entomology",
+          "Journal of Entomological Science",
+          "Naturwissenschaften",
+          "Nematology",
+          "Pedobiologia",
+          "Pest Management Science"
+        ],
+        "color": "#6F7D1C",
+        "size": 10
+      }
+    }
+  ],
+  "edges": [
+    {
+      "source": "uid-waklobas",
+      "target": "uid-fchu",
+      "attributes": {
+        "label": 2,
+        "weight": 2,
+        "collaboration_count": 2,
+        "departments": "Entomology and Plant Pathology -- Plant Pathology",
+        "colleges": "College of Agriculture and Life Sciences == College of Agriculture and Life Sciences",
+        "buildings": "Thomas Hall --- unknown",
+        "roles": "other -- staff",
+        "years": [
+          2021,
+          2017
+        ],
+        "year_recent": 2021,
+        "dois": [
+          "10.3791/62417",
+          "10.1002/arch.21439"
+        ],
+        "ncsu?": true,
+        "cross_college?": false,
+        "cross_department?": true,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          "Journal of Visualized Experiments"
+        ],
+        "color": "#CC0000",
+        "size": 2
+      }
+    },
+    {
+      "source": "uid-waklobas",
+      "target": "uid-obhuot",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Entomology and Plant Pathology == Entomology and Plant Pathology",
+        "colleges": "College of Agriculture and Life Sciences == College of Agriculture and Life Sciences",
+        "buildings": "Thomas Hall --- unknown",
+        "roles": "staff == staff",
+        "years": [
+          2021
+        ],
+        "year_recent": 2021,
+        "dois": [
+          "10.3791/62417"
+        ],
+        "ncsu?": true,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          "Journal of Visualized Experiments"
+        ],
+        "color": "#CC0000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-waklobas",
+      "target": "uid-npgrubbs",
+      "attributes": {
+        "label": 3,
+        "weight": 3,
+        "collaboration_count": 3,
+        "departments": "Entomology and Plant Pathology == Entomology and Plant Pathology",
+        "colleges": "College of Agriculture and Life Sciences == College of Agriculture and Life Sciences",
+        "buildings": "Thomas Hall --- unknown",
+        "roles": "staff == staff",
+        "years": [
+          2021,
+          2017,
+          2017
+        ],
+        "year_recent": 2021,
+        "dois": [
+          "10.3791/62417",
+          "10.1002/arch.21439",
+          "10.1111/imb.12305"
+        ],
+        "ncsu?": true,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          "Journal of Visualized Experiments"
+        ],
+        "color": "#CC0000",
+        "size": 3
+      }
+    },
+    {
+      "source": "uid-waklobas",
+      "target": "uid-drotenb",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Entomology and Plant Pathology == Entomology and Plant Pathology",
+        "colleges": "College of Agriculture and Life Sciences == College of Agriculture and Life Sciences",
+        "buildings": "Partners Building II -- Thomas Hall",
+        "roles": "faculty -- staff",
+        "years": [
+          2021
+        ],
+        "year_recent": 2021,
+        "dois": [
+          "10.3791/62417"
+        ],
+        "ncsu?": true,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": true,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": true,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          "Journal of Visualized Experiments"
+        ],
+        "color": "#CC0000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-waklobas",
+      "target": "uid-awhitfi",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Entomology and Plant Pathology -- Plant Pathology",
+        "colleges": "College of Agriculture and Life Sciences == College of Agriculture and Life Sciences",
+        "buildings": "Thomas Hall == Thomas Hall",
+        "roles": "faculty -- staff",
+        "years": [
+          2021
+        ],
+        "year_recent": 2021,
+        "dois": [
+          "10.3791/62417"
+        ],
+        "ncsu?": true,
+        "cross_college?": false,
+        "cross_department?": true,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": true,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          "Journal of Visualized Experiments"
+        ],
+        "color": "#CC0000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-waklobas",
+      "target": "uid-mdlorenz",
+      "attributes": {
+        "label": 2,
+        "weight": 2,
+        "collaboration_count": 2,
+        "departments": "Entomology and Plant Pathology == Entomology and Plant Pathology",
+        "colleges": "College of Agriculture and Life Sciences == College of Agriculture and Life Sciences",
+        "buildings": "Thomas Hall == Thomas Hall",
+        "roles": "faculty -- staff",
+        "years": [
+          2021,
+          2017
+        ],
+        "year_recent": 2021,
+        "dois": [
+          "10.3791/62417",
+          "10.1111/imb.12305"
+        ],
+        "ncsu?": true,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": true,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          "Journal of Visualized Experiments"
+        ],
+        "color": "#CC0000",
+        "size": 2
+      }
+    },
+    {
+      "source": "uid-waklobas",
+      "target": "https://orcid.org/0000-0001-9739-5237",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Entomology and Plant Pathology --- unknown",
+        "colleges": "College of Agriculture and Life Sciences --- unknown",
+        "buildings": "Thomas Hall --- unknown",
+        "roles": "staff --- unknown",
+        "years": [
+          2017
+        ],
+        "year_recent": 2017,
+        "dois": [
+          "10.1002/arch.21439"
+        ],
+        "ncsu?": true,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          "Archives of Insect Biochemistry and Physiology"
+        ],
+        "color": "#CC0000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-waklobas",
+      "target": "fchu",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Entomology and Plant Pathology --- unknown",
+        "colleges": "College of Agriculture and Life Sciences --- unknown",
+        "buildings": "Thomas Hall --- unknown",
+        "roles": "staff --- unknown",
+        "years": [
+          2017
+        ],
+        "year_recent": 2017,
+        "dois": [
+          "10.1111/imb.12305"
+        ],
+        "ncsu?": true,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          "Insect Molecular Biology"
+        ],
+        "color": "#CC0000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-waklobas",
+      "target": "uid-pwu7",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Entomology and Plant Pathology == Entomology and Plant Pathology",
+        "colleges": "College of Agriculture and Life Sciences == College of Agriculture and Life Sciences",
+        "buildings": "Thomas Hall --- unknown",
+        "roles": "staff --- unknown",
+        "years": [
+          2017
+        ],
+        "year_recent": 2017,
+        "dois": [
+          "10.1111/imb.12305"
+        ],
+        "ncsu?": true,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          "Insect Molecular Biology"
+        ],
+        "color": "#CC0000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-waklobas",
+      "target": "uid-spinzi",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Entomology and Plant Pathology == Entomology and Plant Pathology",
+        "colleges": "College of Agriculture and Life Sciences == College of Agriculture and Life Sciences",
+        "buildings": "Gardner Hall -- Thomas Hall",
+        "roles": "staff == staff",
+        "years": [
+          2017
+        ],
+        "year_recent": 2017,
+        "dois": [
+          "10.1111/imb.12305"
+        ],
+        "ncsu?": true,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": true,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          "Insect Molecular Biology"
+        ],
+        "color": "#CC0000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-waklobas",
+      "target": "sgorski",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Entomology and Plant Pathology --- unknown",
+        "colleges": "College of Agriculture and Life Sciences --- unknown",
+        "buildings": "Thomas Hall --- unknown",
+        "roles": "staff --- unknown",
+        "years": [
+          2017
+        ],
+        "year_recent": 2017,
+        "dois": [
+          "10.1111/imb.12305"
+        ],
+        "ncsu?": true,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          "Insect Molecular Biology"
+        ],
+        "color": "#CC0000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-waklobas",
+      "target": "uid-yjcardoz",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Entomology and Plant Pathology == Entomology and Plant Pathology",
+        "colleges": "College of Agriculture and Life Sciences == College of Agriculture and Life Sciences",
+        "buildings": "Gardner Hall -- Thomas Hall",
+        "roles": "faculty -- staff",
+        "years": [
+          2017
+        ],
+        "year_recent": 2017,
+        "dois": [
+          "10.1111/imb.12305"
+        ],
+        "ncsu?": true,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": true,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": true,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          "Insect Molecular Biology"
+        ],
+        "color": "#CC0000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-fchu",
+      "target": "uid-obhuot",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Entomology and Plant Pathology -- Plant Pathology",
+        "colleges": "College of Agriculture and Life Sciences == College of Agriculture and Life Sciences",
+        "buildings": "unknown --- unknown",
+        "roles": "other -- staff",
+        "years": [
+          2021
+        ],
+        "year_recent": 2021,
+        "dois": [
+          "10.3791/62417"
+        ],
+        "ncsu?": true,
+        "cross_college?": false,
+        "cross_department?": true,
+        "cross_unit?": false,
+        "cluster?": false,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          "Journal of Visualized Experiments"
+        ],
+        "color": "#CC0000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-fchu",
+      "target": "uid-npgrubbs",
+      "attributes": {
+        "label": 3,
+        "weight": 3,
+        "collaboration_count": 3,
+        "departments": "Entomology and Plant Pathology -- Plant Pathology",
+        "colleges": "College of Agriculture and Life Sciences == College of Agriculture and Life Sciences",
+        "buildings": "unknown --- unknown",
+        "roles": "other -- staff",
+        "years": [
+          2021,
+          2018,
+          2017
+        ],
+        "year_recent": 2021,
+        "dois": [
+          "10.3791/62417",
+          "10.3791/57497",
+          "10.1002/arch.21439"
+        ],
+        "ncsu?": true,
+        "cross_college?": false,
+        "cross_department?": true,
+        "cross_unit?": false,
+        "cluster?": false,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          "Journal of Visualized Experiments"
+        ],
+        "color": "#CC0000",
+        "size": 3
+      }
+    },
+    {
+      "source": "uid-fchu",
+      "target": "uid-drotenb",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Entomology and Plant Pathology -- Plant Pathology",
+        "colleges": "College of Agriculture and Life Sciences == College of Agriculture and Life Sciences",
+        "buildings": "Partners Building II --- unknown",
+        "roles": "faculty -- other",
+        "years": [
+          2021
+        ],
+        "year_recent": 2021,
+        "dois": [
+          "10.3791/62417"
+        ],
+        "ncsu?": true,
+        "cross_college?": false,
+        "cross_department?": true,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          "Journal of Visualized Experiments"
+        ],
+        "color": "#CC0000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-fchu",
+      "target": "uid-awhitfi",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Plant Pathology == Plant Pathology",
+        "colleges": "College of Agriculture and Life Sciences == College of Agriculture and Life Sciences",
+        "buildings": "Thomas Hall --- unknown",
+        "roles": "faculty -- other",
+        "years": [
+          2021
+        ],
+        "year_recent": 2021,
+        "dois": [
+          "10.3791/62417"
+        ],
+        "ncsu?": true,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          "Journal of Visualized Experiments"
+        ],
+        "color": "#CC0000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-fchu",
+      "target": "uid-mdlorenz",
+      "attributes": {
+        "label": 2,
+        "weight": 2,
+        "collaboration_count": 2,
+        "departments": "Entomology and Plant Pathology -- Plant Pathology",
+        "colleges": "College of Agriculture and Life Sciences == College of Agriculture and Life Sciences",
+        "buildings": "Thomas Hall --- unknown",
+        "roles": "faculty -- other",
+        "years": [
+          2021,
+          2019
+        ],
+        "year_recent": 2021,
+        "dois": [
+          "10.3791/62417",
+          "10.1002/arch.21546"
+        ],
+        "ncsu?": true,
+        "cross_college?": false,
+        "cross_department?": true,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          "Journal of Visualized Experiments"
+        ],
+        "color": "#CC0000",
+        "size": 2
+      }
+    },
+    {
+      "source": "uid-fchu",
+      "target": "uid-spinzi",
+      "attributes": {
+        "label": 2,
+        "weight": 2,
+        "collaboration_count": 2,
+        "departments": "Entomology and Plant Pathology -- Plant Pathology",
+        "colleges": "College of Agriculture and Life Sciences == College of Agriculture and Life Sciences",
+        "buildings": "Gardner Hall --- unknown",
+        "roles": "other -- staff",
+        "years": [
+          2019,
+          2018
+        ],
+        "year_recent": 2019,
+        "dois": [
+          "10.1002/arch.21546",
+          "10.3791/57497"
+        ],
+        "ncsu?": true,
+        "cross_college?": false,
+        "cross_department?": true,
+        "cross_unit?": false,
+        "cluster?": false,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          "Archives of Insect Biochemistry and Physiology"
+        ],
+        "color": "#CC0000",
+        "size": 2
+      }
+    },
+    {
+      "source": "uid-fchu",
+      "target": "uid-pwu7",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Entomology and Plant Pathology -- Plant Pathology",
+        "colleges": "College of Agriculture and Life Sciences == College of Agriculture and Life Sciences",
+        "buildings": "unknown --- unknown",
+        "roles": "other --- unknown",
+        "years": [
+          2018
+        ],
+        "year_recent": 2018,
+        "dois": [
+          "10.3791/57497"
+        ],
+        "ncsu?": true,
+        "cross_college?": false,
+        "cross_department?": true,
+        "cross_unit?": false,
+        "cluster?": false,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+
+        ],
+        "cross_building?": false,
+        "concepts": [
+          "Western corn rootworm",
+          "Biology",
+          "Genome",
+          "Genetics",
+          "CRISPR",
+          "Gene",
+          "Cas9",
+          "Genome editing",
+          "RNA interference",
+          "Computational biology",
+          "PEST analysis",
+          "RNA",
+          "Botany"
+        ],
+        "host_venues": [
+          "Journal of Visualized Experiments"
+        ],
+        "color": "#CC0000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-fchu",
+      "target": "https://orcid.org/0000-0001-9739-5237",
+      "attributes": {
+        "label": 2,
+        "weight": 2,
+        "collaboration_count": 2,
+        "departments": "Plant Pathology --- unknown",
+        "colleges": "College of Agriculture and Life Sciences --- unknown",
+        "buildings": "unknown --- unknown",
+        "roles": "other --- unknown",
+        "years": [
+          2018,
+          2017
+        ],
+        "year_recent": 2018,
+        "dois": [
+          "10.3791/57497",
+          "10.1002/arch.21439"
+        ],
+        "ncsu?": true,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": false,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+
+        ],
+        "cross_building?": false,
+        "concepts": [
+          "Western corn rootworm",
+          "Biology",
+          "Genome",
+          "Genetics",
+          "CRISPR",
+          "Gene",
+          "Cas9",
+          "Genome editing",
+          "RNA interference",
+          "Computational biology",
+          "PEST analysis",
+          "RNA",
+          "Botany"
+        ],
+        "host_venues": [
+          "Journal of Visualized Experiments"
+        ],
+        "color": "#CC0000",
+        "size": 2
+      }
+    },
+    {
+      "source": "uid-obhuot",
+      "target": "uid-npgrubbs",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Entomology and Plant Pathology == Entomology and Plant Pathology",
+        "colleges": "College of Agriculture and Life Sciences == College of Agriculture and Life Sciences",
+        "buildings": "unknown --- unknown",
+        "roles": "staff == staff",
+        "years": [
+          2021
+        ],
+        "year_recent": 2021,
+        "dois": [
+          "10.3791/62417"
+        ],
+        "ncsu?": true,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": false,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          "Journal of Visualized Experiments"
+        ],
+        "color": "#CC0000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-obhuot",
+      "target": "uid-drotenb",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Entomology and Plant Pathology == Entomology and Plant Pathology",
+        "colleges": "College of Agriculture and Life Sciences == College of Agriculture and Life Sciences",
+        "buildings": "Partners Building II --- unknown",
+        "roles": "faculty -- staff",
+        "years": [
+          2021
+        ],
+        "year_recent": 2021,
+        "dois": [
+          "10.3791/62417"
+        ],
+        "ncsu?": true,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          "Journal of Visualized Experiments"
+        ],
+        "color": "#CC0000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-obhuot",
+      "target": "uid-awhitfi",
+      "attributes": {
+        "label": 2,
+        "weight": 2,
+        "collaboration_count": 2,
+        "departments": "Entomology and Plant Pathology -- Plant Pathology",
+        "colleges": "College of Agriculture and Life Sciences == College of Agriculture and Life Sciences",
+        "buildings": "Thomas Hall --- unknown",
+        "roles": "faculty -- staff",
+        "years": [
+          2021,
+          2018
+        ],
+        "year_recent": 2021,
+        "dois": [
+          "10.3791/62417",
+          "10.1016/j.coviro.2018.11.002"
+        ],
+        "ncsu?": true,
+        "cross_college?": false,
+        "cross_department?": true,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          "Journal of Visualized Experiments"
+        ],
+        "color": "#CC0000",
+        "size": 2
+      }
+    },
+    {
+      "source": "uid-obhuot",
+      "target": "uid-mdlorenz",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Entomology and Plant Pathology == Entomology and Plant Pathology",
+        "colleges": "College of Agriculture and Life Sciences == College of Agriculture and Life Sciences",
+        "buildings": "Thomas Hall --- unknown",
+        "roles": "faculty -- staff",
+        "years": [
+          2021
+        ],
+        "year_recent": 2021,
+        "dois": [
+          "10.3791/62417"
+        ],
+        "ncsu?": true,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          "Journal of Visualized Experiments"
+        ],
+        "color": "#CC0000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-npgrubbs",
+      "target": "uid-drotenb",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Entomology and Plant Pathology == Entomology and Plant Pathology",
+        "colleges": "College of Agriculture and Life Sciences == College of Agriculture and Life Sciences",
+        "buildings": "Partners Building II --- unknown",
+        "roles": "faculty -- staff",
+        "years": [
+          2021
+        ],
+        "year_recent": 2021,
+        "dois": [
+          "10.3791/62417"
+        ],
+        "ncsu?": true,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          "Journal of Visualized Experiments"
+        ],
+        "color": "#CC0000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-npgrubbs",
+      "target": "uid-awhitfi",
+      "attributes": {
+        "label": 2,
+        "weight": 2,
+        "collaboration_count": 2,
+        "departments": "Entomology and Plant Pathology -- Plant Pathology",
+        "colleges": "College of Agriculture and Life Sciences == College of Agriculture and Life Sciences",
+        "buildings": "Thomas Hall --- unknown",
+        "roles": "faculty -- staff",
+        "years": [
+          2021,
+          2020
+        ],
+        "year_recent": 2021,
+        "dois": [
+          "10.3791/62417",
+          "10.1094/MPMI-10-19-0281-FI"
+        ],
+        "ncsu?": true,
+        "cross_college?": false,
+        "cross_department?": true,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          "Journal of Visualized Experiments"
+        ],
+        "color": "#CC0000",
+        "size": 2
+      }
+    },
+    {
+      "source": "uid-npgrubbs",
+      "target": "uid-mdlorenz",
+      "attributes": {
+        "label": 6,
+        "weight": 6,
+        "collaboration_count": 6,
+        "departments": "Entomology and Plant Pathology == Entomology and Plant Pathology",
+        "colleges": "College of Agriculture and Life Sciences == College of Agriculture and Life Sciences",
+        "buildings": "Thomas Hall --- unknown",
+        "roles": "faculty -- staff",
+        "years": [
+          2021,
+          2020,
+          2019,
+          2017,
+          2017,
+          2015
+        ],
+        "year_recent": 2021,
+        "dois": [
+          "10.3791/62417",
+          "10.1094/MPMI-10-19-0281-FI",
+          "10.1186/s12864-019-6218-8",
+          "10.1080/23299460.2017.1410343",
+          "10.1111/imb.12305",
+          "10.1534/genetics.114.173971"
+        ],
+        "ncsu?": true,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          "Journal of Visualized Experiments"
+        ],
+        "color": "#CC0000",
+        "size": 6
+      }
+    },
+    {
+      "source": "uid-npgrubbs",
+      "target": "https://orcid.org/0000-0001-9739-5237",
+      "attributes": {
+        "label": 3,
+        "weight": 3,
+        "collaboration_count": 3,
+        "departments": "Entomology and Plant Pathology --- unknown",
+        "colleges": "College of Agriculture and Life Sciences --- unknown",
+        "buildings": "unknown --- unknown",
+        "roles": "staff --- unknown",
+        "years": [
+          2018,
+          2018,
+          2017
+        ],
+        "year_recent": 2018,
+        "dois": [
+          "10.1093/gigascience/giy138",
+          "10.3791/57497",
+          "10.1002/arch.21439"
+        ],
+        "ncsu?": true,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": false,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+
+        ],
+        "cross_building?": false,
+        "concepts": [
+          "Biology",
+          "Honey bee",
+          "Parasite hosting",
+          "Herbivore",
+          "Ecology",
+          "Honey Bees",
+          "Zoology",
+          "Computer science",
+          "World Wide Web"
+        ],
+        "host_venues": [
+          "GigaScience"
+        ],
+        "color": "#CC0000",
+        "size": 3
+      }
+    },
+    {
+      "source": "uid-npgrubbs",
+      "target": "uid-pwu7",
+      "attributes": {
+        "label": 2,
+        "weight": 2,
+        "collaboration_count": 2,
+        "departments": "Entomology and Plant Pathology == Entomology and Plant Pathology",
+        "colleges": "College of Agriculture and Life Sciences == College of Agriculture and Life Sciences",
+        "buildings": "unknown --- unknown",
+        "roles": "staff --- unknown",
+        "years": [
+          2018,
+          2017
+        ],
+        "year_recent": 2018,
+        "dois": [
+          "10.3791/57497",
+          "10.1111/imb.12305"
+        ],
+        "ncsu?": true,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": false,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+
+        ],
+        "cross_building?": false,
+        "concepts": [
+          "Western corn rootworm",
+          "Biology",
+          "Genome",
+          "Genetics",
+          "CRISPR",
+          "Gene",
+          "Cas9",
+          "Genome editing",
+          "RNA interference",
+          "Computational biology",
+          "PEST analysis",
+          "RNA",
+          "Botany"
+        ],
+        "host_venues": [
+          "Journal of Visualized Experiments"
+        ],
+        "color": "#CC0000",
+        "size": 2
+      }
+    },
+    {
+      "source": "uid-npgrubbs",
+      "target": "uid-spinzi",
+      "attributes": {
+        "label": 2,
+        "weight": 2,
+        "collaboration_count": 2,
+        "departments": "Entomology and Plant Pathology == Entomology and Plant Pathology",
+        "colleges": "College of Agriculture and Life Sciences == College of Agriculture and Life Sciences",
+        "buildings": "Gardner Hall --- unknown",
+        "roles": "staff == staff",
+        "years": [
+          2018,
+          2017
+        ],
+        "year_recent": 2018,
+        "dois": [
+          "10.3791/57497",
+          "10.1111/imb.12305"
+        ],
+        "ncsu?": true,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": false,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+
+        ],
+        "cross_building?": false,
+        "concepts": [
+          "Western corn rootworm",
+          "Biology",
+          "Genome",
+          "Genetics",
+          "CRISPR",
+          "Gene",
+          "Cas9",
+          "Genome editing",
+          "RNA interference",
+          "Computational biology",
+          "PEST analysis",
+          "RNA",
+          "Botany"
+        ],
+        "host_venues": [
+          "Journal of Visualized Experiments"
+        ],
+        "color": "#CC0000",
+        "size": 2
+      }
+    },
+    {
+      "source": "uid-npgrubbs",
+      "target": "fchu",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Entomology and Plant Pathology --- unknown",
+        "colleges": "College of Agriculture and Life Sciences --- unknown",
+        "buildings": "unknown --- unknown",
+        "roles": "staff --- unknown",
+        "years": [
+          2017
+        ],
+        "year_recent": 2017,
+        "dois": [
+          "10.1111/imb.12305"
+        ],
+        "ncsu?": true,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": false,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          "Insect Molecular Biology"
+        ],
+        "color": "#CC0000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-npgrubbs",
+      "target": "sgorski",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Entomology and Plant Pathology --- unknown",
+        "colleges": "College of Agriculture and Life Sciences --- unknown",
+        "buildings": "unknown --- unknown",
+        "roles": "staff --- unknown",
+        "years": [
+          2017
+        ],
+        "year_recent": 2017,
+        "dois": [
+          "10.1111/imb.12305"
+        ],
+        "ncsu?": true,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": false,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          "Insect Molecular Biology"
+        ],
+        "color": "#CC0000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-npgrubbs",
+      "target": "uid-yjcardoz",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Entomology and Plant Pathology == Entomology and Plant Pathology",
+        "colleges": "College of Agriculture and Life Sciences == College of Agriculture and Life Sciences",
+        "buildings": "Gardner Hall --- unknown",
+        "roles": "faculty -- staff",
+        "years": [
+          2017
+        ],
+        "year_recent": 2017,
+        "dois": [
+          "10.1111/imb.12305"
+        ],
+        "ncsu?": true,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          "Insect Molecular Biology"
+        ],
+        "color": "#CC0000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-drotenb",
+      "target": "uid-awhitfi",
+      "attributes": {
+        "label": 17,
+        "weight": 17,
+        "collaboration_count": 17,
+        "departments": "Entomology and Plant Pathology -- Plant Pathology",
+        "colleges": "College of Agriculture and Life Sciences == College of Agriculture and Life Sciences",
+        "buildings": "Partners Building II -- Thomas Hall",
+        "roles": "faculty == faculty",
+        "years": [
+          2022,
+          2022,
+          2021,
+          2020,
+          2020,
+          2020,
+          2019,
+          2019,
+          2019,
+          2018,
+          2017,
+          2017,
+          2015,
+          2015,
+          2015,
+          2015,
+          2007
+        ],
+        "year_recent": 2022,
+        "dois": [
+          "10.1016/j.ibmb.2022.103843",
+          "10.1016/j.virol.2022.10.002",
+          "10.3791/62417",
+          "10.1186/s12915-020-00862-9",
+          "10.1186/s12915-020-00915-z",
+          "10.3389/fpls.2020.575564",
+          "10.1016/j.jviromet.2019.05.010",
+          "10.1128/JVI.00699-19",
+          "10.1016/bs.aivir.2019.07.001",
+          "10.1016/j.coviro.2018.11.007",
+          "10.1016/j.virol.2016.10.009",
+          "10.1016/j.virol.2017.05.019",
+          "10.1016/j.cois.2015.01.009",
+          "10.1016/j.virol.2015.03.026",
+          "10.1016/j.jinsphys.2015.03.009",
+          "10.1016/j.coviro.2015.08.003",
+          "10.1016/j.soilbio.2007.06.011"
+        ],
+        "ncsu?": true,
+        "cross_college?": false,
+        "cross_department?": true,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": true,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": true,
+        "concepts": [
+          "Biology",
+          "Proteome",
+          "Thrips",
+          "Western flower thrips",
+          "Virus",
+          "Tospovirus",
+          "Proteomics",
+          "Virology",
+          "Plant virus",
+          "Cell biology",
+          "Botany",
+          "Gene",
+          "Genetics",
+          "Thripidae",
+          "Tomato spotted wilt virus"
+        ],
+        "host_venues": [
+          "Insect Biochemistry and Molecular Biology"
+        ],
+        "color": "#CC0000",
+        "size": 17
+      }
+    },
+    {
+      "source": "uid-drotenb",
+      "target": "uid-mdlorenz",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Entomology and Plant Pathology == Entomology and Plant Pathology",
+        "colleges": "College of Agriculture and Life Sciences == College of Agriculture and Life Sciences",
+        "buildings": "Partners Building II -- Thomas Hall",
+        "roles": "faculty == faculty",
+        "years": [
+          2021
+        ],
+        "year_recent": 2021,
+        "dois": [
+          "10.3791/62417"
+        ],
+        "ncsu?": true,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": true,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": true,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          "Journal of Visualized Experiments"
+        ],
+        "color": "#CC0000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-awhitfi",
+      "target": "uid-mdlorenz",
+      "attributes": {
+        "label": 2,
+        "weight": 2,
+        "collaboration_count": 2,
+        "departments": "Entomology and Plant Pathology -- Plant Pathology",
+        "colleges": "College of Agriculture and Life Sciences == College of Agriculture and Life Sciences",
+        "buildings": "Thomas Hall == Thomas Hall",
+        "roles": "faculty == faculty",
+        "years": [
+          2021,
+          2020
+        ],
+        "year_recent": 2021,
+        "dois": [
+          "10.3791/62417",
+          "10.1094/MPMI-10-19-0281-FI"
+        ],
+        "ncsu?": true,
+        "cross_college?": false,
+        "cross_department?": true,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": true,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          "Journal of Visualized Experiments"
+        ],
+        "color": "#CC0000",
+        "size": 2
+      }
+    },
+    {
+      "source": "uid-mdlorenz",
+      "target": "uid-spinzi",
+      "attributes": {
+        "label": 3,
+        "weight": 3,
+        "collaboration_count": 3,
+        "departments": "Entomology and Plant Pathology == Entomology and Plant Pathology",
+        "colleges": "College of Agriculture and Life Sciences == College of Agriculture and Life Sciences",
+        "buildings": "Gardner Hall -- Thomas Hall",
+        "roles": "faculty -- staff",
+        "years": [
+          2019,
+          2018,
+          2017
+        ],
+        "year_recent": 2019,
+        "dois": [
+          "10.1002/arch.21546",
+          "10.3791/57497",
+          "10.1111/imb.12305"
+        ],
+        "ncsu?": true,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": true,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          "Archives of Insect Biochemistry and Physiology"
+        ],
+        "color": "#CC0000",
+        "size": 3
+      }
+    },
+    {
+      "source": "uid-mdlorenz",
+      "target": "uid-pwu7",
+      "attributes": {
+        "label": 2,
+        "weight": 2,
+        "collaboration_count": 2,
+        "departments": "Entomology and Plant Pathology == Entomology and Plant Pathology",
+        "colleges": "College of Agriculture and Life Sciences == College of Agriculture and Life Sciences",
+        "buildings": "Thomas Hall --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          2018,
+          2017
+        ],
+        "year_recent": 2018,
+        "dois": [
+          "10.3791/57497",
+          "10.1111/imb.12305"
+        ],
+        "ncsu?": true,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          "Western corn rootworm",
+          "Biology",
+          "Genome",
+          "Genetics",
+          "CRISPR",
+          "Gene",
+          "Cas9",
+          "Genome editing",
+          "RNA interference",
+          "Computational biology",
+          "PEST analysis",
+          "RNA",
+          "Botany"
+        ],
+        "host_venues": [
+          "Journal of Visualized Experiments"
+        ],
+        "color": "#CC0000",
+        "size": 2
+      }
+    },
+    {
+      "source": "uid-mdlorenz",
+      "target": "fchu",
+      "attributes": {
+        "label": 2,
+        "weight": 2,
+        "collaboration_count": 2,
+        "departments": "Entomology and Plant Pathology --- unknown",
+        "colleges": "College of Agriculture and Life Sciences --- unknown",
+        "buildings": "Thomas Hall --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          2017,
+          2014
+        ],
+        "year_recent": 2017,
+        "dois": [
+          "10.1111/imb.12305"
+        ],
+        "ncsu?": true,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          "Insect Molecular Biology"
+        ],
+        "color": "#CC0000",
+        "size": 2
+      }
+    },
+    {
+      "source": "uid-mdlorenz",
+      "target": "sgorski",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Entomology and Plant Pathology --- unknown",
+        "colleges": "College of Agriculture and Life Sciences --- unknown",
+        "buildings": "Thomas Hall --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          2017
+        ],
+        "year_recent": 2017,
+        "dois": [
+          "10.1111/imb.12305"
+        ],
+        "ncsu?": true,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          "Insect Molecular Biology"
+        ],
+        "color": "#CC0000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-mdlorenz",
+      "target": "uid-yjcardoz",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Entomology and Plant Pathology == Entomology and Plant Pathology",
+        "colleges": "College of Agriculture and Life Sciences == College of Agriculture and Life Sciences",
+        "buildings": "Gardner Hall -- Thomas Hall",
+        "roles": "faculty == faculty",
+        "years": [
+          2017
+        ],
+        "year_recent": 2017,
+        "dois": [
+          "10.1111/imb.12305"
+        ],
+        "ncsu?": true,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": true,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": true,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          "Insect Molecular Biology"
+        ],
+        "color": "#CC0000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-pwu7",
+      "target": "uid-spinzi",
+      "attributes": {
+        "label": 2,
+        "weight": 2,
+        "collaboration_count": 2,
+        "departments": "Entomology and Plant Pathology == Entomology and Plant Pathology",
+        "colleges": "College of Agriculture and Life Sciences == College of Agriculture and Life Sciences",
+        "buildings": "Gardner Hall --- unknown",
+        "roles": "staff --- unknown",
+        "years": [
+          2018,
+          2017
+        ],
+        "year_recent": 2018,
+        "dois": [
+          "10.3791/57497",
+          "10.1111/imb.12305"
+        ],
+        "ncsu?": true,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": false,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+
+        ],
+        "cross_building?": false,
+        "concepts": [
+          "Western corn rootworm",
+          "Biology",
+          "Genome",
+          "Genetics",
+          "CRISPR",
+          "Gene",
+          "Cas9",
+          "Genome editing",
+          "RNA interference",
+          "Computational biology",
+          "PEST analysis",
+          "RNA",
+          "Botany"
+        ],
+        "host_venues": [
+          "Journal of Visualized Experiments"
+        ],
+        "color": "#CC0000",
+        "size": 2
+      }
+    },
+    {
+      "source": "uid-pwu7",
+      "target": "https://orcid.org/0000-0001-9739-5237",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Entomology and Plant Pathology --- unknown",
+        "colleges": "College of Agriculture and Life Sciences --- unknown",
+        "buildings": "unknown --- unknown",
+        "roles": "unknown == unknown",
+        "years": [
+          2018
+        ],
+        "year_recent": 2018,
+        "dois": [
+          "10.3791/57497"
+        ],
+        "ncsu?": true,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": false,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+
+        ],
+        "cross_building?": false,
+        "concepts": [
+          "Western corn rootworm",
+          "Biology",
+          "Genome",
+          "Genetics",
+          "CRISPR",
+          "Gene",
+          "Cas9",
+          "Genome editing",
+          "RNA interference",
+          "Computational biology",
+          "PEST analysis",
+          "RNA",
+          "Botany"
+        ],
+        "host_venues": [
+          "Journal of Visualized Experiments"
+        ],
+        "color": "#CC0000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-pwu7",
+      "target": "fchu",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Entomology and Plant Pathology --- unknown",
+        "colleges": "College of Agriculture and Life Sciences --- unknown",
+        "buildings": "unknown --- unknown",
+        "roles": "unknown == unknown",
+        "years": [
+          2017
+        ],
+        "year_recent": 2017,
+        "dois": [
+          "10.1111/imb.12305"
+        ],
+        "ncsu?": true,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": false,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          "Insect Molecular Biology"
+        ],
+        "color": "#CC0000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-pwu7",
+      "target": "sgorski",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Entomology and Plant Pathology --- unknown",
+        "colleges": "College of Agriculture and Life Sciences --- unknown",
+        "buildings": "unknown --- unknown",
+        "roles": "unknown == unknown",
+        "years": [
+          2017
+        ],
+        "year_recent": 2017,
+        "dois": [
+          "10.1111/imb.12305"
+        ],
+        "ncsu?": true,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": false,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          "Insect Molecular Biology"
+        ],
+        "color": "#CC0000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-pwu7",
+      "target": "uid-yjcardoz",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Entomology and Plant Pathology == Entomology and Plant Pathology",
+        "colleges": "College of Agriculture and Life Sciences == College of Agriculture and Life Sciences",
+        "buildings": "Gardner Hall --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          2017
+        ],
+        "year_recent": 2017,
+        "dois": [
+          "10.1111/imb.12305"
+        ],
+        "ncsu?": true,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          "Insect Molecular Biology"
+        ],
+        "color": "#CC0000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-spinzi",
+      "target": "https://orcid.org/0000-0001-9739-5237",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Entomology and Plant Pathology --- unknown",
+        "colleges": "College of Agriculture and Life Sciences --- unknown",
+        "buildings": "Gardner Hall --- unknown",
+        "roles": "staff --- unknown",
+        "years": [
+          2018
+        ],
+        "year_recent": 2018,
+        "dois": [
+          "10.3791/57497"
+        ],
+        "ncsu?": true,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": false,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+
+        ],
+        "cross_building?": false,
+        "concepts": [
+          "Western corn rootworm",
+          "Biology",
+          "Genome",
+          "Genetics",
+          "CRISPR",
+          "Gene",
+          "Cas9",
+          "Genome editing",
+          "RNA interference",
+          "Computational biology",
+          "PEST analysis",
+          "RNA",
+          "Botany"
+        ],
+        "host_venues": [
+          "Journal of Visualized Experiments"
+        ],
+        "color": "#CC0000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-spinzi",
+      "target": "fchu",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Entomology and Plant Pathology --- unknown",
+        "colleges": "College of Agriculture and Life Sciences --- unknown",
+        "buildings": "Gardner Hall --- unknown",
+        "roles": "staff --- unknown",
+        "years": [
+          2017
+        ],
+        "year_recent": 2017,
+        "dois": [
+          "10.1111/imb.12305"
+        ],
+        "ncsu?": true,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": false,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          "Insect Molecular Biology"
+        ],
+        "color": "#CC0000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-spinzi",
+      "target": "sgorski",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Entomology and Plant Pathology --- unknown",
+        "colleges": "College of Agriculture and Life Sciences --- unknown",
+        "buildings": "Gardner Hall --- unknown",
+        "roles": "staff --- unknown",
+        "years": [
+          2017
+        ],
+        "year_recent": 2017,
+        "dois": [
+          "10.1111/imb.12305"
+        ],
+        "ncsu?": true,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": false,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          "Insect Molecular Biology"
+        ],
+        "color": "#CC0000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-spinzi",
+      "target": "uid-yjcardoz",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Entomology and Plant Pathology == Entomology and Plant Pathology",
+        "colleges": "College of Agriculture and Life Sciences == College of Agriculture and Life Sciences",
+        "buildings": "Gardner Hall == Gardner Hall",
+        "roles": "faculty -- staff",
+        "years": [
+          2017
+        ],
+        "year_recent": 2017,
+        "dois": [
+          "10.1111/imb.12305"
+        ],
+        "ncsu?": true,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          "Insect Molecular Biology"
+        ],
+        "color": "#CC0000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-yjcardoz",
+      "target": "fchu",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Entomology and Plant Pathology --- unknown",
+        "colleges": "College of Agriculture and Life Sciences --- unknown",
+        "buildings": "Gardner Hall --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          2017
+        ],
+        "year_recent": 2017,
+        "dois": [
+          "10.1111/imb.12305"
+        ],
+        "ncsu?": true,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          "Insect Molecular Biology"
+        ],
+        "color": "#CC0000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-yjcardoz",
+      "target": "sgorski",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Entomology and Plant Pathology --- unknown",
+        "colleges": "College of Agriculture and Life Sciences --- unknown",
+        "buildings": "Gardner Hall --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          2017
+        ],
+        "year_recent": 2017,
+        "dois": [
+          "10.1111/imb.12305"
+        ],
+        "ncsu?": true,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          "Insect Molecular Biology"
+        ],
+        "color": "#CC0000",
+        "size": 1
+      }
+    }
+  ]
+}

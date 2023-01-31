@@ -1,0 +1,4940 @@
+{
+  "options": {
+    "type": "undirected",
+    "multi": false,
+    "allowSelfLoops": false
+  },
+  "attributes": {
+    "creator": "Citation Index",
+    "lastModifiedDate": "2023-01-14"
+  },
+  "nodes": [
+    {
+      "key": "uid-ycheng20",
+      "attributes": {
+        "label": "Y Cheng",
+        "name": "Yang Cheng",
+        "known?": true,
+        "orcid?": true,
+        "ncsu?": true,
+        "affiliations": [
+          "North Carolina State University"
+        ],
+        "countries": [
+          "US"
+        ],
+        "uid": "ycheng20",
+        "url": "https://ci.lib.ncsu.edu/profiles/ycheng20",
+        "orcid": "0000-0002-0321-7956",
+        "active?": true,
+        "department": "Communication",
+        "college": "College of Humanities and Social Sciences",
+        "ncsu_affiliations": [
+          "Communication",
+          "Genetic Engineering and Society"
+        ],
+        "cluster?": true,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "role": "faculty",
+        "building": "Winston Hall",
+        "count": 37,
+        "oa_count": 8,
+        "years": [
+          2022,
+          2021,
+          2020,
+          2019,
+          2018,
+          2017,
+          2016
+        ],
+        "year_recent": 2022,
+        "article_concepts": [
+          "Affect (linguistics)",
+          "Authoritarianism",
+          "Avatar",
+          "Business",
+          "China",
+          "Collectivism",
+          "Communication",
+          "Compromise",
+          "Computer science",
+          "Conceptual model",
+          "Coronavirus disease 2019 (COVID-19)",
+          "Corporate social responsibility",
+          "Crisis communication",
+          "Cynicism",
+          "Database",
+          "Democracy",
+          "Demography",
+          "Disease",
+          "Disease control",
+          "Distrust",
+          "Economics",
+          "Employee engagement",
+          "Environmental health",
+          "Expectancy theory",
+          "Face (sociological concept)",
+          "Gerontology",
+          "Government (linguistics)",
+          "Gratification",
+          "Guanxi",
+          "Hofstede's cultural dimensions theory",
+          "Human–computer interaction",
+          "Hypocrisy",
+          "Individualism",
+          "Infectious disease (medical specialty)",
+          "Law",
+          "Linguistics",
+          "Machine learning",
+          "Mainland China",
+          "Management",
+          "Medicine",
+          "Mental health",
+          "Microblogging",
+          "Neuroscience",
+          "Pandemic",
+          "Pathology",
+          "Perception",
+          "Philosophy",
+          "Physics",
+          "Political economy",
+          "Political science",
+          "Politics",
+          "Psychology",
+          "Psychotherapist",
+          "Public relations",
+          "Publics",
+          "Quantum mechanics",
+          "Reputation",
+          "Social distance",
+          "Social exchange theory",
+          "Social media",
+          "Social psychology",
+          "Social science",
+          "Sociology",
+          "Stakeholder engagement",
+          "Structural equation modeling",
+          "Turnover",
+          "Valence (chemistry)",
+          "Virtual reality",
+          "World Wide Web",
+          "Young adult"
+        ],
+        "host_venues": [
+          "American Behavioral Scientist",
+          "Asian Journal of Communication",
+          "Chinese Journal of Communication",
+          "Computers in Human Behavior",
+          "IEEE Internet Computing",
+          "International Journal of Environmental Research and Public Health",
+          "International Journal of Human-computer Interaction",
+          "International Journal of Strategic Communication",
+          "International journal of business communication",
+          "Journal of Applied Communication Research",
+          "Journal of Broadcasting & Electronic Media",
+          "Journal of Contingencies and Crisis Management",
+          "Journal of Product & Brand Management",
+          "Journal of Public Relations Research",
+          "Mass Communication and Society",
+          "Online Information Review",
+          "Public Relations Review",
+          "Social Science Computer Review",
+          "Sustainability",
+          "Telematics and Informatics"
+        ],
+        "color": "#FAC800",
+        "size": 20
+      }
+    },
+    {
+      "key": "uid-ahjhala",
+      "attributes": {
+        "label": "A Jhala",
+        "name": "Arnav Jhala",
+        "known?": true,
+        "orcid?": true,
+        "ncsu?": true,
+        "affiliations": [
+          "North Carolina State University"
+        ],
+        "countries": [
+          "US"
+        ],
+        "uid": "ahjhala",
+        "url": "https://ci.lib.ncsu.edu/profiles/ahjhala",
+        "orcid": "0000-0003-3874-1720",
+        "active?": true,
+        "department": "Computer Science",
+        "college": "College of Engineering",
+        "ncsu_affiliations": [
+          "Computer Science"
+        ],
+        "cluster?": false,
+        "clusters": [
+
+        ],
+        "role": "faculty",
+        "building": "Venture IV",
+        "count": 83,
+        "oa_count": 6,
+        "years": [
+          2022,
+          2021,
+          2020,
+          2019,
+          2018,
+          2017,
+          2016,
+          2015,
+          2014,
+          2013,
+          2012,
+          2011,
+          2010,
+          2009,
+          2008,
+          2006,
+          2005,
+          2004
+        ],
+        "year_recent": 2022,
+        "keywords": [
+          "Artificial Intelligence",
+          "Computational Media",
+          "Games"
+        ],
+        "article_concepts": [
+          "Affective computing",
+          "Archaeology",
+          "Argumentation theory",
+          "Artificial intelligence",
+          "Biology",
+          "Boredom",
+          "Cognitive science",
+          "Complicity",
+          "Computer science",
+          "Conflict resolution",
+          "Constructive",
+          "Context (archaeology)",
+          "Coping (psychology)",
+          "Epistemology",
+          "Focus (optics)",
+          "Generative grammar",
+          "History",
+          "Human–computer interaction",
+          "Law",
+          "Linguistics",
+          "Meaning (existential)",
+          "Narrative",
+          "Natural (archaeology)",
+          "Operating system",
+          "Optics",
+          "Paleontology",
+          "Philosophy",
+          "Physics",
+          "Poetics",
+          "Poetry",
+          "Political science",
+          "Politics",
+          "Process (computing)",
+          "Programming language",
+          "Psychiatry",
+          "Psychology",
+          "Resolution (logic)",
+          "Social conflict",
+          "Social psychology",
+          "Social science",
+          "Sociology"
+        ],
+        "host_venues": [
+          "Advances in Computer Entertainment Technology",
+          "Affective Computing and Intelligent Interaction",
+          "Ai Magazine",
+          "Aids Education and Prevention",
+          "Arts",
+          "Computational Intelligence and Games",
+          "Foundations of Digital Games",
+          "IEEE Internet Computing",
+          "IEEE transactions on computational intelligence and AI in games",
+          "IEEE transactions on games",
+          "Intelligent Virtual Agents",
+          "International Conference on Advanced Learning Technologies",
+          "Lecture Notes in Computer Science",
+          "Proceedings of the Australasian Computer Science Week Multiconference",
+          "Proceedings of the First International Workshop on Gamification for Information Retrieval - GamifIR '14",
+          "User Modeling and User-adapted Interaction"
+        ],
+        "color": "#990000",
+        "size": 10
+      }
+    },
+    {
+      "key": "uid-jegoodwi",
+      "attributes": {
+        "label": "J Goodwin",
+        "name": "Jean Goodwin",
+        "known?": true,
+        "orcid?": true,
+        "ncsu?": true,
+        "affiliations": [
+          "North Carolina State University"
+        ],
+        "countries": [
+          "US"
+        ],
+        "uid": "jegoodwi",
+        "url": "https://ci.lib.ncsu.edu/profiles/jegoodwi",
+        "orcid": "0000-0002-4158-5864",
+        "active?": true,
+        "department": "Communication",
+        "college": "College of Humanities and Social Sciences",
+        "ncsu_affiliations": [
+          "Communication",
+          "Leadership in Public Science",
+          "Genetic Engineering and Society"
+        ],
+        "cluster?": true,
+        "clusters": [
+          "Genetic Engineering and Society",
+          "Leadership in Public Science"
+        ],
+        "role": "faculty",
+        "building": "Winston Hall",
+        "count": 45,
+        "oa_count": 11,
+        "years": [
+          2022,
+          2020,
+          2019,
+          2018,
+          2016,
+          2015,
+          2014,
+          2013,
+          2012,
+          2011,
+          2010,
+          2009,
+          2008,
+          2007,
+          2006,
+          2005,
+          2003,
+          2002,
+          2001,
+          2000,
+          1998,
+          1997,
+          1995
+        ],
+        "year_recent": 2022,
+        "keywords": [
+          "rhetoric",
+          "science communication",
+          "argumentation"
+        ],
+        "article_concepts": [
+          "Action (physics)",
+          "Agriculture",
+          "Appeal",
+          "Archaeology",
+          "Argument (complex analysis)",
+          "Argument map",
+          "Argumentation theory",
+          "Argumentative",
+          "Artificial intelligence",
+          "Bayesian probability",
+          "Biochemistry",
+          "Biology",
+          "Botany",
+          "Chart",
+          "Chemistry",
+          "Citizen science",
+          "Climate change",
+          "Climate science",
+          "Computer science",
+          "Dialectic",
+          "Dialogic",
+          "Dissent",
+          "Ecology",
+          "Engineering",
+          "Epistemology",
+          "Evolutionary biology",
+          "Face (sociological concept)",
+          "False accusation",
+          "Food security",
+          "Food systems",
+          "Function (biology)",
+          "Geometry",
+          "Grand Challenges",
+          "History",
+          "Honour",
+          "Indirect speech",
+          "Internal medicine",
+          "Law",
+          "Law and economics",
+          "Leverage (statistics)",
+          "Linguistics",
+          "Machine learning",
+          "Mathematics",
+          "Mechanical engineering",
+          "Medicine",
+          "Natural (archaeology)",
+          "Normative",
+          "Perspective (graphical)",
+          "Philosophy",
+          "Physics",
+          "Political science",
+          "Politics",
+          "Posterior probability",
+          "Pragmatics",
+          "Premise",
+          "Product (mathematics)",
+          "Psychology",
+          "Public relations",
+          "Public sphere",
+          "Quantum mechanics",
+          "Rhetoric",
+          "Rhetorical question",
+          "Rigour",
+          "Scholarship",
+          "Skepticism",
+          "Social psychology",
+          "Social science",
+          "Sociology",
+          "Speech act",
+          "Statistics",
+          "Sustainability",
+          "Sustainability organizations",
+          "Sustainability science",
+          "TRACE (psycholinguistics)",
+          "Transactional leadership",
+          "Tree diagram",
+          "Work (physics)"
+        ],
+        "host_venues": [
+          "Argumentation",
+          "Argumentation & analyse du discours",
+          "Argumentation and advocacy",
+          "Argumentation in context",
+          "Argumentation library",
+          "Communication Education",
+          "Environmental Education Research",
+          "IEEE Internet Computing",
+          "Informal Logic",
+          "Journal of Argumentation in Context",
+          "Journal of Pragmatics",
+          "Journal of sustainable agriculture",
+          "Languages",
+          "Philosophy and Rhetoric",
+          "Proceedings of The Royal Society B: Biological Sciences",
+          "Rhetoric and public affairs",
+          "Studies in Logic, Grammar and Rhetoric",
+          "Topoi-an International Review of Philosophy",
+          "Wiley Interdisciplinary Reviews: Climate Change"
+        ],
+        "color": "#FAC800",
+        "size": 10
+      }
+    },
+    {
+      "key": "uid-mpsingh",
+      "attributes": {
+        "label": "M Singh",
+        "name": "Munindar Singh",
+        "known?": true,
+        "orcid?": true,
+        "ncsu?": true,
+        "affiliations": [
+          "North Carolina State University"
+        ],
+        "countries": [
+          "US"
+        ],
+        "uid": "mpsingh",
+        "url": "https://ci.lib.ncsu.edu/profiles/mpsingh",
+        "orcid": "0000-0003-3599-3893",
+        "active?": true,
+        "department": "Computer Science",
+        "college": "College of Engineering",
+        "ncsu_affiliations": [
+          "Computer Science",
+          "Operations Research"
+        ],
+        "cluster?": false,
+        "clusters": [
+
+        ],
+        "role": "faculty",
+        "building": "Engineering Building II (EB2)",
+        "count": 556,
+        "oa_count": 125,
+        "years": [
+          2022,
+          2021,
+          2020,
+          2019,
+          2018,
+          2017,
+          2016,
+          2015,
+          2014,
+          2013,
+          2012,
+          2011,
+          2010,
+          2009,
+          2008,
+          2007,
+          2006,
+          2005,
+          2004,
+          2003,
+          2002,
+          2001,
+          2000,
+          1999,
+          1998,
+          1997,
+          1996,
+          1995,
+          1994,
+          1993,
+          1992,
+          1991,
+          1990,
+          1988,
+          0
+        ],
+        "year_recent": 2022,
+        "keywords": [
+          "Service-Oriented Computing",
+          "Business Protocols",
+          "Multiagent systems",
+          "Communications",
+          "Services",
+          "Commitments",
+          "Business Processes",
+          "Norms",
+          "Trust",
+          "Agents",
+          "Security",
+          "Privacy",
+          "Healthcare processes"
+        ],
+        "article_concepts": [
+          "Abstraction",
+          "Access control",
+          "Accountability",
+          "Accounting",
+          "Action (physics)",
+          "Action semantics",
+          "Adaptability",
+          "Adaptation (eye)",
+          "Advertising",
+          "Aerospace",
+          "Affect (linguistics)",
+          "Agent architecture",
+          "Aggregate (composite)",
+          "Algorithm",
+          "Alternative medicine",
+          "Anger",
+          "Antecedent (behavioral psychology)",
+          "Anticipation (artificial intelligence)",
+          "Archaeology",
+          "Architectural style",
+          "Architecture",
+          "Argument (complex analysis)",
+          "Argumentation framework",
+          "Argumentation theory",
+          "Art",
+          "Artifact-centric business process model",
+          "Artificial intelligence",
+          "Aside",
+          "Astronomy",
+          "Asynchronous communication",
+          "Asynchrony (computer programming)",
+          "Audit",
+          "Autonomous agent",
+          "Autonomy",
+          "BLISS",
+          "Balance (ability)",
+          "Baseline (sea)",
+          "Bayesian probability",
+          "Biochemistry",
+          "Biology",
+          "Blockchain",
+          "Brainstorming",
+          "Branching (polymer chemistry)",
+          "Breast cancer",
+          "Bubble",
+          "Business",
+          "Business Process Model and Notation",
+          "Business architecture",
+          "Business domain",
+          "Business process",
+          "Business process discovery",
+          "Business process management",
+          "Business process modeling",
+          "Business requirements",
+          "Business rule",
+          "Calculus (dental)",
+          "Cancer",
+          "Carnot cycle",
+          "Carry (investment)",
+          "Cartography",
+          "Causality (physics)",
+          "Certainty",
+          "Channel (broadcasting)",
+          "Characterization (materials science)",
+          "Chemical physics",
+          "Chemistry",
+          "Class (philosophy)",
+          "Cloud computing",
+          "Coaching",
+          "Cognitive science",
+          "Coherence (philosophical gambling strategy)",
+          "Cohesion (chemistry)",
+          "Collaborative filtering",
+          "Commit",
+          "Communication",
+          "Communications protocol",
+          "Complaint",
+          "Completeness (order theory)",
+          "Complex event processing",
+          "Complex system",
+          "Compliance (psychology)",
+          "Component (thermodynamics)",
+          "Composite material",
+          "Computation",
+          "Computational semantics",
+          "Computer graphics (images)",
+          "Computer network",
+          "Computer science",
+          "Computer security",
+          "Computer vision",
+          "Conceptualization",
+          "Concurrency",
+          "Concurrency control",
+          "Confidentiality",
+          "Consistency (knowledge bases)",
+          "Constraint (computer-aided design)",
+          "Construct (python library)",
+          "Context (archaeology)",
+          "Contract Net Protocol",
+          "Control (management)",
+          "Convergence (economics)",
+          "Conversation",
+          "Coronavirus disease 2019 (COVID-19)",
+          "Corporate governance",
+          "Correctness",
+          "Cover (algebra)",
+          "Credence",
+          "Creditor",
+          "Crowdsourcing",
+          "Crowdsourcing software development",
+          "Cryptocurrency",
+          "Data breach",
+          "Data mining",
+          "Data science",
+          "Data transmission",
+          "Database",
+          "Database transaction",
+          "Deadlock",
+          "Debt",
+          "Debtor",
+          "Decentralization",
+          "Declarative programming",
+          "Deductive reasoning",
+          "Delegation",
+          "Denotational semantics",
+          "Dentistry",
+          "Dialectic",
+          "Disease",
+          "Dispose pattern",
+          "Dissemination",
+          "Distributed computing",
+          "Distributed database",
+          "Distributed transaction",
+          "Domain (mathematical analysis)",
+          "Dynamism",
+          "Ecology",
+          "Economic growth",
+          "Economics",
+          "Economy",
+          "Electrical engineering",
+          "Electron transfer",
+          "Element (criminal law)",
+          "Empirical research",
+          "Enforcement",
+          "Engineering",
+          "Engineering ethics",
+          "Entertainment",
+          "Environmental economics",
+          "Epistemology",
+          "Event (particle physics)",
+          "Event calculus",
+          "Evolutionary biology",
+          "Executable",
+          "Exploit",
+          "Extant taxon",
+          "Extensibility",
+          "Family medicine",
+          "Fault tolerance",
+          "Femtochemistry",
+          "Femtosecond",
+          "Finance",
+          "Finite-state machine",
+          "Flexibility (engineering)",
+          "Focus (optics)",
+          "Formal language",
+          "Formal methods",
+          "Formal semantics (linguistics)",
+          "Formal specification",
+          "Formal verification",
+          "Formalism (music)",
+          "Foundation (evidence)",
+          "Framing (construction)",
+          "Free riding",
+          "Functional requirement",
+          "Gene",
+          "Generative grammar",
+          "Geography",
+          "Geometry",
+          "Geospatial analysis",
+          "Goal orientation",
+          "Graph",
+          "Group information management",
+          "Harm",
+          "Health Insurance Portability and Accountability Act",
+          "Health care",
+          "Heuristic",
+          "Heuristics",
+          "History",
+          "Homophily",
+          "Human–computer interaction",
+          "Image (mathematics)",
+          "Image segmentation",
+          "Implementation",
+          "Incentive",
+          "Inductive programming",
+          "Infectious disease (medical specialty)",
+          "Inference",
+          "Information ethics",
+          "Information flow",
+          "Information integration",
+          "Information privacy",
+          "Information retrieval",
+          "Information sharing",
+          "Information system",
+          "Information technology",
+          "Information transmission",
+          "Intelligent agent",
+          "Interaction protocol",
+          "Interface (matter)",
+          "Internal medicine",
+          "Internet of Things",
+          "Internet privacy",
+          "Interoperability",
+          "Interoperation",
+          "Interpersonal communication",
+          "Intuition",
+          "Java",
+          "JavaBeans",
+          "Key (lock)",
+          "Knowledge management",
+          "Knowledge representation and reasoning",
+          "Laser",
+          "Law",
+          "Legislation",
+          "Legislature",
+          "Leverage (statistics)",
+          "License",
+          "Limiting",
+          "Linguistics",
+          "Link (geometry)",
+          "Literature",
+          "Liveness",
+          "Loan",
+          "Lossy compression",
+          "Machine learning",
+          "Mainstream",
+          "Management",
+          "Management information systems",
+          "Management science",
+          "Market economy",
+          "Marketing",
+          "Markov random field",
+          "Materials science",
+          "Mathematical analysis",
+          "Mathematical optimization",
+          "Mathematics",
+          "Maximum bubble pressure method",
+          "Meaning (existential)",
+          "Mechanical engineering",
+          "Mechanism (biology)",
+          "Medical emergency",
+          "Medicine",
+          "Mental health",
+          "Metadata",
+          "Metamodeling",
+          "Microeconomics",
+          "Middleware (distributed applications)",
+          "Mobile device",
+          "Modular design",
+          "MovieLens",
+          "Multi-agent system",
+          "Multidisciplinary approach",
+          "Musical",
+          "Nanotechnology",
+          "Natural (archaeology)",
+          "Natural language processing",
+          "Natural science",
+          "Naturalness",
+          "Nested transaction",
+          "Network packet",
+          "Network topology",
+          "Neuroscience",
+          "News media",
+          "Node (physics)",
+          "Non-functional requirement",
+          "Nondeterministic algorithm",
+          "Norm (philosophy)",
+          "Normative",
+          "Normative ethics",
+          "Novelty",
+          "Nursing",
+          "OWL-S",
+          "Object (grammar)",
+          "Online transaction processing",
+          "Ontology",
+          "Openness to experience",
+          "Operating system",
+          "Operational semantics",
+          "Operationalization",
+          "Operations management",
+          "Operations research",
+          "Optics",
+          "Optimism",
+          "Order (exchange)",
+          "Organic chemistry",
+          "Orientation (vector space)",
+          "Overhead (engineering)",
+          "Oxidizing agent",
+          "Paleontology",
+          "Parallel computing",
+          "Parsing",
+          "Pathology",
+          "Payment",
+          "Peer review",
+          "Peer-to-peer",
+          "Perception",
+          "Personal information management",
+          "Perspective (graphical)",
+          "Petri net",
+          "Philosophy",
+          "Photochemistry",
+          "Photosynthetic reaction centre",
+          "Physical medicine and rehabilitation",
+          "Physics",
+          "Plan (archaeology)",
+          "Point (geometry)",
+          "Point of interest",
+          "Political science",
+          "Politics",
+          "Position (finance)",
+          "Position paper",
+          "Power (physics)",
+          "Practical reason",
+          "Preference",
+          "Prima facie",
+          "Principal (computer security)",
+          "Principle of compositionality",
+          "Privacy software",
+          "Probabilistic logic",
+          "Process (computing)",
+          "Process management",
+          "Process modeling",
+          "Programming language",
+          "Programming paradigm",
+          "Property (philosophy)",
+          "Prosocial behavior",
+          "Protocol (science)",
+          "Provisioning",
+          "Psychiatry",
+          "Psychology",
+          "Psychotherapist",
+          "Public administration",
+          "Public relations",
+          "Quality (philosophy)",
+          "Quality of service",
+          "Quantum mechanics",
+          "Rationality",
+          "Realm",
+          "Reciprocity (cultural anthropology)",
+          "Recommender system",
+          "Redundancy (engineering)",
+          "Referral",
+          "Reliability (semiconductor)",
+          "Representation (politics)",
+          "Reputation",
+          "Requirement",
+          "Requirements analysis",
+          "Requirements elicitation",
+          "Requirements engineering",
+          "Resource (disambiguation)",
+          "Risk analysis (engineering)",
+          "Robustness (evolution)",
+          "Rotation formalisms in three dimensions",
+          "Sadness",
+          "Salient",
+          "Sanctions",
+          "Scale (ratio)",
+          "Scheduling (production processes)",
+          "Scheme (mathematics)",
+          "Scope (computer science)",
+          "Scrutiny",
+          "Security policy",
+          "Selection (genetic algorithm)",
+          "Semantic Web",
+          "Semantic Web Stack",
+          "Semantics (computer science)",
+          "Sentiment analysis",
+          "Service (business)",
+          "Service composition",
+          "Service delivery framework",
+          "Service design",
+          "Service discovery",
+          "Service guarantee",
+          "Service level objective",
+          "Service oriented",
+          "Service provider",
+          "Service quality",
+          "Service-oriented architecture",
+          "Services computing",
+          "Set (abstract data type)",
+          "Shared resource",
+          "Similarity (geometry)",
+          "Simple (philosophy)",
+          "Situation calculus",
+          "Smart contract",
+          "Social Welfare",
+          "Social computing",
+          "Social media",
+          "Social psychology",
+          "Social relationship",
+          "Social science",
+          "Sociology",
+          "Sociotechnical system",
+          "Software",
+          "Software construction",
+          "Software deployment",
+          "Software development",
+          "Software development process",
+          "Software engineering",
+          "Software fault tolerance",
+          "Software portability",
+          "Software system",
+          "Spectral line",
+          "Spectroscopy",
+          "Spoken language",
+          "Stakeholder",
+          "State (computer science)",
+          "Stateful firewall",
+          "Statistics",
+          "Status quo",
+          "Structural engineering",
+          "Supply chain",
+          "Symbolic execution",
+          "Synchrotron",
+          "System requirements specification",
+          "Systems engineering",
+          "TRACE (psycholinguistics)",
+          "Task (project management)",
+          "Telecommunications",
+          "Temporal logic",
+          "Testbed",
+          "The Internet",
+          "Theology",
+          "Theoretical computer science",
+          "Thermodynamics",
+          "Trait",
+          "Transaction processing",
+          "Transaction processing system",
+          "Transfer (computing)",
+          "Tree (set theory)",
+          "Triage",
+          "Trustworthiness",
+          "Two-phase commit protocol",
+          "Unified Modeling Language",
+          "User agent",
+          "Variety (cybernetics)",
+          "Visual arts",
+          "Visualization",
+          "Web of Things",
+          "Web service",
+          "Welfare",
+          "Well-founded semantics",
+          "Wireless",
+          "Wireless network",
+          "Wireless sensor network",
+          "Word (group theory)",
+          "Work (physics)",
+          "Work in process",
+          "Workflow",
+          "Workflow engine",
+          "Workflow management system",
+          "World Wide Web",
+          "X-ray spectroscopy"
+        ],
+        "host_venues": [
+          "2008 IEEE International Conference on Web Services",
+          "2011 Workshop on Requirements Engineering for Systems, Services and Systems-of-Systems",
+          "2016 IEEE/ACM International Conference on Advances in Social Networks Analysis and Mining (ASONAM)",
+          "ACM Symposium on Applied Computing",
+          "ACM Transactions on Autonomous and Adaptive Systems",
+          "ACM Transactions on Computer-Human Interaction",
+          "ACM Transactions on Intelligent Systems and Technology",
+          "ACM Transactions on Internet Technology",
+          "ACM Transactions on Software Engineering and Methodology",
+          "ACM transactions on management information systems",
+          "Adaptive Agents and Multi-Agents Systems",
+          "Advances in intelligent systems and computing",
+          "Ai Magazine",
+          "Annals of Mathematics and Artificial Intelligence",
+          "Applied Artificial Intelligence",
+          "Argument & Computation",
+          "Artificial Intelligence and Law",
+          "Autonomous Agents and Multi-Agent Systems",
+          "BCS Learning & Development",
+          "Bangalore Annual Compute Conference",
+          "Behaviour & Information Technology",
+          "Chapman & Hall/CRC computer and information science series",
+          "Chapman and Hall/CRC eBooks",
+          "Communications of The ACM",
+          "Computational Intelligence",
+          "Computational Models of Argument",
+          "Conference on Artificial Intelligence for Applications",
+          "Conference on Object-Oriented Programming Systems, Languages, and Applications",
+          "Conference on Recommender Systems",
+          "Cooperative Information Systems",
+          "Cornell University - arXiv",
+          "Distributed Systems Engineering",
+          "Distributed and Parallel Databases",
+          "Electronic Commerce",
+          "Eleventh Annual International Phoenix Conference on Computers and Communication [1992 Conference Proceedings]",
+          "Empirical Methods in Natural Language Processing",
+          "Empirical Software Engineering",
+          "Empirical Software Engineering and Measurement",
+          "European Conference on Artificial Intelligence",
+          "Faraday Discussions",
+          "High-Assurance Systems Engineering",
+          "IEEE Access",
+          "IEEE Communications Surveys and Tutorials",
+          "IEEE Computer",
+          "IEEE First Symposium onMulti-Agent Security and Survivability, 2004",
+          "IEEE Intelligent Systems",
+          "IEEE International Conference on Requirements Engineering",
+          "IEEE International Conference on Services Computing",
+          "IEEE Internet Computing",
+          "IEEE Spectrum",
+          "IEEE Transactions on Computational Social Systems",
+          "IEEE Transactions on Knowledge and Data Engineering",
+          "IEEE Transactions on Network and Service Management",
+          "IEEE Transactions on Services Computing",
+          "IEEE Transactions on Software Engineering",
+          "IEEE expert",
+          "IEEE transactions on systems, man, and cybernetics",
+          "IFIP advances in information and communication technology",
+          "IGI Global eBooks",
+          "Information Technology & Management",
+          "International Conference on Autonomic Computing",
+          "International Conference on Bioinformatics",
+          "International Conference on Data Engineering",
+          "International Conference on Design of Communication",
+          "International Conference on Distributed Computing Systems",
+          "International Conference on Information Technology: New Generations",
+          "International Conference on Multi Agent Systems",
+          "International Conference on Software Engineering",
+          "International Conference on Web Services",
+          "International Joint Conference on Artificial Intelligence",
+          "International Journal of Cooperative Information Systems",
+          "International Phoenix Conference on Computers and Communications",
+          "International Professional Communication Conference",
+          "International Symposium on Autonomous Decentralized Systems",
+          "International Workshop on Requirements Engineering and Law",
+          "JMIR medical informatics",
+          "Journal of Applied Logic",
+          "Journal of Artificial Intelligence Research",
+          "Journal of Experimental and Theoretical Artificial Intelligence",
+          "Journal of Logic and Computation",
+          "Journal of PeriAnesthesia Nursing",
+          "Journal of Philosophical Logic",
+          "Journal of Trust Management",
+          "Journal of Web Semantics",
+          "Kluwer Academic Publishers eBooks",
+          "Knowledge Engineering Review",
+          "Lecture Notes in Computer Science",
+          "Logic Journal of the IGPL",
+          "Mobile Adhoc and Sensor Systems",
+          "Multiagent and Grid Systems",
+          "National Conference on Artificial Intelligence",
+          "Normative Multi-Agent Systems",
+          "Normative multi-agent systems, 8. Dagstuhl Follow-Ups, Vol. 4",
+          "Nursing Standard",
+          "PLOS ONE",
+          "Policies for Distributed Systems and Networks",
+          "Principles of Distributed Computing",
+          "Proceedings Fourth International Conference on MultiAgent Systems",
+          "Proceedings of the ... AAAI Conference on Artificial Intelligence",
+          "Proceedings. IEEE International Conference on Web Services, 2004.",
+          "Research Challenges in Information Science",
+          "SIGART newsletter",
+          "SIGecom exchanges",
+          "Science Advances",
+          "Sigmod Record",
+          "Sigplan Notices",
+          "Simulation Modelling Practice and Theory",
+          "Springer Berlin Heidelberg eBooks",
+          "Springer-Verlag eBooks",
+          "Symposium and Bootcamp on Science of Security",
+          "The Web Conference",
+          "Wiley Encyclopedia of Electrical and Electronics Engineering",
+          "Workshops on Enabling Technologies: Infrastracture for Collaborative Enterprises",
+          "arXiv: Artificial Intelligence"
+        ],
+        "color": "#990000",
+        "size": 10
+      }
+    },
+    {
+      "key": "https://orcid.org/0000-0002-2653-7987",
+      "attributes": {
+        "label": "M Anwar",
+        "name": "Mohd Anwar",
+        "known?": false,
+        "orcid?": null,
+        "ncsu?": false,
+        "affiliations": [
+          "North Carolina Agricultural and Technical State University"
+        ],
+        "countries": [
+          "US"
+        ],
+        "color": "#BFBFBD",
+        "size": 10
+      }
+    },
+    {
+      "key": "laurendavis",
+      "attributes": {
+        "label": "L Davis",
+        "name": "Lauren Davis",
+        "known?": false,
+        "orcid?": null,
+        "ncsu?": false,
+        "affiliations": [
+          "North Carolina Agricultural and Technical State University"
+        ],
+        "countries": [
+          "US"
+        ],
+        "color": "#BFBFBD",
+        "size": 10
+      }
+    },
+    {
+      "key": "https://orcid.org/0000-0002-6937-927X",
+      "attributes": {
+        "label": "S Jiang",
+        "name": "Steven Jiang",
+        "known?": false,
+        "orcid?": null,
+        "ncsu?": false,
+        "affiliations": [
+          "North Carolina Agricultural and Technical State University"
+        ],
+        "countries": [
+          "US"
+        ],
+        "color": "#BFBFBD",
+        "size": 10
+      }
+    },
+    {
+      "key": "https://orcid.org/0000-0002-7420-2954",
+      "attributes": {
+        "label": "A Lee",
+        "name": "Anna K. Lee",
+        "known?": false,
+        "orcid?": null,
+        "ncsu?": false,
+        "affiliations": [
+          "North Carolina Agricultural and Technical State University"
+        ],
+        "countries": [
+          "US"
+        ],
+        "color": "#BFBFBD",
+        "size": 10
+      }
+    },
+    {
+      "key": "seongyounho",
+      "attributes": {
+        "label": "S Younho",
+        "name": "Seong Younho",
+        "known?": false,
+        "orcid?": null,
+        "ncsu?": false,
+        "affiliations": [
+          "North Carolina Agricultural and Technical State University"
+        ],
+        "countries": [
+          "US"
+        ],
+        "color": "#BFBFBD",
+        "size": 10
+      }
+    },
+    {
+      "key": "https://orcid.org/0000-0001-5453-5324",
+      "attributes": {
+        "label": "S Grady",
+        "name": "Siobahn Grady",
+        "known?": false,
+        "orcid?": null,
+        "ncsu?": false,
+        "affiliations": [
+          "North Carolina Central University"
+        ],
+        "countries": [
+          "US"
+        ],
+        "color": "#BFBFBD",
+        "size": 10
+      }
+    },
+    {
+      "key": "deepakkumar",
+      "attributes": {
+        "label": "D Kumar",
+        "name": "Deepak Kumar",
+        "known?": false,
+        "orcid?": null,
+        "ncsu?": false,
+        "affiliations": [
+          "North Carolina Central University"
+        ],
+        "countries": [
+          "US"
+        ],
+        "color": "#BFBFBD",
+        "size": 10
+      }
+    },
+    {
+      "key": "tianduozhang",
+      "attributes": {
+        "label": "T Zhang",
+        "name": "Tianduo Zhang",
+        "known?": false,
+        "orcid?": null,
+        "ncsu?": false,
+        "affiliations": [
+          "North Carolina Central University"
+        ],
+        "countries": [
+          "US"
+        ],
+        "color": "#BFBFBD",
+        "size": 10
+      }
+    },
+    {
+      "key": "huajiang",
+      "attributes": {
+        "label": "H Jiang",
+        "name": "Hua Jiang",
+        "known?": false,
+        "orcid?": null,
+        "ncsu?": false,
+        "affiliations": [
+          "Syracuse University"
+        ],
+        "countries": [
+          "US"
+        ],
+        "color": "#BFBFBD",
+        "size": 10
+      }
+    },
+    {
+      "key": "jeongwonyang",
+      "attributes": {
+        "label": "J Yang",
+        "name": "Jeongwon Yang",
+        "known?": false,
+        "orcid?": null,
+        "ncsu?": false,
+        "affiliations": [
+          "Syracuse University"
+        ],
+        "countries": [
+          "US"
+        ],
+        "color": "#BFBFBD",
+        "size": 10
+      }
+    },
+    {
+      "key": "shanbinggao",
+      "attributes": {
+        "label": "S Gao",
+        "name": "Shanbing Gao",
+        "known?": false,
+        "orcid?": null,
+        "ncsu?": false,
+        "affiliations": [
+          "Nanjing Normal University"
+        ],
+        "countries": [
+          "CN"
+        ],
+        "color": "#BFBFBD",
+        "size": 10
+      }
+    },
+    {
+      "key": "allisonfisk",
+      "attributes": {
+        "label": "A Fisk",
+        "name": "Allison Fisk",
+        "known?": false,
+        "orcid?": null,
+        "ncsu?": true,
+        "affiliations": [
+          "North Carolina State University"
+        ],
+        "countries": [
+          "US"
+        ],
+        "color": "#000000",
+        "size": 10
+      }
+    },
+    {
+      "key": "uid-cxie4",
+      "attributes": {
+        "label": "C Xie",
+        "name": "Chenxing Xie",
+        "known?": true,
+        "orcid?": true,
+        "ncsu?": true,
+        "affiliations": [
+          "North Carolina State University"
+        ],
+        "countries": [
+          "US"
+        ],
+        "uid": "cxie4",
+        "url": "https://ci.lib.ncsu.edu/profiles/cxie4",
+        "orcid": "0000-0002-6240-1251",
+        "active?": true,
+        "department": null,
+        "college": null,
+        "ncsu_affiliations": [
+
+        ],
+        "cluster?": false,
+        "clusters": [
+
+        ],
+        "role": "student",
+        "building": null,
+        "count": 2,
+        "oa_count": 0,
+        "years": [
+          2022,
+          2019
+        ],
+        "year_recent": 2022,
+        "article_concepts": [
+
+        ],
+        "host_venues": [
+          "International Conference on Design of Communication",
+          "International Journal of Human-computer Interaction"
+        ],
+        "color": "#000000",
+        "size": 10
+      }
+    },
+    {
+      "key": "yandingwang",
+      "attributes": {
+        "label": "Y Wang",
+        "name": "Yanding Wang",
+        "known?": false,
+        "orcid?": null,
+        "ncsu?": false,
+        "affiliations": [
+          "China Medical University"
+        ],
+        "countries": [
+          "CN"
+        ],
+        "color": "#BFBFBD",
+        "size": 10
+      }
+    },
+    {
+      "key": "https://orcid.org/0000-0001-8268-620X",
+      "attributes": {
+        "label": "K Park",
+        "name": "Keonyoung Park",
+        "known?": false,
+        "orcid?": null,
+        "ncsu?": false,
+        "affiliations": [
+          "Hong Kong Baptist University"
+        ],
+        "countries": [
+          "CN"
+        ],
+        "color": "#BFBFBD",
+        "size": 10
+      }
+    },
+    {
+      "key": "weizhu",
+      "attributes": {
+        "label": "W Zhu",
+        "name": "Wei Zhu",
+        "known?": false,
+        "orcid?": null,
+        "ncsu?": false,
+        "affiliations": [
+          "Nanjing University"
+        ],
+        "countries": [
+          "CN"
+        ],
+        "color": "#BFBFBD",
+        "size": 10
+      }
+    },
+    {
+      "key": "https://orcid.org/0000-0003-3623-4354",
+      "attributes": {
+        "label": "Y Wang",
+        "name": "Yuan Wang",
+        "known?": false,
+        "orcid?": null,
+        "ncsu?": false,
+        "affiliations": [
+          "City University of Hong Kong"
+        ],
+        "countries": [
+          "CN"
+        ],
+        "color": "#BFBFBD",
+        "size": 10
+      }
+    },
+    {
+      "key": "https://orcid.org/0000-0001-8250-033X",
+      "attributes": {
+        "label": "W Zhao",
+        "name": "Wen Zhao",
+        "known?": false,
+        "orcid?": null,
+        "ncsu?": false,
+        "affiliations": [
+          "Fairfield University"
+        ],
+        "countries": [
+          "US"
+        ],
+        "color": "#BFBFBD",
+        "size": 10
+      }
+    },
+    {
+      "key": "feihongpan",
+      "attributes": {
+        "label": "F Pan",
+        "name": "Feihong Pan",
+        "known?": false,
+        "orcid?": null,
+        "ncsu?": false,
+        "affiliations": [
+
+        ],
+        "countries": [
+
+        ],
+        "color": "#BFBFBD",
+        "size": 10
+      }
+    },
+    {
+      "key": "yeqingkong",
+      "attributes": {
+        "label": "Y Kong",
+        "name": "Yeqing Kong",
+        "known?": false,
+        "orcid?": null,
+        "ncsu?": false,
+        "affiliations": [
+          "University of North Carolina Wilmington"
+        ],
+        "countries": [
+          "US"
+        ],
+        "color": "#BFBFBD",
+        "size": 10
+      }
+    },
+    {
+      "key": "kaijiezhang",
+      "attributes": {
+        "label": "K Zhang",
+        "name": "Kaijie Zhang",
+        "known?": false,
+        "orcid?": null,
+        "ncsu?": false,
+        "affiliations": [
+          "China Agricultural University"
+        ],
+        "countries": [
+          "CN"
+        ],
+        "color": "#BFBFBD",
+        "size": 10
+      }
+    },
+    {
+      "key": "xinyicai",
+      "attributes": {
+        "label": "X Cai",
+        "name": "Xinyi Cai",
+        "known?": false,
+        "orcid?": null,
+        "ncsu?": false,
+        "affiliations": [
+          "Soochow University"
+        ],
+        "countries": [
+          "CN"
+        ],
+        "color": "#BFBFBD",
+        "size": 10
+      }
+    },
+    {
+      "key": "https://orcid.org/0000-0003-0630-2408",
+      "attributes": {
+        "label": "H Shen",
+        "name": "Hongmei Shen",
+        "known?": false,
+        "orcid?": null,
+        "ncsu?": false,
+        "affiliations": [
+          "San Diego State University"
+        ],
+        "countries": [
+          "US"
+        ],
+        "color": "#BFBFBD",
+        "size": 10
+      }
+    },
+    {
+      "key": "carolinefunkhouser",
+      "attributes": {
+        "label": "C Funkhouser",
+        "name": "Caroline Funkhouser",
+        "known?": false,
+        "orcid?": null,
+        "ncsu?": true,
+        "affiliations": [
+          "North Carolina State University"
+        ],
+        "countries": [
+          "US"
+        ],
+        "color": "#000000",
+        "size": 10
+      }
+    },
+    {
+      "key": "tessaraabe",
+      "attributes": {
+        "label": "T Raabe",
+        "name": "Tessa Raabe",
+        "known?": false,
+        "orcid?": null,
+        "ncsu?": true,
+        "affiliations": [
+          "North Carolina State University"
+        ],
+        "countries": [
+          "US"
+        ],
+        "color": "#000000",
+        "size": 10
+      }
+    },
+    {
+      "key": "rebeccacross",
+      "attributes": {
+        "label": "R Cross",
+        "name": "Rebecca Cross",
+        "known?": false,
+        "orcid?": null,
+        "ncsu?": true,
+        "affiliations": [
+          "North Carolina State University"
+        ],
+        "countries": [
+          "US"
+        ],
+        "color": "#000000",
+        "size": 10
+      }
+    },
+    {
+      "key": "https://orcid.org/0000-0003-2802-4584",
+      "attributes": {
+        "label": "Q Jiang",
+        "name": "Qiaolei Jiang",
+        "known?": false,
+        "orcid?": null,
+        "ncsu?": false,
+        "affiliations": [
+          "Tsinghua University"
+        ],
+        "countries": [
+          "CN"
+        ],
+        "color": "#BFBFBD",
+        "size": 10
+      }
+    },
+    {
+      "key": "sungkyumcho",
+      "attributes": {
+        "label": "S Cho",
+        "name": "Sung Kyum Cho",
+        "known?": false,
+        "orcid?": null,
+        "ncsu?": false,
+        "affiliations": [
+          "Chungnam National University"
+        ],
+        "countries": [
+          "KR"
+        ],
+        "color": "#BFBFBD",
+        "size": 10
+      }
+    },
+    {
+      "key": "https://orcid.org/0000-0002-1855-5763",
+      "attributes": {
+        "label": "C Hung-Baesecke",
+        "name": "Chun-Ju Flora Hung-Baesecke",
+        "known?": false,
+        "orcid?": null,
+        "ncsu?": false,
+        "affiliations": [
+          "University of Technology Sydney"
+        ],
+        "countries": [
+          "AU"
+        ],
+        "color": "#BFBFBD",
+        "size": 10
+      }
+    },
+    {
+      "key": "https://orcid.org/0000-0002-8322-1735",
+      "attributes": {
+        "label": "Y Chen",
+        "name": "Yi-Ru Regina Chen",
+        "known?": false,
+        "orcid?": null,
+        "ncsu?": false,
+        "affiliations": [
+          "Hong Kong Baptist University"
+        ],
+        "countries": [
+          "CN"
+        ],
+        "color": "#BFBFBD",
+        "size": 10
+      }
+    },
+    {
+      "key": "yunjuanluo",
+      "attributes": {
+        "label": "Y Luo",
+        "name": "Yunjuan Luo",
+        "known?": false,
+        "orcid?": null,
+        "ncsu?": false,
+        "affiliations": [
+          "Department of Online Communication, School of Journalism and Communication, South China University of Technology, Guangzhou 510006, China."
+        ],
+        "countries": [
+
+        ],
+        "color": "#BFBFBD",
+        "size": 10
+      }
+    },
+    {
+      "key": "https://orcid.org/0000-0002-6313-145X",
+      "attributes": {
+        "label": "M Sui",
+        "name": "Mingxiao Sui",
+        "known?": false,
+        "orcid?": null,
+        "ncsu?": false,
+        "affiliations": [
+          "Ferrum College"
+        ],
+        "countries": [
+          "US"
+        ],
+        "color": "#BFBFBD",
+        "size": 10
+      }
+    },
+    {
+      "key": "https://orcid.org/0000-0003-1213-6696",
+      "attributes": {
+        "label": "J Sun",
+        "name": "Jie Sun",
+        "known?": false,
+        "orcid?": null,
+        "ncsu?": false,
+        "affiliations": [
+          "City University of Hong Kong"
+        ],
+        "countries": [
+          "CN"
+        ],
+        "color": "#BFBFBD",
+        "size": 10
+      }
+    },
+    {
+      "key": "https://orcid.org/0000-0003-0582-8467",
+      "attributes": {
+        "label": "Z Chen",
+        "name": "Zifei Fay Chen",
+        "known?": false,
+        "orcid?": null,
+        "ncsu?": false,
+        "affiliations": [
+
+        ],
+        "countries": [
+
+        ],
+        "color": "#BFBFBD",
+        "size": 10
+      }
+    },
+    {
+      "key": "https://orcid.org/0000-0003-4228-5529",
+      "attributes": {
+        "label": "Y Jin",
+        "name": "Yan Jin",
+        "known?": false,
+        "orcid?": null,
+        "ncsu?": false,
+        "affiliations": [
+          "University of Georgia, Athens, GA, USA;;"
+        ],
+        "countries": [
+
+        ],
+        "color": "#BFBFBD",
+        "size": 10
+      }
+    },
+    {
+      "key": "glentcameron",
+      "attributes": {
+        "label": "G Cameron",
+        "name": "Glen T. Cameron",
+        "known?": false,
+        "orcid?": null,
+        "ncsu?": false,
+        "affiliations": [
+          "University of Missouri"
+        ],
+        "countries": [
+          "US"
+        ],
+        "color": "#BFBFBD",
+        "size": 10
+      }
+    },
+    {
+      "key": "chiajuilee",
+      "attributes": {
+        "label": "C Lee",
+        "name": "Chia-Jui Lee",
+        "known?": false,
+        "orcid?": null,
+        "ncsu?": true,
+        "affiliations": [
+          "North Carolina State University"
+        ],
+        "countries": [
+          "US"
+        ],
+        "color": "#000000",
+        "size": 10
+      }
+    },
+    {
+      "key": "https://orcid.org/0000-0002-0378-9516",
+      "attributes": {
+        "label": "F Wu",
+        "name": "Feng Wu",
+        "known?": false,
+        "orcid?": null,
+        "ncsu?": false,
+        "affiliations": [
+          "Xi'an Jiaotong University"
+        ],
+        "countries": [
+          "CN"
+        ],
+        "color": "#BFBFBD",
+        "size": 10
+      }
+    },
+    {
+      "key": "duochao",
+      "attributes": {
+        "label": "D Chao",
+        "name": "Duo Chao",
+        "known?": false,
+        "orcid?": null,
+        "ncsu?": false,
+        "affiliations": [
+          "Nanjing Normal University"
+        ],
+        "countries": [
+          "CN"
+        ],
+        "color": "#BFBFBD",
+        "size": 10
+      }
+    },
+    {
+      "key": "https://orcid.org/0000-0002-2621-9700",
+      "attributes": {
+        "label": "Y Huang",
+        "name": "Yi-Hui Christine Huang",
+        "known?": false,
+        "orcid?": null,
+        "ncsu?": false,
+        "affiliations": [
+          "Chinese University of Hong Kong"
+        ],
+        "countries": [
+          "CN"
+        ],
+        "color": "#BFBFBD",
+        "size": 10
+      }
+    },
+    {
+      "key": "chingmanchan",
+      "attributes": {
+        "label": "C Chan",
+        "name": "Ching Man Chan",
+        "known?": false,
+        "orcid?": null,
+        "ncsu?": false,
+        "affiliations": [
+          "Chinese University of Hong Kong"
+        ],
+        "countries": [
+          "CN"
+        ],
+        "color": "#BFBFBD",
+        "size": 10
+      }
+    },
+    {
+      "key": "https://orcid.org/0000-0002-8436-7293",
+      "attributes": {
+        "label": "F Wu",
+        "name": "Fang Wu",
+        "known?": false,
+        "orcid?": null,
+        "ncsu?": false,
+        "affiliations": [
+          "Chinese University of Hong Kong"
+        ],
+        "countries": [
+          "CN"
+        ],
+        "color": "#BFBFBD",
+        "size": 10
+      }
+    }
+  ],
+  "edges": [
+    {
+      "source": "uid-ycheng20",
+      "target": "uid-ahjhala",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Communication -- Computer Science",
+        "colleges": "College of Engineering -- College of Humanities and Social Sciences",
+        "buildings": "Venture IV -- Winston Hall",
+        "roles": "faculty == faculty",
+        "years": [
+          2022
+        ],
+        "year_recent": 2022,
+        "dois": [
+          "10.1109/MIC.2021.3129547"
+        ],
+        "ncsu?": true,
+        "cross_college?": true,
+        "cross_department?": true,
+        "cross_unit?": true,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": true,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          "IEEE Internet Computing"
+        ],
+        "color": "#FAC800",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-ycheng20",
+      "target": "uid-jegoodwi",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Communication == Communication",
+        "colleges": "College of Humanities and Social Sciences == College of Humanities and Social Sciences",
+        "buildings": "Winston Hall == Winston Hall",
+        "roles": "faculty == faculty",
+        "years": [
+          2022
+        ],
+        "year_recent": 2022,
+        "dois": [
+          "10.1109/MIC.2021.3129547"
+        ],
+        "ncsu?": true,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": true,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society",
+          "Leadership in Public Science"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          "IEEE Internet Computing"
+        ],
+        "color": "#CC0000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-ycheng20",
+      "target": "uid-mpsingh",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Communication -- Computer Science",
+        "colleges": "College of Engineering -- College of Humanities and Social Sciences",
+        "buildings": "Engineering Building II (EB2) -- Winston Hall",
+        "roles": "faculty == faculty",
+        "years": [
+          2022
+        ],
+        "year_recent": 2022,
+        "dois": [
+          "10.1109/MIC.2021.3129547"
+        ],
+        "ncsu?": true,
+        "cross_college?": true,
+        "cross_department?": true,
+        "cross_unit?": true,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": true,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          "IEEE Internet Computing"
+        ],
+        "color": "#FAC800",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-ycheng20",
+      "target": "https://orcid.org/0000-0002-2653-7987",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Communication --- unknown",
+        "colleges": "College of Humanities and Social Sciences --- unknown",
+        "buildings": "Winston Hall --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          2022
+        ],
+        "year_recent": 2022,
+        "dois": [
+          "10.1109/MIC.2021.3129547"
+        ],
+        "ncsu?": false,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          "IEEE Internet Computing"
+        ],
+        "color": "#000000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-ycheng20",
+      "target": "laurendavis",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Communication --- unknown",
+        "colleges": "College of Humanities and Social Sciences --- unknown",
+        "buildings": "Winston Hall --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          2022
+        ],
+        "year_recent": 2022,
+        "dois": [
+          "10.1109/MIC.2021.3129547"
+        ],
+        "ncsu?": false,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          "IEEE Internet Computing"
+        ],
+        "color": "#000000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-ycheng20",
+      "target": "https://orcid.org/0000-0002-6937-927X",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Communication --- unknown",
+        "colleges": "College of Humanities and Social Sciences --- unknown",
+        "buildings": "Winston Hall --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          2022
+        ],
+        "year_recent": 2022,
+        "dois": [
+          "10.1109/MIC.2021.3129547"
+        ],
+        "ncsu?": false,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          "IEEE Internet Computing"
+        ],
+        "color": "#000000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-ycheng20",
+      "target": "https://orcid.org/0000-0002-7420-2954",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Communication --- unknown",
+        "colleges": "College of Humanities and Social Sciences --- unknown",
+        "buildings": "Winston Hall --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          2022
+        ],
+        "year_recent": 2022,
+        "dois": [
+          "10.1109/MIC.2021.3129547"
+        ],
+        "ncsu?": false,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          "IEEE Internet Computing"
+        ],
+        "color": "#000000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-ycheng20",
+      "target": "seongyounho",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Communication --- unknown",
+        "colleges": "College of Humanities and Social Sciences --- unknown",
+        "buildings": "Winston Hall --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          2022
+        ],
+        "year_recent": 2022,
+        "dois": [
+          "10.1109/MIC.2021.3129547"
+        ],
+        "ncsu?": false,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          "IEEE Internet Computing"
+        ],
+        "color": "#000000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-ycheng20",
+      "target": "https://orcid.org/0000-0001-5453-5324",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Communication --- unknown",
+        "colleges": "College of Humanities and Social Sciences --- unknown",
+        "buildings": "Winston Hall --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          2022
+        ],
+        "year_recent": 2022,
+        "dois": [
+          "10.1109/MIC.2021.3129547"
+        ],
+        "ncsu?": false,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          "IEEE Internet Computing"
+        ],
+        "color": "#000000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-ycheng20",
+      "target": "deepakkumar",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Communication --- unknown",
+        "colleges": "College of Humanities and Social Sciences --- unknown",
+        "buildings": "Winston Hall --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          2022
+        ],
+        "year_recent": 2022,
+        "dois": [
+          "10.1109/MIC.2021.3129547"
+        ],
+        "ncsu?": false,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          "IEEE Internet Computing"
+        ],
+        "color": "#000000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-ycheng20",
+      "target": "tianduozhang",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Communication --- unknown",
+        "colleges": "College of Humanities and Social Sciences --- unknown",
+        "buildings": "Winston Hall --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          2022
+        ],
+        "year_recent": 2022,
+        "dois": [
+          "10.1109/MIC.2021.3129547"
+        ],
+        "ncsu?": false,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          "IEEE Internet Computing"
+        ],
+        "color": "#000000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-ycheng20",
+      "target": "huajiang",
+      "attributes": {
+        "label": 6,
+        "weight": 6,
+        "collaboration_count": 6,
+        "departments": "Communication --- unknown",
+        "colleges": "College of Humanities and Social Sciences --- unknown",
+        "buildings": "Winston Hall --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          2022,
+          2022,
+          2022,
+          2021,
+          2020,
+          2020
+        ],
+        "year_recent": 2022,
+        "dois": [
+          "10.1016/j.chb.2022.107329",
+          "10.3390/su14042359",
+          "10.1177/08944393221111482",
+          "10.1108/JPBM-05-2020-2907",
+          "10.1111/1468-5973.12319",
+          "10.1080/08838151.2020.1834296"
+        ],
+        "ncsu?": false,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          "Computers in Human Behavior"
+        ],
+        "color": "#000000",
+        "size": 6
+      }
+    },
+    {
+      "source": "uid-ycheng20",
+      "target": "jeongwonyang",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Communication --- unknown",
+        "colleges": "College of Humanities and Social Sciences --- unknown",
+        "buildings": "Winston Hall --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          2022
+        ],
+        "year_recent": 2022,
+        "dois": [
+          "10.1016/j.chb.2022.107329"
+        ],
+        "ncsu?": false,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          "Computers in Human Behavior"
+        ],
+        "color": "#000000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-ycheng20",
+      "target": "shanbinggao",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Communication --- unknown",
+        "colleges": "College of Humanities and Social Sciences --- unknown",
+        "buildings": "Winston Hall --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          2022
+        ],
+        "year_recent": 2022,
+        "dois": [
+          "10.1016/j.chb.2022.107329"
+        ],
+        "ncsu?": false,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          "Computers in Human Behavior"
+        ],
+        "color": "#000000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-ycheng20",
+      "target": "allisonfisk",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Communication --- unknown",
+        "colleges": "College of Humanities and Social Sciences --- unknown",
+        "buildings": "Winston Hall --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          2022
+        ],
+        "year_recent": 2022,
+        "dois": [
+          "10.1016/j.pubrev.2022.102178"
+        ],
+        "ncsu?": true,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          "Public Relations Review"
+        ],
+        "color": "#CC0000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-ycheng20",
+      "target": "uid-cxie4",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Communication --- unknown",
+        "colleges": "College of Humanities and Social Sciences --- unknown",
+        "buildings": "Winston Hall --- unknown",
+        "roles": "faculty -- student",
+        "years": [
+          2022
+        ],
+        "year_recent": 2022,
+        "dois": [
+          "10.1080/10447318.2022.2121458"
+        ],
+        "ncsu?": true,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          "International Journal of Human-computer Interaction"
+        ],
+        "color": "#CC0000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-ycheng20",
+      "target": "yandingwang",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Communication --- unknown",
+        "colleges": "College of Humanities and Social Sciences --- unknown",
+        "buildings": "Winston Hall --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          2022
+        ],
+        "year_recent": 2022,
+        "dois": [
+          "10.1080/10447318.2022.2121458"
+        ],
+        "ncsu?": false,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          "International Journal of Human-computer Interaction"
+        ],
+        "color": "#000000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-ycheng20",
+      "target": "https://orcid.org/0000-0001-8268-620X",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Communication --- unknown",
+        "colleges": "College of Humanities and Social Sciences --- unknown",
+        "buildings": "Winston Hall --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          2022
+        ],
+        "year_recent": 2022,
+        "dois": [
+          "10.3390/su14042359"
+        ],
+        "ncsu?": false,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          "Hypocrisy",
+          "Corporate social responsibility",
+          "Reputation",
+          "Social media",
+          "Employee engagement",
+          "Social exchange theory",
+          "Structural equation modeling",
+          "Stakeholder engagement",
+          "Public relations",
+          "Conceptual model",
+          "Business",
+          "Psychology",
+          "Social psychology",
+          "Political science",
+          "Sociology",
+          "Computer science",
+          "Social science",
+          "Database",
+          "Machine learning",
+          "Law"
+        ],
+        "host_venues": [
+          "Sustainability"
+        ],
+        "color": "#000000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-ycheng20",
+      "target": "weizhu",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Communication --- unknown",
+        "colleges": "College of Humanities and Social Sciences --- unknown",
+        "buildings": "Winston Hall --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          2022
+        ],
+        "year_recent": 2022,
+        "dois": [
+          "10.3390/su14042359"
+        ],
+        "ncsu?": false,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          "Hypocrisy",
+          "Corporate social responsibility",
+          "Reputation",
+          "Social media",
+          "Employee engagement",
+          "Social exchange theory",
+          "Structural equation modeling",
+          "Stakeholder engagement",
+          "Public relations",
+          "Conceptual model",
+          "Business",
+          "Psychology",
+          "Social psychology",
+          "Political science",
+          "Sociology",
+          "Computer science",
+          "Social science",
+          "Database",
+          "Machine learning",
+          "Law"
+        ],
+        "host_venues": [
+          "Sustainability"
+        ],
+        "color": "#000000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-ycheng20",
+      "target": "https://orcid.org/0000-0003-3623-4354",
+      "attributes": {
+        "label": 5,
+        "weight": 5,
+        "collaboration_count": 5,
+        "departments": "Communication --- unknown",
+        "colleges": "College of Humanities and Social Sciences --- unknown",
+        "buildings": "Winston Hall --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          2022,
+          2022,
+          2022,
+          2022,
+          2021
+        ],
+        "year_recent": 2022,
+        "dois": [
+          "10.3390/ijerph19095056",
+          "10.3390/ijerph19148297",
+          "10.1016/j.pubrev.2022.102172",
+          "10.1177/08944393221111482",
+          "10.1016/j.pubrev.2021.102081"
+        ],
+        "ncsu?": false,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          "Gratification",
+          "Avatar",
+          "Psychology",
+          "Virtual reality",
+          "Social distance",
+          "Coronavirus disease 2019 (COVID-19)",
+          "Pandemic",
+          "Social media",
+          "Mental health",
+          "Social psychology",
+          "Computer science",
+          "Human–computer interaction",
+          "Medicine",
+          "Psychotherapist",
+          "World Wide Web",
+          "Disease",
+          "Pathology",
+          "Infectious disease (medical specialty)"
+        ],
+        "host_venues": [
+          "International Journal of Environmental Research and Public Health"
+        ],
+        "color": "#000000",
+        "size": 5
+      }
+    },
+    {
+      "source": "uid-ycheng20",
+      "target": "https://orcid.org/0000-0001-8250-033X",
+      "attributes": {
+        "label": 2,
+        "weight": 2,
+        "collaboration_count": 2,
+        "departments": "Communication --- unknown",
+        "colleges": "College of Humanities and Social Sciences --- unknown",
+        "buildings": "Winston Hall --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          2022,
+          2022
+        ],
+        "year_recent": 2022,
+        "dois": [
+          "10.3390/ijerph19095056",
+          "10.1177/08944393221111482"
+        ],
+        "ncsu?": false,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          "Gratification",
+          "Avatar",
+          "Psychology",
+          "Virtual reality",
+          "Social distance",
+          "Coronavirus disease 2019 (COVID-19)",
+          "Pandemic",
+          "Social media",
+          "Mental health",
+          "Social psychology",
+          "Computer science",
+          "Human–computer interaction",
+          "Medicine",
+          "Psychotherapist",
+          "World Wide Web",
+          "Disease",
+          "Pathology",
+          "Infectious disease (medical specialty)"
+        ],
+        "host_venues": [
+          "International Journal of Environmental Research and Public Health"
+        ],
+        "color": "#000000",
+        "size": 2
+      }
+    },
+    {
+      "source": "uid-ycheng20",
+      "target": "feihongpan",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Communication --- unknown",
+        "colleges": "College of Humanities and Social Sciences --- unknown",
+        "buildings": "Winston Hall --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          2022
+        ],
+        "year_recent": 2022,
+        "dois": [
+          "10.3390/ijerph19148297"
+        ],
+        "ncsu?": false,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          "Distrust",
+          "Cynicism",
+          "Corporate social responsibility",
+          "Expectancy theory",
+          "Business",
+          "Turnover",
+          "Perception",
+          "Valence (chemistry)",
+          "Public relations",
+          "Psychology",
+          "Social psychology",
+          "Political science",
+          "Economics",
+          "Politics",
+          "Management",
+          "Physics",
+          "Quantum mechanics",
+          "Neuroscience",
+          "Law",
+          "Psychotherapist"
+        ],
+        "host_venues": [
+          "International Journal of Environmental Research and Public Health"
+        ],
+        "color": "#000000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-ycheng20",
+      "target": "yeqingkong",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Communication --- unknown",
+        "colleges": "College of Humanities and Social Sciences --- unknown",
+        "buildings": "Winston Hall --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          2022
+        ],
+        "year_recent": 2022,
+        "dois": [
+          "10.1016/j.pubrev.2022.102172"
+        ],
+        "ncsu?": false,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          "Public Relations Review"
+        ],
+        "color": "#000000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-ycheng20",
+      "target": "kaijiezhang",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Communication --- unknown",
+        "colleges": "College of Humanities and Social Sciences --- unknown",
+        "buildings": "Winston Hall --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          2022
+        ],
+        "year_recent": 2022,
+        "dois": [
+          "10.1177/08944393221111482"
+        ],
+        "ncsu?": false,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          "Social Science Computer Review"
+        ],
+        "color": "#000000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-ycheng20",
+      "target": "xinyicai",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Communication --- unknown",
+        "colleges": "College of Humanities and Social Sciences --- unknown",
+        "buildings": "Winston Hall --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          2022
+        ],
+        "year_recent": 2022,
+        "dois": [
+          "10.1177/08944393221111482"
+        ],
+        "ncsu?": false,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          "Social Science Computer Review"
+        ],
+        "color": "#000000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-ycheng20",
+      "target": "https://orcid.org/0000-0003-0630-2408",
+      "attributes": {
+        "label": 3,
+        "weight": 3,
+        "collaboration_count": 3,
+        "departments": "Communication --- unknown",
+        "colleges": "College of Humanities and Social Sciences --- unknown",
+        "buildings": "Winston Hall --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          2021,
+          2021,
+          2020
+        ],
+        "year_recent": 2021,
+        "dois": [
+          "10.1080/00909882.2021.1934514",
+          "10.1177/2329488420985101",
+          "10.1016/j.pubrev.2019.101816"
+        ],
+        "ncsu?": false,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          "Journal of Applied Communication Research"
+        ],
+        "color": "#000000",
+        "size": 3
+      }
+    },
+    {
+      "source": "uid-ycheng20",
+      "target": "carolinefunkhouser",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Communication --- unknown",
+        "colleges": "College of Humanities and Social Sciences --- unknown",
+        "buildings": "Winston Hall --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          2021
+        ],
+        "year_recent": 2021,
+        "dois": [
+          "10.1111/1468-5973.12370"
+        ],
+        "ncsu?": true,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          "Journal of Contingencies and Crisis Management"
+        ],
+        "color": "#CC0000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-ycheng20",
+      "target": "tessaraabe",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Communication --- unknown",
+        "colleges": "College of Humanities and Social Sciences --- unknown",
+        "buildings": "Winston Hall --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          2021
+        ],
+        "year_recent": 2021,
+        "dois": [
+          "10.1111/1468-5973.12370"
+        ],
+        "ncsu?": true,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          "Journal of Contingencies and Crisis Management"
+        ],
+        "color": "#CC0000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-ycheng20",
+      "target": "rebeccacross",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Communication --- unknown",
+        "colleges": "College of Humanities and Social Sciences --- unknown",
+        "buildings": "Winston Hall --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          2021
+        ],
+        "year_recent": 2021,
+        "dois": [
+          "10.1111/1468-5973.12370"
+        ],
+        "ncsu?": true,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          "Journal of Contingencies and Crisis Management"
+        ],
+        "color": "#CC0000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-ycheng20",
+      "target": "https://orcid.org/0000-0003-2802-4584",
+      "attributes": {
+        "label": 2,
+        "weight": 2,
+        "collaboration_count": 2,
+        "departments": "Communication --- unknown",
+        "colleges": "College of Humanities and Social Sciences --- unknown",
+        "buildings": "Winston Hall --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          2021,
+          2020
+        ],
+        "year_recent": 2021,
+        "dois": [
+          "10.1080/17544750.2021.1902360",
+          "10.1016/j.pubrev.2019.101816"
+        ],
+        "ncsu?": false,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          "Chinese Journal of Communication"
+        ],
+        "color": "#000000",
+        "size": 2
+      }
+    },
+    {
+      "source": "uid-ycheng20",
+      "target": "sungkyumcho",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Communication --- unknown",
+        "colleges": "College of Humanities and Social Sciences --- unknown",
+        "buildings": "Winston Hall --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          2021
+        ],
+        "year_recent": 2021,
+        "dois": [
+          "10.1080/17544750.2021.1902360"
+        ],
+        "ncsu?": false,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          "Chinese Journal of Communication"
+        ],
+        "color": "#000000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-ycheng20",
+      "target": "https://orcid.org/0000-0002-1855-5763",
+      "attributes": {
+        "label": 4,
+        "weight": 4,
+        "collaboration_count": 4,
+        "departments": "Communication --- unknown",
+        "colleges": "College of Humanities and Social Sciences --- unknown",
+        "buildings": "Winston Hall --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          2021,
+          2021,
+          2019,
+          2019
+        ],
+        "year_recent": 2021,
+        "dois": [
+          "10.1177/23294884211035112",
+          "10.1177/0894439320987184",
+          "10.1177/0002764219835258",
+          "10.1080/1553118X.2018.1524382"
+        ],
+        "ncsu?": false,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          "International journal of business communication"
+        ],
+        "color": "#000000",
+        "size": 4
+      }
+    },
+    {
+      "source": "uid-ycheng20",
+      "target": "https://orcid.org/0000-0002-8322-1735",
+      "attributes": {
+        "label": 4,
+        "weight": 4,
+        "collaboration_count": 4,
+        "departments": "Communication --- unknown",
+        "colleges": "College of Humanities and Social Sciences --- unknown",
+        "buildings": "Winston Hall --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          2021,
+          2021,
+          2019,
+          2019
+        ],
+        "year_recent": 2021,
+        "dois": [
+          "10.1177/23294884211035112",
+          "10.1177/0894439320987184",
+          "10.1177/0002764219835258",
+          "10.1080/1553118X.2018.1524382"
+        ],
+        "ncsu?": false,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          "International journal of business communication"
+        ],
+        "color": "#000000",
+        "size": 4
+      }
+    },
+    {
+      "source": "uid-ycheng20",
+      "target": "yunjuanluo",
+      "attributes": {
+        "label": 2,
+        "weight": 2,
+        "collaboration_count": 2,
+        "departments": "Communication --- unknown",
+        "colleges": "College of Humanities and Social Sciences --- unknown",
+        "buildings": "Winston Hall --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          2021,
+          2020
+        ],
+        "year_recent": 2021,
+        "dois": [
+          "10.3390/ijerph18042011",
+          "10.1108/OIR-08-2020-0386"
+        ],
+        "ncsu?": false,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          "Pandemic",
+          "Coronavirus disease 2019 (COVID-19)",
+          "Disease",
+          "Young adult",
+          "Environmental health",
+          "Gerontology",
+          "Psychology",
+          "Medicine",
+          "Disease control",
+          "Demography",
+          "Infectious disease (medical specialty)",
+          "Pathology",
+          "Sociology"
+        ],
+        "host_venues": [
+          "International Journal of Environmental Research and Public Health"
+        ],
+        "color": "#000000",
+        "size": 2
+      }
+    },
+    {
+      "source": "uid-ycheng20",
+      "target": "https://orcid.org/0000-0002-6313-145X",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Communication --- unknown",
+        "colleges": "College of Humanities and Social Sciences --- unknown",
+        "buildings": "Winston Hall --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          2021
+        ],
+        "year_recent": 2021,
+        "dois": [
+          "10.3390/ijerph18042011"
+        ],
+        "ncsu?": false,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          "Pandemic",
+          "Coronavirus disease 2019 (COVID-19)",
+          "Disease",
+          "Young adult",
+          "Environmental health",
+          "Gerontology",
+          "Psychology",
+          "Medicine",
+          "Disease control",
+          "Demography",
+          "Infectious disease (medical specialty)",
+          "Pathology",
+          "Sociology"
+        ],
+        "host_venues": [
+          "International Journal of Environmental Research and Public Health"
+        ],
+        "color": "#000000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-ycheng20",
+      "target": "https://orcid.org/0000-0003-1213-6696",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Communication --- unknown",
+        "colleges": "College of Humanities and Social Sciences --- unknown",
+        "buildings": "Winston Hall --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          2021
+        ],
+        "year_recent": 2021,
+        "dois": [
+          "10.1016/j.pubrev.2021.102081"
+        ],
+        "ncsu?": false,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          "Public Relations Review"
+        ],
+        "color": "#000000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-ycheng20",
+      "target": "https://orcid.org/0000-0003-0582-8467",
+      "attributes": {
+        "label": 3,
+        "weight": 3,
+        "collaboration_count": 3,
+        "departments": "Communication --- unknown",
+        "colleges": "College of Humanities and Social Sciences --- unknown",
+        "buildings": "Winston Hall --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          2020,
+          2020,
+          2020
+        ],
+        "year_recent": 2020,
+        "dois": [
+          "10.1108/JPBM-12-2018-2145",
+          "10.1108/OIR-04-2020-0130",
+          "10.1080/15205436.2020.1750656"
+        ],
+        "ncsu?": false,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          "Journal of Product & Brand Management"
+        ],
+        "color": "#000000",
+        "size": 3
+      }
+    },
+    {
+      "source": "uid-ycheng20",
+      "target": "https://orcid.org/0000-0003-4228-5529",
+      "attributes": {
+        "label": 2,
+        "weight": 2,
+        "collaboration_count": 2,
+        "departments": "Communication --- unknown",
+        "colleges": "College of Humanities and Social Sciences --- unknown",
+        "buildings": "Winston Hall --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          2019,
+          2019
+        ],
+        "year_recent": 2019,
+        "dois": [
+          "10.1177/0002764219835258",
+          "10.1080/1553118X.2018.1524382"
+        ],
+        "ncsu?": false,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          "American Behavioral Scientist"
+        ],
+        "color": "#000000",
+        "size": 2
+      }
+    },
+    {
+      "source": "uid-ycheng20",
+      "target": "glentcameron",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Communication --- unknown",
+        "colleges": "College of Humanities and Social Sciences --- unknown",
+        "buildings": "Winston Hall --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          2019
+        ],
+        "year_recent": 2019,
+        "dois": [
+          "10.1080/00909882.2019.1695874"
+        ],
+        "ncsu?": false,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          "Journal of Applied Communication Research"
+        ],
+        "color": "#000000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-ycheng20",
+      "target": "chiajuilee",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Communication --- unknown",
+        "colleges": "College of Humanities and Social Sciences --- unknown",
+        "buildings": "Winston Hall --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          2019
+        ],
+        "year_recent": 2019,
+        "dois": [
+          "10.1016/j.pubrev.2019.101826"
+        ],
+        "ncsu?": true,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          "Public Relations Review"
+        ],
+        "color": "#CC0000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-ycheng20",
+      "target": "https://orcid.org/0000-0002-0378-9516",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Communication --- unknown",
+        "colleges": "College of Humanities and Social Sciences --- unknown",
+        "buildings": "Winston Hall --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          2017
+        ],
+        "year_recent": 2017,
+        "dois": [
+          "10.1080/01292986.2017.1281322"
+        ],
+        "ncsu?": false,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          "Asian Journal of Communication"
+        ],
+        "color": "#000000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-ycheng20",
+      "target": "duochao",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Communication --- unknown",
+        "colleges": "College of Humanities and Social Sciences --- unknown",
+        "buildings": "Winston Hall --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          2017
+        ],
+        "year_recent": 2017,
+        "dois": [
+          "10.1080/01292986.2017.1281322"
+        ],
+        "ncsu?": false,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          "Asian Journal of Communication"
+        ],
+        "color": "#000000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-ycheng20",
+      "target": "https://orcid.org/0000-0002-2621-9700",
+      "attributes": {
+        "label": 2,
+        "weight": 2,
+        "collaboration_count": 2,
+        "departments": "Communication --- unknown",
+        "colleges": "College of Humanities and Social Sciences --- unknown",
+        "buildings": "Winston Hall --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          2017,
+          2016
+        ],
+        "year_recent": 2017,
+        "dois": [
+          "10.1016/J.TELE.2016.05.012",
+          "10.1016/J.PUBREV.2015.11.015"
+        ],
+        "ncsu?": false,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          "Telematics and Informatics"
+        ],
+        "color": "#000000",
+        "size": 2
+      }
+    },
+    {
+      "source": "uid-ycheng20",
+      "target": "chingmanchan",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Communication --- unknown",
+        "colleges": "College of Humanities and Social Sciences --- unknown",
+        "buildings": "Winston Hall --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          2017
+        ],
+        "year_recent": 2017,
+        "dois": [
+          "10.1016/J.TELE.2016.05.012"
+        ],
+        "ncsu?": false,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          "Telematics and Informatics"
+        ],
+        "color": "#000000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-ycheng20",
+      "target": "https://orcid.org/0000-0002-8436-7293",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Communication --- unknown",
+        "colleges": "College of Humanities and Social Sciences --- unknown",
+        "buildings": "Winston Hall --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          2016
+        ],
+        "year_recent": 2016,
+        "dois": [
+          "10.1016/J.PUBREV.2015.11.015"
+        ],
+        "ncsu?": false,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          "Authoritarianism",
+          "Collectivism",
+          "Mainland China",
+          "Politics",
+          "Crisis communication",
+          "Political science",
+          "Compromise",
+          "Government (linguistics)",
+          "Hofstede's cultural dimensions theory",
+          "China",
+          "Political economy",
+          "Sociology",
+          "Public relations",
+          "Democracy",
+          "Individualism",
+          "Social science",
+          "Linguistics",
+          "Philosophy",
+          "Law"
+        ],
+        "host_venues": [
+          "Public Relations Review"
+        ],
+        "color": "#000000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-ahjhala",
+      "target": "uid-jegoodwi",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Communication -- Computer Science",
+        "colleges": "College of Engineering -- College of Humanities and Social Sciences",
+        "buildings": "Venture IV -- Winston Hall",
+        "roles": "faculty == faculty",
+        "years": [
+          2022
+        ],
+        "year_recent": 2022,
+        "dois": [
+          "10.1109/MIC.2021.3129547"
+        ],
+        "ncsu?": true,
+        "cross_college?": true,
+        "cross_department?": true,
+        "cross_unit?": true,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society",
+          "Leadership in Public Science"
+        ],
+        "cross_building?": true,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          "IEEE Internet Computing"
+        ],
+        "color": "#FAC800",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-ahjhala",
+      "target": "uid-mpsingh",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Computer Science == Computer Science",
+        "colleges": "College of Engineering == College of Engineering",
+        "buildings": "Engineering Building II (EB2) -- Venture IV",
+        "roles": "faculty == faculty",
+        "years": [
+          2022
+        ],
+        "year_recent": 2022,
+        "dois": [
+          "10.1109/MIC.2021.3129547"
+        ],
+        "ncsu?": true,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": false,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+
+        ],
+        "cross_building?": true,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          "IEEE Internet Computing"
+        ],
+        "color": "#CC0000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-ahjhala",
+      "target": "https://orcid.org/0000-0002-2653-7987",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Computer Science --- unknown",
+        "colleges": "College of Engineering --- unknown",
+        "buildings": "Venture IV --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          2022
+        ],
+        "year_recent": 2022,
+        "dois": [
+          "10.1109/MIC.2021.3129547"
+        ],
+        "ncsu?": false,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": false,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          "IEEE Internet Computing"
+        ],
+        "color": "#000000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-ahjhala",
+      "target": "laurendavis",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Computer Science --- unknown",
+        "colleges": "College of Engineering --- unknown",
+        "buildings": "Venture IV --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          2022
+        ],
+        "year_recent": 2022,
+        "dois": [
+          "10.1109/MIC.2021.3129547"
+        ],
+        "ncsu?": false,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": false,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          "IEEE Internet Computing"
+        ],
+        "color": "#000000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-ahjhala",
+      "target": "https://orcid.org/0000-0002-6937-927X",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Computer Science --- unknown",
+        "colleges": "College of Engineering --- unknown",
+        "buildings": "Venture IV --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          2022
+        ],
+        "year_recent": 2022,
+        "dois": [
+          "10.1109/MIC.2021.3129547"
+        ],
+        "ncsu?": false,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": false,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          "IEEE Internet Computing"
+        ],
+        "color": "#000000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-ahjhala",
+      "target": "https://orcid.org/0000-0002-7420-2954",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Computer Science --- unknown",
+        "colleges": "College of Engineering --- unknown",
+        "buildings": "Venture IV --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          2022
+        ],
+        "year_recent": 2022,
+        "dois": [
+          "10.1109/MIC.2021.3129547"
+        ],
+        "ncsu?": false,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": false,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          "IEEE Internet Computing"
+        ],
+        "color": "#000000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-ahjhala",
+      "target": "seongyounho",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Computer Science --- unknown",
+        "colleges": "College of Engineering --- unknown",
+        "buildings": "Venture IV --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          2022
+        ],
+        "year_recent": 2022,
+        "dois": [
+          "10.1109/MIC.2021.3129547"
+        ],
+        "ncsu?": false,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": false,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          "IEEE Internet Computing"
+        ],
+        "color": "#000000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-ahjhala",
+      "target": "https://orcid.org/0000-0001-5453-5324",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Computer Science --- unknown",
+        "colleges": "College of Engineering --- unknown",
+        "buildings": "Venture IV --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          2022
+        ],
+        "year_recent": 2022,
+        "dois": [
+          "10.1109/MIC.2021.3129547"
+        ],
+        "ncsu?": false,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": false,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          "IEEE Internet Computing"
+        ],
+        "color": "#000000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-ahjhala",
+      "target": "deepakkumar",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Computer Science --- unknown",
+        "colleges": "College of Engineering --- unknown",
+        "buildings": "Venture IV --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          2022
+        ],
+        "year_recent": 2022,
+        "dois": [
+          "10.1109/MIC.2021.3129547"
+        ],
+        "ncsu?": false,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": false,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          "IEEE Internet Computing"
+        ],
+        "color": "#000000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-ahjhala",
+      "target": "tianduozhang",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Computer Science --- unknown",
+        "colleges": "College of Engineering --- unknown",
+        "buildings": "Venture IV --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          2022
+        ],
+        "year_recent": 2022,
+        "dois": [
+          "10.1109/MIC.2021.3129547"
+        ],
+        "ncsu?": false,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": false,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          "IEEE Internet Computing"
+        ],
+        "color": "#000000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-jegoodwi",
+      "target": "uid-mpsingh",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Communication -- Computer Science",
+        "colleges": "College of Engineering -- College of Humanities and Social Sciences",
+        "buildings": "Engineering Building II (EB2) -- Winston Hall",
+        "roles": "faculty == faculty",
+        "years": [
+          2022
+        ],
+        "year_recent": 2022,
+        "dois": [
+          "10.1109/MIC.2021.3129547"
+        ],
+        "ncsu?": true,
+        "cross_college?": true,
+        "cross_department?": true,
+        "cross_unit?": true,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society",
+          "Leadership in Public Science"
+        ],
+        "cross_building?": true,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          "IEEE Internet Computing"
+        ],
+        "color": "#FAC800",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-jegoodwi",
+      "target": "https://orcid.org/0000-0002-2653-7987",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Communication --- unknown",
+        "colleges": "College of Humanities and Social Sciences --- unknown",
+        "buildings": "Winston Hall --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          2022
+        ],
+        "year_recent": 2022,
+        "dois": [
+          "10.1109/MIC.2021.3129547"
+        ],
+        "ncsu?": false,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society",
+          "Leadership in Public Science"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          "IEEE Internet Computing"
+        ],
+        "color": "#000000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-jegoodwi",
+      "target": "laurendavis",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Communication --- unknown",
+        "colleges": "College of Humanities and Social Sciences --- unknown",
+        "buildings": "Winston Hall --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          2022
+        ],
+        "year_recent": 2022,
+        "dois": [
+          "10.1109/MIC.2021.3129547"
+        ],
+        "ncsu?": false,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society",
+          "Leadership in Public Science"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          "IEEE Internet Computing"
+        ],
+        "color": "#000000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-jegoodwi",
+      "target": "https://orcid.org/0000-0002-6937-927X",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Communication --- unknown",
+        "colleges": "College of Humanities and Social Sciences --- unknown",
+        "buildings": "Winston Hall --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          2022
+        ],
+        "year_recent": 2022,
+        "dois": [
+          "10.1109/MIC.2021.3129547"
+        ],
+        "ncsu?": false,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society",
+          "Leadership in Public Science"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          "IEEE Internet Computing"
+        ],
+        "color": "#000000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-jegoodwi",
+      "target": "https://orcid.org/0000-0002-7420-2954",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Communication --- unknown",
+        "colleges": "College of Humanities and Social Sciences --- unknown",
+        "buildings": "Winston Hall --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          2022
+        ],
+        "year_recent": 2022,
+        "dois": [
+          "10.1109/MIC.2021.3129547"
+        ],
+        "ncsu?": false,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society",
+          "Leadership in Public Science"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          "IEEE Internet Computing"
+        ],
+        "color": "#000000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-jegoodwi",
+      "target": "seongyounho",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Communication --- unknown",
+        "colleges": "College of Humanities and Social Sciences --- unknown",
+        "buildings": "Winston Hall --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          2022
+        ],
+        "year_recent": 2022,
+        "dois": [
+          "10.1109/MIC.2021.3129547"
+        ],
+        "ncsu?": false,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society",
+          "Leadership in Public Science"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          "IEEE Internet Computing"
+        ],
+        "color": "#000000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-jegoodwi",
+      "target": "https://orcid.org/0000-0001-5453-5324",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Communication --- unknown",
+        "colleges": "College of Humanities and Social Sciences --- unknown",
+        "buildings": "Winston Hall --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          2022
+        ],
+        "year_recent": 2022,
+        "dois": [
+          "10.1109/MIC.2021.3129547"
+        ],
+        "ncsu?": false,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society",
+          "Leadership in Public Science"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          "IEEE Internet Computing"
+        ],
+        "color": "#000000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-jegoodwi",
+      "target": "deepakkumar",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Communication --- unknown",
+        "colleges": "College of Humanities and Social Sciences --- unknown",
+        "buildings": "Winston Hall --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          2022
+        ],
+        "year_recent": 2022,
+        "dois": [
+          "10.1109/MIC.2021.3129547"
+        ],
+        "ncsu?": false,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society",
+          "Leadership in Public Science"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          "IEEE Internet Computing"
+        ],
+        "color": "#000000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-jegoodwi",
+      "target": "tianduozhang",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Communication --- unknown",
+        "colleges": "College of Humanities and Social Sciences --- unknown",
+        "buildings": "Winston Hall --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          2022
+        ],
+        "year_recent": 2022,
+        "dois": [
+          "10.1109/MIC.2021.3129547"
+        ],
+        "ncsu?": false,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society",
+          "Leadership in Public Science"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          "IEEE Internet Computing"
+        ],
+        "color": "#000000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-mpsingh",
+      "target": "https://orcid.org/0000-0002-2653-7987",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Computer Science --- unknown",
+        "colleges": "College of Engineering --- unknown",
+        "buildings": "Engineering Building II (EB2) --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          2022
+        ],
+        "year_recent": 2022,
+        "dois": [
+          "10.1109/MIC.2021.3129547"
+        ],
+        "ncsu?": false,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": false,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          "IEEE Internet Computing"
+        ],
+        "color": "#000000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-mpsingh",
+      "target": "laurendavis",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Computer Science --- unknown",
+        "colleges": "College of Engineering --- unknown",
+        "buildings": "Engineering Building II (EB2) --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          2022
+        ],
+        "year_recent": 2022,
+        "dois": [
+          "10.1109/MIC.2021.3129547"
+        ],
+        "ncsu?": false,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": false,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          "IEEE Internet Computing"
+        ],
+        "color": "#000000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-mpsingh",
+      "target": "https://orcid.org/0000-0002-6937-927X",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Computer Science --- unknown",
+        "colleges": "College of Engineering --- unknown",
+        "buildings": "Engineering Building II (EB2) --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          2022
+        ],
+        "year_recent": 2022,
+        "dois": [
+          "10.1109/MIC.2021.3129547"
+        ],
+        "ncsu?": false,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": false,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          "IEEE Internet Computing"
+        ],
+        "color": "#000000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-mpsingh",
+      "target": "https://orcid.org/0000-0002-7420-2954",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Computer Science --- unknown",
+        "colleges": "College of Engineering --- unknown",
+        "buildings": "Engineering Building II (EB2) --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          2022
+        ],
+        "year_recent": 2022,
+        "dois": [
+          "10.1109/MIC.2021.3129547"
+        ],
+        "ncsu?": false,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": false,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          "IEEE Internet Computing"
+        ],
+        "color": "#000000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-mpsingh",
+      "target": "seongyounho",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Computer Science --- unknown",
+        "colleges": "College of Engineering --- unknown",
+        "buildings": "Engineering Building II (EB2) --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          2022
+        ],
+        "year_recent": 2022,
+        "dois": [
+          "10.1109/MIC.2021.3129547"
+        ],
+        "ncsu?": false,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": false,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          "IEEE Internet Computing"
+        ],
+        "color": "#000000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-mpsingh",
+      "target": "https://orcid.org/0000-0001-5453-5324",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Computer Science --- unknown",
+        "colleges": "College of Engineering --- unknown",
+        "buildings": "Engineering Building II (EB2) --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          2022
+        ],
+        "year_recent": 2022,
+        "dois": [
+          "10.1109/MIC.2021.3129547"
+        ],
+        "ncsu?": false,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": false,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          "IEEE Internet Computing"
+        ],
+        "color": "#000000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-mpsingh",
+      "target": "deepakkumar",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Computer Science --- unknown",
+        "colleges": "College of Engineering --- unknown",
+        "buildings": "Engineering Building II (EB2) --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          2022
+        ],
+        "year_recent": 2022,
+        "dois": [
+          "10.1109/MIC.2021.3129547"
+        ],
+        "ncsu?": false,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": false,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          "IEEE Internet Computing"
+        ],
+        "color": "#000000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-mpsingh",
+      "target": "tianduozhang",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Computer Science --- unknown",
+        "colleges": "College of Engineering --- unknown",
+        "buildings": "Engineering Building II (EB2) --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          2022
+        ],
+        "year_recent": 2022,
+        "dois": [
+          "10.1109/MIC.2021.3129547"
+        ],
+        "ncsu?": false,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": false,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          "IEEE Internet Computing"
+        ],
+        "color": "#000000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-cxie4",
+      "target": "yandingwang",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "unknown --- unknown",
+        "colleges": "unknown --- unknown",
+        "buildings": "unknown --- unknown",
+        "roles": "student --- unknown",
+        "years": [
+          2022
+        ],
+        "year_recent": 2022,
+        "dois": [
+          "10.1080/10447318.2022.2121458"
+        ],
+        "ncsu?": false,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": false,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          "International Journal of Human-computer Interaction"
+        ],
+        "color": "#000000",
+        "size": 1
+      }
+    }
+  ]
+}

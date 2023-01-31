@@ -1,0 +1,114 @@
+{
+  "options": {
+    "type": "undirected",
+    "multi": false,
+    "allowSelfLoops": false
+  },
+  "attributes": {
+    "creator": "Citation Index",
+    "lastModifiedDate": "2023-01-14"
+  },
+  "nodes": [
+    {
+      "key": "uid-relmkc",
+      "attributes": {
+        "label": "M Cunningham",
+        "name": "Mary Cunningham",
+        "known?": true,
+        "orcid?": false,
+        "ncsu?": true,
+        "affiliations": [
+          "North Carolina State University"
+        ],
+        "countries": [
+          "US"
+        ],
+        "uid": "relmkc",
+        "url": "https://ci.lib.ncsu.edu/profiles/relmkc",
+        "active?": true,
+        "department": "Philosophy & Religious Studies",
+        "college": "College of Humanities and Social Sciences",
+        "ncsu_affiliations": [
+          "Philosophy & Religious Studies",
+          "Genetic Engineering and Society"
+        ],
+        "cluster?": true,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "role": "faculty",
+        "building": "Withers Hall",
+        "count": 2,
+        "oa_count": 0,
+        "years": [
+          2007,
+          1995
+        ],
+        "year_recent": 2007,
+        "article_concepts": [
+
+        ],
+        "host_venues": [
+
+        ],
+        "color": "#FAC800",
+        "size": 20
+      }
+    },
+    {
+      "key": "marykathleencunningham",
+      "attributes": {
+        "label": " Mary Kathleen Cunningham",
+        "name": " Mary Kathleen Cunningham",
+        "known?": false,
+        "orcid?": null,
+        "ncsu?": null,
+        "affiliations": null,
+        "countries": null,
+        "color": "#BFBFBD",
+        "size": 10
+      }
+    }
+  ],
+  "edges": [
+    {
+      "source": "uid-relmkc",
+      "target": "marykathleencunningham",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Philosophy & Religious Studies --- unknown",
+        "colleges": "College of Humanities and Social Sciences --- unknown",
+        "buildings": "Withers Hall --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          2007
+        ],
+        "year_recent": 2007,
+        "dois": [
+
+        ],
+        "ncsu?": null,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          null
+        ],
+        "color": "#000000",
+        "size": 1
+      }
+    }
+  ]
+}

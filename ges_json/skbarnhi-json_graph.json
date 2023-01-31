@@ -1,0 +1,4905 @@
+{
+  "options": {
+    "type": "undirected",
+    "multi": false,
+    "allowSelfLoops": false
+  },
+  "attributes": {
+    "creator": "Citation Index",
+    "lastModifiedDate": "2023-01-15"
+  },
+  "nodes": [
+    {
+      "key": "uid-skbarnhi",
+      "attributes": {
+        "label": "K Barnhill-Dilling",
+        "name": "Katie Barnhill-Dilling",
+        "known?": true,
+        "orcid?": false,
+        "ncsu?": true,
+        "affiliations": [
+          "North Carolina State University"
+        ],
+        "countries": [
+          "US"
+        ],
+        "uid": "skbarnhi",
+        "url": "https://ci.lib.ncsu.edu/profiles/skbarnhi",
+        "active?": true,
+        "department": "Biological Sciences",
+        "college": "College of Sciences",
+        "ncsu_affiliations": [
+          "Biological Sciences",
+          "Genetic Engineering and Society"
+        ],
+        "cluster?": true,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "role": "staff",
+        "building": "James B Hunt Jr Centennial Cam",
+        "count": 4,
+        "oa_count": 3,
+        "years": [
+          2022,
+          2021,
+          2019
+        ],
+        "year_recent": 2022,
+        "article_concepts": [
+          "Agriculture",
+          "Anticipation (artificial intelligence)",
+          "Archaeology",
+          "Artificial intelligence",
+          "Biochemistry",
+          "Biodiversity",
+          "Biology",
+          "Biosecurity",
+          "Business",
+          "CRISPR",
+          "Community engagement",
+          "Competitor analysis",
+          "Computer science",
+          "Context (archaeology)",
+          "Corporate governance",
+          "Deliberation",
+          "Deliberative democracy",
+          "Democracy",
+          "Ecology",
+          "Economics",
+          "Engineering",
+          "Environmental ethics",
+          "Environmental planning",
+          "Environmental resource management",
+          "Finance",
+          "Gene",
+          "Gene drive",
+          "Geography",
+          "Knowledge management",
+          "Law",
+          "Marketing",
+          "Mechanical engineering",
+          "Philosophy",
+          "Political science",
+          "Politics",
+          "Psychiatry",
+          "Psychological intervention",
+          "Psychology",
+          "Public relations",
+          "Publics",
+          "Sociology",
+          "Stakeholder",
+          "Stakeholder engagement",
+          "Sustainability",
+          "Work (physics)"
+        ],
+        "host_venues": [
+          "Conservation science and practice",
+          "Journal of Environmental Management",
+          "Sustainability"
+        ],
+        "color": "#4156A1",
+        "size": 20
+      }
+    },
+    {
+      "key": "uid-kdgriege",
+      "attributes": {
+        "label": "K Grieger",
+        "name": "Khara Grieger",
+        "known?": true,
+        "orcid?": false,
+        "ncsu?": true,
+        "affiliations": [
+          "North Carolina State University"
+        ],
+        "countries": [
+          "US"
+        ],
+        "uid": "kdgriege",
+        "url": "https://ci.lib.ncsu.edu/profiles/kdgriege",
+        "active?": true,
+        "department": "Applied Ecology",
+        "college": "College of Agriculture and Life Sciences",
+        "ncsu_affiliations": [
+          "Applied Ecology",
+          "Genetic Engineering and Society",
+          "Center for Human Health and the Environment "
+        ],
+        "cluster?": true,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "role": "faculty",
+        "building": "Plant Sciences Building",
+        "count": 17,
+        "oa_count": 6,
+        "years": [
+          2022,
+          2021,
+          2020,
+          2019
+        ],
+        "year_recent": 2022,
+        "article_concepts": [
+          "Agriculture",
+          "Anticipation (artificial intelligence)",
+          "Applications of nanotechnology",
+          "Aqueous solution",
+          "Archaeology",
+          "Artificial intelligence",
+          "Biochemistry",
+          "Biology",
+          "Business",
+          "Chemistry",
+          "Community engagement",
+          "Competitor analysis",
+          "Computer network",
+          "Computer science",
+          "Context (archaeology)",
+          "Corporate governance",
+          "Data science",
+          "Decomposition",
+          "Ecology",
+          "Economics",
+          "Ecosystem",
+          "Emerging technologies",
+          "Engineering",
+          "Engineering ethics",
+          "Environmental chemistry",
+          "Environmental planning",
+          "Environmental resource management",
+          "Environmental science",
+          "Epistemology",
+          "Eutrophication",
+          "Finance",
+          "Geography",
+          "Geometry",
+          "Impact of nanotechnology",
+          "Inclusion (mineral)",
+          "Inorganic chemistry",
+          "Knowledge management",
+          "Lanthanum",
+          "Law",
+          "Litter",
+          "Management",
+          "Marketing",
+          "Materials science",
+          "Mathematics",
+          "Mechanical engineering",
+          "Nanotechnology",
+          "Natural organic matter",
+          "Neuroscience",
+          "Nutrient",
+          "Nutrient cycle",
+          "Operating system",
+          "Organic chemistry",
+          "Organic matter",
+          "Paleontology",
+          "Perception",
+          "Philosophy",
+          "Philosophy of science",
+          "Phosphate",
+          "Plant litter",
+          "Political science",
+          "Process (computing)",
+          "Process management",
+          "Product (mathematics)",
+          "Psychology",
+          "Public relations",
+          "Reflexivity",
+          "Reputation",
+          "Responsible Research and Innovation",
+          "Risk analysis (engineering)",
+          "Risk governance",
+          "Risk management",
+          "Risk perception",
+          "River ecosystem",
+          "STREAMS",
+          "Scholarship",
+          "Social science",
+          "Societal impact of nanotechnology",
+          "Sociology",
+          "Stakeholder",
+          "Stakeholder engagement",
+          "Sustainability",
+          "Telecommunications",
+          "Upstream (networking)",
+          "Urban stream",
+          "Water quality",
+          "Work (physics)"
+        ],
+        "host_venues": [
+          "ACS ES&T engineering",
+          "Ecological Indicators",
+          "Environment International",
+          "Environmental Science & Policy",
+          "Journal of Nanoparticle Research",
+          "NanoImpact",
+          "Nanoethics",
+          "Nanomaterials",
+          "Nature Nanotechnology",
+          "Reproductive Toxicology",
+          "Science",
+          "Science of The Total Environment",
+          "Sustainability",
+          "The CRISPR journal",
+          "Water Research"
+        ],
+        "color": "#6F7D1C",
+        "size": 10
+      }
+    },
+    {
+      "key": "uid-jszarate",
+      "attributes": {
+        "label": "S Zarate",
+        "name": "Sebastian Zarate",
+        "known?": true,
+        "orcid?": false,
+        "ncsu?": true,
+        "affiliations": [
+          "North Carolina State University"
+        ],
+        "countries": [
+          "US"
+        ],
+        "uid": "jszarate",
+        "url": "https://ci.lib.ncsu.edu/profiles/jszarate",
+        "active?": true,
+        "department": null,
+        "college": null,
+        "ncsu_affiliations": [
+
+        ],
+        "cluster?": false,
+        "clusters": [
+
+        ],
+        "role": "student",
+        "building": null,
+        "count": 1,
+        "oa_count": 1,
+        "years": [
+          2022
+        ],
+        "year_recent": 2022,
+        "article_concepts": [
+          "Agriculture",
+          "Archaeology",
+          "Biology",
+          "Business",
+          "Community engagement",
+          "Competitor analysis",
+          "Computer science",
+          "Context (archaeology)",
+          "Ecology",
+          "Economics",
+          "Engineering",
+          "Environmental planning",
+          "Environmental resource management",
+          "Geography",
+          "Knowledge management",
+          "Marketing",
+          "Mechanical engineering",
+          "Political science",
+          "Public relations",
+          "Stakeholder",
+          "Stakeholder engagement",
+          "Sustainability",
+          "Work (physics)"
+        ],
+        "host_venues": [
+          "Sustainability"
+        ],
+        "color": "#000000",
+        "size": 10
+      }
+    },
+    {
+      "key": "https://orcid.org/0000-0003-3442-738X",
+      "attributes": {
+        "label": "S Barnhill-Dilling",
+        "name": "S. Kathleen Barnhill-Dilling",
+        "known?": false,
+        "orcid?": null,
+        "ncsu?": true,
+        "affiliations": [
+          "North Carolina State University"
+        ],
+        "countries": [
+          "US"
+        ],
+        "color": "#000000",
+        "size": 10
+      }
+    },
+    {
+      "key": "uid-rlransom",
+      "attributes": {
+        "label": "S Hunt",
+        "name": "Shelly Hunt",
+        "known?": true,
+        "orcid?": false,
+        "ncsu?": true,
+        "affiliations": [
+          "North Carolina State University"
+        ],
+        "countries": [
+          "US"
+        ],
+        "uid": "rlransom",
+        "url": "https://ci.lib.ncsu.edu/profiles/rlransom",
+        "active?": true,
+        "department": null,
+        "college": null,
+        "ncsu_affiliations": [
+
+        ],
+        "cluster?": false,
+        "clusters": [
+
+        ],
+        "role": "student",
+        "building": null,
+        "count": 1,
+        "oa_count": 1,
+        "years": [
+          2022
+        ],
+        "year_recent": 2022,
+        "article_concepts": [
+          "Agriculture",
+          "Archaeology",
+          "Biology",
+          "Business",
+          "Community engagement",
+          "Competitor analysis",
+          "Computer science",
+          "Context (archaeology)",
+          "Ecology",
+          "Economics",
+          "Engineering",
+          "Environmental planning",
+          "Environmental resource management",
+          "Geography",
+          "Knowledge management",
+          "Marketing",
+          "Mechanical engineering",
+          "Political science",
+          "Public relations",
+          "Stakeholder",
+          "Stakeholder engagement",
+          "Sustainability",
+          "Work (physics)"
+        ],
+        "host_venues": [
+          "Sustainability"
+        ],
+        "color": "#000000",
+        "size": 10
+      }
+    },
+    {
+      "key": "uid-dsjones5",
+      "attributes": {
+        "label": "D Jones",
+        "name": "Daniela Jones",
+        "known?": true,
+        "orcid?": true,
+        "ncsu?": true,
+        "affiliations": [
+          "North Carolina State University"
+        ],
+        "countries": [
+          "US"
+        ],
+        "uid": "dsjones5",
+        "url": "https://ci.lib.ncsu.edu/profiles/dsjones5",
+        "orcid": "0000-0002-4285-7630",
+        "active?": true,
+        "department": "Biological & Agricultural Engineering",
+        "college": "College of Engineering",
+        "ncsu_affiliations": [
+          "Biological & Agricultural Engineering",
+          "Biological & Agricultural Engineering",
+          "Genetic Engineering and Society"
+        ],
+        "cluster?": true,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "role": "faculty",
+        "building": "D. S. Weaver Labs",
+        "count": 11,
+        "oa_count": 5,
+        "years": [
+          2022,
+          2021,
+          2018,
+          2017,
+          2014,
+          2013
+        ],
+        "year_recent": 2022,
+        "article_concepts": [
+          "Agriculture",
+          "Agroforestry",
+          "Agronomy",
+          "Archaeology",
+          "Bioenergy",
+          "Biofuel",
+          "Biology",
+          "Biomass (ecology)",
+          "Bioproducts",
+          "Biorefinery",
+          "Biotechnology",
+          "Business",
+          "Cellulose",
+          "Cellulosic ethanol",
+          "Chemical engineering",
+          "Chemistry",
+          "Combustion",
+          "Community engagement",
+          "Competitor analysis",
+          "Computer science",
+          "Context (archaeology)",
+          "Corn stover",
+          "Ecology",
+          "Economics",
+          "Electrical engineering",
+          "Engineering",
+          "Environmental economics",
+          "Environmental planning",
+          "Environmental resource management",
+          "Environmental science",
+          "Fossil fuel",
+          "Geography",
+          "Herbaceous plant",
+          "Jet fuel",
+          "Knowledge management",
+          "Limiting",
+          "Liquid fuel",
+          "Marketing",
+          "Mechanical engineering",
+          "Medical education",
+          "Medicine",
+          "Meteorology",
+          "Natural resource economics",
+          "Organic chemistry",
+          "Perennial plant",
+          "Political science",
+          "Precipitation",
+          "Psychology",
+          "Public relations",
+          "Pulp and paper industry",
+          "Raw material",
+          "Renewable energy",
+          "Renewable fuels",
+          "Stakeholder",
+          "Stakeholder engagement",
+          "Sustainability",
+          "Underrepresented Minority",
+          "Waste management",
+          "Work (physics)"
+        ],
+        "host_venues": [
+          "Applied Energy",
+          "Biofuels, Bioproducts and Biorefining",
+          "Biomass & Bioenergy",
+          "CBE- Life Sciences Education",
+          "International Journal of Operations Research and Information Systems",
+          "Sustainability",
+          "Transactions of the ASABE",
+          "Transportation Research Part A-policy and Practice"
+        ],
+        "color": "#990000",
+        "size": 10
+      }
+    },
+    {
+      "key": "uid-jkuzma",
+      "attributes": {
+        "label": "J Kuzma",
+        "name": "Jennifer Kuzma",
+        "known?": true,
+        "orcid?": true,
+        "ncsu?": true,
+        "affiliations": [
+          "North Carolina State University"
+        ],
+        "countries": [
+          "US"
+        ],
+        "uid": "jkuzma",
+        "url": "https://ci.lib.ncsu.edu/profiles/jkuzma",
+        "orcid": "0000-0003-4456-9613",
+        "active?": true,
+        "department": "Genetic Engineering and Society",
+        "college": "NC State",
+        "ncsu_affiliations": [
+          "Genetic Engineering and Society",
+          "Public and International Affairs",
+          "Genetics and Genomics Academy"
+        ],
+        "cluster?": true,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "role": "faculty",
+        "building": "James B Hunt Jr Centennial Cam",
+        "count": 156,
+        "oa_count": 25,
+        "years": [
+          2022,
+          2021,
+          2020,
+          2019,
+          2018,
+          2017,
+          2016,
+          2015,
+          2014,
+          2013,
+          2012,
+          2011,
+          2010,
+          2009,
+          2008,
+          2007,
+          2006,
+          2005,
+          2004,
+          2003,
+          2002,
+          2001,
+          2000,
+          1999,
+          1998,
+          1997,
+          1995,
+          1994
+        ],
+        "year_recent": 2022,
+        "article_concepts": [
+          "Agriculture",
+          "Agronomy",
+          "Anticipation (artificial intelligence)",
+          "Applications of nanotechnology",
+          "Archaeology",
+          "Artificial intelligence",
+          "Biochemical engineering",
+          "Biochemistry",
+          "Biofuel",
+          "Bioinformatics",
+          "Biology",
+          "Biotechnology",
+          "Botany",
+          "Business",
+          "CRISPR",
+          "Cartography",
+          "Chemistry",
+          "China",
+          "Commercialization",
+          "Community engagement",
+          "Competitor analysis",
+          "Composite material",
+          "Computational biology",
+          "Computer science",
+          "Computer security",
+          "Context (archaeology)",
+          "Copolymer",
+          "Corporate governance",
+          "Crop",
+          "Cross-site scripting",
+          "Data science",
+          "Delphi method",
+          "Dilemma",
+          "Ecology",
+          "Econometrics",
+          "Economics",
+          "Electrical engineering",
+          "Emerging technologies",
+          "Engineering",
+          "Engineering ethics",
+          "Environmental economics",
+          "Environmental ethics",
+          "Environmental planning",
+          "Environmental resource management",
+          "Enzyme",
+          "Epistemology",
+          "Evolutionary biology",
+          "Extinction (optical mineralogy)",
+          "Field (mathematics)",
+          "Finance",
+          "Focus group",
+          "Food industry",
+          "Food labeling",
+          "Food packaging",
+          "Food products",
+          "Food science",
+          "Frame (networking)",
+          "Gene",
+          "Gene drive",
+          "Genetically engineered",
+          "Genetically modified crops",
+          "Genetically modified food",
+          "Genetically modified organism",
+          "Genetics",
+          "Genome",
+          "Genome editing",
+          "Geography",
+          "Geometry",
+          "Government (linguistics)",
+          "Government regulation",
+          "Hydrocarbon",
+          "Impact of nanotechnology",
+          "Inclusion (mineral)",
+          "Interdependence",
+          "Internet privacy",
+          "Isoprene",
+          "Knowledge management",
+          "Latent class model",
+          "Law",
+          "Legitimacy",
+          "Limiting",
+          "Linguistics",
+          "Logistic regression",
+          "Logit",
+          "Machine learning",
+          "Management",
+          "Management science",
+          "Marketing",
+          "Materials science",
+          "Mathematics",
+          "Mechanical engineering",
+          "Medicine",
+          "Mixed logit",
+          "Multitude",
+          "Nano-",
+          "Nanotechnology",
+          "National security",
+          "Natural resource economics",
+          "Neuroscience",
+          "Operating system",
+          "Order (exchange)",
+          "Organic chemistry",
+          "Paleontology",
+          "Path (computing)",
+          "Perception",
+          "Pharmacy",
+          "Philosophy",
+          "Philosophy of science",
+          "Point (geometry)",
+          "Political science",
+          "Politics",
+          "Polymer",
+          "Process (computing)",
+          "Process management",
+          "Product (mathematics)",
+          "Programming language",
+          "Psychology",
+          "Public administration",
+          "Public policy",
+          "Public relations",
+          "Pure mathematics",
+          "Reboot",
+          "Reflexivity",
+          "Renewable energy",
+          "Reputation",
+          "Research council",
+          "Responsible Research and Innovation",
+          "Risk analysis (engineering)",
+          "Risk assessment",
+          "Risk governance",
+          "Scale (ratio)",
+          "Scholarship",
+          "Scope (computer science)",
+          "Scripting language",
+          "Social science",
+          "Societal impact of nanotechnology",
+          "Sociology",
+          "Software",
+          "Stakeholder",
+          "Stakeholder engagement",
+          "Statistics",
+          "Sustainability",
+          "Systems biology",
+          "Telecommunications",
+          "Terpenoid",
+          "Terrorism",
+          "The Internet",
+          "Transgene",
+          "Transparency (behavior)",
+          "Uncertainty",
+          "Upstream (networking)",
+          "Vulnerability (computing)",
+          "Waste management",
+          "Web application",
+          "Web application security",
+          "Web development",
+          "Work (physics)",
+          "World Wide Web"
+        ],
+        "host_venues": [
+          "Biological Invasions",
+          "Bulletin of Science, Technology & Society",
+          "Current Microbiology",
+          "EMBO Reports",
+          "Elementa",
+          "Encyclopedia of Nanoscience and Society",
+          "Encyclopedia of Science and Technology Communication",
+          "Energy Policy",
+          "Environment Systems and Decisions",
+          "Environmental Science & Policy",
+          "Frontiers in Bioengineering and Biotechnology",
+          "Informatics for Health & Social Care",
+          "Innovative Governance Models for Emerging Technologies",
+          "Journal of Agricultural Economics",
+          "Journal of Bioethical Inquiry",
+          "Journal of Consumer Policy",
+          "Journal of Law Medicine & Ethics",
+          "Journal of Nanoparticle Research",
+          "Journal of Responsible Innovation",
+          "Journal of Veterinary Medical Education",
+          "Livestock Science",
+          "Medicine Health Care and Philosophy",
+          "NanoImpact",
+          "Nanoethics",
+          "National Academies Press eBooks",
+          "Nature",
+          "Nature Nanotechnology",
+          "PLOS ONE",
+          "Plant Physiology",
+          "Policy and Society",
+          "Public Policy and Administration",
+          "Regulation & Governance",
+          "Review of Policy Research",
+          "Risk Analysis",
+          "Risk, systems and decisions",
+          "Science",
+          "Science & public policy",
+          "Science, Technology, & Human Values",
+          "Springer Netherlands eBooks",
+          "Sustainability",
+          "Technology Analysis & Strategic Management",
+          "Wiley-Blackwell eBooks",
+          "Women in engineering and science"
+        ],
+        "color": "#BD5383",
+        "size": 10
+      }
+    },
+    {
+      "key": "uid-akokoto",
+      "attributes": {
+        "label": "A Kokotovich",
+        "name": "Adam Kokotovich",
+        "known?": true,
+        "orcid?": false,
+        "ncsu?": true,
+        "affiliations": [
+          "North Carolina State University"
+        ],
+        "countries": [
+          "US"
+        ],
+        "uid": "akokoto",
+        "url": "https://ci.lib.ncsu.edu/profiles/akokoto",
+        "active?": false,
+        "department": "Forestry & Environmental Resources",
+        "college": "College of Natural Resources",
+        "ncsu_affiliations": [
+          "Forestry & Environmental Resources"
+        ],
+        "cluster?": false,
+        "clusters": [
+
+        ],
+        "role": "staff",
+        "building": null,
+        "count": 16,
+        "oa_count": 6,
+        "years": [
+          2022,
+          2021,
+          2020,
+          2018,
+          2017,
+          2016,
+          2014,
+          2011,
+          2008
+        ],
+        "year_recent": 2022,
+        "article_concepts": [
+          "Agronomy",
+          "Anticipation (artificial intelligence)",
+          "Artificial intelligence",
+          "Biochemistry",
+          "Biology",
+          "Biotechnology",
+          "Business",
+          "CRISPR",
+          "Computer science",
+          "Computer security",
+          "Context (archaeology)",
+          "Corporate governance",
+          "Crop",
+          "Economic growth",
+          "Economics",
+          "Engineering",
+          "Engineering ethics",
+          "Epistemology",
+          "Finance",
+          "Gene",
+          "Gene drive",
+          "Genetically modified crops",
+          "Genetically modified organism",
+          "Genetics",
+          "Geometry",
+          "Immunology",
+          "Inclusion (mineral)",
+          "Knowledge management",
+          "Law",
+          "Malaria",
+          "Mathematics",
+          "Mechanical engineering",
+          "Medicine",
+          "Nursing",
+          "Operating system",
+          "Paleontology",
+          "Philosophy",
+          "Philosophy of science",
+          "Political science",
+          "Politics",
+          "Process (computing)",
+          "Product (mathematics)",
+          "Public health",
+          "Public relations",
+          "Publics",
+          "Qualitative research",
+          "Reflexivity",
+          "Reputation",
+          "Responsible Research and Innovation",
+          "Risk analysis (engineering)",
+          "Risk assessment",
+          "Risk governance",
+          "Scholarship",
+          "Social science",
+          "Sociology",
+          "Stakeholder",
+          "Stakeholder engagement",
+          "Telecommunications",
+          "Thematic analysis",
+          "Transgene",
+          "Upstream (networking)",
+          "Work (physics)"
+        ],
+        "host_venues": [
+          "Annals of The Entomological Society of America",
+          "Bulletin of Science, Technology & Society",
+          "EMBO Reports",
+          "Environmental Science & Policy",
+          "Journal of Environmental Management",
+          "Malaria Journal",
+          "NanoImpact",
+          "Nanoethics",
+          "Reviews in fisheries science & aquaculture",
+          "Risk Analysis",
+          "Urban Forestry & Urban Greening"
+        ],
+        "color": "#855735",
+        "size": 10
+      }
+    },
+    {
+      "key": "uid-jeelsens",
+      "attributes": {
+        "label": "J Elsensohn",
+        "name": "Johanna E Elsensohn",
+        "known?": true,
+        "orcid?": false,
+        "ncsu?": true,
+        "affiliations": [
+          "North Carolina State University"
+        ],
+        "countries": [
+          "US"
+        ],
+        "uid": "jeelsens",
+        "url": "https://ci.lib.ncsu.edu/profiles/jeelsens",
+        "active?": false,
+        "department": "Plant Pathology",
+        "college": "College of Agriculture and Life Sciences",
+        "ncsu_affiliations": [
+          "Plant Pathology"
+        ],
+        "cluster?": false,
+        "clusters": [
+
+        ],
+        "role": "student",
+        "building": null,
+        "count": 8,
+        "oa_count": 3,
+        "years": [
+          2022,
+          2021,
+          2020,
+          2019,
+          2018
+        ],
+        "year_recent": 2022,
+        "article_concepts": [
+          "Adaptation (eye)",
+          "Agriculture",
+          "Agronomy",
+          "Artificial intelligence",
+          "Biochemistry",
+          "Biology",
+          "Blowing a raspberry",
+          "Botany",
+          "Business",
+          "CRISPR",
+          "Competition (biology)",
+          "Computer science",
+          "Crop",
+          "Cropping",
+          "Demography",
+          "Density dependence",
+          "Drosophila (subgenus)",
+          "Drosophila melanogaster",
+          "Drosophila suzukii",
+          "Drosophilidae",
+          "Ecological niche",
+          "Ecology",
+          "Economics",
+          "Engineering",
+          "Engineering ethics",
+          "Food preference",
+          "Food science",
+          "Gene",
+          "Gene drive",
+          "Genetics",
+          "Government (linguistics)",
+          "Habitat",
+          "Horticulture",
+          "Host (biology)",
+          "Ideal free distribution",
+          "Infestation",
+          "Interfacing",
+          "Intraspecific competition",
+          "Larva",
+          "Law",
+          "Legislation",
+          "Linguistics",
+          "Mechanical engineering",
+          "Microeconomics",
+          "Netting",
+          "Neuroscience",
+          "Niche",
+          "PEST analysis",
+          "Philosophy",
+          "Political science",
+          "Population",
+          "Population density",
+          "Predation",
+          "Predator",
+          "Preference",
+          "Public administration",
+          "Public policy",
+          "Public relations",
+          "Rubus",
+          "Science policy",
+          "Selection (genetic algorithm)",
+          "Sociology",
+          "Software deployment",
+          "Software engineering",
+          "Variety (cybernetics)",
+          "Work (physics)",
+          "Zoology"
+        ],
+        "host_venues": [
+          "Annals of The Entomological Society of America",
+          "Crop Protection",
+          "Insects",
+          "Journal of Economic Entomology",
+          "Journal of Environmental Management",
+          "Journal of Responsible Innovation",
+          "Scientific Reports"
+        ],
+        "color": "#6F7D1C",
+        "size": 10
+      }
+    },
+    {
+      "key": "uid-rli24",
+      "attributes": {
+        "label": "R Li",
+        "name": "Richard Li",
+        "known?": true,
+        "orcid?": false,
+        "ncsu?": true,
+        "affiliations": [
+          "North Carolina State University"
+        ],
+        "countries": [
+          "US"
+        ],
+        "uid": "rli24",
+        "url": "https://ci.lib.ncsu.edu/profiles/rli24",
+        "active?": true,
+        "department": null,
+        "college": null,
+        "ncsu_affiliations": [
+
+        ],
+        "cluster?": false,
+        "clusters": [
+
+        ],
+        "role": "student",
+        "building": null,
+        "count": 1,
+        "oa_count": 0,
+        "years": [
+          2022
+        ],
+        "year_recent": 2022,
+        "article_concepts": [
+
+        ],
+        "host_venues": [
+          "Journal of Environmental Management"
+        ],
+        "color": "#000000",
+        "size": 10
+      }
+    },
+    {
+      "key": "uid-jadelbor",
+      "attributes": {
+        "label": "J Delborne",
+        "name": "Jason Delborne",
+        "known?": true,
+        "orcid?": true,
+        "ncsu?": true,
+        "affiliations": [
+          "North Carolina State University"
+        ],
+        "countries": [
+          "US"
+        ],
+        "uid": "jadelbor",
+        "url": "https://ci.lib.ncsu.edu/profiles/jadelbor",
+        "orcid": "0000-0001-6436-782X",
+        "active?": true,
+        "department": "Forestry & Environmental Resources",
+        "college": "College of Natural Resources",
+        "ncsu_affiliations": [
+          "Forestry & Environmental Resources",
+          "Genetic Engineering and Society",
+          "Global Water, Sanitation and Hygiene",
+          "Genetics and Genomics Academy"
+        ],
+        "cluster?": true,
+        "clusters": [
+          "Genetic Engineering and Society",
+          "Global Water, Sanitation and Hygiene"
+        ],
+        "role": "faculty",
+        "building": "Jordan Hall Addition",
+        "count": 247,
+        "oa_count": 23,
+        "years": [
+          2022,
+          2021,
+          2020,
+          2019,
+          2018,
+          2017,
+          2016,
+          2015,
+          2014,
+          2013,
+          2012,
+          2011,
+          2010,
+          2009,
+          2008,
+          2007,
+          2006,
+          2005,
+          2004,
+          2003,
+          0
+        ],
+        "year_recent": 2022,
+        "article_concepts": [
+          "Agricultural biotechnology",
+          "Agriculture",
+          "Alternative medicine",
+          "Anticipation (artificial intelligence)",
+          "Applied mathematics",
+          "Archaeology",
+          "Articulation (sociology)",
+          "Artificial intelligence",
+          "Biodiversity",
+          "Biodiversity conservation",
+          "Bioinformatics",
+          "Biological systems engineering",
+          "Biology",
+          "Biotechnology",
+          "Botany",
+          "Business",
+          "CRISPR",
+          "Citizen science",
+          "Civil engineering software",
+          "Climate change",
+          "Commercialization",
+          "Commodification",
+          "Community development",
+          "Community engagement",
+          "Computational biology",
+          "Computer science",
+          "Computer security",
+          "Conservation biology",
+          "Construction engineering",
+          "Context (archaeology)",
+          "Controllability",
+          "Convention on Biological Diversity",
+          "Core (optical fiber)",
+          "Corporate governance",
+          "Darwinism",
+          "Data science",
+          "Deliberative democracy",
+          "Democracy",
+          "Demography",
+          "Diversity (politics)",
+          "Ecology",
+          "Economics",
+          "Economy",
+          "Editorial board",
+          "Engineering",
+          "Engineering education",
+          "Engineering ethics",
+          "Engineering management",
+          "Environmental ethics",
+          "Environmental planning",
+          "Environmental resource management",
+          "Environmental science",
+          "Epistemology",
+          "Evolutionary biology",
+          "Field (mathematics)",
+          "Field trial",
+          "Finance",
+          "Fixation (population genetics)",
+          "Food security",
+          "Food systems",
+          "Frame (networking)",
+          "Gene",
+          "Gene drive",
+          "Genetically engineered",
+          "Genetically modified crops",
+          "Genetically modified organism",
+          "Genetics",
+          "Geography",
+          "Geometry",
+          "Global biodiversity",
+          "Grand Challenges",
+          "Harm",
+          "Health systems engineering",
+          "Immunology",
+          "Indigenous",
+          "Informed consent",
+          "Insect",
+          "Internet privacy",
+          "Law",
+          "Leverage (statistics)",
+          "Library science",
+          "License",
+          "Livelihood",
+          "Machine learning",
+          "Malaria",
+          "Management",
+          "Management science",
+          "Mathematics",
+          "Mechanical engineering",
+          "Media studies",
+          "Medical research",
+          "Medicine",
+          "Multidisciplinary approach",
+          "Need to know",
+          "Negotiation",
+          "Operating system",
+          "Outreach",
+          "Paleontology",
+          "Pathology",
+          "Perspective (graphical)",
+          "Philosophy",
+          "Point (geometry)",
+          "Political science",
+          "Politics",
+          "Population",
+          "Process (computing)",
+          "Process management",
+          "Psychiatry",
+          "Psychological intervention",
+          "Psychology",
+          "Public administration",
+          "Public relations",
+          "Publics",
+          "Publishing",
+          "Pure mathematics",
+          "Regional science",
+          "Responsible Research and Innovation",
+          "Risk analysis (engineering)",
+          "Scientific publishing",
+          "Social science",
+          "Sociology",
+          "Stakeholder",
+          "Statement (logic)",
+          "Sustainability",
+          "Sustainability organizations",
+          "Sustainability science",
+          "Synthetic biology",
+          "System of systems engineering",
+          "Systems design",
+          "Systems engineering",
+          "Technoscience",
+          "Telecommunications",
+          "Transgene",
+          "Transparency (behavior)",
+          "Variety (cybernetics)",
+          "Work (physics)"
+        ],
+        "host_venues": [
+          "2016 International Congress of Entomology",
+          "ACS Synthetic Biology",
+          "ASME 2011 International Mechanical Engineering Congress and Exposition",
+          "Annals of The Entomological Society of America",
+          "BMC Proceedings",
+          "BioScience",
+          "Biodiversity and Conservation",
+          "Biological Conservation",
+          "Biological Invasions",
+          "Cambridge University Press eBooks",
+          "Conservation science and practice",
+          "Energy research and social science",
+          "Engaging Science, Technology, and Society",
+          "Environment And Planning E: Nature And Space",
+          "Gates open research",
+          "Journal of Environmental Management",
+          "Journal of Responsible Innovation",
+          "National Academies Press eBooks",
+          "Nature",
+          "Nature Biotechnology",
+          "Proceedings of The Royal Society B: Biological Sciences",
+          "Public Understanding of Science",
+          "Science",
+          "Science & public policy",
+          "Science Advances",
+          "Science As Culture",
+          "Social Epistemology",
+          "Social Studies of Science",
+          "Society & Natural Resources",
+          "Space Policy",
+          "Springer Singapore eBooks",
+          "Technology in Society",
+          "The MIT Press eBooks",
+          "iScience"
+        ],
+        "color": "#855735",
+        "size": 10
+      }
+    },
+    {
+      "key": "uid-hjburrac",
+      "attributes": {
+        "label": "H Burrack",
+        "name": "Hannah Burrack",
+        "known?": true,
+        "orcid?": true,
+        "ncsu?": true,
+        "affiliations": [
+          "North Carolina State University"
+        ],
+        "countries": [
+          "US"
+        ],
+        "uid": "hjburrac",
+        "url": "https://ci.lib.ncsu.edu/profiles/hjburrac",
+        "orcid": "0000-0002-8460-8245",
+        "active?": true,
+        "department": "Entomology and Plant Pathology",
+        "college": "College of Agriculture and Life Sciences",
+        "ncsu_affiliations": [
+          "Entomology and Plant Pathology",
+          "Genetic Engineering and Society"
+        ],
+        "cluster?": true,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "role": "staff",
+        "building": "Headhouse Unit 1 At Method",
+        "count": 73,
+        "oa_count": 33,
+        "years": [
+          2023,
+          2022,
+          2021,
+          2020,
+          2019,
+          2018,
+          2017,
+          2016,
+          2015,
+          2014,
+          2013,
+          2012,
+          2011,
+          2009,
+          2008
+        ],
+        "year_recent": 2023,
+        "article_concepts": [
+          "Abiotic component",
+          "Abiotic stress",
+          "Abundance (ecology)",
+          "Aculeata",
+          "Adaptation (eye)",
+          "Aerospace engineering",
+          "Agricultural pest",
+          "Agricultural science",
+          "Agriculture",
+          "Agroecosystem",
+          "Agroforestry",
+          "Agronomy",
+          "Aphid",
+          "Apidae",
+          "Apoidea",
+          "Approximate Bayesian computation",
+          "Artificial intelligence",
+          "Berry",
+          "Biochemistry",
+          "Biological dispersal",
+          "Biological pest control",
+          "Biology",
+          "Blowing a raspberry",
+          "Botany",
+          "Braconidae",
+          "Chemistry",
+          "Classical mechanics",
+          "Cold storage",
+          "Colonization",
+          "Competition (biology)",
+          "Composite material",
+          "Computer science",
+          "Context (archaeology)",
+          "Crop",
+          "Cultivar",
+          "Curing of tobacco",
+          "Damages",
+          "Demographic history",
+          "Demography",
+          "Density dependence",
+          "Drosophila (subgenus)",
+          "Drosophila melanogaster",
+          "Drosophila suzukii",
+          "Drosophilidae",
+          "Ecological niche",
+          "Ecology",
+          "Econometrics",
+          "Economics",
+          "Ecosystem",
+          "Ecosystem services",
+          "Ectotherm",
+          "Engineering",
+          "Entomology",
+          "Environmental science",
+          "Evolutionary biology",
+          "Feather",
+          "Feather meal",
+          "Fecundity",
+          "Fish <Actinopterygii>",
+          "Fish meal",
+          "Fishery",
+          "Flue",
+          "Food preference",
+          "Food science",
+          "Foraging",
+          "Frugivore",
+          "Function (biology)",
+          "Gene",
+          "Genetic diversity",
+          "Genetic structure",
+          "Genetic variation",
+          "Genetics",
+          "Genome",
+          "Genomics",
+          "Geography",
+          "Growing season",
+          "Habitat",
+          "Helicoverpa armigera",
+          "Helicoverpa zea",
+          "Heliothis virescens",
+          "Honey Bees",
+          "Honey bee",
+          "Horticulture",
+          "Host (biology)",
+          "Hymenoptera",
+          "Ichneumonidae",
+          "Ideal free distribution",
+          "Imidacloprid",
+          "Infestation",
+          "Integrated pest management",
+          "Interspecific competition",
+          "Intraguild predation",
+          "Intraspecific competition",
+          "Invasive species",
+          "Larva",
+          "Law",
+          "Lepidoptera genitalia",
+          "Macroeconomics",
+          "Materials science",
+          "Mathematics",
+          "Meal",
+          "Microeconomics",
+          "Mottle",
+          "Myzus persicae",
+          "Neuroscience",
+          "Niche",
+          "Noctuidae",
+          "Organic chemistry",
+          "Overwintering",
+          "PEST analysis",
+          "Paleontology",
+          "Parasitism",
+          "Parasitoid",
+          "Pest control",
+          "Pesticide",
+          "Phenotype",
+          "Phenotypic plasticity",
+          "Physics",
+          "Plant virus",
+          "Political science",
+          "Pollen",
+          "Pollination",
+          "Pollinator",
+          "Polyphenism",
+          "Population",
+          "Population density",
+          "Population dynamics",
+          "Population ecology",
+          "Population genetics",
+          "Population genomics",
+          "Population growth",
+          "Population model",
+          "Postharvest",
+          "Predation",
+          "Predator",
+          "Preference",
+          "Primer (cosmetics)",
+          "Production (economics)",
+          "Productivity",
+          "Programming language",
+          "Pupa",
+          "Quantitative trait locus",
+          "Quarantine",
+          "Range (aeronautics)",
+          "Resistance (ecology)",
+          "Ripening",
+          "Rubus",
+          "San Joaquin",
+          "Selection (genetic algorithm)",
+          "Simultaneity",
+          "Sociology",
+          "Soil science",
+          "Species richness",
+          "Statistics",
+          "Sterile insect technique",
+          "Temperate climate",
+          "Toxicology",
+          "Trait",
+          "Trophic level",
+          "Vineyard",
+          "Virology",
+          "Virus",
+          "Vital rates",
+          "Waste management",
+          "Wine",
+          "Wine grape",
+          "Wing",
+          "Worker bee",
+          "Zoology"
+        ],
+        "host_venues": [
+          "Acta horticulturae",
+          "Agriculture, Ecosystems & Environment",
+          "Agronomy Journal",
+          "Annals of The Entomological Society of America",
+          "Apidologie",
+          "Biological Control",
+          "California Agriculture",
+          "Communications biology",
+          "Crop Protection",
+          "Ecological Entomology",
+          "Ecology and Evolution",
+          "Entomologia Experimentalis Et Applicata",
+          "Environmental Entomology",
+          "Florida Entomologist",
+          "Frontiers in Ecology and Evolution",
+          "G3: Genes, Genomes, Genetics",
+          "Insects",
+          "International Journal of Fruit Science",
+          "International journal of pest management",
+          "Journal of Applied Entomology",
+          "Journal of Economic Entomology",
+          "Journal of Environmental Economics and Management",
+          "Journal of Environmental Management",
+          "Journal of Integrated Pest Management",
+          "Journal of Pest Science",
+          "Molecular Biology and Evolution",
+          "PLOS ONE",
+          "Pest Management Science",
+          "Plant Disease",
+          "Scientific Reports",
+          "bioRxiv"
+        ],
+        "color": "#6F7D1C",
+        "size": 10
+      }
+    },
+    {
+      "key": "uid-meserr",
+      "attributes": {
+        "label": "M Serr",
+        "name": "Megan Serr",
+        "known?": true,
+        "orcid?": false,
+        "ncsu?": true,
+        "affiliations": [
+          "North Carolina State University"
+        ],
+        "countries": [
+          "US"
+        ],
+        "uid": "meserr",
+        "url": "https://ci.lib.ncsu.edu/profiles/meserr",
+        "active?": true,
+        "department": "Biological Sciences",
+        "college": "College of Sciences",
+        "ncsu_affiliations": [
+          "Biological Sciences",
+          "Genetic Engineering and Society"
+        ],
+        "cluster?": true,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "role": "faculty",
+        "building": "Remote",
+        "count": 4,
+        "oa_count": 2,
+        "years": [
+          2019,
+          2017
+        ],
+        "year_recent": 2019,
+        "article_concepts": [
+          "Biochemistry",
+          "Biodiversity",
+          "Biology",
+          "Biosecurity",
+          "Botany",
+          "Business",
+          "CRISPR",
+          "Corporate governance",
+          "Deliberation",
+          "Demography",
+          "Ecology",
+          "Economics",
+          "Environmental planning",
+          "Environmental resource management",
+          "Evolutionary biology",
+          "Finance",
+          "Gene",
+          "Gene drive",
+          "Genetics",
+          "Geography",
+          "Law",
+          "PEST analysis",
+          "Pest control",
+          "Political science",
+          "Politics",
+          "Population",
+          "Sociology",
+          "Sustainability",
+          "Testis determining factor",
+          "Y chromosome"
+        ],
+        "host_venues": [
+          "Journal of Responsible Innovation",
+          "Proceedings of The Royal Society B: Biological Sciences",
+          "Sustainability",
+          "Trends in Ecology and Evolution"
+        ],
+        "color": "#4156A1",
+        "size": 10
+      }
+    },
+    {
+      "key": "uid-dvblonde",
+      "attributes": {
+        "label": "D Blondel",
+        "name": "Dimitri Blondel",
+        "known?": true,
+        "orcid?": false,
+        "ncsu?": true,
+        "affiliations": [
+          "North Carolina State University"
+        ],
+        "countries": [
+          "US"
+        ],
+        "uid": "dvblonde",
+        "url": "https://ci.lib.ncsu.edu/profiles/dvblonde",
+        "active?": true,
+        "department": "Biological Sciences",
+        "college": "College of Sciences",
+        "ncsu_affiliations": [
+          "Biological Sciences"
+        ],
+        "cluster?": false,
+        "clusters": [
+
+        ],
+        "role": "staff",
+        "building": "David Clark Labs",
+        "count": 5,
+        "oa_count": 4,
+        "years": [
+          2021,
+          2019
+        ],
+        "year_recent": 2021,
+        "article_concepts": [
+          "Allele",
+          "Artificial intelligence",
+          "Biochemistry",
+          "Biodiversity",
+          "Biology",
+          "Biosecurity",
+          "Botany",
+          "Business",
+          "CRISPR",
+          "Cas9",
+          "Class (philosophy)",
+          "Colonization",
+          "Computational biology",
+          "Computer network",
+          "Computer science",
+          "Corporate governance",
+          "Deliberation",
+          "Demography",
+          "Ecology",
+          "Economics",
+          "Environmental health",
+          "Environmental planning",
+          "Environmental resource management",
+          "Evolutionary biology",
+          "Finance",
+          "Gene",
+          "Gene drive",
+          "Genetics",
+          "Genome",
+          "Genomics",
+          "Geography",
+          "Law",
+          "Mathematics education",
+          "Medicine",
+          "Multimedia",
+          "PEST analysis",
+          "Pest control",
+          "Political science",
+          "Politics",
+          "Population",
+          "Population genetics",
+          "Population genomics",
+          "Psychology",
+          "Resource (disambiguation)",
+          "Sociology",
+          "Sustainability",
+          "Test (biology)",
+          "Testis determining factor",
+          "Variety (cybernetics)",
+          "Y chromosome"
+        ],
+        "host_venues": [
+          "Evolutionary Applications",
+          "Journal of formative design in learning",
+          "Proceedings of The Royal Society B: Biological Sciences",
+          "Scientific Reports",
+          "Sustainability"
+        ],
+        "color": "#4156A1",
+        "size": 10
+      }
+    },
+    {
+      "key": "uid-godwin",
+      "attributes": {
+        "label": "J Godwin",
+        "name": "John Godwin",
+        "known?": true,
+        "orcid?": true,
+        "ncsu?": true,
+        "affiliations": [
+          "North Carolina State University"
+        ],
+        "countries": [
+          "US"
+        ],
+        "uid": "godwin",
+        "url": "https://ci.lib.ncsu.edu/profiles/godwin",
+        "orcid": "0000-0002-0928-501X",
+        "active?": true,
+        "department": "Biological Sciences",
+        "college": "College of Sciences",
+        "ncsu_affiliations": [
+          "Biological Sciences",
+          "Genetic Engineering and Society",
+          "Genetics and Genomics Academy"
+        ],
+        "cluster?": true,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "role": "faculty",
+        "building": "David Clark Labs",
+        "count": 80,
+        "oa_count": 32,
+        "years": [
+          2022,
+          2021,
+          2020,
+          2019,
+          2017,
+          2016,
+          2015,
+          2014,
+          2013,
+          2012,
+          2011,
+          2010,
+          2009,
+          2007,
+          2006,
+          2005,
+          2004,
+          2003,
+          2002,
+          2001,
+          2000,
+          1997,
+          1996,
+          1995,
+          1994,
+          1993,
+          1992,
+          1989
+        ],
+        "year_recent": 2022,
+        "article_concepts": [
+          "Aerospace engineering",
+          "Agriculture",
+          "Allele",
+          "Androgen",
+          "Androgen receptor",
+          "Animal science",
+          "Anxiety",
+          "Aromatase",
+          "Artificial intelligence",
+          "Behavioral syndrome",
+          "Big Five personality traits",
+          "Biochemistry",
+          "Biodiversity",
+          "Bioinformatics",
+          "Biology",
+          "Biosecurity",
+          "Boldness",
+          "Botany",
+          "Breast cancer",
+          "Business",
+          "CRISPR",
+          "Cancer",
+          "Cas9",
+          "Central nervous system",
+          "Cerebellum",
+          "Clinical psychology",
+          "Colonization",
+          "Computational biology",
+          "Computer science",
+          "Context (archaeology)",
+          "Coping (psychology)",
+          "Corporate governance",
+          "Courtship",
+          "Courtship display",
+          "DNA microarray",
+          "Danio",
+          "Deliberation",
+          "Demography",
+          "Development of the gonads",
+          "Dihydrotestosterone",
+          "Disorders of sex development",
+          "Dopamine",
+          "Ecology",
+          "Economics",
+          "Electrical engineering",
+          "Endocrinology",
+          "Engineering",
+          "Environmental health",
+          "Environmental planning",
+          "Environmental resource management",
+          "Environmental science",
+          "Epigenetics",
+          "Estrogen",
+          "Estrogen receptor",
+          "Evolutionary biology",
+          "Feces",
+          "Finance",
+          "Fish <Actinopterygii>",
+          "Fishery",
+          "Flatfish",
+          "Flounder",
+          "Fluoxetine",
+          "Food security",
+          "Forebrain",
+          "Gene",
+          "Gene drive",
+          "Gene expression",
+          "Gene expression profiling",
+          "Gene regulatory network",
+          "Genetics",
+          "Genome",
+          "Genomics",
+          "Geography",
+          "Gonad",
+          "Haplotype",
+          "Heterochrony",
+          "Hormone",
+          "Hypothalamus",
+          "In silico",
+          "In situ hybridization",
+          "Internal medicine",
+          "Juvenile",
+          "Law",
+          "Linkage disequilibrium",
+          "Medicine",
+          "Meiosis",
+          "Meiotic drive",
+          "Mendelian inheritance",
+          "Messenger RNA",
+          "Microarray",
+          "Mimicry",
+          "Model organism",
+          "Multidisciplinary approach",
+          "Natural (archaeology)",
+          "Natural selection",
+          "Neuropeptide",
+          "Neuroscience",
+          "Nucleus",
+          "Olive flounder",
+          "Ontogeny",
+          "Organism",
+          "Ovariectomized rat",
+          "PEST analysis",
+          "Paleontology",
+          "Paralichthys",
+          "Parvocellular cell",
+          "Personality",
+          "Pest control",
+          "Pharmacology",
+          "Phenotype",
+          "Phenotypic plasticity",
+          "Pleiotropy",
+          "Political science",
+          "Politics",
+          "Population",
+          "Population genetics",
+          "Population genomics",
+          "Preoptic area",
+          "Progesterone receptor",
+          "Programming language",
+          "Prostate cancer",
+          "Psychiatry",
+          "Psychology",
+          "Public relations",
+          "RNA",
+          "RNA-Seq",
+          "Range (aeronautics)",
+          "Receptor",
+          "Reproductive success",
+          "Reprogramming",
+          "Resistance (ecology)",
+          "Riboprobe",
+          "Risk analysis (engineering)",
+          "Selection (genetic algorithm)",
+          "Serotonergic",
+          "Serotonin",
+          "Sex change",
+          "Sex characteristics",
+          "Sex ratio",
+          "Sex reversal",
+          "Sex steroid",
+          "Sexual differentiation",
+          "Sexual dimorphism",
+          "Sexual selection",
+          "Social psychology",
+          "Sociology",
+          "Stakeholder",
+          "Steroid",
+          "Stressor",
+          "Sustainability",
+          "Testis determining factor",
+          "Testosterone (patch)",
+          "Trait",
+          "Transcriptome",
+          "Transmission (telecommunications)",
+          "Tyrosine hydroxylase",
+          "Variety (cybernetics)",
+          "Vasopressin",
+          "Vasotocin",
+          "Vertebrate",
+          "Wrasse",
+          "Y chromosome",
+          "Zebrafish",
+          "Zoology"
+        ],
+        "host_venues": [
+          "Animal Behaviour",
+          "Animal Welfare",
+          "Aquaculture",
+          "BMC Genomics",
+          "Behaviour",
+          "Behavioural Brain Research",
+          "Biological Conservation",
+          "Biology of Sex Differences",
+          "Brain Behavior and Evolution",
+          "Brain Research",
+          "Cellular and Molecular Neurobiology",
+          "Comparative Biochemistry and Physiology A-molecular & Integrative Physiology",
+          "Copeia",
+          "Elsevier eBooks",
+          "Evolution & Development",
+          "Evolutionary Applications",
+          "Frontiers in Neuroendocrinology",
+          "General and Comparative Endocrinology",
+          "Genomics data",
+          "Hormones and Behavior",
+          "Integrative and Comparative Biology",
+          "Journal of Chemical Neuroanatomy",
+          "Journal of Evolutionary Biology",
+          "Journal of Experimental Zoology Part A: Comparative Experimental Biology",
+          "Journal of Experimental Zoology Part A: Ecological and Integrative Physiology",
+          "Journal of Mammalogy",
+          "Journal of Neurobiology",
+          "Journal of Neuroendocrinology",
+          "Journal of Responsible Innovation",
+          "Journal of Zoology",
+          "Journal of the World Aquaculture Society",
+          "Molecular Biology and Evolution",
+          "Molecular Reproduction and Development",
+          "Neuroendocrinology",
+          "Neuromethods",
+          "Neurotoxicology and Teratology",
+          "PLOS ONE",
+          "PeerJ",
+          "Physiology & Behavior",
+          "Proceedings of The Royal Society B: Biological Sciences",
+          "Proceedings of the National Academy of Sciences of the United States of America",
+          "Science Advances",
+          "Scientific Reports",
+          "Seminars in Cell & Developmental Biology",
+          "Sustainability",
+          "The Journal of Neuroscience",
+          "The Journal of Steroid Biochemistry and Molecular Biology",
+          "Transactions of The American Fisheries Society",
+          "University of California Press eBooks",
+          "Wiley-Blackwell eBooks",
+          "bioRxiv"
+        ],
+        "color": "#4156A1",
+        "size": 10
+      }
+    }
+  ],
+  "edges": [
+    {
+      "source": "uid-skbarnhi",
+      "target": "uid-kdgriege",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Applied Ecology -- Biological Sciences",
+        "colleges": "College of Agriculture and Life Sciences -- College of Sciences",
+        "buildings": "James B Hunt Jr Centennial Cam -- Plant Sciences Building",
+        "roles": "faculty -- staff",
+        "years": [
+          2022
+        ],
+        "year_recent": 2022,
+        "dois": [
+          "10.3390/su14042274"
+        ],
+        "ncsu?": true,
+        "cross_college?": true,
+        "cross_department?": true,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": true,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": true,
+        "concepts": [
+          "Sustainability",
+          "Stakeholder",
+          "Competitor analysis",
+          "Context (archaeology)",
+          "Stakeholder engagement",
+          "Business",
+          "Work (physics)",
+          "Marketing",
+          "Community engagement",
+          "Environmental resource management",
+          "Agriculture",
+          "Knowledge management",
+          "Environmental planning",
+          "Public relations",
+          "Geography",
+          "Political science",
+          "Engineering",
+          "Computer science",
+          "Economics",
+          "Mechanical engineering",
+          "Ecology",
+          "Archaeology",
+          "Biology"
+        ],
+        "host_venues": [
+          "Sustainability"
+        ],
+        "color": "#FAC800",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-skbarnhi",
+      "target": "uid-jszarate",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Biological Sciences --- unknown",
+        "colleges": "College of Sciences --- unknown",
+        "buildings": "James B Hunt Jr Centennial Cam --- unknown",
+        "roles": "staff -- student",
+        "years": [
+          2022
+        ],
+        "year_recent": 2022,
+        "dois": [
+          "10.3390/su14042274"
+        ],
+        "ncsu?": true,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          "Sustainability",
+          "Stakeholder",
+          "Competitor analysis",
+          "Context (archaeology)",
+          "Stakeholder engagement",
+          "Business",
+          "Work (physics)",
+          "Marketing",
+          "Community engagement",
+          "Environmental resource management",
+          "Agriculture",
+          "Knowledge management",
+          "Environmental planning",
+          "Public relations",
+          "Geography",
+          "Political science",
+          "Engineering",
+          "Computer science",
+          "Economics",
+          "Mechanical engineering",
+          "Ecology",
+          "Archaeology",
+          "Biology"
+        ],
+        "host_venues": [
+          "Sustainability"
+        ],
+        "color": "#CC0000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-skbarnhi",
+      "target": "https://orcid.org/0000-0003-3442-738X",
+      "attributes": {
+        "label": 4,
+        "weight": 4,
+        "collaboration_count": 4,
+        "departments": "Biological Sciences --- unknown",
+        "colleges": "College of Sciences --- unknown",
+        "buildings": "James B Hunt Jr Centennial Cam --- unknown",
+        "roles": "staff --- unknown",
+        "years": [
+          2022,
+          2022,
+          2021,
+          2019
+        ],
+        "year_recent": 2022,
+        "dois": [
+          "10.3390/su14042274",
+          "10.1016/j.jenvman.2022.114480",
+          "10.1111/csp2.406",
+          "10.3390/su11051334"
+        ],
+        "ncsu?": true,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          "Sustainability",
+          "Stakeholder",
+          "Competitor analysis",
+          "Context (archaeology)",
+          "Stakeholder engagement",
+          "Business",
+          "Work (physics)",
+          "Marketing",
+          "Community engagement",
+          "Environmental resource management",
+          "Agriculture",
+          "Knowledge management",
+          "Environmental planning",
+          "Public relations",
+          "Geography",
+          "Political science",
+          "Engineering",
+          "Computer science",
+          "Economics",
+          "Mechanical engineering",
+          "Ecology",
+          "Archaeology",
+          "Biology"
+        ],
+        "host_venues": [
+          "Sustainability"
+        ],
+        "color": "#CC0000",
+        "size": 4
+      }
+    },
+    {
+      "source": "uid-skbarnhi",
+      "target": "uid-rlransom",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Biological Sciences --- unknown",
+        "colleges": "College of Sciences --- unknown",
+        "buildings": "James B Hunt Jr Centennial Cam --- unknown",
+        "roles": "staff -- student",
+        "years": [
+          2022
+        ],
+        "year_recent": 2022,
+        "dois": [
+          "10.3390/su14042274"
+        ],
+        "ncsu?": true,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          "Sustainability",
+          "Stakeholder",
+          "Competitor analysis",
+          "Context (archaeology)",
+          "Stakeholder engagement",
+          "Business",
+          "Work (physics)",
+          "Marketing",
+          "Community engagement",
+          "Environmental resource management",
+          "Agriculture",
+          "Knowledge management",
+          "Environmental planning",
+          "Public relations",
+          "Geography",
+          "Political science",
+          "Engineering",
+          "Computer science",
+          "Economics",
+          "Mechanical engineering",
+          "Ecology",
+          "Archaeology",
+          "Biology"
+        ],
+        "host_venues": [
+          "Sustainability"
+        ],
+        "color": "#CC0000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-skbarnhi",
+      "target": "uid-dsjones5",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Biological & Agricultural Engineering -- Biological Sciences",
+        "colleges": "College of Engineering -- College of Sciences",
+        "buildings": "D. S. Weaver Labs -- James B Hunt Jr Centennial Cam",
+        "roles": "faculty -- staff",
+        "years": [
+          2022
+        ],
+        "year_recent": 2022,
+        "dois": [
+          "10.3390/su14042274"
+        ],
+        "ncsu?": true,
+        "cross_college?": true,
+        "cross_department?": true,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": true,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": true,
+        "concepts": [
+          "Sustainability",
+          "Stakeholder",
+          "Competitor analysis",
+          "Context (archaeology)",
+          "Stakeholder engagement",
+          "Business",
+          "Work (physics)",
+          "Marketing",
+          "Community engagement",
+          "Environmental resource management",
+          "Agriculture",
+          "Knowledge management",
+          "Environmental planning",
+          "Public relations",
+          "Geography",
+          "Political science",
+          "Engineering",
+          "Computer science",
+          "Economics",
+          "Mechanical engineering",
+          "Ecology",
+          "Archaeology",
+          "Biology"
+        ],
+        "host_venues": [
+          "Sustainability"
+        ],
+        "color": "#FAC800",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-skbarnhi",
+      "target": "uid-jkuzma",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Biological Sciences -- Genetic Engineering and Society",
+        "colleges": "College of Sciences -- NC State",
+        "buildings": "James B Hunt Jr Centennial Cam == James B Hunt Jr Centennial Cam",
+        "roles": "faculty -- staff",
+        "years": [
+          2022
+        ],
+        "year_recent": 2022,
+        "dois": [
+          "10.3390/su14042274"
+        ],
+        "ncsu?": true,
+        "cross_college?": true,
+        "cross_department?": true,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": true,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          "Sustainability",
+          "Stakeholder",
+          "Competitor analysis",
+          "Context (archaeology)",
+          "Stakeholder engagement",
+          "Business",
+          "Work (physics)",
+          "Marketing",
+          "Community engagement",
+          "Environmental resource management",
+          "Agriculture",
+          "Knowledge management",
+          "Environmental planning",
+          "Public relations",
+          "Geography",
+          "Political science",
+          "Engineering",
+          "Computer science",
+          "Economics",
+          "Mechanical engineering",
+          "Ecology",
+          "Archaeology",
+          "Biology"
+        ],
+        "host_venues": [
+          "Sustainability"
+        ],
+        "color": "#FAC800",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-skbarnhi",
+      "target": "uid-akokoto",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Biological Sciences -- Forestry & Environmental Resources",
+        "colleges": "College of Natural Resources -- College of Sciences",
+        "buildings": "James B Hunt Jr Centennial Cam --- unknown",
+        "roles": "staff == staff",
+        "years": [
+          2022
+        ],
+        "year_recent": 2022,
+        "dois": [
+          "10.1016/j.jenvman.2022.114480"
+        ],
+        "ncsu?": true,
+        "cross_college?": true,
+        "cross_department?": true,
+        "cross_unit?": true,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          "Journal of Environmental Management"
+        ],
+        "color": "#FAC800",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-skbarnhi",
+      "target": "uid-jeelsens",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Biological Sciences -- Plant Pathology",
+        "colleges": "College of Agriculture and Life Sciences -- College of Sciences",
+        "buildings": "James B Hunt Jr Centennial Cam --- unknown",
+        "roles": "staff -- student",
+        "years": [
+          2022
+        ],
+        "year_recent": 2022,
+        "dois": [
+          "10.1016/j.jenvman.2022.114480"
+        ],
+        "ncsu?": true,
+        "cross_college?": true,
+        "cross_department?": true,
+        "cross_unit?": true,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          "Journal of Environmental Management"
+        ],
+        "color": "#FAC800",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-skbarnhi",
+      "target": "uid-rli24",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Biological Sciences --- unknown",
+        "colleges": "College of Sciences --- unknown",
+        "buildings": "James B Hunt Jr Centennial Cam --- unknown",
+        "roles": "staff -- student",
+        "years": [
+          2022
+        ],
+        "year_recent": 2022,
+        "dois": [
+          "10.1016/j.jenvman.2022.114480"
+        ],
+        "ncsu?": true,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          "Journal of Environmental Management"
+        ],
+        "color": "#CC0000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-skbarnhi",
+      "target": "uid-jadelbor",
+      "attributes": {
+        "label": 2,
+        "weight": 2,
+        "collaboration_count": 2,
+        "departments": "Biological Sciences -- Forestry & Environmental Resources",
+        "colleges": "College of Natural Resources -- College of Sciences",
+        "buildings": "James B Hunt Jr Centennial Cam -- Jordan Hall Addition",
+        "roles": "faculty -- staff",
+        "years": [
+          2022,
+          2021
+        ],
+        "year_recent": 2022,
+        "dois": [
+          "10.1016/j.jenvman.2022.114480",
+          "10.1111/csp2.406"
+        ],
+        "ncsu?": true,
+        "cross_college?": true,
+        "cross_department?": true,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": true,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society",
+          "Global Water, Sanitation and Hygiene"
+        ],
+        "cross_building?": true,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          "Journal of Environmental Management"
+        ],
+        "color": "#FAC800",
+        "size": 2
+      }
+    },
+    {
+      "source": "uid-skbarnhi",
+      "target": "uid-hjburrac",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Biological Sciences -- Entomology and Plant Pathology",
+        "colleges": "College of Agriculture and Life Sciences -- College of Sciences",
+        "buildings": "Headhouse Unit 1 At Method -- James B Hunt Jr Centennial Cam",
+        "roles": "staff == staff",
+        "years": [
+          2022
+        ],
+        "year_recent": 2022,
+        "dois": [
+          "10.1016/j.jenvman.2022.114480"
+        ],
+        "ncsu?": true,
+        "cross_college?": true,
+        "cross_department?": true,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": true,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": true,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          "Journal of Environmental Management"
+        ],
+        "color": "#FAC800",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-skbarnhi",
+      "target": "uid-meserr",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Biological Sciences == Biological Sciences",
+        "colleges": "College of Sciences == College of Sciences",
+        "buildings": "James B Hunt Jr Centennial Cam -- Remote",
+        "roles": "faculty -- staff",
+        "years": [
+          2019
+        ],
+        "year_recent": 2019,
+        "dois": [
+          "10.3390/su11051334"
+        ],
+        "ncsu?": true,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": true,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": true,
+        "concepts": [
+          "Sustainability",
+          "Gene drive",
+          "Corporate governance",
+          "Biosecurity",
+          "Biodiversity",
+          "Deliberation",
+          "Environmental planning",
+          "Environmental resource management",
+          "Biology",
+          "Business",
+          "Ecology",
+          "CRISPR",
+          "Gene",
+          "Geography",
+          "Politics",
+          "Political science",
+          "Economics",
+          "Finance",
+          "Law",
+          "Biochemistry"
+        ],
+        "host_venues": [
+          "Sustainability"
+        ],
+        "color": "#CC0000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-skbarnhi",
+      "target": "uid-dvblonde",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Biological Sciences == Biological Sciences",
+        "colleges": "College of Sciences == College of Sciences",
+        "buildings": "David Clark Labs -- James B Hunt Jr Centennial Cam",
+        "roles": "staff == staff",
+        "years": [
+          2019
+        ],
+        "year_recent": 2019,
+        "dois": [
+          "10.3390/su11051334"
+        ],
+        "ncsu?": true,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": true,
+        "concepts": [
+          "Sustainability",
+          "Gene drive",
+          "Corporate governance",
+          "Biosecurity",
+          "Biodiversity",
+          "Deliberation",
+          "Environmental planning",
+          "Environmental resource management",
+          "Biology",
+          "Business",
+          "Ecology",
+          "CRISPR",
+          "Gene",
+          "Geography",
+          "Politics",
+          "Political science",
+          "Economics",
+          "Finance",
+          "Law",
+          "Biochemistry"
+        ],
+        "host_venues": [
+          "Sustainability"
+        ],
+        "color": "#CC0000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-skbarnhi",
+      "target": "uid-godwin",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Biological Sciences == Biological Sciences",
+        "colleges": "College of Sciences == College of Sciences",
+        "buildings": "David Clark Labs -- James B Hunt Jr Centennial Cam",
+        "roles": "faculty -- staff",
+        "years": [
+          2019
+        ],
+        "year_recent": 2019,
+        "dois": [
+          "10.3390/su11051334"
+        ],
+        "ncsu?": true,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": true,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": true,
+        "concepts": [
+          "Sustainability",
+          "Gene drive",
+          "Corporate governance",
+          "Biosecurity",
+          "Biodiversity",
+          "Deliberation",
+          "Environmental planning",
+          "Environmental resource management",
+          "Biology",
+          "Business",
+          "Ecology",
+          "CRISPR",
+          "Gene",
+          "Geography",
+          "Politics",
+          "Political science",
+          "Economics",
+          "Finance",
+          "Law",
+          "Biochemistry"
+        ],
+        "host_venues": [
+          "Sustainability"
+        ],
+        "color": "#CC0000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-kdgriege",
+      "target": "uid-jszarate",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Applied Ecology --- unknown",
+        "colleges": "College of Agriculture and Life Sciences --- unknown",
+        "buildings": "Plant Sciences Building --- unknown",
+        "roles": "faculty -- student",
+        "years": [
+          2022
+        ],
+        "year_recent": 2022,
+        "dois": [
+          "10.3390/su14042274"
+        ],
+        "ncsu?": true,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          "Sustainability",
+          "Stakeholder",
+          "Competitor analysis",
+          "Context (archaeology)",
+          "Stakeholder engagement",
+          "Business",
+          "Work (physics)",
+          "Marketing",
+          "Community engagement",
+          "Environmental resource management",
+          "Agriculture",
+          "Knowledge management",
+          "Environmental planning",
+          "Public relations",
+          "Geography",
+          "Political science",
+          "Engineering",
+          "Computer science",
+          "Economics",
+          "Mechanical engineering",
+          "Ecology",
+          "Archaeology",
+          "Biology"
+        ],
+        "host_venues": [
+          "Sustainability"
+        ],
+        "color": "#CC0000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-kdgriege",
+      "target": "https://orcid.org/0000-0003-3442-738X",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Applied Ecology --- unknown",
+        "colleges": "College of Agriculture and Life Sciences --- unknown",
+        "buildings": "Plant Sciences Building --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          2022
+        ],
+        "year_recent": 2022,
+        "dois": [
+          "10.3390/su14042274"
+        ],
+        "ncsu?": true,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          "Sustainability",
+          "Stakeholder",
+          "Competitor analysis",
+          "Context (archaeology)",
+          "Stakeholder engagement",
+          "Business",
+          "Work (physics)",
+          "Marketing",
+          "Community engagement",
+          "Environmental resource management",
+          "Agriculture",
+          "Knowledge management",
+          "Environmental planning",
+          "Public relations",
+          "Geography",
+          "Political science",
+          "Engineering",
+          "Computer science",
+          "Economics",
+          "Mechanical engineering",
+          "Ecology",
+          "Archaeology",
+          "Biology"
+        ],
+        "host_venues": [
+          "Sustainability"
+        ],
+        "color": "#CC0000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-kdgriege",
+      "target": "uid-rlransom",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Applied Ecology --- unknown",
+        "colleges": "College of Agriculture and Life Sciences --- unknown",
+        "buildings": "Plant Sciences Building --- unknown",
+        "roles": "faculty -- student",
+        "years": [
+          2022
+        ],
+        "year_recent": 2022,
+        "dois": [
+          "10.3390/su14042274"
+        ],
+        "ncsu?": true,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          "Sustainability",
+          "Stakeholder",
+          "Competitor analysis",
+          "Context (archaeology)",
+          "Stakeholder engagement",
+          "Business",
+          "Work (physics)",
+          "Marketing",
+          "Community engagement",
+          "Environmental resource management",
+          "Agriculture",
+          "Knowledge management",
+          "Environmental planning",
+          "Public relations",
+          "Geography",
+          "Political science",
+          "Engineering",
+          "Computer science",
+          "Economics",
+          "Mechanical engineering",
+          "Ecology",
+          "Archaeology",
+          "Biology"
+        ],
+        "host_venues": [
+          "Sustainability"
+        ],
+        "color": "#CC0000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-kdgriege",
+      "target": "uid-dsjones5",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Applied Ecology -- Biological & Agricultural Engineering",
+        "colleges": "College of Agriculture and Life Sciences -- College of Engineering",
+        "buildings": "D. S. Weaver Labs -- Plant Sciences Building",
+        "roles": "faculty == faculty",
+        "years": [
+          2022
+        ],
+        "year_recent": 2022,
+        "dois": [
+          "10.3390/su14042274"
+        ],
+        "ncsu?": true,
+        "cross_college?": true,
+        "cross_department?": true,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": true,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": true,
+        "concepts": [
+          "Sustainability",
+          "Stakeholder",
+          "Competitor analysis",
+          "Context (archaeology)",
+          "Stakeholder engagement",
+          "Business",
+          "Work (physics)",
+          "Marketing",
+          "Community engagement",
+          "Environmental resource management",
+          "Agriculture",
+          "Knowledge management",
+          "Environmental planning",
+          "Public relations",
+          "Geography",
+          "Political science",
+          "Engineering",
+          "Computer science",
+          "Economics",
+          "Mechanical engineering",
+          "Ecology",
+          "Archaeology",
+          "Biology"
+        ],
+        "host_venues": [
+          "Sustainability"
+        ],
+        "color": "#FAC800",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-kdgriege",
+      "target": "uid-jkuzma",
+      "attributes": {
+        "label": 7,
+        "weight": 7,
+        "collaboration_count": 7,
+        "departments": "Applied Ecology -- Genetic Engineering and Society",
+        "colleges": "College of Agriculture and Life Sciences -- NC State",
+        "buildings": "James B Hunt Jr Centennial Cam -- Plant Sciences Building",
+        "roles": "faculty == faculty",
+        "years": [
+          2022,
+          2022,
+          2021,
+          2021,
+          2021,
+          2020,
+          2019
+        ],
+        "year_recent": 2022,
+        "dois": [
+          "10.3390/su14042274",
+          "10.1016/j.envsci.2022.08.027",
+          "10.1016/j.impact.2021.100326",
+          "10.1007/s11569-021-00404-9",
+          "10.1016/j.impact.2021.100365",
+          "10.1126/science.abd1512",
+          "10.1038/s41565-019-0572-1"
+        ],
+        "ncsu?": true,
+        "cross_college?": true,
+        "cross_department?": true,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": true,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": true,
+        "concepts": [
+          "Sustainability",
+          "Stakeholder",
+          "Competitor analysis",
+          "Context (archaeology)",
+          "Stakeholder engagement",
+          "Business",
+          "Work (physics)",
+          "Marketing",
+          "Community engagement",
+          "Environmental resource management",
+          "Agriculture",
+          "Knowledge management",
+          "Environmental planning",
+          "Public relations",
+          "Geography",
+          "Political science",
+          "Engineering",
+          "Computer science",
+          "Economics",
+          "Mechanical engineering",
+          "Ecology",
+          "Archaeology",
+          "Biology"
+        ],
+        "host_venues": [
+          "Sustainability"
+        ],
+        "color": "#FAC800",
+        "size": 7
+      }
+    },
+    {
+      "source": "uid-kdgriege",
+      "target": "uid-akokoto",
+      "attributes": {
+        "label": 3,
+        "weight": 3,
+        "collaboration_count": 3,
+        "departments": "Applied Ecology -- Forestry & Environmental Resources",
+        "colleges": "College of Agriculture and Life Sciences -- College of Natural Resources",
+        "buildings": "Plant Sciences Building --- unknown",
+        "roles": "faculty -- staff",
+        "years": [
+          2021,
+          2021,
+          2021
+        ],
+        "year_recent": 2021,
+        "dois": [
+          "10.1016/j.impact.2021.100326",
+          "10.1007/s11569-021-00404-9",
+          "10.1016/j.impact.2021.100365"
+        ],
+        "ncsu?": true,
+        "cross_college?": true,
+        "cross_department?": true,
+        "cross_unit?": true,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          "NanoImpact"
+        ],
+        "color": "#FAC800",
+        "size": 3
+      }
+    },
+    {
+      "source": "uid-jszarate",
+      "target": "https://orcid.org/0000-0003-3442-738X",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "unknown --- unknown",
+        "colleges": "unknown --- unknown",
+        "buildings": "unknown --- unknown",
+        "roles": "student --- unknown",
+        "years": [
+          2022
+        ],
+        "year_recent": 2022,
+        "dois": [
+          "10.3390/su14042274"
+        ],
+        "ncsu?": true,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": false,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+
+        ],
+        "cross_building?": false,
+        "concepts": [
+          "Sustainability",
+          "Stakeholder",
+          "Competitor analysis",
+          "Context (archaeology)",
+          "Stakeholder engagement",
+          "Business",
+          "Work (physics)",
+          "Marketing",
+          "Community engagement",
+          "Environmental resource management",
+          "Agriculture",
+          "Knowledge management",
+          "Environmental planning",
+          "Public relations",
+          "Geography",
+          "Political science",
+          "Engineering",
+          "Computer science",
+          "Economics",
+          "Mechanical engineering",
+          "Ecology",
+          "Archaeology",
+          "Biology"
+        ],
+        "host_venues": [
+          "Sustainability"
+        ],
+        "color": "#CC0000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-jszarate",
+      "target": "uid-rlransom",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "unknown --- unknown",
+        "colleges": "unknown --- unknown",
+        "buildings": "unknown --- unknown",
+        "roles": "student == student",
+        "years": [
+          2022
+        ],
+        "year_recent": 2022,
+        "dois": [
+          "10.3390/su14042274"
+        ],
+        "ncsu?": true,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": false,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+
+        ],
+        "cross_building?": false,
+        "concepts": [
+          "Sustainability",
+          "Stakeholder",
+          "Competitor analysis",
+          "Context (archaeology)",
+          "Stakeholder engagement",
+          "Business",
+          "Work (physics)",
+          "Marketing",
+          "Community engagement",
+          "Environmental resource management",
+          "Agriculture",
+          "Knowledge management",
+          "Environmental planning",
+          "Public relations",
+          "Geography",
+          "Political science",
+          "Engineering",
+          "Computer science",
+          "Economics",
+          "Mechanical engineering",
+          "Ecology",
+          "Archaeology",
+          "Biology"
+        ],
+        "host_venues": [
+          "Sustainability"
+        ],
+        "color": "#CC0000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-jszarate",
+      "target": "uid-dsjones5",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Biological & Agricultural Engineering --- unknown",
+        "colleges": "College of Engineering --- unknown",
+        "buildings": "D. S. Weaver Labs --- unknown",
+        "roles": "faculty -- student",
+        "years": [
+          2022
+        ],
+        "year_recent": 2022,
+        "dois": [
+          "10.3390/su14042274"
+        ],
+        "ncsu?": true,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          "Sustainability",
+          "Stakeholder",
+          "Competitor analysis",
+          "Context (archaeology)",
+          "Stakeholder engagement",
+          "Business",
+          "Work (physics)",
+          "Marketing",
+          "Community engagement",
+          "Environmental resource management",
+          "Agriculture",
+          "Knowledge management",
+          "Environmental planning",
+          "Public relations",
+          "Geography",
+          "Political science",
+          "Engineering",
+          "Computer science",
+          "Economics",
+          "Mechanical engineering",
+          "Ecology",
+          "Archaeology",
+          "Biology"
+        ],
+        "host_venues": [
+          "Sustainability"
+        ],
+        "color": "#CC0000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-jszarate",
+      "target": "uid-jkuzma",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Genetic Engineering and Society --- unknown",
+        "colleges": "NC State --- unknown",
+        "buildings": "James B Hunt Jr Centennial Cam --- unknown",
+        "roles": "faculty -- student",
+        "years": [
+          2022
+        ],
+        "year_recent": 2022,
+        "dois": [
+          "10.3390/su14042274"
+        ],
+        "ncsu?": true,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          "Sustainability",
+          "Stakeholder",
+          "Competitor analysis",
+          "Context (archaeology)",
+          "Stakeholder engagement",
+          "Business",
+          "Work (physics)",
+          "Marketing",
+          "Community engagement",
+          "Environmental resource management",
+          "Agriculture",
+          "Knowledge management",
+          "Environmental planning",
+          "Public relations",
+          "Geography",
+          "Political science",
+          "Engineering",
+          "Computer science",
+          "Economics",
+          "Mechanical engineering",
+          "Ecology",
+          "Archaeology",
+          "Biology"
+        ],
+        "host_venues": [
+          "Sustainability"
+        ],
+        "color": "#CC0000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-rlransom",
+      "target": "https://orcid.org/0000-0003-3442-738X",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "unknown --- unknown",
+        "colleges": "unknown --- unknown",
+        "buildings": "unknown --- unknown",
+        "roles": "student --- unknown",
+        "years": [
+          2022
+        ],
+        "year_recent": 2022,
+        "dois": [
+          "10.3390/su14042274"
+        ],
+        "ncsu?": true,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": false,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+
+        ],
+        "cross_building?": false,
+        "concepts": [
+          "Sustainability",
+          "Stakeholder",
+          "Competitor analysis",
+          "Context (archaeology)",
+          "Stakeholder engagement",
+          "Business",
+          "Work (physics)",
+          "Marketing",
+          "Community engagement",
+          "Environmental resource management",
+          "Agriculture",
+          "Knowledge management",
+          "Environmental planning",
+          "Public relations",
+          "Geography",
+          "Political science",
+          "Engineering",
+          "Computer science",
+          "Economics",
+          "Mechanical engineering",
+          "Ecology",
+          "Archaeology",
+          "Biology"
+        ],
+        "host_venues": [
+          "Sustainability"
+        ],
+        "color": "#CC0000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-rlransom",
+      "target": "uid-dsjones5",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Biological & Agricultural Engineering --- unknown",
+        "colleges": "College of Engineering --- unknown",
+        "buildings": "D. S. Weaver Labs --- unknown",
+        "roles": "faculty -- student",
+        "years": [
+          2022
+        ],
+        "year_recent": 2022,
+        "dois": [
+          "10.3390/su14042274"
+        ],
+        "ncsu?": true,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          "Sustainability",
+          "Stakeholder",
+          "Competitor analysis",
+          "Context (archaeology)",
+          "Stakeholder engagement",
+          "Business",
+          "Work (physics)",
+          "Marketing",
+          "Community engagement",
+          "Environmental resource management",
+          "Agriculture",
+          "Knowledge management",
+          "Environmental planning",
+          "Public relations",
+          "Geography",
+          "Political science",
+          "Engineering",
+          "Computer science",
+          "Economics",
+          "Mechanical engineering",
+          "Ecology",
+          "Archaeology",
+          "Biology"
+        ],
+        "host_venues": [
+          "Sustainability"
+        ],
+        "color": "#CC0000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-rlransom",
+      "target": "uid-jkuzma",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Genetic Engineering and Society --- unknown",
+        "colleges": "NC State --- unknown",
+        "buildings": "James B Hunt Jr Centennial Cam --- unknown",
+        "roles": "faculty -- student",
+        "years": [
+          2022
+        ],
+        "year_recent": 2022,
+        "dois": [
+          "10.3390/su14042274"
+        ],
+        "ncsu?": true,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          "Sustainability",
+          "Stakeholder",
+          "Competitor analysis",
+          "Context (archaeology)",
+          "Stakeholder engagement",
+          "Business",
+          "Work (physics)",
+          "Marketing",
+          "Community engagement",
+          "Environmental resource management",
+          "Agriculture",
+          "Knowledge management",
+          "Environmental planning",
+          "Public relations",
+          "Geography",
+          "Political science",
+          "Engineering",
+          "Computer science",
+          "Economics",
+          "Mechanical engineering",
+          "Ecology",
+          "Archaeology",
+          "Biology"
+        ],
+        "host_venues": [
+          "Sustainability"
+        ],
+        "color": "#CC0000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-dsjones5",
+      "target": "https://orcid.org/0000-0003-3442-738X",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Biological & Agricultural Engineering --- unknown",
+        "colleges": "College of Engineering --- unknown",
+        "buildings": "D. S. Weaver Labs --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          2022
+        ],
+        "year_recent": 2022,
+        "dois": [
+          "10.3390/su14042274"
+        ],
+        "ncsu?": true,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          "Sustainability",
+          "Stakeholder",
+          "Competitor analysis",
+          "Context (archaeology)",
+          "Stakeholder engagement",
+          "Business",
+          "Work (physics)",
+          "Marketing",
+          "Community engagement",
+          "Environmental resource management",
+          "Agriculture",
+          "Knowledge management",
+          "Environmental planning",
+          "Public relations",
+          "Geography",
+          "Political science",
+          "Engineering",
+          "Computer science",
+          "Economics",
+          "Mechanical engineering",
+          "Ecology",
+          "Archaeology",
+          "Biology"
+        ],
+        "host_venues": [
+          "Sustainability"
+        ],
+        "color": "#CC0000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-dsjones5",
+      "target": "uid-jkuzma",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Biological & Agricultural Engineering -- Genetic Engineering and Society",
+        "colleges": "College of Engineering -- NC State",
+        "buildings": "D. S. Weaver Labs -- James B Hunt Jr Centennial Cam",
+        "roles": "faculty == faculty",
+        "years": [
+          2022
+        ],
+        "year_recent": 2022,
+        "dois": [
+          "10.3390/su14042274"
+        ],
+        "ncsu?": true,
+        "cross_college?": true,
+        "cross_department?": true,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": true,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": true,
+        "concepts": [
+          "Sustainability",
+          "Stakeholder",
+          "Competitor analysis",
+          "Context (archaeology)",
+          "Stakeholder engagement",
+          "Business",
+          "Work (physics)",
+          "Marketing",
+          "Community engagement",
+          "Environmental resource management",
+          "Agriculture",
+          "Knowledge management",
+          "Environmental planning",
+          "Public relations",
+          "Geography",
+          "Political science",
+          "Engineering",
+          "Computer science",
+          "Economics",
+          "Mechanical engineering",
+          "Ecology",
+          "Archaeology",
+          "Biology"
+        ],
+        "host_venues": [
+          "Sustainability"
+        ],
+        "color": "#FAC800",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-jkuzma",
+      "target": "https://orcid.org/0000-0003-3442-738X",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Genetic Engineering and Society --- unknown",
+        "colleges": "NC State --- unknown",
+        "buildings": "James B Hunt Jr Centennial Cam --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          2022
+        ],
+        "year_recent": 2022,
+        "dois": [
+          "10.3390/su14042274"
+        ],
+        "ncsu?": true,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          "Sustainability",
+          "Stakeholder",
+          "Competitor analysis",
+          "Context (archaeology)",
+          "Stakeholder engagement",
+          "Business",
+          "Work (physics)",
+          "Marketing",
+          "Community engagement",
+          "Environmental resource management",
+          "Agriculture",
+          "Knowledge management",
+          "Environmental planning",
+          "Public relations",
+          "Geography",
+          "Political science",
+          "Engineering",
+          "Computer science",
+          "Economics",
+          "Mechanical engineering",
+          "Ecology",
+          "Archaeology",
+          "Biology"
+        ],
+        "host_venues": [
+          "Sustainability"
+        ],
+        "color": "#CC0000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-jkuzma",
+      "target": "uid-akokoto",
+      "attributes": {
+        "label": 7,
+        "weight": 7,
+        "collaboration_count": 7,
+        "departments": "Forestry & Environmental Resources -- Genetic Engineering and Society",
+        "colleges": "College of Natural Resources -- NC State",
+        "buildings": "James B Hunt Jr Centennial Cam --- unknown",
+        "roles": "faculty -- staff",
+        "years": [
+          2021,
+          2021,
+          2021,
+          2014,
+          2011,
+          2008,
+          2008
+        ],
+        "year_recent": 2021,
+        "dois": [
+          "10.1016/j.impact.2021.100326",
+          "10.1007/s11569-021-00404-9",
+          "10.1016/j.impact.2021.100365",
+          "10.1177/0270467614565695",
+          "10.1038/embor.2011.160",
+          "10.1111/j.1539-6924.2008.01086.x",
+          "10.1111/j.1539-6924.2008.01071.x"
+        ],
+        "ncsu?": true,
+        "cross_college?": true,
+        "cross_department?": true,
+        "cross_unit?": true,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          "NanoImpact"
+        ],
+        "color": "#FAC800",
+        "size": 7
+      }
+    },
+    {
+      "source": "uid-jkuzma",
+      "target": "uid-jadelbor",
+      "attributes": {
+        "label": 3,
+        "weight": 3,
+        "collaboration_count": 3,
+        "departments": "Forestry & Environmental Resources -- Genetic Engineering and Society",
+        "colleges": "College of Natural Resources -- NC State",
+        "buildings": "James B Hunt Jr Centennial Cam -- Jordan Hall Addition",
+        "roles": "faculty == faculty",
+        "years": [
+          2018,
+          2018,
+          2014
+        ],
+        "year_recent": 2018,
+        "dois": [
+          "10.1080/23299460.2017.1410344",
+          "10.1080/23299460.2017.1419413",
+          "10.1038/510218b"
+        ],
+        "ncsu?": true,
+        "cross_college?": true,
+        "cross_department?": true,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": true,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society",
+          "Global Water, Sanitation and Hygiene"
+        ],
+        "cross_building?": true,
+        "concepts": [
+          "Corporate governance",
+          "Context (archaeology)",
+          "Frame (networking)",
+          "Responsible Research and Innovation",
+          "Political science",
+          "Business",
+          "Engineering ethics",
+          "Public administration",
+          "Process management",
+          "Sociology",
+          "Public relations",
+          "Computer science",
+          "Engineering",
+          "Biology",
+          "Telecommunications",
+          "Finance",
+          "Paleontology"
+        ],
+        "host_venues": [
+          "Journal of Responsible Innovation"
+        ],
+        "color": "#FAC800",
+        "size": 3
+      }
+    },
+    {
+      "source": "uid-akokoto",
+      "target": "https://orcid.org/0000-0003-3442-738X",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Forestry & Environmental Resources --- unknown",
+        "colleges": "College of Natural Resources --- unknown",
+        "buildings": "unknown --- unknown",
+        "roles": "staff --- unknown",
+        "years": [
+          2022
+        ],
+        "year_recent": 2022,
+        "dois": [
+          "10.1016/j.jenvman.2022.114480"
+        ],
+        "ncsu?": true,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": false,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          "Journal of Environmental Management"
+        ],
+        "color": "#CC0000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-akokoto",
+      "target": "uid-jeelsens",
+      "attributes": {
+        "label": 2,
+        "weight": 2,
+        "collaboration_count": 2,
+        "departments": "Forestry & Environmental Resources -- Plant Pathology",
+        "colleges": "College of Agriculture and Life Sciences -- College of Natural Resources",
+        "buildings": "unknown --- unknown",
+        "roles": "staff -- student",
+        "years": [
+          2022,
+          2020
+        ],
+        "year_recent": 2022,
+        "dois": [
+          "10.1016/j.jenvman.2022.114480",
+          "10.1093/aesa/saz064"
+        ],
+        "ncsu?": true,
+        "cross_college?": true,
+        "cross_department?": true,
+        "cross_unit?": true,
+        "cluster?": false,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          "Journal of Environmental Management"
+        ],
+        "color": "#FAC800",
+        "size": 2
+      }
+    },
+    {
+      "source": "uid-akokoto",
+      "target": "uid-rli24",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Forestry & Environmental Resources --- unknown",
+        "colleges": "College of Natural Resources --- unknown",
+        "buildings": "unknown --- unknown",
+        "roles": "staff -- student",
+        "years": [
+          2022
+        ],
+        "year_recent": 2022,
+        "dois": [
+          "10.1016/j.jenvman.2022.114480"
+        ],
+        "ncsu?": true,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": false,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          "Journal of Environmental Management"
+        ],
+        "color": "#CC0000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-akokoto",
+      "target": "uid-jadelbor",
+      "attributes": {
+        "label": 2,
+        "weight": 2,
+        "collaboration_count": 2,
+        "departments": "Forestry & Environmental Resources == Forestry & Environmental Resources",
+        "colleges": "College of Natural Resources == College of Natural Resources",
+        "buildings": "Jordan Hall Addition --- unknown",
+        "roles": "faculty -- staff",
+        "years": [
+          2022,
+          2020
+        ],
+        "year_recent": 2022,
+        "dois": [
+          "10.1016/j.jenvman.2022.114480",
+          "10.1093/aesa/saz064"
+        ],
+        "ncsu?": true,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society",
+          "Global Water, Sanitation and Hygiene"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          "Journal of Environmental Management"
+        ],
+        "color": "#CC0000",
+        "size": 2
+      }
+    },
+    {
+      "source": "uid-akokoto",
+      "target": "uid-hjburrac",
+      "attributes": {
+        "label": 2,
+        "weight": 2,
+        "collaboration_count": 2,
+        "departments": "Entomology and Plant Pathology -- Forestry & Environmental Resources",
+        "colleges": "College of Agriculture and Life Sciences -- College of Natural Resources",
+        "buildings": "Headhouse Unit 1 At Method --- unknown",
+        "roles": "staff == staff",
+        "years": [
+          2022,
+          2020
+        ],
+        "year_recent": 2022,
+        "dois": [
+          "10.1016/j.jenvman.2022.114480",
+          "10.1093/aesa/saz064"
+        ],
+        "ncsu?": true,
+        "cross_college?": true,
+        "cross_department?": true,
+        "cross_unit?": true,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          "Journal of Environmental Management"
+        ],
+        "color": "#FAC800",
+        "size": 2
+      }
+    },
+    {
+      "source": "uid-jeelsens",
+      "target": "https://orcid.org/0000-0003-3442-738X",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Plant Pathology --- unknown",
+        "colleges": "College of Agriculture and Life Sciences --- unknown",
+        "buildings": "unknown --- unknown",
+        "roles": "student --- unknown",
+        "years": [
+          2022
+        ],
+        "year_recent": 2022,
+        "dois": [
+          "10.1016/j.jenvman.2022.114480"
+        ],
+        "ncsu?": true,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": false,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          "Journal of Environmental Management"
+        ],
+        "color": "#CC0000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-jeelsens",
+      "target": "uid-rli24",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Plant Pathology --- unknown",
+        "colleges": "College of Agriculture and Life Sciences --- unknown",
+        "buildings": "unknown --- unknown",
+        "roles": "student == student",
+        "years": [
+          2022
+        ],
+        "year_recent": 2022,
+        "dois": [
+          "10.1016/j.jenvman.2022.114480"
+        ],
+        "ncsu?": true,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": false,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          "Journal of Environmental Management"
+        ],
+        "color": "#CC0000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-jeelsens",
+      "target": "uid-jadelbor",
+      "attributes": {
+        "label": 2,
+        "weight": 2,
+        "collaboration_count": 2,
+        "departments": "Forestry & Environmental Resources -- Plant Pathology",
+        "colleges": "College of Agriculture and Life Sciences -- College of Natural Resources",
+        "buildings": "Jordan Hall Addition --- unknown",
+        "roles": "faculty -- student",
+        "years": [
+          2022,
+          2020
+        ],
+        "year_recent": 2022,
+        "dois": [
+          "10.1016/j.jenvman.2022.114480",
+          "10.1093/aesa/saz064"
+        ],
+        "ncsu?": true,
+        "cross_college?": true,
+        "cross_department?": true,
+        "cross_unit?": true,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society",
+          "Global Water, Sanitation and Hygiene"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          "Journal of Environmental Management"
+        ],
+        "color": "#FAC800",
+        "size": 2
+      }
+    },
+    {
+      "source": "uid-jeelsens",
+      "target": "uid-hjburrac",
+      "attributes": {
+        "label": 4,
+        "weight": 4,
+        "collaboration_count": 4,
+        "departments": "Entomology and Plant Pathology -- Plant Pathology",
+        "colleges": "College of Agriculture and Life Sciences == College of Agriculture and Life Sciences",
+        "buildings": "Headhouse Unit 1 At Method --- unknown",
+        "roles": "staff -- student",
+        "years": [
+          2022,
+          2021,
+          2021,
+          2020
+        ],
+        "year_recent": 2022,
+        "dois": [
+          "10.1016/j.jenvman.2022.114480",
+          "10.1093/jee/toab108",
+          "10.1038/s41598-021-83354-2",
+          "10.1093/aesa/saz064"
+        ],
+        "ncsu?": true,
+        "cross_college?": false,
+        "cross_department?": true,
+        "cross_unit?": true,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          "Journal of Environmental Management"
+        ],
+        "color": "#CC0000",
+        "size": 4
+      }
+    },
+    {
+      "source": "uid-rli24",
+      "target": "https://orcid.org/0000-0003-3442-738X",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "unknown --- unknown",
+        "colleges": "unknown --- unknown",
+        "buildings": "unknown --- unknown",
+        "roles": "student --- unknown",
+        "years": [
+          2022
+        ],
+        "year_recent": 2022,
+        "dois": [
+          "10.1016/j.jenvman.2022.114480"
+        ],
+        "ncsu?": true,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": false,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          "Journal of Environmental Management"
+        ],
+        "color": "#CC0000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-rli24",
+      "target": "uid-jadelbor",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Forestry & Environmental Resources --- unknown",
+        "colleges": "College of Natural Resources --- unknown",
+        "buildings": "Jordan Hall Addition --- unknown",
+        "roles": "faculty -- student",
+        "years": [
+          2022
+        ],
+        "year_recent": 2022,
+        "dois": [
+          "10.1016/j.jenvman.2022.114480"
+        ],
+        "ncsu?": true,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society",
+          "Global Water, Sanitation and Hygiene"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          "Journal of Environmental Management"
+        ],
+        "color": "#CC0000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-rli24",
+      "target": "uid-hjburrac",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Entomology and Plant Pathology --- unknown",
+        "colleges": "College of Agriculture and Life Sciences --- unknown",
+        "buildings": "Headhouse Unit 1 At Method --- unknown",
+        "roles": "staff -- student",
+        "years": [
+          2022
+        ],
+        "year_recent": 2022,
+        "dois": [
+          "10.1016/j.jenvman.2022.114480"
+        ],
+        "ncsu?": true,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          "Journal of Environmental Management"
+        ],
+        "color": "#CC0000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-jadelbor",
+      "target": "https://orcid.org/0000-0003-3442-738X",
+      "attributes": {
+        "label": 9,
+        "weight": 9,
+        "collaboration_count": 9,
+        "departments": "Forestry & Environmental Resources --- unknown",
+        "colleges": "College of Natural Resources --- unknown",
+        "buildings": "Jordan Hall Addition --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          2022,
+          2021,
+          2021,
+          2021,
+          2019,
+          2019,
+          2019,
+          2019,
+          2018
+        ],
+        "year_recent": 2022,
+        "dois": [
+          "10.1016/j.jenvman.2022.114480",
+          "10.12688/gatesopenres.13221.2",
+          "10.12688/gatesopenres.13221.1",
+          "10.1111/csp2.406",
+          "10.1017/9781316691489.009",
+          "10.1098/rspb.2019.1606",
+          "10.1080/08941920.2019.1685145",
+          "10.1016/j.biocon.2019.01.018",
+          "10.1126/science.aav4987"
+        ],
+        "ncsu?": true,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society",
+          "Global Water, Sanitation and Hygiene"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          "Journal of Environmental Management"
+        ],
+        "color": "#CC0000",
+        "size": 9
+      }
+    },
+    {
+      "source": "uid-jadelbor",
+      "target": "uid-hjburrac",
+      "attributes": {
+        "label": 3,
+        "weight": 3,
+        "collaboration_count": 3,
+        "departments": "Entomology and Plant Pathology -- Forestry & Environmental Resources",
+        "colleges": "College of Agriculture and Life Sciences -- College of Natural Resources",
+        "buildings": "Headhouse Unit 1 At Method -- Jordan Hall Addition",
+        "roles": "faculty -- staff",
+        "years": [
+          2022,
+          2020,
+          2019
+        ],
+        "year_recent": 2022,
+        "dois": [
+          "10.1016/j.jenvman.2022.114480",
+          "10.1093/aesa/saz064"
+        ],
+        "ncsu?": true,
+        "cross_college?": true,
+        "cross_department?": true,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": true,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society",
+          "Global Water, Sanitation and Hygiene"
+        ],
+        "cross_building?": true,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          "Journal of Environmental Management"
+        ],
+        "color": "#FAC800",
+        "size": 3
+      }
+    },
+    {
+      "source": "uid-jadelbor",
+      "target": "uid-godwin",
+      "attributes": {
+        "label": 2,
+        "weight": 2,
+        "collaboration_count": 2,
+        "departments": "Biological Sciences -- Forestry & Environmental Resources",
+        "colleges": "College of Natural Resources -- College of Sciences",
+        "buildings": "David Clark Labs -- Jordan Hall Addition",
+        "roles": "faculty == faculty",
+        "years": [
+          2019,
+          2017
+        ],
+        "year_recent": 2019,
+        "dois": [
+          "10.1098/rspb.2019.1606"
+        ],
+        "ncsu?": true,
+        "cross_college?": true,
+        "cross_department?": true,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": true,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society",
+          "Global Water, Sanitation and Hygiene"
+        ],
+        "cross_building?": true,
+        "concepts": [
+          "Biodiversity",
+          "Gene drive",
+          "Variety (cybernetics)",
+          "Multidisciplinary approach",
+          "Environmental planning",
+          "Biology",
+          "Food security",
+          "Stakeholder",
+          "Environmental resource management",
+          "Business",
+          "Risk analysis (engineering)",
+          "Ecology",
+          "Geography",
+          "Gene",
+          "Political science",
+          "Computer science",
+          "Agriculture",
+          "Genetics",
+          "Public relations",
+          "Environmental science",
+          "Artificial intelligence",
+          "Law",
+          "CRISPR"
+        ],
+        "host_venues": [
+          "Proceedings of The Royal Society B: Biological Sciences"
+        ],
+        "color": "#FAC800",
+        "size": 2
+      }
+    },
+    {
+      "source": "uid-hjburrac",
+      "target": "https://orcid.org/0000-0003-3442-738X",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Entomology and Plant Pathology --- unknown",
+        "colleges": "College of Agriculture and Life Sciences --- unknown",
+        "buildings": "Headhouse Unit 1 At Method --- unknown",
+        "roles": "staff --- unknown",
+        "years": [
+          2022
+        ],
+        "year_recent": 2022,
+        "dois": [
+          "10.1016/j.jenvman.2022.114480"
+        ],
+        "ncsu?": true,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          "Journal of Environmental Management"
+        ],
+        "color": "#CC0000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-meserr",
+      "target": "uid-dvblonde",
+      "attributes": {
+        "label": 2,
+        "weight": 2,
+        "collaboration_count": 2,
+        "departments": "Biological Sciences == Biological Sciences",
+        "colleges": "College of Sciences == College of Sciences",
+        "buildings": "David Clark Labs -- Remote",
+        "roles": "faculty -- staff",
+        "years": [
+          2019,
+          2019
+        ],
+        "year_recent": 2019,
+        "dois": [
+          "10.1098/rspb.2019.0852",
+          "10.3390/su11051334"
+        ],
+        "ncsu?": true,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": true,
+        "concepts": [
+          "Gene drive",
+          "Biology",
+          "Testis determining factor",
+          "Population",
+          "Biodiversity",
+          "Ecology",
+          "PEST analysis",
+          "Pest control",
+          "Evolutionary biology",
+          "Genetics",
+          "Gene",
+          "Y chromosome",
+          "Sociology",
+          "CRISPR",
+          "Demography",
+          "Botany"
+        ],
+        "host_venues": [
+          "Proceedings of The Royal Society B: Biological Sciences"
+        ],
+        "color": "#CC0000",
+        "size": 2
+      }
+    },
+    {
+      "source": "uid-meserr",
+      "target": "uid-godwin",
+      "attributes": {
+        "label": 3,
+        "weight": 3,
+        "collaboration_count": 3,
+        "departments": "Biological Sciences == Biological Sciences",
+        "colleges": "College of Sciences == College of Sciences",
+        "buildings": "David Clark Labs -- Remote",
+        "roles": "faculty == faculty",
+        "years": [
+          2019,
+          2019,
+          2017
+        ],
+        "year_recent": 2019,
+        "dois": [
+          "10.1098/rspb.2019.0852",
+          "10.3390/su11051334",
+          "10.1080/23299460.2017.1365232"
+        ],
+        "ncsu?": true,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": true,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": true,
+        "concepts": [
+          "Gene drive",
+          "Biology",
+          "Testis determining factor",
+          "Population",
+          "Biodiversity",
+          "Ecology",
+          "PEST analysis",
+          "Pest control",
+          "Evolutionary biology",
+          "Genetics",
+          "Gene",
+          "Y chromosome",
+          "Sociology",
+          "CRISPR",
+          "Demography",
+          "Botany"
+        ],
+        "host_venues": [
+          "Proceedings of The Royal Society B: Biological Sciences"
+        ],
+        "color": "#CC0000",
+        "size": 3
+      }
+    },
+    {
+      "source": "uid-meserr",
+      "target": "https://orcid.org/0000-0003-3442-738X",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Biological Sciences --- unknown",
+        "colleges": "College of Sciences --- unknown",
+        "buildings": "Remote --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          2019
+        ],
+        "year_recent": 2019,
+        "dois": [
+          "10.3390/su11051334"
+        ],
+        "ncsu?": false,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          "Sustainability",
+          "Gene drive",
+          "Corporate governance",
+          "Biosecurity",
+          "Biodiversity",
+          "Deliberation",
+          "Environmental planning",
+          "Environmental resource management",
+          "Biology",
+          "Business",
+          "Ecology",
+          "CRISPR",
+          "Gene",
+          "Geography",
+          "Politics",
+          "Political science",
+          "Economics",
+          "Finance",
+          "Law",
+          "Biochemistry"
+        ],
+        "host_venues": [
+          "Sustainability"
+        ],
+        "color": "#000000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-dvblonde",
+      "target": "uid-godwin",
+      "attributes": {
+        "label": 4,
+        "weight": 4,
+        "collaboration_count": 4,
+        "departments": "Biological Sciences == Biological Sciences",
+        "colleges": "College of Sciences == College of Sciences",
+        "buildings": "David Clark Labs == David Clark Labs",
+        "roles": "faculty -- staff",
+        "years": [
+          2021,
+          2019,
+          2019,
+          2019
+        ],
+        "year_recent": 2021,
+        "dois": [
+          "10.1111/eva.13210",
+          "10.1098/rspb.2019.0852",
+          "10.1038/s41598-019-51994-0",
+          "10.3390/su11051334"
+        ],
+        "ncsu?": true,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          "Biology",
+          "Colonization",
+          "Genomics",
+          "Population genomics",
+          "Population",
+          "Gene",
+          "Genetics",
+          "Evolutionary biology",
+          "Genome",
+          "Gene drive",
+          "Population genetics",
+          "Computational biology",
+          "Ecology",
+          "CRISPR",
+          "Demography",
+          "Sociology"
+        ],
+        "host_venues": [
+          "Evolutionary Applications"
+        ],
+        "color": "#CC0000",
+        "size": 4
+      }
+    },
+    {
+      "source": "uid-dvblonde",
+      "target": "https://orcid.org/0000-0003-3442-738X",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Biological Sciences --- unknown",
+        "colleges": "College of Sciences --- unknown",
+        "buildings": "David Clark Labs --- unknown",
+        "roles": "staff --- unknown",
+        "years": [
+          2019
+        ],
+        "year_recent": 2019,
+        "dois": [
+          "10.3390/su11051334"
+        ],
+        "ncsu?": false,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": false,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+
+        ],
+        "cross_building?": false,
+        "concepts": [
+          "Sustainability",
+          "Gene drive",
+          "Corporate governance",
+          "Biosecurity",
+          "Biodiversity",
+          "Deliberation",
+          "Environmental planning",
+          "Environmental resource management",
+          "Biology",
+          "Business",
+          "Ecology",
+          "CRISPR",
+          "Gene",
+          "Geography",
+          "Politics",
+          "Political science",
+          "Economics",
+          "Finance",
+          "Law",
+          "Biochemistry"
+        ],
+        "host_venues": [
+          "Sustainability"
+        ],
+        "color": "#000000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-godwin",
+      "target": "https://orcid.org/0000-0003-3442-738X",
+      "attributes": {
+        "label": 2,
+        "weight": 2,
+        "collaboration_count": 2,
+        "departments": "Biological Sciences --- unknown",
+        "colleges": "College of Sciences --- unknown",
+        "buildings": "David Clark Labs --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          2019,
+          2019
+        ],
+        "year_recent": 2019,
+        "dois": [
+          "10.1098/rspb.2019.1606",
+          "10.3390/su11051334"
+        ],
+        "ncsu?": true,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          "Biodiversity",
+          "Gene drive",
+          "Variety (cybernetics)",
+          "Multidisciplinary approach",
+          "Environmental planning",
+          "Biology",
+          "Food security",
+          "Stakeholder",
+          "Environmental resource management",
+          "Business",
+          "Risk analysis (engineering)",
+          "Ecology",
+          "Geography",
+          "Gene",
+          "Political science",
+          "Computer science",
+          "Agriculture",
+          "Genetics",
+          "Public relations",
+          "Environmental science",
+          "Artificial intelligence",
+          "Law",
+          "CRISPR"
+        ],
+        "host_venues": [
+          "Proceedings of The Royal Society B: Biological Sciences"
+        ],
+        "color": "#CC0000",
+        "size": 2
+      }
+    }
+  ]
+}

@@ -1,0 +1,334 @@
+{
+  "options": {
+    "type": "undirected",
+    "multi": false,
+    "allowSelfLoops": false
+  },
+  "attributes": {
+    "creator": "Citation Index",
+    "lastModifiedDate": "2023-01-15"
+  },
+  "nodes": [
+    {
+      "key": "uid-caiglesi",
+      "attributes": {
+        "label": "C Iglesias",
+        "name": "Carlos Iglesias",
+        "known?": true,
+        "orcid?": false,
+        "ncsu?": true,
+        "affiliations": [
+          "North Carolina State University"
+        ],
+        "countries": [
+          "US"
+        ],
+        "uid": "caiglesi",
+        "url": "https://ci.lib.ncsu.edu/profiles/caiglesi",
+        "active?": true,
+        "department": "Genetic Engineering and Society",
+        "college": "NC State",
+        "ncsu_affiliations": [
+          "Genetic Engineering and Society"
+        ],
+        "cluster?": true,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "role": "faculty",
+        "building": "Kilgore Hall",
+        "count": 1,
+        "oa_count": 1,
+        "years": [
+          2021
+        ],
+        "year_recent": 2021,
+        "article_concepts": [
+          "Agricultural economics",
+          "Agricultural science",
+          "Agriculture",
+          "Agronomy",
+          "Artificial intelligence",
+          "Biochemistry",
+          "Biology",
+          "Biotechnology",
+          "Breeding program",
+          "Computer science",
+          "Cultivar",
+          "Ecology",
+          "Economic growth",
+          "Economics",
+          "Economy",
+          "Gene",
+          "Genetic gain",
+          "Genetic variation",
+          "Genetics",
+          "Heritability",
+          "Macroeconomics",
+          "Plant breeding",
+          "Private sector",
+          "Production (economics)",
+          "Productivity",
+          "Public sector",
+          "Selection (genetic algorithm)"
+        ],
+        "host_venues": [
+          "Theoretical and Applied Genetics"
+        ],
+        "color": "#BD5383",
+        "size": 20
+      }
+    },
+    {
+      "key": "https://orcid.org/0000-0002-8744-7918",
+      "attributes": {
+        "label": "H Ceballos",
+        "name": "Hernán Ceballos",
+        "known?": false,
+        "orcid?": null,
+        "ncsu?": false,
+        "affiliations": [
+          "International Center for Tropical Agriculture"
+        ],
+        "countries": [
+          "KE"
+        ],
+        "color": "#BFBFBD",
+        "size": 10
+      }
+    },
+    {
+      "key": "https://orcid.org/0000-0002-2412-6228",
+      "attributes": {
+        "label": "C Hershey",
+        "name": "Clair H. Hershey",
+        "known?": false,
+        "orcid?": null,
+        "ncsu?": false,
+        "affiliations": [
+          "Private consultant, Flinton, PA, USA."
+        ],
+        "countries": [
+
+        ],
+        "color": "#BFBFBD",
+        "size": 10
+      }
+    },
+    {
+      "key": "https://orcid.org/0000-0002-4663-3896",
+      "attributes": {
+        "label": "X Zhang",
+        "name": "Xiaofei Zhang",
+        "known?": false,
+        "orcid?": null,
+        "ncsu?": false,
+        "affiliations": [
+          "International Center for Tropical Agriculture"
+        ],
+        "countries": [
+          "KE"
+        ],
+        "color": "#BFBFBD",
+        "size": 10
+      }
+    }
+  ],
+  "edges": [
+    {
+      "source": "uid-caiglesi",
+      "target": "https://orcid.org/0000-0002-8744-7918",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Genetic Engineering and Society --- unknown",
+        "colleges": "NC State --- unknown",
+        "buildings": "Kilgore Hall --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          2021
+        ],
+        "year_recent": 2021,
+        "dois": [
+          "10.1007/s00122-021-03852-9"
+        ],
+        "ncsu?": false,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          "Breeding program",
+          "Biology",
+          "Productivity",
+          "Plant breeding",
+          "Agriculture",
+          "Heritability",
+          "Biotechnology",
+          "Production (economics)",
+          "Selection (genetic algorithm)",
+          "Private sector",
+          "Genetic gain",
+          "Public sector",
+          "Agricultural economics",
+          "Agricultural science",
+          "Agronomy",
+          "Ecology",
+          "Economic growth",
+          "Economics",
+          "Genetic variation",
+          "Cultivar",
+          "Biochemistry",
+          "Genetics",
+          "Macroeconomics",
+          "Economy",
+          "Artificial intelligence",
+          "Computer science",
+          "Gene"
+        ],
+        "host_venues": [
+          "Theoretical and Applied Genetics"
+        ],
+        "color": "#000000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-caiglesi",
+      "target": "https://orcid.org/0000-0002-2412-6228",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Genetic Engineering and Society --- unknown",
+        "colleges": "NC State --- unknown",
+        "buildings": "Kilgore Hall --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          2021
+        ],
+        "year_recent": 2021,
+        "dois": [
+          "10.1007/s00122-021-03852-9"
+        ],
+        "ncsu?": false,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          "Breeding program",
+          "Biology",
+          "Productivity",
+          "Plant breeding",
+          "Agriculture",
+          "Heritability",
+          "Biotechnology",
+          "Production (economics)",
+          "Selection (genetic algorithm)",
+          "Private sector",
+          "Genetic gain",
+          "Public sector",
+          "Agricultural economics",
+          "Agricultural science",
+          "Agronomy",
+          "Ecology",
+          "Economic growth",
+          "Economics",
+          "Genetic variation",
+          "Cultivar",
+          "Biochemistry",
+          "Genetics",
+          "Macroeconomics",
+          "Economy",
+          "Artificial intelligence",
+          "Computer science",
+          "Gene"
+        ],
+        "host_venues": [
+          "Theoretical and Applied Genetics"
+        ],
+        "color": "#000000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-caiglesi",
+      "target": "https://orcid.org/0000-0002-4663-3896",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Genetic Engineering and Society --- unknown",
+        "colleges": "NC State --- unknown",
+        "buildings": "Kilgore Hall --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          2021
+        ],
+        "year_recent": 2021,
+        "dois": [
+          "10.1007/s00122-021-03852-9"
+        ],
+        "ncsu?": false,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          "Breeding program",
+          "Biology",
+          "Productivity",
+          "Plant breeding",
+          "Agriculture",
+          "Heritability",
+          "Biotechnology",
+          "Production (economics)",
+          "Selection (genetic algorithm)",
+          "Private sector",
+          "Genetic gain",
+          "Public sector",
+          "Agricultural economics",
+          "Agricultural science",
+          "Agronomy",
+          "Ecology",
+          "Economic growth",
+          "Economics",
+          "Genetic variation",
+          "Cultivar",
+          "Biochemistry",
+          "Genetics",
+          "Macroeconomics",
+          "Economy",
+          "Artificial intelligence",
+          "Computer science",
+          "Gene"
+        ],
+        "host_venues": [
+          "Theoretical and Applied Genetics"
+        ],
+        "color": "#000000",
+        "size": 1
+      }
+    }
+  ]
+}

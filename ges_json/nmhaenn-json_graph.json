@@ -1,0 +1,1242 @@
+{
+  "options": {
+    "type": "undirected",
+    "multi": false,
+    "allowSelfLoops": false
+  },
+  "attributes": {
+    "creator": "Citation Index",
+    "lastModifiedDate": "2023-01-14"
+  },
+  "nodes": [
+    {
+      "key": "uid-nmhaenn",
+      "attributes": {
+        "label": "N Haenn",
+        "name": "Nora Haenn",
+        "known?": true,
+        "orcid?": true,
+        "ncsu?": true,
+        "affiliations": [
+          "North Carolina State University"
+        ],
+        "countries": [
+          "US"
+        ],
+        "uid": "nmhaenn",
+        "url": "https://ci.lib.ncsu.edu/profiles/nmhaenn",
+        "orcid": "0000-0002-9668-5440",
+        "active?": true,
+        "department": "Interdisciplinary Studies",
+        "college": "College of Humanities and Social Sciences",
+        "ncsu_affiliations": [
+          "Interdisciplinary Studies",
+          "Sociology & Anthropology",
+          "Genetic Engineering and Society",
+          "Global Water, Sanitation and Hygiene"
+        ],
+        "cluster?": true,
+        "clusters": [
+          "Genetic Engineering and Society",
+          "Global Water, Sanitation and Hygiene"
+        ],
+        "role": "faculty",
+        "building": "1911 Bldg",
+        "count": 32,
+        "oa_count": 4,
+        "years": [
+          2020,
+          2019,
+          2018,
+          2017,
+          2016,
+          2014,
+          2013,
+          2012,
+          2011,
+          2010,
+          2009,
+          2007,
+          2006,
+          2005,
+          2004,
+          2003,
+          2002,
+          2000,
+          1999,
+          1994
+        ],
+        "year_recent": 2020,
+        "article_concepts": [
+          "Algorithm",
+          "Anthropology",
+          "Archaeology",
+          "Biodiversity",
+          "Biodiversity conservation",
+          "Biology",
+          "Business",
+          "Capital (architecture)",
+          "Capitalism",
+          "Computer network",
+          "Computer science",
+          "Conservation psychology",
+          "Ecology",
+          "Economic growth",
+          "Economics",
+          "Ethnography",
+          "Fisheries management",
+          "Fishery",
+          "Fishing",
+          "Gender studies",
+          "Geography",
+          "Grassroots",
+          "Law",
+          "Masculinity",
+          "Neoliberalism (international relations)",
+          "Political economy",
+          "Political science",
+          "Politics",
+          "Resource (disambiguation)",
+          "Resource management (computing)",
+          "Social capital",
+          "Social science",
+          "Sociology",
+          "State (computer science)"
+        ],
+        "host_venues": [
+          "American Ethnologist",
+          "Conservation Biology",
+          "Conservation and Society",
+          "Current Anthropology",
+          "Ethnology",
+          "Human Ecology",
+          "Human Organization",
+          "Journal of Agrarian Change",
+          "Journal of Poverty",
+          "Land Use Policy",
+          "Womens Studies International Forum",
+          "World Development"
+        ],
+        "color": "#FAC800",
+        "size": 20
+      }
+    },
+    {
+      "key": "bensiegelman",
+      "attributes": {
+        "label": "B Siegelman",
+        "name": "Ben Siegelman",
+        "known?": false,
+        "orcid?": null,
+        "ncsu?": false,
+        "affiliations": [
+          "Duke University, UNITED STATES"
+        ],
+        "countries": [
+
+        ],
+        "color": "#BFBFBD",
+        "size": 10
+      }
+    },
+    {
+      "key": "https://orcid.org/0000-0002-5321-3654",
+      "attributes": {
+        "label": "X Basurto",
+        "name": "Xavier Basurto",
+        "known?": false,
+        "orcid?": null,
+        "ncsu?": false,
+        "affiliations": [
+          "Duke University, UNITED STATES"
+        ],
+        "countries": [
+
+        ],
+        "color": "#BFBFBD",
+        "size": 10
+      }
+    },
+    {
+      "key": "bschmook",
+      "attributes": {
+        "label": "B Schmook",
+        "name": "B. Schmook",
+        "known?": false,
+        "orcid?": null,
+        "ncsu?": null,
+        "affiliations": null,
+        "countries": null,
+        "color": "#BFBFBD",
+        "size": 10
+      }
+    },
+    {
+      "key": "cradel",
+      "attributes": {
+        "label": "C Radel",
+        "name": "C. Radel",
+        "known?": false,
+        "orcid?": null,
+        "ncsu?": null,
+        "affiliations": null,
+        "countries": null,
+        "color": "#BFBFBD",
+        "size": 10
+      }
+    },
+    {
+      "key": "snavarroolmedo",
+      "attributes": {
+        "label": "S Navarro-Olmedo",
+        "name": "S. Navarro-Olmedo",
+        "known?": false,
+        "orcid?": null,
+        "ncsu?": null,
+        "affiliations": null,
+        "countries": null,
+        "color": "#BFBFBD",
+        "size": 10
+      }
+    },
+    {
+      "key": "https://orcid.org/0000-0001-8663-8432",
+      "attributes": {
+        "label": "C Radel",
+        "name": "Claudia Radel",
+        "known?": false,
+        "orcid?": null,
+        "ncsu?": false,
+        "affiliations": [
+          "Utah State University"
+        ],
+        "countries": [
+          "US"
+        ],
+        "color": "#BFBFBD",
+        "size": 10
+      }
+    },
+    {
+      "key": "https://orcid.org/0000-0001-5775-0310",
+      "attributes": {
+        "label": "B Schmook",
+        "name": "Birgit Schmook",
+        "known?": false,
+        "orcid?": null,
+        "ncsu?": false,
+        "affiliations": [
+          "El Colegio de la Frontera Sur"
+        ],
+        "countries": [
+          "MX"
+        ],
+        "color": "#BFBFBD",
+        "size": 10
+      }
+    },
+    {
+      "key": "lisagreen",
+      "attributes": {
+        "label": "L Green",
+        "name": "Lisa Green",
+        "known?": false,
+        "orcid?": null,
+        "ncsu?": false,
+        "affiliations": [
+          "Utah State University"
+        ],
+        "countries": [
+          "US"
+        ],
+        "color": "#BFBFBD",
+        "size": 10
+      }
+    },
+    {
+      "key": "santananavarroolmedo",
+      "attributes": {
+        "label": "S Navarro Olmedo",
+        "name": "Santana Navarro-Olmedo",
+        "known?": false,
+        "orcid?": null,
+        "ncsu?": false,
+        "affiliations": [
+          "El Colegio de la Frontera Sur"
+        ],
+        "countries": [
+          "MX"
+        ],
+        "color": "#BFBFBD",
+        "size": 10
+      }
+    },
+    {
+      "key": "yreyesmartnez",
+      "attributes": {
+        "label": "Y Martínez",
+        "name": "Y.Reyes Martínez",
+        "known?": false,
+        "orcid?": null,
+        "ncsu?": null,
+        "affiliations": null,
+        "countries": null,
+        "color": "#BFBFBD",
+        "size": 10
+      }
+    },
+    {
+      "key": "scalm",
+      "attributes": {
+        "label": "S Calmé",
+        "name": "S. Calmé",
+        "known?": false,
+        "orcid?": null,
+        "ncsu?": null,
+        "affiliations": null,
+        "countries": null,
+        "color": "#BFBFBD",
+        "size": 10
+      }
+    },
+    {
+      "key": "elizabethanneolson",
+      "attributes": {
+        "label": "E Olson",
+        "name": "Elizabeth Anne Olson",
+        "known?": false,
+        "orcid?": null,
+        "ncsu?": false,
+        "affiliations": [
+          "Allegheny College"
+        ],
+        "countries": [
+          "US"
+        ],
+        "color": "#BFBFBD",
+        "size": 10
+      }
+    },
+    {
+      "key": "josemartnezreyes",
+      "attributes": {
+        "label": "J Martinez-Reyes",
+        "name": "José E. Martínez-Reyes",
+        "known?": false,
+        "orcid?": null,
+        "ncsu?": false,
+        "affiliations": [
+          "University of Massachusetts Boston"
+        ],
+        "countries": [
+          "US"
+        ],
+        "color": "#BFBFBD",
+        "size": 10
+      }
+    },
+    {
+      "key": "leticiadurand",
+      "attributes": {
+        "label": "L Durand",
+        "name": "Leticia Durand",
+        "known?": false,
+        "orcid?": null,
+        "ncsu?": false,
+        "affiliations": [
+          "National Autonomous University of Mexico"
+        ],
+        "countries": [
+          "MX"
+        ],
+        "color": "#BFBFBD",
+        "size": 10
+      }
+    },
+    {
+      "key": "https://orcid.org/0000-0003-0818-3932",
+      "attributes": {
+        "label": "S Calmé",
+        "name": "Sophie Calmé",
+        "known?": false,
+        "orcid?": null,
+        "ncsu?": false,
+        "affiliations": [
+          "Université de Sherbrooke"
+        ],
+        "countries": [
+          "CA"
+        ],
+        "color": "#BFBFBD",
+        "size": 10
+      }
+    },
+    {
+      "key": "rmccoy",
+      "attributes": {
+        "label": "R McCoy",
+        "name": "R. McCoy",
+        "known?": false,
+        "orcid?": null,
+        "ncsu?": null,
+        "affiliations": null,
+        "countries": null,
+        "color": "#BFBFBD",
+        "size": 10
+      }
+    },
+    {
+      "key": "eleanoreshoreman",
+      "attributes": {
+        "label": "E Shoreman",
+        "name": "Eleanor E. Shoreman",
+        "known?": false,
+        "orcid?": null,
+        "ncsu?": false,
+        "affiliations": [
+          "Boston University"
+        ],
+        "countries": [
+          "US"
+        ],
+        "color": "#BFBFBD",
+        "size": 10
+      }
+    },
+    {
+      "key": "https://orcid.org/0000-0002-2826-0686",
+      "attributes": {
+        "label": "D Casagrande",
+        "name": "David G. Casagrande",
+        "known?": false,
+        "orcid?": null,
+        "ncsu?": false,
+        "affiliations": [
+          "Western Illinois University"
+        ],
+        "countries": [
+          "US"
+        ],
+        "color": "#BFBFBD",
+        "size": 10
+      }
+    }
+  ],
+  "edges": [
+    {
+      "source": "uid-nmhaenn",
+      "target": "bensiegelman",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Interdisciplinary Studies --- unknown",
+        "colleges": "College of Humanities and Social Sciences --- unknown",
+        "buildings": "1911 Bldg --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          2019
+        ],
+        "year_recent": 2019,
+        "dois": [
+          "10.1016/j.worlddev.2019.05.031"
+        ],
+        "ncsu?": false,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society",
+          "Global Water, Sanitation and Hygiene"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          "Social capital",
+          "Masculinity",
+          "Resource (disambiguation)",
+          "Fishery",
+          "Fisheries management",
+          "Business",
+          "Capital (architecture)",
+          "Resource management (computing)",
+          "Economic growth",
+          "Economics",
+          "Sociology",
+          "Geography",
+          "Fishing",
+          "Gender studies",
+          "Social science",
+          "Computer network",
+          "Archaeology",
+          "Computer science",
+          "Biology"
+        ],
+        "host_venues": [
+          "World Development"
+        ],
+        "color": "#000000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-nmhaenn",
+      "target": "https://orcid.org/0000-0002-5321-3654",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Interdisciplinary Studies --- unknown",
+        "colleges": "College of Humanities and Social Sciences --- unknown",
+        "buildings": "1911 Bldg --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          2019
+        ],
+        "year_recent": 2019,
+        "dois": [
+          "10.1016/j.worlddev.2019.05.031"
+        ],
+        "ncsu?": false,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society",
+          "Global Water, Sanitation and Hygiene"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          "Social capital",
+          "Masculinity",
+          "Resource (disambiguation)",
+          "Fishery",
+          "Fisheries management",
+          "Business",
+          "Capital (architecture)",
+          "Resource management (computing)",
+          "Economic growth",
+          "Economics",
+          "Sociology",
+          "Geography",
+          "Fishing",
+          "Gender studies",
+          "Social science",
+          "Computer network",
+          "Archaeology",
+          "Computer science",
+          "Biology"
+        ],
+        "host_venues": [
+          "World Development"
+        ],
+        "color": "#000000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-nmhaenn",
+      "target": "bschmook",
+      "attributes": {
+        "label": 2,
+        "weight": 2,
+        "collaboration_count": 2,
+        "departments": "Interdisciplinary Studies --- unknown",
+        "colleges": "College of Humanities and Social Sciences --- unknown",
+        "buildings": "1911 Bldg --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          2018,
+          2014
+        ],
+        "year_recent": 2018,
+        "dois": [
+
+        ],
+        "ncsu?": null,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society",
+          "Global Water, Sanitation and Hygiene"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          null
+        ],
+        "color": "#000000",
+        "size": 2
+      }
+    },
+    {
+      "source": "uid-nmhaenn",
+      "target": "cradel",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Interdisciplinary Studies --- unknown",
+        "colleges": "College of Humanities and Social Sciences --- unknown",
+        "buildings": "1911 Bldg --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          2018
+        ],
+        "year_recent": 2018,
+        "dois": [
+
+        ],
+        "ncsu?": null,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society",
+          "Global Water, Sanitation and Hygiene"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          null
+        ],
+        "color": "#000000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-nmhaenn",
+      "target": "snavarroolmedo",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Interdisciplinary Studies --- unknown",
+        "colleges": "College of Humanities and Social Sciences --- unknown",
+        "buildings": "1911 Bldg --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          2018
+        ],
+        "year_recent": 2018,
+        "dois": [
+
+        ],
+        "ncsu?": null,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society",
+          "Global Water, Sanitation and Hygiene"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          null
+        ],
+        "color": "#000000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-nmhaenn",
+      "target": "https://orcid.org/0000-0001-8663-8432",
+      "attributes": {
+        "label": 2,
+        "weight": 2,
+        "collaboration_count": 2,
+        "departments": "Interdisciplinary Studies --- unknown",
+        "colleges": "College of Humanities and Social Sciences --- unknown",
+        "buildings": "1911 Bldg --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          2017,
+          2016
+        ],
+        "year_recent": 2017,
+        "dois": [
+          "10.1016/j.wsif.2016.06.004",
+          "10.1111/joac.12095"
+        ],
+        "ncsu?": false,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society",
+          "Global Water, Sanitation and Hygiene"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          "Womens Studies International Forum"
+        ],
+        "color": "#000000",
+        "size": 2
+      }
+    },
+    {
+      "source": "uid-nmhaenn",
+      "target": "https://orcid.org/0000-0001-5775-0310",
+      "attributes": {
+        "label": 3,
+        "weight": 3,
+        "collaboration_count": 3,
+        "departments": "Interdisciplinary Studies --- unknown",
+        "colleges": "College of Humanities and Social Sciences --- unknown",
+        "buildings": "1911 Bldg --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          2017,
+          2016,
+          2014
+        ],
+        "year_recent": 2017,
+        "dois": [
+          "10.1016/j.wsif.2016.06.004",
+          "10.1111/joac.12095",
+          "10.1111/cobi.12265"
+        ],
+        "ncsu?": false,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society",
+          "Global Water, Sanitation and Hygiene"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          "Womens Studies International Forum"
+        ],
+        "color": "#000000",
+        "size": 3
+      }
+    },
+    {
+      "source": "uid-nmhaenn",
+      "target": "lisagreen",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Interdisciplinary Studies --- unknown",
+        "colleges": "College of Humanities and Social Sciences --- unknown",
+        "buildings": "1911 Bldg --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          2017
+        ],
+        "year_recent": 2017,
+        "dois": [
+          "10.1016/j.wsif.2016.06.004"
+        ],
+        "ncsu?": false,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society",
+          "Global Water, Sanitation and Hygiene"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          "Womens Studies International Forum"
+        ],
+        "color": "#000000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-nmhaenn",
+      "target": "santananavarroolmedo",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Interdisciplinary Studies --- unknown",
+        "colleges": "College of Humanities and Social Sciences --- unknown",
+        "buildings": "1911 Bldg --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          2016
+        ],
+        "year_recent": 2016,
+        "dois": [
+          "10.1111/joac.12095"
+        ],
+        "ncsu?": false,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society",
+          "Global Water, Sanitation and Hygiene"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          "Journal of Agrarian Change"
+        ],
+        "color": "#000000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-nmhaenn",
+      "target": "yreyesmartnez",
+      "attributes": {
+        "label": 2,
+        "weight": 2,
+        "collaboration_count": 2,
+        "departments": "Interdisciplinary Studies --- unknown",
+        "colleges": "College of Humanities and Social Sciences --- unknown",
+        "buildings": "1911 Bldg --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          2014,
+          2014
+        ],
+        "year_recent": 2014,
+        "dois": [
+          "10.1111/cobi.12265"
+        ],
+        "ncsu?": null,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society",
+          "Global Water, Sanitation and Hygiene"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          null
+        ],
+        "color": "#000000",
+        "size": 2
+      }
+    },
+    {
+      "source": "uid-nmhaenn",
+      "target": "scalm",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Interdisciplinary Studies --- unknown",
+        "colleges": "College of Humanities and Social Sciences --- unknown",
+        "buildings": "1911 Bldg --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          2014
+        ],
+        "year_recent": 2014,
+        "dois": [
+
+        ],
+        "ncsu?": null,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society",
+          "Global Water, Sanitation and Hygiene"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          null
+        ],
+        "color": "#000000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-nmhaenn",
+      "target": "elizabethanneolson",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Interdisciplinary Studies --- unknown",
+        "colleges": "College of Humanities and Social Sciences --- unknown",
+        "buildings": "1911 Bldg --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          2014
+        ],
+        "year_recent": 2014,
+        "dois": [
+          "10.4103/0972-4923.138407"
+        ],
+        "ncsu?": false,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society",
+          "Global Water, Sanitation and Hygiene"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          "Neoliberalism (international relations)",
+          "Grassroots",
+          "Conservation psychology",
+          "Capitalism",
+          "Biodiversity conservation",
+          "State (computer science)",
+          "Sociology",
+          "Ethnography",
+          "Political economy",
+          "Political science",
+          "Biodiversity",
+          "Ecology",
+          "Politics",
+          "Law",
+          "Algorithm",
+          "Computer science",
+          "Anthropology",
+          "Biology"
+        ],
+        "host_venues": [
+          "Conservation and Society"
+        ],
+        "color": "#000000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-nmhaenn",
+      "target": "josemartnezreyes",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Interdisciplinary Studies --- unknown",
+        "colleges": "College of Humanities and Social Sciences --- unknown",
+        "buildings": "1911 Bldg --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          2014
+        ],
+        "year_recent": 2014,
+        "dois": [
+          "10.4103/0972-4923.138407"
+        ],
+        "ncsu?": false,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society",
+          "Global Water, Sanitation and Hygiene"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          "Neoliberalism (international relations)",
+          "Grassroots",
+          "Conservation psychology",
+          "Capitalism",
+          "Biodiversity conservation",
+          "State (computer science)",
+          "Sociology",
+          "Ethnography",
+          "Political economy",
+          "Political science",
+          "Biodiversity",
+          "Ecology",
+          "Politics",
+          "Law",
+          "Algorithm",
+          "Computer science",
+          "Anthropology",
+          "Biology"
+        ],
+        "host_venues": [
+          "Conservation and Society"
+        ],
+        "color": "#000000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-nmhaenn",
+      "target": "leticiadurand",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Interdisciplinary Studies --- unknown",
+        "colleges": "College of Humanities and Social Sciences --- unknown",
+        "buildings": "1911 Bldg --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          2014
+        ],
+        "year_recent": 2014,
+        "dois": [
+          "10.4103/0972-4923.138407"
+        ],
+        "ncsu?": false,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society",
+          "Global Water, Sanitation and Hygiene"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          "Neoliberalism (international relations)",
+          "Grassroots",
+          "Conservation psychology",
+          "Capitalism",
+          "Biodiversity conservation",
+          "State (computer science)",
+          "Sociology",
+          "Ethnography",
+          "Political economy",
+          "Political science",
+          "Biodiversity",
+          "Ecology",
+          "Politics",
+          "Law",
+          "Algorithm",
+          "Computer science",
+          "Anthropology",
+          "Biology"
+        ],
+        "host_venues": [
+          "Conservation and Society"
+        ],
+        "color": "#000000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-nmhaenn",
+      "target": "https://orcid.org/0000-0003-0818-3932",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Interdisciplinary Studies --- unknown",
+        "colleges": "College of Humanities and Social Sciences --- unknown",
+        "buildings": "1911 Bldg --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          2014
+        ],
+        "year_recent": 2014,
+        "dois": [
+          "10.1111/cobi.12265"
+        ],
+        "ncsu?": false,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society",
+          "Global Water, Sanitation and Hygiene"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          "Conservation Biology"
+        ],
+        "color": "#000000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-nmhaenn",
+      "target": "rmccoy",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Interdisciplinary Studies --- unknown",
+        "colleges": "College of Humanities and Social Sciences --- unknown",
+        "buildings": "1911 Bldg --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          2013
+        ],
+        "year_recent": 2013,
+        "dois": [
+
+        ],
+        "ncsu?": null,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society",
+          "Global Water, Sanitation and Hygiene"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          null
+        ],
+        "color": "#000000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-nmhaenn",
+      "target": "eleanoreshoreman",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Interdisciplinary Studies --- unknown",
+        "colleges": "College of Humanities and Social Sciences --- unknown",
+        "buildings": "1911 Bldg --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          2009
+        ],
+        "year_recent": 2009,
+        "dois": [
+          "10.1007/s10745-009-9218-5"
+        ],
+        "ncsu?": false,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society",
+          "Global Water, Sanitation and Hygiene"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          "Human Ecology"
+        ],
+        "color": "#000000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-nmhaenn",
+      "target": "https://orcid.org/0000-0002-2826-0686",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Interdisciplinary Studies --- unknown",
+        "colleges": "College of Humanities and Social Sciences --- unknown",
+        "buildings": "1911 Bldg --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          2007
+        ],
+        "year_recent": 2007,
+        "dois": [
+          "10.17730/humo.66.2.82400531t1533651"
+        ],
+        "ncsu?": false,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society",
+          "Global Water, Sanitation and Hygiene"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          "Human Organization"
+        ],
+        "color": "#000000",
+        "size": 1
+      }
+    }
+  ]
+}

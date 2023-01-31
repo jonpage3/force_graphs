@@ -1,0 +1,1286 @@
+{
+  "options": {
+    "type": "undirected",
+    "multi": false,
+    "allowSelfLoops": false
+  },
+  "attributes": {
+    "creator": "Citation Index",
+    "lastModifiedDate": "2023-01-14"
+  },
+  "nodes": [
+    {
+      "key": "uid-wjkinsel",
+      "attributes": {
+        "label": "W Kinsella",
+        "name": "William Kinsella",
+        "known?": true,
+        "orcid?": false,
+        "ncsu?": true,
+        "affiliations": [
+          "North Carolina State University"
+        ],
+        "countries": [
+          "US"
+        ],
+        "uid": "wjkinsel",
+        "url": "https://ci.lib.ncsu.edu/profiles/wjkinsel",
+        "active?": true,
+        "department": "Communication",
+        "college": "College of Humanities and Social Sciences",
+        "ncsu_affiliations": [
+          "Communication",
+          "Genetic Engineering and Society",
+          "Communication Rhetoric and Digital Media",
+          "Coastal and Marine Sciences Program"
+        ],
+        "cluster?": true,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "role": "faculty",
+        "building": "Winston Hall",
+        "count": 33,
+        "oa_count": 0,
+        "years": [
+          2022,
+          2020,
+          2018,
+          2015,
+          2013,
+          2012,
+          2011,
+          2010,
+          2008,
+          2007,
+          2005,
+          2004,
+          2002,
+          2001,
+          1999,
+          1996,
+          1993
+        ],
+        "year_recent": 2022,
+        "article_concepts": [
+
+        ],
+        "host_venues": [
+          "Annals of the International Communication Association",
+          "Catalan Journal of Communication & Cultural Studies",
+          "Communication Monographs",
+          "Communication Yearbook",
+          "Corporate Communications: An International Journal",
+          "Environmental Communication-a Journal of Nature and Culture",
+          "Local Environment",
+          "Management Communication Quarterly",
+          "Rhetoric Society Quarterly",
+          "Routledge eBooks",
+          "Russian journal of communication",
+          "Science As Culture",
+          "Technical Communication Quarterly",
+          "The Extractive Industries and Society",
+          "The New Jersey journal of communication",
+          "The environmental communication yearbook"
+        ],
+        "color": "#FAC800",
+        "size": 20
+      }
+    },
+    {
+      "key": "https://orcid.org/0000-0001-8384-7175",
+      "attributes": {
+        "label": "J Barbour",
+        "name": "Joshua B. Barbour",
+        "known?": false,
+        "orcid?": null,
+        "ncsu?": false,
+        "affiliations": [
+          "The University of Texas at Austin"
+        ],
+        "countries": [
+          "US"
+        ],
+        "color": "#BFBFBD",
+        "size": 10
+      }
+    },
+    {
+      "key": "https://orcid.org/0000-0003-0058-7676",
+      "attributes": {
+        "label": "P Buzzanell",
+        "name": "Patrice M. Buzzanell",
+        "known?": false,
+        "orcid?": null,
+        "ncsu?": false,
+        "affiliations": [
+          "University of South Florida"
+        ],
+        "countries": [
+          "US"
+        ],
+        "color": "#BFBFBD",
+        "size": 10
+      }
+    },
+    {
+      "key": "https://orcid.org/0000-0002-9526-2331",
+      "attributes": {
+        "label": "K Stephens",
+        "name": "Keri K. Stephens",
+        "known?": false,
+        "orcid?": null,
+        "ncsu?": false,
+        "affiliations": [
+          "The University of Texas at Austin"
+        ],
+        "countries": [
+          "US"
+        ],
+        "color": "#BFBFBD",
+        "size": 10
+      }
+    },
+    {
+      "key": "dorothycollinsandreas",
+      "attributes": {
+        "label": "D Andreas",
+        "name": "Dorothy Collins Andreas",
+        "known?": false,
+        "orcid?": null,
+        "ncsu?": false,
+        "affiliations": [
+          "Pepperdine University"
+        ],
+        "countries": [
+          "US"
+        ],
+        "color": "#BFBFBD",
+        "size": 10
+      }
+    },
+    {
+      "key": "danielleendres",
+      "attributes": {
+        "label": "D Endres",
+        "name": "Danielle Endres",
+        "known?": false,
+        "orcid?": null,
+        "ncsu?": false,
+        "affiliations": [
+          "University of Utah"
+        ],
+        "countries": [
+          "US"
+        ],
+        "color": "#BFBFBD",
+        "size": 10
+      }
+    },
+    {
+      "key": "uid-arkelly2",
+      "attributes": {
+        "label": "A Kelly",
+        "name": "Ashley Rose Kelly",
+        "known?": true,
+        "orcid?": false,
+        "ncsu?": true,
+        "affiliations": [
+          "North Carolina State University"
+        ],
+        "countries": [
+          "US"
+        ],
+        "uid": "arkelly2",
+        "url": "https://ci.lib.ncsu.edu/profiles/arkelly2",
+        "active?": false,
+        "department": "Communication Rhetoric and Digital Media",
+        "college": "College of Humanities and Social Sciences",
+        "ncsu_affiliations": [
+          "Communication Rhetoric and Digital Media"
+        ],
+        "cluster?": false,
+        "clusters": [
+
+        ],
+        "role": null,
+        "building": null,
+        "count": 4,
+        "oa_count": 1,
+        "years": [
+          2017,
+          2013,
+          2012
+        ],
+        "year_recent": 2017,
+        "article_concepts": [
+          "Argument (complex analysis)",
+          "Astronomy",
+          "Biochemistry",
+          "Chemistry",
+          "Computer science",
+          "Internet privacy",
+          "Law",
+          "Library science",
+          "Open science",
+          "Pedagogy",
+          "Physics",
+          "Political science",
+          "Popularity",
+          "Public relations",
+          "Publishing",
+          "Scholarly communication",
+          "Science communication",
+          "Science education",
+          "Scientific communication",
+          "Sociology",
+          "The Internet",
+          "World Wide Web"
+        ],
+        "host_venues": [
+          "Communication Monographs",
+          "First Monday",
+          "Springer International Publishing eBooks"
+        ],
+        "color": "#FAC800",
+        "size": 10
+      }
+    },
+    {
+      "key": "uid-makittle",
+      "attributes": {
+        "label": "M Kittle Autry",
+        "name": "Meagan Kittle Autry",
+        "known?": true,
+        "orcid?": true,
+        "ncsu?": true,
+        "affiliations": [
+          "North Carolina State University"
+        ],
+        "countries": [
+          "US"
+        ],
+        "uid": "makittle",
+        "url": "https://ci.lib.ncsu.edu/profiles/makittle",
+        "orcid": "0000-0002-4050-0515",
+        "active?": true,
+        "department": "Civil, Construction, and Environmental Engineering",
+        "college": "College of Engineering",
+        "ncsu_affiliations": [
+          "Civil, Construction, and Environmental Engineering",
+          "Communication Rhetoric and Digital Media"
+        ],
+        "cluster?": false,
+        "clusters": [
+
+        ],
+        "role": "faculty",
+        "building": "Fitts-Woolard Hall",
+        "count": 10,
+        "oa_count": 1,
+        "years": [
+          2016,
+          2015,
+          2014,
+          2013,
+          2012,
+          2011
+        ],
+        "year_recent": 2016,
+        "article_concepts": [
+          "Argument (complex analysis)",
+          "Astronomy",
+          "Biochemistry",
+          "Chemistry",
+          "Computer science",
+          "Internet privacy",
+          "Law",
+          "Library science",
+          "Open science",
+          "Pedagogy",
+          "Physics",
+          "Political science",
+          "Popularity",
+          "Public relations",
+          "Publishing",
+          "Scholarly communication",
+          "Science communication",
+          "Science education",
+          "Scientific communication",
+          "Sociology",
+          "The Internet",
+          "World Wide Web"
+        ],
+        "host_venues": [
+          "Communication Monographs",
+          "Environmental Communication-a Journal of Nature and Culture",
+          "First Monday",
+          "IEEE Transactions on Professional Communication",
+          "International Conference on Design of Communication",
+          "Journal of Technical Writing and Communication"
+        ],
+        "color": "#990000",
+        "size": 10
+      }
+    },
+    {
+      "key": "peterkbsumek",
+      "attributes": {
+        "label": "P Bsumek",
+        "name": "Peter K. Bsumek",
+        "known?": false,
+        "orcid?": null,
+        "ncsu?": false,
+        "affiliations": [
+
+        ],
+        "countries": [
+
+        ],
+        "color": "#BFBFBD",
+        "size": 10
+      }
+    },
+    {
+      "key": "greggbwalker",
+      "attributes": {
+        "label": "G Walker",
+        "name": "Gregg B. Walker",
+        "known?": false,
+        "orcid?": null,
+        "ncsu?": false,
+        "affiliations": [
+
+        ],
+        "countries": [
+
+        ],
+        "color": "#BFBFBD",
+        "size": 10
+      }
+    },
+    {
+      "key": "williamjkinsella",
+      "attributes": {
+        "label": "W Kinsella",
+        "name": "William J. Kinsella",
+        "known?": false,
+        "orcid?": null,
+        "ncsu?": null,
+        "affiliations": null,
+        "countries": null,
+        "color": "#BFBFBD",
+        "size": 10
+      }
+    },
+    {
+      "key": "terencecheck",
+      "attributes": {
+        "label": "T Check",
+        "name": "Terence Check",
+        "known?": false,
+        "orcid?": null,
+        "ncsu?": false,
+        "affiliations": [
+
+        ],
+        "countries": [
+
+        ],
+        "color": "#BFBFBD",
+        "size": 10
+      }
+    },
+    {
+      "key": "https://orcid.org/0000-0002-2864-0013",
+      "attributes": {
+        "label": "T Rai Peterson",
+        "name": "Tarla Rai Peterson",
+        "known?": false,
+        "orcid?": null,
+        "ncsu?": false,
+        "affiliations": [
+
+        ],
+        "countries": [
+
+        ],
+        "color": "#BFBFBD",
+        "size": 10
+      }
+    },
+    {
+      "key": "steveschwarze",
+      "attributes": {
+        "label": "S Schwarze",
+        "name": "Steve Schwarze",
+        "known?": false,
+        "orcid?": null,
+        "ncsu?": false,
+        "affiliations": [
+
+        ],
+        "countries": [
+
+        ],
+        "color": "#BFBFBD",
+        "size": 10
+      }
+    },
+    {
+      "key": "jmullen",
+      "attributes": {
+        "label": "J Mullen",
+        "name": "J. Mullen",
+        "known?": false,
+        "orcid?": null,
+        "ncsu?": null,
+        "affiliations": null,
+        "countries": null,
+        "color": "#BFBFBD",
+        "size": 10
+      }
+    },
+    {
+      "key": "bctaylor",
+      "attributes": {
+        "label": "B Taylor",
+        "name": "B. C. Taylor",
+        "known?": false,
+        "orcid?": null,
+        "ncsu?": null,
+        "affiliations": null,
+        "countries": null,
+        "color": "#BFBFBD",
+        "size": 10
+      }
+    },
+    {
+      "key": "https://orcid.org/0000-0001-5955-521X",
+      "attributes": {
+        "label": "B Taylor",
+        "name": "Bryan C. Taylor",
+        "known?": false,
+        "orcid?": null,
+        "ncsu?": false,
+        "affiliations": [
+          "UNIVERSITY OF COLORADO AT BOULDER"
+        ],
+        "countries": [
+
+        ],
+        "color": "#BFBFBD",
+        "size": 10
+      }
+    },
+    {
+      "key": "stephenpdepoe",
+      "attributes": {
+        "label": "S Depoe",
+        "name": "Stephen P. Depoe",
+        "known?": false,
+        "orcid?": null,
+        "ncsu?": false,
+        "affiliations": [
+          "University of Cincinnati"
+        ],
+        "countries": [
+          "US"
+        ],
+        "color": "#BFBFBD",
+        "size": 10
+      }
+    },
+    {
+      "key": "maribethsmetzler",
+      "attributes": {
+        "label": "M Metzler",
+        "name": "Maribeth S. Metzler",
+        "known?": false,
+        "orcid?": null,
+        "ncsu?": false,
+        "affiliations": [
+          "University of Cincinnati"
+        ],
+        "countries": [
+          "US"
+        ],
+        "color": "#BFBFBD",
+        "size": 10
+      }
+    }
+  ],
+  "edges": [
+    {
+      "source": "uid-wjkinsel",
+      "target": "https://orcid.org/0000-0001-8384-7175",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Communication --- unknown",
+        "colleges": "College of Humanities and Social Sciences --- unknown",
+        "buildings": "Winston Hall --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          2018
+        ],
+        "year_recent": 2018,
+        "dois": [
+          "10.1108/ccij-01-2018-0019"
+        ],
+        "ncsu?": false,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          "Corporate Communications: An International Journal"
+        ],
+        "color": "#000000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-wjkinsel",
+      "target": "https://orcid.org/0000-0003-0058-7676",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Communication --- unknown",
+        "colleges": "College of Humanities and Social Sciences --- unknown",
+        "buildings": "Winston Hall --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          2018
+        ],
+        "year_recent": 2018,
+        "dois": [
+          "10.1108/ccij-01-2018-0019"
+        ],
+        "ncsu?": false,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          "Corporate Communications: An International Journal"
+        ],
+        "color": "#000000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-wjkinsel",
+      "target": "https://orcid.org/0000-0002-9526-2331",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Communication --- unknown",
+        "colleges": "College of Humanities and Social Sciences --- unknown",
+        "buildings": "Winston Hall --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          2018
+        ],
+        "year_recent": 2018,
+        "dois": [
+          "10.1108/ccij-01-2018-0019"
+        ],
+        "ncsu?": false,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          "Corporate Communications: An International Journal"
+        ],
+        "color": "#000000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-wjkinsel",
+      "target": "dorothycollinsandreas",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Communication --- unknown",
+        "colleges": "College of Humanities and Social Sciences --- unknown",
+        "buildings": "Winston Hall --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          2015
+        ],
+        "year_recent": 2015,
+        "dois": [
+          "10.1080/23808985.2015.11679178"
+        ],
+        "ncsu?": false,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          "Annals of the International Communication Association"
+        ],
+        "color": "#000000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-wjkinsel",
+      "target": "danielleendres",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Communication --- unknown",
+        "colleges": "College of Humanities and Social Sciences --- unknown",
+        "buildings": "Winston Hall --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          2015
+        ],
+        "year_recent": 2015,
+        "dois": [
+          "10.1080/23808985.2015.11679178"
+        ],
+        "ncsu?": false,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          "Annals of the International Communication Association"
+        ],
+        "color": "#000000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-wjkinsel",
+      "target": "uid-arkelly2",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Communication -- Communication Rhetoric and Digital Media",
+        "colleges": "College of Humanities and Social Sciences == College of Humanities and Social Sciences",
+        "buildings": "Winston Hall --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          2013
+        ],
+        "year_recent": 2013,
+        "dois": [
+          "10.1080/03637751.2013.788253"
+        ],
+        "ncsu?": true,
+        "cross_college?": false,
+        "cross_department?": true,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          "Communication Monographs"
+        ],
+        "color": "#CC0000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-wjkinsel",
+      "target": "uid-makittle",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Civil, Construction, and Environmental Engineering -- Communication",
+        "colleges": "College of Engineering -- College of Humanities and Social Sciences",
+        "buildings": "Fitts-Woolard Hall -- Winston Hall",
+        "roles": "faculty == faculty",
+        "years": [
+          2013
+        ],
+        "year_recent": 2013,
+        "dois": [
+          "10.1080/03637751.2013.788253"
+        ],
+        "ncsu?": true,
+        "cross_college?": true,
+        "cross_department?": true,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": true,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          "Communication Monographs"
+        ],
+        "color": "#FAC800",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-wjkinsel",
+      "target": "peterkbsumek",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Communication --- unknown",
+        "colleges": "College of Humanities and Social Sciences --- unknown",
+        "buildings": "Winston Hall --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          2008
+        ],
+        "year_recent": 2008,
+        "dois": [
+          "10.1080/17524030801980242"
+        ],
+        "ncsu?": false,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          "Environmental Communication-a Journal of Nature and Culture"
+        ],
+        "color": "#000000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-wjkinsel",
+      "target": "greggbwalker",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Communication --- unknown",
+        "colleges": "College of Humanities and Social Sciences --- unknown",
+        "buildings": "Winston Hall --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          2008
+        ],
+        "year_recent": 2008,
+        "dois": [
+          "10.1080/17524030801980242"
+        ],
+        "ncsu?": false,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          "Environmental Communication-a Journal of Nature and Culture"
+        ],
+        "color": "#000000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-wjkinsel",
+      "target": "williamjkinsella",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Communication --- unknown",
+        "colleges": "College of Humanities and Social Sciences --- unknown",
+        "buildings": "Winston Hall --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          2008
+        ],
+        "year_recent": 2008,
+        "dois": [
+          "10.1080/17524030801980242"
+        ],
+        "ncsu?": null,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          "Environmental Communication-a Journal of Nature and Culture"
+        ],
+        "color": "#000000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-wjkinsel",
+      "target": "terencecheck",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Communication --- unknown",
+        "colleges": "College of Humanities and Social Sciences --- unknown",
+        "buildings": "Winston Hall --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          2008
+        ],
+        "year_recent": 2008,
+        "dois": [
+          "10.1080/17524030801980242"
+        ],
+        "ncsu?": false,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          "Environmental Communication-a Journal of Nature and Culture"
+        ],
+        "color": "#000000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-wjkinsel",
+      "target": "https://orcid.org/0000-0002-2864-0013",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Communication --- unknown",
+        "colleges": "College of Humanities and Social Sciences --- unknown",
+        "buildings": "Winston Hall --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          2008
+        ],
+        "year_recent": 2008,
+        "dois": [
+          "10.1080/17524030801980242"
+        ],
+        "ncsu?": false,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          "Environmental Communication-a Journal of Nature and Culture"
+        ],
+        "color": "#000000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-wjkinsel",
+      "target": "steveschwarze",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Communication --- unknown",
+        "colleges": "College of Humanities and Social Sciences --- unknown",
+        "buildings": "Winston Hall --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          2008
+        ],
+        "year_recent": 2008,
+        "dois": [
+          "10.1080/17524030801980242"
+        ],
+        "ncsu?": false,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          "Environmental Communication-a Journal of Nature and Culture"
+        ],
+        "color": "#000000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-wjkinsel",
+      "target": "jmullen",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Communication --- unknown",
+        "colleges": "College of Humanities and Social Sciences --- unknown",
+        "buildings": "Winston Hall --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          2007
+        ],
+        "year_recent": 2007,
+        "dois": [
+
+        ],
+        "ncsu?": null,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          null
+        ],
+        "color": "#000000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-wjkinsel",
+      "target": "bctaylor",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Communication --- unknown",
+        "colleges": "College of Humanities and Social Sciences --- unknown",
+        "buildings": "Winston Hall --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          2007
+        ],
+        "year_recent": 2007,
+        "dois": [
+
+        ],
+        "ncsu?": null,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          null
+        ],
+        "color": "#000000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-wjkinsel",
+      "target": "https://orcid.org/0000-0001-5955-521X",
+      "attributes": {
+        "label": 2,
+        "weight": 2,
+        "collaboration_count": 2,
+        "departments": "Communication --- unknown",
+        "colleges": "College of Humanities and Social Sciences --- unknown",
+        "buildings": "Winston Hall --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          2005,
+          2005
+        ],
+        "year_recent": 2005,
+        "dois": [
+          "10.1080/23808985.2005.11679053",
+          "10.1207/s15567419cy2901_12"
+        ],
+        "ncsu?": false,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          "Annals of the International Communication Association"
+        ],
+        "color": "#000000",
+        "size": 2
+      }
+    },
+    {
+      "source": "uid-wjkinsel",
+      "target": "stephenpdepoe",
+      "attributes": {
+        "label": 2,
+        "weight": 2,
+        "collaboration_count": 2,
+        "departments": "Communication --- unknown",
+        "colleges": "College of Humanities and Social Sciences --- unknown",
+        "buildings": "Winston Hall --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          2005,
+          2005
+        ],
+        "year_recent": 2005,
+        "dois": [
+          "10.1080/23808985.2005.11679053",
+          "10.1207/s15567419cy2901_12"
+        ],
+        "ncsu?": false,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          "Annals of the International Communication Association"
+        ],
+        "color": "#000000",
+        "size": 2
+      }
+    },
+    {
+      "source": "uid-wjkinsel",
+      "target": "maribethsmetzler",
+      "attributes": {
+        "label": 2,
+        "weight": 2,
+        "collaboration_count": 2,
+        "departments": "Communication --- unknown",
+        "colleges": "College of Humanities and Social Sciences --- unknown",
+        "buildings": "Winston Hall --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          2005,
+          2005
+        ],
+        "year_recent": 2005,
+        "dois": [
+          "10.1080/23808985.2005.11679053",
+          "10.1207/s15567419cy2901_12"
+        ],
+        "ncsu?": false,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          "Annals of the International Communication Association"
+        ],
+        "color": "#000000",
+        "size": 2
+      }
+    },
+    {
+      "source": "uid-arkelly2",
+      "target": "uid-makittle",
+      "attributes": {
+        "label": 3,
+        "weight": 3,
+        "collaboration_count": 3,
+        "departments": "Civil, Construction, and Environmental Engineering -- Communication Rhetoric and Digital Media",
+        "colleges": "College of Engineering -- College of Humanities and Social Sciences",
+        "buildings": "Fitts-Woolard Hall --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          2013,
+          2013,
+          2012
+        ],
+        "year_recent": 2013,
+        "dois": [
+          "10.5210/fm.v18i6.4341",
+          "10.1080/03637751.2013.788253"
+        ],
+        "ncsu?": true,
+        "cross_college?": true,
+        "cross_department?": true,
+        "cross_unit?": false,
+        "cluster?": false,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+
+        ],
+        "cross_building?": false,
+        "concepts": [
+          "Popularity",
+          "Argument (complex analysis)",
+          "The Internet",
+          "Scholarly communication",
+          "Science communication",
+          "Open science",
+          "Scientific communication",
+          "Publishing",
+          "Public relations",
+          "Internet privacy",
+          "Sociology",
+          "World Wide Web",
+          "Computer science",
+          "Political science",
+          "Science education",
+          "Pedagogy",
+          "Biochemistry",
+          "Chemistry",
+          "Physics",
+          "Astronomy",
+          "Library science",
+          "Law"
+        ],
+        "host_venues": [
+          "First Monday"
+        ],
+        "color": "#FAC800",
+        "size": 3
+      }
+    }
+  ]
+}

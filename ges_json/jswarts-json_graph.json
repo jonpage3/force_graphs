@@ -1,0 +1,389 @@
+{
+  "options": {
+    "type": "undirected",
+    "multi": false,
+    "allowSelfLoops": false
+  },
+  "attributes": {
+    "creator": "Citation Index",
+    "lastModifiedDate": "2023-01-14"
+  },
+  "nodes": [
+    {
+      "key": "uid-jswarts",
+      "attributes": {
+        "label": "J Swarts",
+        "name": "Jason Swarts",
+        "known?": true,
+        "orcid?": false,
+        "ncsu?": true,
+        "affiliations": [
+          "North Carolina State University"
+        ],
+        "countries": [
+          "US"
+        ],
+        "uid": "jswarts",
+        "url": "https://ci.lib.ncsu.edu/profiles/jswarts",
+        "active?": true,
+        "department": "English",
+        "college": "College of Humanities and Social Sciences",
+        "ncsu_affiliations": [
+          "English",
+          "Genetic Engineering and Society",
+          "Communication Rhetoric and Digital Media"
+        ],
+        "cluster?": true,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "role": "faculty",
+        "building": "Tompkins Hall",
+        "count": 24,
+        "oa_count": 1,
+        "years": [
+          2022,
+          2020,
+          2019,
+          2018,
+          2016,
+          2015,
+          2012,
+          2011,
+          2010,
+          2009,
+          2008,
+          2007,
+          2006,
+          2005,
+          2004
+        ],
+        "year_recent": 2022,
+        "article_concepts": [
+          "Coding (social sciences)",
+          "Computer science",
+          "Computer security",
+          "Documentation",
+          "Human–computer interaction",
+          "Learnability",
+          "Mathematics",
+          "Natural language processing",
+          "Programming language",
+          "Software",
+          "Software construction",
+          "Software development",
+          "Software documentation",
+          "Software engineering",
+          "Software peer review",
+          "Statistics",
+          "Transparency (behavior)",
+          "Usability",
+          "World Wide Web"
+        ],
+        "host_venues": [
+          "IEEE Transactions on Professional Communication",
+          "International Conference on Design of Communication",
+          "Journal of Business and Technical Communication",
+          "Journal of Technical Writing and Communication",
+          "Journal of Veterinary Medical Education",
+          "Technical Communication",
+          "Technical Communication Quarterly",
+          "Written Communication"
+        ],
+        "color": "#FAC800",
+        "size": 20
+      }
+    },
+    {
+      "key": "cherylgeisler",
+      "attributes": {
+        "label": "C Geisler",
+        "name": "Cheryl Geisler",
+        "known?": false,
+        "orcid?": null,
+        "ncsu?": false,
+        "affiliations": [
+          "Simon Fraser University"
+        ],
+        "countries": [
+          "CA"
+        ],
+        "color": "#BFBFBD",
+        "size": 10
+      }
+    },
+    {
+      "key": "sarahread",
+      "attributes": {
+        "label": "S Read",
+        "name": "Sarah Read",
+        "known?": false,
+        "orcid?": null,
+        "ncsu?": false,
+        "affiliations": [
+          "DePaul University"
+        ],
+        "countries": [
+          "US"
+        ],
+        "color": "#BFBFBD",
+        "size": 10
+      }
+    },
+    {
+      "key": "mattmorain",
+      "attributes": {
+        "label": "M Morain",
+        "name": "Matt Morain",
+        "known?": false,
+        "orcid?": null,
+        "ncsu?": true,
+        "affiliations": [
+          "North Carolina State University"
+        ],
+        "countries": [
+          "US"
+        ],
+        "color": "#000000",
+        "size": 10
+      }
+    },
+    {
+      "key": "loelkim",
+      "attributes": {
+        "label": "L Kim",
+        "name": "Loel Kim",
+        "known?": false,
+        "orcid?": null,
+        "ncsu?": false,
+        "affiliations": [
+
+        ],
+        "countries": [
+
+        ],
+        "color": "#BFBFBD",
+        "size": 10
+      }
+    },
+    {
+      "key": "maggielynnvannorman",
+      "attributes": {
+        "label": "M VanNorman",
+        "name": "Maggie Lynn VanNorman",
+        "known?": false,
+        "orcid?": null,
+        "ncsu?": false,
+        "affiliations": [
+
+        ],
+        "countries": [
+
+        ],
+        "color": "#BFBFBD",
+        "size": 10
+      }
+    }
+  ],
+  "edges": [
+    {
+      "source": "uid-jswarts",
+      "target": "cherylgeisler",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "English --- unknown",
+        "colleges": "College of Humanities and Social Sciences --- unknown",
+        "buildings": "Tompkins Hall --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          2019
+        ],
+        "year_recent": 2019,
+        "dois": [
+          "10.37514/pra-b.2019.0230"
+        ],
+        "ncsu?": false,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          "Coding (social sciences)",
+          "Computer science",
+          "Natural language processing",
+          "Mathematics",
+          "Statistics"
+        ],
+        "host_venues": [
+          null
+        ],
+        "color": "#000000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-jswarts",
+      "target": "sarahread",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "English --- unknown",
+        "colleges": "College of Humanities and Social Sciences --- unknown",
+        "buildings": "Tompkins Hall --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          2015
+        ],
+        "year_recent": 2015,
+        "dois": [
+          "10.1080/10572252.2015.975961"
+        ],
+        "ncsu?": false,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          "Technical Communication Quarterly"
+        ],
+        "color": "#000000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-jswarts",
+      "target": "mattmorain",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "English --- unknown",
+        "colleges": "College of Humanities and Social Sciences --- unknown",
+        "buildings": "Tompkins Hall --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          2012
+        ],
+        "year_recent": 2012,
+        "dois": [
+          "10.1080/10572252.2012.626690"
+        ],
+        "ncsu?": true,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          "Technical Communication Quarterly"
+        ],
+        "color": "#CC0000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-jswarts",
+      "target": "loelkim",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "English --- unknown",
+        "colleges": "College of Humanities and Social Sciences --- unknown",
+        "buildings": "Tompkins Hall --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          2009
+        ],
+        "year_recent": 2009,
+        "dois": [
+          "10.1080/10572250902941986"
+        ],
+        "ncsu?": false,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          "Technical Communication Quarterly"
+        ],
+        "color": "#000000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-jswarts",
+      "target": "maggielynnvannorman",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "English --- unknown",
+        "colleges": "College of Humanities and Social Sciences --- unknown",
+        "buildings": "Tompkins Hall --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          2008
+        ],
+        "year_recent": 2008,
+        "dois": [
+          "10.3138/jvme.35.1.118"
+        ],
+        "ncsu?": false,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          "Journal of Veterinary Medical Education"
+        ],
+        "color": "#000000",
+        "size": 1
+      }
+    }
+  ]
+}

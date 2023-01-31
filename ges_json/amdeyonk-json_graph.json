@@ -1,0 +1,1525 @@
+{
+  "options": {
+    "type": "undirected",
+    "multi": false,
+    "allowSelfLoops": false
+  },
+  "attributes": {
+    "creator": "Citation Index",
+    "lastModifiedDate": "2023-01-17"
+  },
+  "nodes": [
+    {
+      "key": "uid-amdeyonk",
+      "attributes": {
+        "label": "A DeYonke",
+        "name": "Alex DeYonke",
+        "known?": true,
+        "orcid?": false,
+        "ncsu?": true,
+        "affiliations": [
+          "North Carolina State University"
+        ],
+        "countries": [
+          "US"
+        ],
+        "uid": "amdeyonk",
+        "url": "https://ci.lib.ncsu.edu/profiles/amdeyonk",
+        "active?": false,
+        "department": "Plant Pathology",
+        "college": "College of Agriculture and Life Sciences",
+        "ncsu_affiliations": [
+          "Plant Pathology",
+          "Genetic Engineering and Society"
+        ],
+        "cluster?": true,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "role": "staff",
+        "building": null,
+        "count": 2,
+        "oa_count": 2,
+        "years": [
+          2021,
+          2018
+        ],
+        "year_recent": 2021,
+        "article_concepts": [
+          "Adaptation (eye)",
+          "Agronomy",
+          "Bacillus thuringiensis",
+          "Bacteria",
+          "Biology",
+          "Biotechnology",
+          "Botany",
+          "Demography",
+          "Ecological genetics",
+          "Ecology",
+          "Gene",
+          "Genetic architecture",
+          "Genetically modified crops",
+          "Genetics",
+          "Genome",
+          "Helicoverpa zea",
+          "Heliothis",
+          "Heliothis virescens",
+          "Lepidoptera genitalia",
+          "Locus (genetics)",
+          "Neuroscience",
+          "Noctuidae",
+          "PEST analysis",
+          "Pesticide",
+          "Pesticide resistance",
+          "Phenotype",
+          "Population",
+          "Quantitative trait locus",
+          "Sociology",
+          "Transgene"
+        ],
+        "host_venues": [
+          "Molecular Ecology",
+          "Proceedings of the National Academy of Sciences of the United States of America"
+        ],
+        "color": "#6F7D1C",
+        "size": 20
+      }
+    },
+    {
+      "key": "katherineltaylor",
+      "attributes": {
+        "label": "K Taylor",
+        "name": "Katherine L Taylor",
+        "known?": false,
+        "orcid?": null,
+        "ncsu?": false,
+        "affiliations": [
+          "University of Maryland, College Park"
+        ],
+        "countries": [
+          "US"
+        ],
+        "color": "#BFBFBD",
+        "size": 10
+      }
+    },
+    {
+      "key": "https://orcid.org/0000-0001-8425-2018",
+      "attributes": {
+        "label": "K Hamby",
+        "name": "Kelly A. Hamby",
+        "known?": false,
+        "orcid?": null,
+        "ncsu?": false,
+        "affiliations": [
+          "University of Maryland, College Park"
+        ],
+        "countries": [
+          "US"
+        ],
+        "color": "#BFBFBD",
+        "size": 10
+      }
+    },
+    {
+      "key": "uid-fgould",
+      "attributes": {
+        "label": "F Gould",
+        "name": "Fred Gould",
+        "known?": true,
+        "orcid?": false,
+        "ncsu?": true,
+        "affiliations": [
+          "North Carolina State University"
+        ],
+        "countries": [
+          "US"
+        ],
+        "uid": "fgould",
+        "url": "https://ci.lib.ncsu.edu/profiles/fgould",
+        "active?": true,
+        "department": "Entomology and Plant Pathology",
+        "college": "College of Agriculture and Life Sciences",
+        "ncsu_affiliations": [
+          "Entomology and Plant Pathology",
+          "Genetic Engineering and Society",
+          "Genetics and Genomics Academy",
+          "Comparative Medicine Institute"
+        ],
+        "cluster?": true,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "role": "faculty",
+        "building": "Thomas Hall",
+        "count": 177,
+        "oa_count": 75,
+        "years": [
+          2022,
+          2021,
+          2020,
+          2019,
+          2018,
+          2017,
+          2016,
+          2015,
+          2014,
+          2013,
+          2012,
+          2011,
+          2010,
+          2009,
+          2008,
+          2007,
+          2006,
+          2005,
+          2004,
+          2003,
+          2002,
+          2001,
+          2000,
+          1999,
+          1998,
+          1997,
+          1996,
+          1995,
+          1994,
+          1991,
+          1990,
+          1987,
+          1984,
+          1980
+        ],
+        "year_recent": 2022,
+        "article_concepts": [
+          "Adaptation (eye)",
+          "Aedes",
+          "Aedes aegypti",
+          "Aedes albopictus",
+          "Aerospace engineering",
+          "Agricultural productivity",
+          "Agricultural science",
+          "Agriculture",
+          "Agroforestry",
+          "Agronomy",
+          "Alkaline phosphatase",
+          "Allele",
+          "Allele frequency",
+          "Anatomy",
+          "Animal ecology",
+          "Art history",
+          "Artemisinin",
+          "Artificial intelligence",
+          "Assortative mating",
+          "Astrophysics",
+          "Automotive engineering",
+          "Bacillus thuringiensis",
+          "Backcrossing",
+          "Bacteria",
+          "Balance (ability)",
+          "Bed nets",
+          "Beet armyworm",
+          "Binding site",
+          "Biochemistry",
+          "Bioinformatics",
+          "Biological dispersal",
+          "Biology",
+          "Biotechnology",
+          "Bollworm",
+          "Botany",
+          "Brassica oleracea",
+          "Brush border",
+          "Bt cotton",
+          "Business",
+          "CRISPR",
+          "Cage",
+          "Candidate gene",
+          "Cas9",
+          "Chemical communication",
+          "Chikungunya",
+          "Chilo suppressalis",
+          "Chloroplast",
+          "Colonization",
+          "Combinatorics",
+          "Competition (biology)",
+          "Computational biology",
+          "Computer science",
+          "Computer security",
+          "Construct (python library)",
+          "Container (type theory)",
+          "Context (archaeology)",
+          "Control (management)",
+          "Corporate governance",
+          "Countermeasure",
+          "Crambidae",
+          "Crop protection",
+          "Cry1Ac",
+          "Cyfluthrin",
+          "De novo transcriptome assembly",
+          "Demography",
+          "Dengue fever",
+          "Dengue virus",
+          "Density dependence",
+          "Diamondback moth",
+          "Directional selection",
+          "Disruptive selection",
+          "Distribution (mathematics)",
+          "Dominance (genetics)",
+          "Drosophila melanogaster",
+          "Ecological genetics",
+          "Ecology",
+          "Econometrics",
+          "Economic history",
+          "Economics",
+          "Electrical engineering",
+          "Electroantennography",
+          "Element (criminal law)",
+          "Endonuclease",
+          "Engineering",
+          "Engineering ethics",
+          "Environmental ethics",
+          "Environmental health",
+          "Enzyme",
+          "Epistasis",
+          "Epistemology",
+          "Evolutionary biology",
+          "Exigua",
+          "Experimental evolution",
+          "Fecundity",
+          "Female sex",
+          "Finance",
+          "Frame (networking)",
+          "Gene",
+          "Gene drive",
+          "Gene expression",
+          "Gene expression profiling",
+          "Gene flow",
+          "Generalist and specialist species",
+          "Genetic architecture",
+          "Genetic diversity",
+          "Genetic load",
+          "Genetic structure",
+          "Genetic variation",
+          "Genetically engineered",
+          "Genetically modified crops",
+          "Genetically modified maize",
+          "Genetically modified organism",
+          "Genetics",
+          "Genome",
+          "Genomics",
+          "Geographic variation",
+          "Geographical distance",
+          "Geography",
+          "Geometry",
+          "Glycosylation",
+          "Gossypium",
+          "Growing season",
+          "Habitat",
+          "Haplotype",
+          "Helicoverpa armigera",
+          "Helicoverpa zea",
+          "Heliothis",
+          "Heliothis virescens",
+          "Herbivore",
+          "Heritability",
+          "History",
+          "Homing (biology)",
+          "Homing endonuclease",
+          "Horticulture",
+          "Host (biology)",
+          "Illumina dye sequencing",
+          "Immunology",
+          "Inbreeding",
+          "Indoor residual spraying",
+          "Induction motor",
+          "Insect",
+          "Insecticide resistance",
+          "Instar",
+          "Integrated pest management",
+          "Internal medicine",
+          "Interspecific competition",
+          "Intraspecific competition",
+          "Introgression",
+          "Isolation by distance",
+          "Knockdown resistance",
+          "Larva",
+          "Law",
+          "Lectin",
+          "Lepidoptera genitalia",
+          "Ligand binding assay",
+          "Limiting",
+          "Local adaptation",
+          "Locus (genetics)",
+          "Macroeconomics",
+          "Malaria",
+          "Management",
+          "Mate choice",
+          "Mathematical analysis",
+          "Mathematics",
+          "Mating",
+          "Mating disruption",
+          "Mechanical engineering",
+          "Mechanism (biology)",
+          "Medicine",
+          "Meiotic drive",
+          "Membrane",
+          "Mendelian inheritance",
+          "Microbiology",
+          "Microsatellite",
+          "Midgut",
+          "Molecular biology",
+          "Mosquito control",
+          "Natural population growth",
+          "Natural selection",
+          "Neglected tropical diseases",
+          "Network packet",
+          "Neuroscience",
+          "Noctuidae",
+          "Nursing",
+          "Offspring",
+          "Olfaction",
+          "Olfactory receptor",
+          "Operating system",
+          "Overwintering",
+          "PEST analysis",
+          "Paleontology",
+          "Parametric statistics",
+          "Parasitism",
+          "Pathogen",
+          "Pathology",
+          "Payload (computing)",
+          "Penetrance",
+          "Pest control",
+          "Pesticide",
+          "Pesticide resistance",
+          "Phenotype",
+          "Pheromone",
+          "Philosophy",
+          "Physalis",
+          "Physics",
+          "Pink bollworm",
+          "Plasmodium falciparum",
+          "Plutella",
+          "Plutellidae",
+          "Political science",
+          "Population",
+          "Population density",
+          "Population genetics",
+          "Population genomics",
+          "Population model",
+          "Pregnancy",
+          "Process (computing)",
+          "Process management",
+          "Product (mathematics)",
+          "Production (economics)",
+          "Programming language",
+          "Public administration",
+          "Public engagement",
+          "Public health",
+          "Public relations",
+          "Pulmonary surfactant",
+          "Pupa",
+          "Pyralidae",
+          "Pyrethroid",
+          "Quantitative trait locus",
+          "Quantum mechanics",
+          "RNA",
+          "RNA interference",
+          "Range (aeronautics)",
+          "Receptor",
+          "Recombinant DNA",
+          "Red flour beetle",
+          "Reproductive isolation",
+          "Resistance (ecology)",
+          "Responsible Research and Innovation",
+          "Reversing",
+          "Science communication",
+          "Science education",
+          "Selection (genetic algorithm)",
+          "Sex pheromone",
+          "Sex ratio",
+          "Sexual selection",
+          "Sociology",
+          "Spatial heterogeneity",
+          "Spodoptera",
+          "Statistics",
+          "Sterile insect technique",
+          "Strain (injury)",
+          "Telecommunications",
+          "Temperate climate",
+          "Term (time)",
+          "Toxicology",
+          "Toxin",
+          "Trait",
+          "Transcriptome",
+          "Transgene",
+          "Type (biology)",
+          "Variation (astronomy)",
+          "Vector (molecular biology)",
+          "Vector control",
+          "Vesicle",
+          "Veterinary medicine",
+          "Virology",
+          "Voltage",
+          "Wolbachia",
+          "Zea mays",
+          "Zoology"
+        ],
+        "host_venues": [
+          "Agriculture and Human Values",
+          "American Entomologist",
+          "American Journal of Tropical Medicine and Hygiene",
+          "American Scientist",
+          "Annals of The Entomological Society of America",
+          "Annual Review of Ecology, Evolution, and Systematics",
+          "Annual Review of Entomology",
+          "Annual Review of Phytopathology",
+          "Applied and Environmental Microbiology",
+          "Biochemistry",
+          "Biocontrol Science and Technology",
+          "Biological Conservation",
+          "Biological Invasions",
+          "Biotechnology Advances",
+          "Bulletin of Entomological Research",
+          "Bulletin of the Entomological Society of America",
+          "Crop Protection",
+          "Current Microbiology",
+          "Ecological Entomology",
+          "Ecological Modelling",
+          "Ecology",
+          "Ecology and Evolution",
+          "Ecosphere",
+          "Entomologia Experimentalis Et Applicata",
+          "Environmental Entomology",
+          "Evolution",
+          "Evolutionary Applications",
+          "Evolutionary Biology-new York",
+          "Evolutionary Ecology",
+          "Genetics",
+          "Heredity",
+          "Insect Biochemistry and Molecular Biology",
+          "Insect Molecular Biology",
+          "Journal of Chemical Ecology",
+          "Journal of Economic Entomology",
+          "Journal of Entomological Science",
+          "Journal of Evolutionary Biology",
+          "Journal of Invertebrate Pathology",
+          "Journal of Medical Entomology",
+          "Journal of Responsible Innovation",
+          "Journal of Vector Ecology",
+          "Journal of insect science",
+          "Molecular Ecology",
+          "National Academies Press eBooks",
+          "Nature Biotechnology",
+          "Nature Reviews Genetics",
+          "PLOS Computational Biology",
+          "PLOS Neglected Tropical Diseases",
+          "PLOS ONE",
+          "Pest Management Science",
+          "Pesticide Biochemistry and Physiology",
+          "Pesticide Science",
+          "Proceedings of The Royal Society B: Biological Sciences",
+          "Proceedings of the National Academy of Sciences of the United States of America",
+          "Science",
+          "Scientific Reports"
+        ],
+        "color": "#6F7D1C",
+        "size": 10
+      }
+    },
+    {
+      "key": "uid-mlfritz",
+      "attributes": {
+        "label": "M Fritz",
+        "name": "Megan Lindsay Fritz",
+        "known?": true,
+        "orcid?": false,
+        "ncsu?": true,
+        "affiliations": [
+          "North Carolina State University"
+        ],
+        "countries": [
+          "US"
+        ],
+        "uid": "mlfritz",
+        "url": "https://ci.lib.ncsu.edu/profiles/mlfritz",
+        "active?": false,
+        "department": "Entomology and Plant Pathology",
+        "college": "College of Agriculture and Life Sciences",
+        "ncsu_affiliations": [
+          "Entomology and Plant Pathology"
+        ],
+        "cluster?": false,
+        "clusters": [
+
+        ],
+        "role": null,
+        "building": null,
+        "count": 3,
+        "oa_count": 1,
+        "years": [
+          2021,
+          2016,
+          2015
+        ],
+        "year_recent": 2021,
+        "article_concepts": [
+          "Agronomy",
+          "Allele",
+          "Bacillus thuringiensis",
+          "Bacteria",
+          "Biology",
+          "Biotechnology",
+          "Botany",
+          "Demography",
+          "Gene",
+          "Genetic architecture",
+          "Genetic diversity",
+          "Genetic variation",
+          "Genetically modified crops",
+          "Genetics",
+          "Genome",
+          "Helicoverpa zea",
+          "Heliothis virescens",
+          "Inbreeding",
+          "Noctuidae",
+          "PEST analysis",
+          "Pesticide",
+          "Pesticide resistance",
+          "Population",
+          "Quantitative trait locus",
+          "Sociology",
+          "Transgene"
+        ],
+        "host_venues": [
+          "Insect Molecular Biology",
+          "Proceedings of the National Academy of Sciences of the United States of America"
+        ],
+        "color": "#6F7D1C",
+        "size": 10
+      }
+    },
+    {
+      "key": "https://orcid.org/0000-0002-3635-6848",
+      "attributes": {
+        "label": "A Papanicolaou",
+        "name": "Alexie Papanicolaou",
+        "known?": false,
+        "orcid?": null,
+        "ncsu?": false,
+        "affiliations": [
+          "Hawkesbury Institute for the Environment, Sydney, NSW, Australia."
+        ],
+        "countries": [
+
+        ],
+        "color": "#BFBFBD",
+        "size": 10
+      }
+    },
+    {
+      "key": "stephenmicinski",
+      "attributes": {
+        "label": "S Micinski",
+        "name": "Stephen Micinski",
+        "known?": false,
+        "orcid?": null,
+        "ncsu?": false,
+        "affiliations": [
+          "Louisiana State University"
+        ],
+        "countries": [
+          "US"
+        ],
+        "color": "#BFBFBD",
+        "size": 10
+      }
+    },
+    {
+      "key": "https://orcid.org/0000-0003-1658-7937",
+      "attributes": {
+        "label": "J Westbrook",
+        "name": "John K. Westbrook",
+        "known?": false,
+        "orcid?": null,
+        "ncsu?": false,
+        "affiliations": [
+          "USDA Agricultural Research Service College Station TX USA"
+        ],
+        "countries": [
+
+        ],
+        "color": "#BFBFBD",
+        "size": 10
+      }
+    }
+  ],
+  "edges": [
+    {
+      "source": "uid-amdeyonk",
+      "target": "katherineltaylor",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Plant Pathology --- unknown",
+        "colleges": "College of Agriculture and Life Sciences --- unknown",
+        "buildings": "unknown --- unknown",
+        "roles": "staff --- unknown",
+        "years": [
+          2021
+        ],
+        "year_recent": 2021,
+        "dois": [
+          "10.1073/pnas.2020853118"
+        ],
+        "ncsu?": false,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          "Biology",
+          "Quantitative trait locus",
+          "PEST analysis",
+          "Bacillus thuringiensis",
+          "Genetically modified crops",
+          "Genetic architecture",
+          "Biotechnology",
+          "Genome",
+          "Genetics",
+          "Helicoverpa zea",
+          "Pesticide resistance",
+          "Gene",
+          "Transgene",
+          "Agronomy",
+          "Pesticide",
+          "Noctuidae",
+          "Botany",
+          "Bacteria"
+        ],
+        "host_venues": [
+          "Proceedings of the National Academy of Sciences of the United States of America"
+        ],
+        "color": "#000000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-amdeyonk",
+      "target": "https://orcid.org/0000-0001-8425-2018",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Plant Pathology --- unknown",
+        "colleges": "College of Agriculture and Life Sciences --- unknown",
+        "buildings": "unknown --- unknown",
+        "roles": "staff --- unknown",
+        "years": [
+          2021
+        ],
+        "year_recent": 2021,
+        "dois": [
+          "10.1073/pnas.2020853118"
+        ],
+        "ncsu?": false,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          "Biology",
+          "Quantitative trait locus",
+          "PEST analysis",
+          "Bacillus thuringiensis",
+          "Genetically modified crops",
+          "Genetic architecture",
+          "Biotechnology",
+          "Genome",
+          "Genetics",
+          "Helicoverpa zea",
+          "Pesticide resistance",
+          "Gene",
+          "Transgene",
+          "Agronomy",
+          "Pesticide",
+          "Noctuidae",
+          "Botany",
+          "Bacteria"
+        ],
+        "host_venues": [
+          "Proceedings of the National Academy of Sciences of the United States of America"
+        ],
+        "color": "#000000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-amdeyonk",
+      "target": "uid-fgould",
+      "attributes": {
+        "label": 2,
+        "weight": 2,
+        "collaboration_count": 2,
+        "departments": "Entomology and Plant Pathology -- Plant Pathology",
+        "colleges": "College of Agriculture and Life Sciences == College of Agriculture and Life Sciences",
+        "buildings": "Thomas Hall --- unknown",
+        "roles": "faculty -- staff",
+        "years": [
+          2021,
+          2018
+        ],
+        "year_recent": 2021,
+        "dois": [
+          "10.1073/pnas.2020853118",
+          "10.1111/mec.14430"
+        ],
+        "ncsu?": true,
+        "cross_college?": false,
+        "cross_department?": true,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": true,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          "Biology",
+          "Quantitative trait locus",
+          "PEST analysis",
+          "Bacillus thuringiensis",
+          "Genetically modified crops",
+          "Genetic architecture",
+          "Biotechnology",
+          "Genome",
+          "Genetics",
+          "Helicoverpa zea",
+          "Pesticide resistance",
+          "Gene",
+          "Transgene",
+          "Agronomy",
+          "Pesticide",
+          "Noctuidae",
+          "Botany",
+          "Bacteria"
+        ],
+        "host_venues": [
+          "Proceedings of the National Academy of Sciences of the United States of America"
+        ],
+        "color": "#CC0000",
+        "size": 2
+      }
+    },
+    {
+      "source": "uid-amdeyonk",
+      "target": "uid-mlfritz",
+      "attributes": {
+        "label": 2,
+        "weight": 2,
+        "collaboration_count": 2,
+        "departments": "Entomology and Plant Pathology -- Plant Pathology",
+        "colleges": "College of Agriculture and Life Sciences == College of Agriculture and Life Sciences",
+        "buildings": "unknown --- unknown",
+        "roles": "staff --- unknown",
+        "years": [
+          2021,
+          2018
+        ],
+        "year_recent": 2021,
+        "dois": [
+          "10.1073/pnas.2020853118",
+          "10.1111/mec.14430"
+        ],
+        "ncsu?": true,
+        "cross_college?": false,
+        "cross_department?": true,
+        "cross_unit?": true,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          "Biology",
+          "Quantitative trait locus",
+          "PEST analysis",
+          "Bacillus thuringiensis",
+          "Genetically modified crops",
+          "Genetic architecture",
+          "Biotechnology",
+          "Genome",
+          "Genetics",
+          "Helicoverpa zea",
+          "Pesticide resistance",
+          "Gene",
+          "Transgene",
+          "Agronomy",
+          "Pesticide",
+          "Noctuidae",
+          "Botany",
+          "Bacteria"
+        ],
+        "host_venues": [
+          "Proceedings of the National Academy of Sciences of the United States of America"
+        ],
+        "color": "#CC0000",
+        "size": 2
+      }
+    },
+    {
+      "source": "uid-amdeyonk",
+      "target": "https://orcid.org/0000-0002-3635-6848",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Plant Pathology --- unknown",
+        "colleges": "College of Agriculture and Life Sciences --- unknown",
+        "buildings": "unknown --- unknown",
+        "roles": "staff --- unknown",
+        "years": [
+          2018
+        ],
+        "year_recent": 2018,
+        "dois": [
+          "10.1111/mec.14430"
+        ],
+        "ncsu?": false,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          "Heliothis virescens",
+          "Biology",
+          "Ecological genetics",
+          "Adaptation (eye)",
+          "Genetic architecture",
+          "Bacillus thuringiensis",
+          "Genome",
+          "Heliothis",
+          "Locus (genetics)",
+          "Genetics",
+          "Noctuidae",
+          "Ecology",
+          "Lepidoptera genitalia",
+          "Gene",
+          "Population",
+          "Phenotype",
+          "Demography",
+          "Neuroscience",
+          "Sociology",
+          "Bacteria"
+        ],
+        "host_venues": [
+          "Molecular Ecology"
+        ],
+        "color": "#000000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-amdeyonk",
+      "target": "stephenmicinski",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Plant Pathology --- unknown",
+        "colleges": "College of Agriculture and Life Sciences --- unknown",
+        "buildings": "unknown --- unknown",
+        "roles": "staff --- unknown",
+        "years": [
+          2018
+        ],
+        "year_recent": 2018,
+        "dois": [
+          "10.1111/mec.14430"
+        ],
+        "ncsu?": false,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          "Heliothis virescens",
+          "Biology",
+          "Ecological genetics",
+          "Adaptation (eye)",
+          "Genetic architecture",
+          "Bacillus thuringiensis",
+          "Genome",
+          "Heliothis",
+          "Locus (genetics)",
+          "Genetics",
+          "Noctuidae",
+          "Ecology",
+          "Lepidoptera genitalia",
+          "Gene",
+          "Population",
+          "Phenotype",
+          "Demography",
+          "Neuroscience",
+          "Sociology",
+          "Bacteria"
+        ],
+        "host_venues": [
+          "Molecular Ecology"
+        ],
+        "color": "#000000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-amdeyonk",
+      "target": "https://orcid.org/0000-0003-1658-7937",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Plant Pathology --- unknown",
+        "colleges": "College of Agriculture and Life Sciences --- unknown",
+        "buildings": "unknown --- unknown",
+        "roles": "staff --- unknown",
+        "years": [
+          2018
+        ],
+        "year_recent": 2018,
+        "dois": [
+          "10.1111/mec.14430"
+        ],
+        "ncsu?": false,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          "Heliothis virescens",
+          "Biology",
+          "Ecological genetics",
+          "Adaptation (eye)",
+          "Genetic architecture",
+          "Bacillus thuringiensis",
+          "Genome",
+          "Heliothis",
+          "Locus (genetics)",
+          "Genetics",
+          "Noctuidae",
+          "Ecology",
+          "Lepidoptera genitalia",
+          "Gene",
+          "Population",
+          "Phenotype",
+          "Demography",
+          "Neuroscience",
+          "Sociology",
+          "Bacteria"
+        ],
+        "host_venues": [
+          "Molecular Ecology"
+        ],
+        "color": "#000000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-fgould",
+      "target": "katherineltaylor",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Entomology and Plant Pathology --- unknown",
+        "colleges": "College of Agriculture and Life Sciences --- unknown",
+        "buildings": "Thomas Hall --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          2021
+        ],
+        "year_recent": 2021,
+        "dois": [
+          "10.1073/pnas.2020853118"
+        ],
+        "ncsu?": false,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          "Biology",
+          "Quantitative trait locus",
+          "PEST analysis",
+          "Bacillus thuringiensis",
+          "Genetically modified crops",
+          "Genetic architecture",
+          "Biotechnology",
+          "Genome",
+          "Genetics",
+          "Helicoverpa zea",
+          "Pesticide resistance",
+          "Gene",
+          "Transgene",
+          "Agronomy",
+          "Pesticide",
+          "Noctuidae",
+          "Botany",
+          "Bacteria"
+        ],
+        "host_venues": [
+          "Proceedings of the National Academy of Sciences of the United States of America"
+        ],
+        "color": "#000000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-fgould",
+      "target": "https://orcid.org/0000-0001-8425-2018",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Entomology and Plant Pathology --- unknown",
+        "colleges": "College of Agriculture and Life Sciences --- unknown",
+        "buildings": "Thomas Hall --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          2021
+        ],
+        "year_recent": 2021,
+        "dois": [
+          "10.1073/pnas.2020853118"
+        ],
+        "ncsu?": false,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          "Biology",
+          "Quantitative trait locus",
+          "PEST analysis",
+          "Bacillus thuringiensis",
+          "Genetically modified crops",
+          "Genetic architecture",
+          "Biotechnology",
+          "Genome",
+          "Genetics",
+          "Helicoverpa zea",
+          "Pesticide resistance",
+          "Gene",
+          "Transgene",
+          "Agronomy",
+          "Pesticide",
+          "Noctuidae",
+          "Botany",
+          "Bacteria"
+        ],
+        "host_venues": [
+          "Proceedings of the National Academy of Sciences of the United States of America"
+        ],
+        "color": "#000000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-fgould",
+      "target": "uid-mlfritz",
+      "attributes": {
+        "label": 3,
+        "weight": 3,
+        "collaboration_count": 3,
+        "departments": "Entomology and Plant Pathology == Entomology and Plant Pathology",
+        "colleges": "College of Agriculture and Life Sciences == College of Agriculture and Life Sciences",
+        "buildings": "Thomas Hall --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          2021,
+          2018,
+          2016
+        ],
+        "year_recent": 2021,
+        "dois": [
+          "10.1073/pnas.2020853118",
+          "10.1111/mec.14430",
+          "10.1111/imb.12234"
+        ],
+        "ncsu?": true,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          "Biology",
+          "Quantitative trait locus",
+          "PEST analysis",
+          "Bacillus thuringiensis",
+          "Genetically modified crops",
+          "Genetic architecture",
+          "Biotechnology",
+          "Genome",
+          "Genetics",
+          "Helicoverpa zea",
+          "Pesticide resistance",
+          "Gene",
+          "Transgene",
+          "Agronomy",
+          "Pesticide",
+          "Noctuidae",
+          "Botany",
+          "Bacteria"
+        ],
+        "host_venues": [
+          "Proceedings of the National Academy of Sciences of the United States of America"
+        ],
+        "color": "#CC0000",
+        "size": 3
+      }
+    },
+    {
+      "source": "uid-fgould",
+      "target": "https://orcid.org/0000-0002-3635-6848",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Entomology and Plant Pathology --- unknown",
+        "colleges": "College of Agriculture and Life Sciences --- unknown",
+        "buildings": "Thomas Hall --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          2018
+        ],
+        "year_recent": 2018,
+        "dois": [
+          "10.1111/mec.14430"
+        ],
+        "ncsu?": false,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          "Heliothis virescens",
+          "Biology",
+          "Ecological genetics",
+          "Adaptation (eye)",
+          "Genetic architecture",
+          "Bacillus thuringiensis",
+          "Genome",
+          "Heliothis",
+          "Locus (genetics)",
+          "Genetics",
+          "Noctuidae",
+          "Ecology",
+          "Lepidoptera genitalia",
+          "Gene",
+          "Population",
+          "Phenotype",
+          "Demography",
+          "Neuroscience",
+          "Sociology",
+          "Bacteria"
+        ],
+        "host_venues": [
+          "Molecular Ecology"
+        ],
+        "color": "#000000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-fgould",
+      "target": "stephenmicinski",
+      "attributes": {
+        "label": 4,
+        "weight": 4,
+        "collaboration_count": 4,
+        "departments": "Entomology and Plant Pathology --- unknown",
+        "colleges": "College of Agriculture and Life Sciences --- unknown",
+        "buildings": "Thomas Hall --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          2018,
+          2007,
+          2002,
+          1997
+        ],
+        "year_recent": 2018,
+        "dois": [
+          "10.1111/mec.14430",
+          "10.1603/0022-0493(2007)100[187:APCRSO]2.0.CO;2",
+          "10.1073/pnas.242382499",
+          "10.1073/pnas.94.8.3519"
+        ],
+        "ncsu?": false,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          "Heliothis virescens",
+          "Biology",
+          "Ecological genetics",
+          "Adaptation (eye)",
+          "Genetic architecture",
+          "Bacillus thuringiensis",
+          "Genome",
+          "Heliothis",
+          "Locus (genetics)",
+          "Genetics",
+          "Noctuidae",
+          "Ecology",
+          "Lepidoptera genitalia",
+          "Gene",
+          "Population",
+          "Phenotype",
+          "Demography",
+          "Neuroscience",
+          "Sociology",
+          "Bacteria"
+        ],
+        "host_venues": [
+          "Molecular Ecology"
+        ],
+        "color": "#000000",
+        "size": 4
+      }
+    },
+    {
+      "source": "uid-fgould",
+      "target": "https://orcid.org/0000-0003-1658-7937",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Entomology and Plant Pathology --- unknown",
+        "colleges": "College of Agriculture and Life Sciences --- unknown",
+        "buildings": "Thomas Hall --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          2018
+        ],
+        "year_recent": 2018,
+        "dois": [
+          "10.1111/mec.14430"
+        ],
+        "ncsu?": false,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          "Heliothis virescens",
+          "Biology",
+          "Ecological genetics",
+          "Adaptation (eye)",
+          "Genetic architecture",
+          "Bacillus thuringiensis",
+          "Genome",
+          "Heliothis",
+          "Locus (genetics)",
+          "Genetics",
+          "Noctuidae",
+          "Ecology",
+          "Lepidoptera genitalia",
+          "Gene",
+          "Population",
+          "Phenotype",
+          "Demography",
+          "Neuroscience",
+          "Sociology",
+          "Bacteria"
+        ],
+        "host_venues": [
+          "Molecular Ecology"
+        ],
+        "color": "#000000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-mlfritz",
+      "target": "katherineltaylor",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Entomology and Plant Pathology --- unknown",
+        "colleges": "College of Agriculture and Life Sciences --- unknown",
+        "buildings": "unknown --- unknown",
+        "roles": "unknown == unknown",
+        "years": [
+          2021
+        ],
+        "year_recent": 2021,
+        "dois": [
+          "10.1073/pnas.2020853118"
+        ],
+        "ncsu?": false,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": false,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+
+        ],
+        "cross_building?": false,
+        "concepts": [
+          "Biology",
+          "Quantitative trait locus",
+          "PEST analysis",
+          "Bacillus thuringiensis",
+          "Genetically modified crops",
+          "Genetic architecture",
+          "Biotechnology",
+          "Genome",
+          "Genetics",
+          "Helicoverpa zea",
+          "Pesticide resistance",
+          "Gene",
+          "Transgene",
+          "Agronomy",
+          "Pesticide",
+          "Noctuidae",
+          "Botany",
+          "Bacteria"
+        ],
+        "host_venues": [
+          "Proceedings of the National Academy of Sciences of the United States of America"
+        ],
+        "color": "#000000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-mlfritz",
+      "target": "https://orcid.org/0000-0001-8425-2018",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Entomology and Plant Pathology --- unknown",
+        "colleges": "College of Agriculture and Life Sciences --- unknown",
+        "buildings": "unknown --- unknown",
+        "roles": "unknown == unknown",
+        "years": [
+          2021
+        ],
+        "year_recent": 2021,
+        "dois": [
+          "10.1073/pnas.2020853118"
+        ],
+        "ncsu?": false,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": false,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+
+        ],
+        "cross_building?": false,
+        "concepts": [
+          "Biology",
+          "Quantitative trait locus",
+          "PEST analysis",
+          "Bacillus thuringiensis",
+          "Genetically modified crops",
+          "Genetic architecture",
+          "Biotechnology",
+          "Genome",
+          "Genetics",
+          "Helicoverpa zea",
+          "Pesticide resistance",
+          "Gene",
+          "Transgene",
+          "Agronomy",
+          "Pesticide",
+          "Noctuidae",
+          "Botany",
+          "Bacteria"
+        ],
+        "host_venues": [
+          "Proceedings of the National Academy of Sciences of the United States of America"
+        ],
+        "color": "#000000",
+        "size": 1
+      }
+    }
+  ]
+}

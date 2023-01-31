@@ -1,0 +1,3651 @@
+{
+  "options": {
+    "type": "undirected",
+    "multi": false,
+    "allowSelfLoops": false
+  },
+  "attributes": {
+    "creator": "Citation Index",
+    "lastModifiedDate": "2023-01-14"
+  },
+  "nodes": [
+    {
+      "key": "uid-blnowell",
+      "attributes": {
+        "label": "B Nowell",
+        "name": "Branda Nowell",
+        "known?": true,
+        "orcid?": true,
+        "ncsu?": true,
+        "affiliations": [
+          "North Carolina State University"
+        ],
+        "countries": [
+          "US"
+        ],
+        "uid": "blnowell",
+        "url": "https://ci.lib.ncsu.edu/profiles/blnowell",
+        "orcid": "0000-0001-9028-311X",
+        "active?": true,
+        "department": "Political Science & Public Administration",
+        "college": "College of Humanities and Social Sciences",
+        "ncsu_affiliations": [
+          "Political Science & Public Administration",
+          "Genetic Engineering and Society",
+          "Public and International Affairs"
+        ],
+        "cluster?": true,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "role": "faculty",
+        "building": "Caldwell Hall",
+        "count": 42,
+        "oa_count": 7,
+        "years": [
+          2022,
+          2021,
+          2020,
+          2019,
+          2018,
+          2017,
+          2016,
+          2015,
+          2014,
+          2011,
+          2010,
+          2009,
+          2008,
+          2007,
+          2006,
+          2005,
+          2004
+        ],
+        "year_recent": 2022,
+        "article_concepts": [
+          "Advertising",
+          "Archaeology",
+          "Architecture",
+          "Artificial intelligence",
+          "Biology",
+          "Botany",
+          "Boundary (topology)",
+          "Bridging (networking)",
+          "Business",
+          "Capacity building",
+          "Cartography",
+          "Citizenship",
+          "Clinical psychology",
+          "Collective action",
+          "Complex network",
+          "Complex system",
+          "Computer science",
+          "Computer security",
+          "Consumption (sociology)",
+          "Context (archaeology)",
+          "Contingency",
+          "Corporate governance",
+          "Data collection",
+          "Disaster response",
+          "Disaster risk reduction",
+          "Ecology",
+          "Economic geography",
+          "Economic growth",
+          "Economics",
+          "Emergency management",
+          "Emergency response",
+          "Empirical research",
+          "Engineering",
+          "Environmental economics",
+          "Environmental planning",
+          "Environmental resource management",
+          "Environmental science",
+          "Epistemology",
+          "Finance",
+          "Forensic engineering",
+          "Geography",
+          "Geometry",
+          "Hierarchy",
+          "History",
+          "Identification (biology)",
+          "Image (mathematics)",
+          "Knowledge management",
+          "Law",
+          "Linguistics",
+          "Management science",
+          "Marketing",
+          "Mathematical analysis",
+          "Mathematics",
+          "Medical emergency",
+          "Medicine",
+          "Network governance",
+          "Normative",
+          "Organizational citizenship behavior",
+          "Organizational commitment",
+          "Outreach",
+          "Paleontology",
+          "Perspective (graphical)",
+          "Philosophy",
+          "Physics",
+          "Poison control",
+          "Political science",
+          "Politics",
+          "Preparedness",
+          "Psychology",
+          "Public economics",
+          "Public relations",
+          "Quantum mechanics",
+          "Reduction (mathematics)",
+          "Representation (politics)",
+          "Resilience (materials science)",
+          "Risk analysis (engineering)",
+          "Scale (ratio)",
+          "Sense of community",
+          "Similarity (geometry)",
+          "Social psychology",
+          "Social science",
+          "Sociology",
+          "Stakeholder",
+          "Suicide prevention",
+          "Thermodynamics",
+          "Transport engineering",
+          "World Wide Web"
+        ],
+        "host_venues": [
+          "Administration & Society",
+          "Administrative Theory & Praxis",
+          "American Journal of Community Psychology",
+          "American Journal of Evaluation",
+          "Conflict Resolution Quarterly",
+          "Disasters",
+          "Environmental Policy and Governance",
+          "Evaluation and Program Planning",
+          "Freshwater Science",
+          "Handbooks of sociology and social research",
+          "International Journal of Wildland Fire",
+          "International Public Management Journal",
+          "International journal of disaster risk reduction",
+          "Journal of Community Psychology",
+          "Journal of Contingencies and Crisis Management",
+          "Journal of Forestry",
+          "Journal of Homeland Security and Emergency Management",
+          "Journal of Management Inquiry",
+          "Journal of Public Administration Research and Theory",
+          "Journal of prevention & intervention in the community",
+          "Perspectives on Public Management and Governance",
+          "Public Management Review",
+          "Remedial and Special Education",
+          "The American Review of Public Administration",
+          "The Journal of Agriculture, Food Systems, and Community Development"
+        ],
+        "color": "#FAC800",
+        "size": 20
+      }
+    },
+    {
+      "key": "uid-tasteelm",
+      "attributes": {
+        "label": "T Steelman",
+        "name": "Toddi Steelman",
+        "known?": true,
+        "orcid?": false,
+        "ncsu?": true,
+        "affiliations": [
+          "North Carolina State University"
+        ],
+        "countries": [
+          "US"
+        ],
+        "uid": "tasteelm",
+        "url": "https://ci.lib.ncsu.edu/profiles/tasteelm",
+        "active?": true,
+        "department": "Forestry & Environmental Resources",
+        "college": "College of Natural Resources",
+        "ncsu_affiliations": [
+          "Forestry & Environmental Resources"
+        ],
+        "cluster?": false,
+        "clusters": [
+
+        ],
+        "role": "faculty",
+        "building": "Jordan Hall",
+        "count": 72,
+        "oa_count": 6,
+        "years": [
+          2022,
+          2021,
+          2019,
+          2018,
+          2016,
+          2011,
+          2010,
+          2009,
+          2008,
+          2007,
+          2006,
+          2005,
+          2004,
+          2003,
+          2002,
+          2001,
+          2000,
+          1999,
+          1998,
+          1997,
+          1996,
+          1992
+        ],
+        "year_recent": 2022,
+        "article_concepts": [
+          "Artificial intelligence",
+          "Biology",
+          "Business",
+          "Choice modelling",
+          "Collective action",
+          "Complex network",
+          "Complex system",
+          "Computer science",
+          "Computer security",
+          "Context (archaeology)",
+          "Corporate governance",
+          "Cost–benefit analysis",
+          "Disaster response",
+          "Ecology",
+          "Economic growth",
+          "Economics",
+          "Ecosystem",
+          "Ecosystem health",
+          "Ecosystem services",
+          "Ecosystem valuation",
+          "Emergency management",
+          "Environmental economics",
+          "Environmental planning",
+          "Environmental policy",
+          "Environmental resource management",
+          "Environmental science",
+          "Finance",
+          "Geography",
+          "Hierarchy",
+          "Intermediary",
+          "Law",
+          "Marketing",
+          "Network governance",
+          "Normative",
+          "Paleontology",
+          "Physics",
+          "Political science",
+          "Politics",
+          "Public economics",
+          "Public policy",
+          "Quantum mechanics",
+          "Representation (politics)",
+          "Resilience (materials science)",
+          "Risk analysis (engineering)",
+          "Scale (ratio)",
+          "Thermodynamics",
+          "Valuation (finance)",
+          "World Wide Web"
+        ],
+        "host_venues": [
+          "American Behavioral Scientist",
+          "Cambridge University Press eBooks",
+          "Ecological Economics",
+          "Ecology and Society",
+          "Environmental Management",
+          "International Journal of Wildland Fire",
+          "International Symposium on Technology and Society",
+          "Journal of Forestry",
+          "Journal of Homeland Security and Emergency Management",
+          "Journal of Policy Analysis and Management",
+          "Journal of Public Administration Research and Theory",
+          "Landscape Ecology",
+          "Organization & Environment",
+          "Policy Sciences",
+          "Policy Studies Journal",
+          "Public Management Review",
+          "Social Science Research Network",
+          "Society & Natural Resources",
+          "The American Review of Public Administration"
+        ],
+        "color": "#855735",
+        "size": 10
+      }
+    },
+    {
+      "key": "uid-aknox2",
+      "attributes": {
+        "label": "A Velez",
+        "name": "Anne-Lise Velez",
+        "known?": true,
+        "orcid?": false,
+        "ncsu?": true,
+        "affiliations": [
+          "North Carolina State University"
+        ],
+        "countries": [
+          "US"
+        ],
+        "uid": "aknox2",
+        "url": "https://ci.lib.ncsu.edu/profiles/aknox2",
+        "active?": false,
+        "department": "Public and International Affairs",
+        "college": "College of Humanities and Social Sciences",
+        "ncsu_affiliations": [
+          "Public and International Affairs"
+        ],
+        "cluster?": false,
+        "clusters": [
+
+        ],
+        "role": "faculty",
+        "building": null,
+        "count": 9,
+        "oa_count": 2,
+        "years": [
+          2021,
+          2019,
+          2018,
+          2017,
+          2015,
+          2014
+        ],
+        "year_recent": 2021,
+        "article_concepts": [
+          "Artificial intelligence",
+          "Biology",
+          "Bridging (networking)",
+          "Business",
+          "Cartography",
+          "Collective action",
+          "Computer science",
+          "Computer security",
+          "Context (archaeology)",
+          "Corporate governance",
+          "Disaster response",
+          "Emergency management",
+          "Emergency response",
+          "Environmental resource management",
+          "Environmental science",
+          "Finance",
+          "Geography",
+          "Image (mathematics)",
+          "Information seeking",
+          "Law",
+          "Library science",
+          "Medical emergency",
+          "Medicine",
+          "Network governance",
+          "Neuroscience",
+          "Normative",
+          "Paleontology",
+          "Perception",
+          "Poison control",
+          "Political science",
+          "Politics",
+          "Preparedness",
+          "Psychology",
+          "Representation (politics)",
+          "Risk perception",
+          "Scale (ratio)",
+          "Similarity (geometry)",
+          "Suicide prevention"
+        ],
+        "host_venues": [
+          "Armed Forces & Society",
+          "Disasters",
+          "International Journal of Wildland Fire",
+          "Journal of Public Administration Research and Theory",
+          "Journal of nonprofit education and leadership",
+          "Natural Hazards",
+          "Nonprofit Management and Leadership",
+          "Public Personnel Management",
+          "The American Review of Public Administration"
+        ],
+        "color": "#FAC800",
+        "size": 10
+      }
+    },
+    {
+      "key": "katealbrecht",
+      "attributes": {
+        "label": "K Albrecht",
+        "name": "Kate Albrecht",
+        "known?": false,
+        "orcid?": null,
+        "ncsu?": null,
+        "affiliations": null,
+        "countries": null,
+        "color": "#BFBFBD",
+        "size": 10
+      }
+    },
+    {
+      "key": "uid-rjscott",
+      "attributes": {
+        "label": "R Scott",
+        "name": "Ryan Scott",
+        "known?": true,
+        "orcid?": false,
+        "ncsu?": true,
+        "affiliations": [
+          "North Carolina State University"
+        ],
+        "countries": [
+          "US"
+        ],
+        "uid": "rjscott",
+        "url": "https://ci.lib.ncsu.edu/profiles/rjscott",
+        "active?": true,
+        "department": null,
+        "college": null,
+        "ncsu_affiliations": [
+
+        ],
+        "cluster?": false,
+        "clusters": [
+
+        ],
+        "role": "student",
+        "building": null,
+        "count": 1,
+        "oa_count": 1,
+        "years": [
+          2021
+        ],
+        "year_recent": 2021,
+        "article_concepts": [
+          "Biology",
+          "Business",
+          "Collective action",
+          "Computer science",
+          "Context (archaeology)",
+          "Corporate governance",
+          "Finance",
+          "Law",
+          "Network governance",
+          "Normative",
+          "Paleontology",
+          "Political science",
+          "Politics",
+          "Representation (politics)"
+        ],
+        "host_venues": [
+          "Journal of Public Administration Research and Theory"
+        ],
+        "color": "#000000",
+        "size": 10
+      }
+    },
+    {
+      "key": "zhengyang",
+      "attributes": {
+        "label": "Z Yang",
+        "name": "Zheng Yang",
+        "known?": false,
+        "orcid?": null,
+        "ncsu?": false,
+        "affiliations": [
+          "California State University, Dominguez Hills"
+        ],
+        "countries": [
+          "US"
+        ],
+        "color": "#BFBFBD",
+        "size": 10
+      }
+    },
+    {
+      "key": "https://orcid.org/0000-0001-8983-4519",
+      "attributes": {
+        "label": "G Prati",
+        "name": "Gabriele Prati",
+        "known?": false,
+        "orcid?": null,
+        "ncsu?": false,
+        "affiliations": [
+          "University of Bologna"
+        ],
+        "countries": [
+          "IT"
+        ],
+        "color": "#BFBFBD",
+        "size": 10
+      }
+    },
+    {
+      "key": "https://orcid.org/0000-0002-1617-0165",
+      "attributes": {
+        "label": "F Procentese",
+        "name": "Fortuna Procentese",
+        "known?": false,
+        "orcid?": null,
+        "ncsu?": false,
+        "affiliations": [
+          "University of Naples Federico II"
+        ],
+        "countries": [
+          "IT"
+        ],
+        "color": "#BFBFBD",
+        "size": 10
+      }
+    },
+    {
+      "key": "https://orcid.org/0000-0001-8240-6159",
+      "attributes": {
+        "label": "C Albanesi",
+        "name": "Cinzia Albanesi",
+        "known?": false,
+        "orcid?": null,
+        "ncsu?": false,
+        "affiliations": [
+          "University of Bologna"
+        ],
+        "countries": [
+          "IT"
+        ],
+        "color": "#BFBFBD",
+        "size": 10
+      }
+    },
+    {
+      "key": "https://orcid.org/0000-0002-8653-290X",
+      "attributes": {
+        "label": "E Cicognani",
+        "name": "Elvira Cicognani",
+        "known?": false,
+        "orcid?": null,
+        "ncsu?": false,
+        "affiliations": [
+          "University of Bologna"
+        ],
+        "countries": [
+          "IT"
+        ],
+        "color": "#BFBFBD",
+        "size": 10
+      }
+    },
+    {
+      "key": "https://orcid.org/0000-0003-2661-6797",
+      "attributes": {
+        "label": "A Fedi",
+        "name": "Angela Fedi",
+        "known?": false,
+        "orcid?": null,
+        "ncsu?": false,
+        "affiliations": [
+          "University of Turin"
+        ],
+        "countries": [
+          "IT"
+        ],
+        "color": "#BFBFBD",
+        "size": 10
+      }
+    },
+    {
+      "key": "https://orcid.org/0000-0003-2149-6570",
+      "attributes": {
+        "label": "F Gatti",
+        "name": "Flora Gatti",
+        "known?": false,
+        "orcid?": null,
+        "ncsu?": false,
+        "affiliations": [
+          "University of Naples Federico II"
+        ],
+        "countries": [
+          "IT"
+        ],
+        "color": "#BFBFBD",
+        "size": 10
+      }
+    },
+    {
+      "key": "https://orcid.org/0000-0003-3683-8035",
+      "attributes": {
+        "label": "T Mannarini",
+        "name": "Terri Mannarini",
+        "known?": false,
+        "orcid?": null,
+        "ncsu?": false,
+        "affiliations": [
+          "University of Salento"
+        ],
+        "countries": [
+          "IT"
+        ],
+        "color": "#BFBFBD",
+        "size": 10
+      }
+    },
+    {
+      "key": "https://orcid.org/0000-0003-4240-5076",
+      "attributes": {
+        "label": "A Rochira",
+        "name": "Alessia Rochira",
+        "known?": false,
+        "orcid?": null,
+        "ncsu?": false,
+        "affiliations": [
+          "University of Salento"
+        ],
+        "countries": [
+          "IT"
+        ],
+        "color": "#BFBFBD",
+        "size": 10
+      }
+    },
+    {
+      "key": "https://orcid.org/0000-0002-2850-2673",
+      "attributes": {
+        "label": "S Tartaglia",
+        "name": "Stefano Tartaglia",
+        "known?": false,
+        "orcid?": null,
+        "ncsu?": false,
+        "affiliations": [
+          "University of Turin"
+        ],
+        "countries": [
+          "IT"
+        ],
+        "color": "#BFBFBD",
+        "size": 10
+      }
+    },
+    {
+      "key": "https://orcid.org/0000-0001-5089-4071",
+      "attributes": {
+        "label": "N Boyd",
+        "name": "Neil M. Boyd",
+        "known?": false,
+        "orcid?": null,
+        "ncsu?": false,
+        "affiliations": [
+          "Bucknell University"
+        ],
+        "countries": [
+          "US"
+        ],
+        "color": "#BFBFBD",
+        "size": 10
+      }
+    },
+    {
+      "key": "https://orcid.org/0000-0001-8127-6807",
+      "attributes": {
+        "label": "S Gattino",
+        "name": "Silvia Gattino",
+        "known?": false,
+        "orcid?": null,
+        "ncsu?": false,
+        "affiliations": [
+          "University of Turin"
+        ],
+        "countries": [
+          "IT"
+        ],
+        "color": "#BFBFBD",
+        "size": 10
+      }
+    },
+    {
+      "key": "uid-kralbrec",
+      "attributes": {
+        "label": "K Albrecht",
+        "name": "Kate Rose Albrecht",
+        "known?": true,
+        "orcid?": false,
+        "ncsu?": true,
+        "affiliations": [
+          "North Carolina State University"
+        ],
+        "countries": [
+          "US"
+        ],
+        "uid": "kralbrec",
+        "url": "https://ci.lib.ncsu.edu/profiles/kralbrec",
+        "active?": false,
+        "department": "Public Administration",
+        "college": "College of Humanities and Social Sciences",
+        "ncsu_affiliations": [
+          "Public Administration"
+        ],
+        "cluster?": false,
+        "clusters": [
+
+        ],
+        "role": "student",
+        "building": null,
+        "count": 3,
+        "oa_count": 1,
+        "years": [
+          2019,
+          2018
+        ],
+        "year_recent": 2019,
+        "article_concepts": [
+          "Accountability",
+          "Agency (philosophy)",
+          "Artificial intelligence",
+          "Biology",
+          "Business",
+          "Computer science",
+          "Context (archaeology)",
+          "Finance",
+          "General partnership",
+          "Law",
+          "Paleontology",
+          "Political science",
+          "Public administration",
+          "Public relations",
+          "Social science",
+          "Sociology",
+          "Variety (cybernetics)"
+        ],
+        "host_venues": [
+          "Journal of Public Administration Research and Theory",
+          "Journal of nonprofit education and leadership",
+          "Journal of public and nonprofit affairs"
+        ],
+        "color": "#FAC800",
+        "size": 10
+      }
+    },
+    {
+      "key": "maryclarehano",
+      "attributes": {
+        "label": "M Hano",
+        "name": "Mary Clare Hano",
+        "known?": false,
+        "orcid?": null,
+        "ncsu?": true,
+        "affiliations": [
+          "North Carolina State University"
+        ],
+        "countries": [
+          "US"
+        ],
+        "color": "#000000",
+        "size": 10
+      }
+    },
+    {
+      "key": "https://orcid.org/0000-0002-1937-4606",
+      "attributes": {
+        "label": "J Abrams",
+        "name": "Jesse Abrams",
+        "known?": false,
+        "orcid?": null,
+        "ncsu?": false,
+        "affiliations": [
+          "University of Oregon"
+        ],
+        "countries": [
+          "US"
+        ],
+        "color": "#BFBFBD",
+        "size": 10
+      }
+    },
+    {
+      "key": "emilyjanedavis",
+      "attributes": {
+        "label": "E Davis",
+        "name": "Emily Jane Davis",
+        "known?": false,
+        "orcid?": null,
+        "ncsu?": false,
+        "affiliations": [
+          "Oregon State University"
+        ],
+        "countries": [
+          "US"
+        ],
+        "color": "#BFBFBD",
+        "size": 10
+      }
+    },
+    {
+      "key": "https://orcid.org/0000-0001-7062-1062",
+      "attributes": {
+        "label": "C Moseley",
+        "name": "Cassandra Moseley",
+        "known?": false,
+        "orcid?": null,
+        "ncsu?": false,
+        "affiliations": [
+          "University of Oregon"
+        ],
+        "countries": [
+          "US"
+        ],
+        "color": "#BFBFBD",
+        "size": 10
+      }
+    },
+    {
+      "key": "https://orcid.org/0000-0002-8758-5624",
+      "attributes": {
+        "label": "A Faas",
+        "name": "A. J. Faas",
+        "known?": false,
+        "orcid?": null,
+        "ncsu?": false,
+        "affiliations": [
+          "San Jose State University"
+        ],
+        "countries": [
+          "US"
+        ],
+        "color": "#BFBFBD",
+        "size": 10
+      }
+    },
+    {
+      "key": "https://orcid.org/0000-0002-1021-8041",
+      "attributes": {
+        "label": "C FitzGerald",
+        "name": "Clare FitzGerald",
+        "known?": false,
+        "orcid?": null,
+        "ncsu?": true,
+        "affiliations": [
+          "North Carolina State University"
+        ],
+        "countries": [
+          "US"
+        ],
+        "color": "#000000",
+        "size": 10
+      }
+    },
+    {
+      "key": "candicepippinbodkin",
+      "attributes": {
+        "label": "C Bodkin",
+        "name": "Candice Pippin Bodkin",
+        "known?": false,
+        "orcid?": null,
+        "ncsu?": false,
+        "affiliations": [
+          "Georgia Southern University"
+        ],
+        "countries": [
+          "US"
+        ],
+        "color": "#BFBFBD",
+        "size": 10
+      }
+    },
+    {
+      "key": "deenabayoumi",
+      "attributes": {
+        "label": "D Bayoumi",
+        "name": "Deena Bayoumi",
+        "known?": false,
+        "orcid?": null,
+        "ncsu?": false,
+        "affiliations": [
+          "Archer"
+        ],
+        "countries": [
+          "US"
+        ],
+        "color": "#BFBFBD",
+        "size": 10
+      }
+    },
+    {
+      "key": "uid-jmdiaz2",
+      "attributes": {
+        "label": "J Diaz",
+        "name": "John Michael Diaz",
+        "known?": true,
+        "orcid?": false,
+        "ncsu?": true,
+        "affiliations": [
+          "North Carolina State University"
+        ],
+        "countries": [
+          "US"
+        ],
+        "uid": "jmdiaz2",
+        "url": "https://ci.lib.ncsu.edu/profiles/jmdiaz2",
+        "active?": false,
+        "department": "Forestry & Environmental Resources",
+        "college": "College of Natural Resources",
+        "ncsu_affiliations": [
+          "Forestry & Environmental Resources"
+        ],
+        "cluster?": false,
+        "clusters": [
+
+        ],
+        "role": null,
+        "building": null,
+        "count": 2,
+        "oa_count": 1,
+        "years": [
+          2016,
+          2014
+        ],
+        "year_recent": 2016,
+        "article_concepts": [
+          "Biology",
+          "Ecology",
+          "Environmental planning",
+          "Environmental resource management",
+          "Environmental science",
+          "Geography"
+        ],
+        "host_venues": [
+          "Journal of Forestry"
+        ],
+        "color": "#855735",
+        "size": 10
+      }
+    },
+    {
+      "key": "uid-amizod",
+      "attributes": {
+        "label": "A Izod",
+        "name": "Anne Izod",
+        "known?": true,
+        "orcid?": false,
+        "ncsu?": true,
+        "affiliations": [
+          "North Carolina State University"
+        ],
+        "countries": [
+          "US"
+        ],
+        "uid": "amizod",
+        "url": "https://ci.lib.ncsu.edu/profiles/amizod",
+        "active?": false,
+        "department": "Public and International Affairs",
+        "college": "College of Humanities and Social Sciences",
+        "ncsu_affiliations": [
+          "Public and International Affairs"
+        ],
+        "cluster?": false,
+        "clusters": [
+
+        ],
+        "role": "student",
+        "building": null,
+        "count": 1,
+        "oa_count": 0,
+        "years": [
+          2016
+        ],
+        "year_recent": 2016,
+        "article_concepts": [
+
+        ],
+        "host_venues": [
+          "Journal of Public Administration Research and Theory"
+        ],
+        "color": "#FAC800",
+        "size": 10
+      }
+    },
+    {
+      "key": "uid-kngarui",
+      "attributes": {
+        "label": "K Ngaruiya",
+        "name": "Katherine Ngaruiya",
+        "known?": true,
+        "orcid?": false,
+        "ncsu?": true,
+        "affiliations": [
+          "North Carolina State University"
+        ],
+        "countries": [
+          "US"
+        ],
+        "uid": "kngarui",
+        "url": "https://ci.lib.ncsu.edu/profiles/kngarui",
+        "active?": true,
+        "department": "Public Administration",
+        "college": "College of Humanities and Social Sciences",
+        "ncsu_affiliations": [
+          "Public Administration"
+        ],
+        "cluster?": false,
+        "clusters": [
+
+        ],
+        "role": "faculty",
+        "building": "James B Hunt Jr Centennial Cam",
+        "count": 4,
+        "oa_count": 0,
+        "years": [
+          2021,
+          2016,
+          2015,
+          2014
+        ],
+        "year_recent": 2021,
+        "article_concepts": [
+
+        ],
+        "host_venues": [
+          "Armed Forces & Society",
+          "Journal of Public Administration Research and Theory",
+          "Journal of nonprofit education and leadership",
+          "Public Personnel Management"
+        ],
+        "color": "#FAC800",
+        "size": 10
+      }
+    },
+    {
+      "key": "uid-clee18",
+      "attributes": {
+        "label": "C Lee",
+        "name": "Chongmyoung Lee",
+        "known?": true,
+        "orcid?": false,
+        "ncsu?": true,
+        "affiliations": [
+          "North Carolina State University"
+        ],
+        "countries": [
+          "US"
+        ],
+        "uid": "clee18",
+        "url": "https://ci.lib.ncsu.edu/profiles/clee18",
+        "active?": false,
+        "department": "Institute for Nonprofits",
+        "college": "College of Humanities and Social Sciences",
+        "ncsu_affiliations": [
+          "Institute for Nonprofits"
+        ],
+        "cluster?": false,
+        "clusters": [
+
+        ],
+        "role": null,
+        "building": null,
+        "count": 1,
+        "oa_count": 0,
+        "years": [
+          2015
+        ],
+        "year_recent": 2015,
+        "article_concepts": [
+
+        ],
+        "host_venues": [
+          "American Journal of Evaluation"
+        ],
+        "color": "#FAC800",
+        "size": 10
+      }
+    },
+    {
+      "key": "https://orcid.org/0000-0002-4287-9338",
+      "attributes": {
+        "label": "D Kashian",
+        "name": "Donna R. Kashian",
+        "known?": false,
+        "orcid?": null,
+        "ncsu?": false,
+        "affiliations": [
+          "Wayne State University"
+        ],
+        "countries": [
+          "US"
+        ],
+        "color": "#BFBFBD",
+        "size": 10
+      }
+    },
+    {
+      "key": "annekrause",
+      "attributes": {
+        "label": "A Krause",
+        "name": "Ann E. Krause",
+        "known?": false,
+        "orcid?": null,
+        "ncsu?": false,
+        "affiliations": [
+          "University of Toledo"
+        ],
+        "countries": [
+          "US"
+        ],
+        "color": "#BFBFBD",
+        "size": 10
+      }
+    },
+    {
+      "key": "larissalsano",
+      "attributes": {
+        "label": "L Sano",
+        "name": "Larissa L. Sano",
+        "known?": false,
+        "orcid?": null,
+        "ncsu?": false,
+        "affiliations": [
+          "Water Center and Cooperative Institute for Limnology and Ecosystems Research, University of Michigan, Ann Arbor, Michigan 48109 USA"
+        ],
+        "countries": [
+
+        ],
+        "color": "#BFBFBD",
+        "size": 10
+      }
+    },
+    {
+      "key": "https://orcid.org/0000-0002-8006-8229",
+      "attributes": {
+        "label": "K Drouillard",
+        "name": "Ken G. Drouillard",
+        "known?": false,
+        "orcid?": null,
+        "ncsu?": false,
+        "affiliations": [
+          "University of Windsor"
+        ],
+        "countries": [
+          "CA"
+        ],
+        "color": "#BFBFBD",
+        "size": 10
+      }
+    },
+    {
+      "key": "uid-dabayoum",
+      "attributes": {
+        "label": "D Bayoumi",
+        "name": "Deena Abdel Bayoumi",
+        "known?": true,
+        "orcid?": false,
+        "ncsu?": true,
+        "affiliations": [
+          "North Carolina State University"
+        ],
+        "countries": [
+          "US"
+        ],
+        "uid": "dabayoum",
+        "url": "https://ci.lib.ncsu.edu/profiles/dabayoum",
+        "active?": false,
+        "department": "Political Science & Public Administration",
+        "college": "College of Humanities and Social Sciences",
+        "ncsu_affiliations": [
+          "Political Science & Public Administration"
+        ],
+        "cluster?": false,
+        "clusters": [
+
+        ],
+        "role": null,
+        "building": null,
+        "count": 2,
+        "oa_count": 0,
+        "years": [
+          2014,
+          2010
+        ],
+        "year_recent": 2014,
+        "article_concepts": [
+
+        ],
+        "host_venues": [
+          "Administration & Society"
+        ],
+        "color": "#FAC800",
+        "size": 10
+      }
+    },
+    {
+      "key": "sarahmccaffrey",
+      "attributes": {
+        "label": "S McCaffrey",
+        "name": "Sarah McCaffrey",
+        "known?": false,
+        "orcid?": null,
+        "ncsu?": false,
+        "affiliations": [
+          "Northern Research Station"
+        ],
+        "countries": [
+          "US"
+        ],
+        "color": "#BFBFBD",
+        "size": 10
+      }
+    },
+    {
+      "key": "penniegfosterfishman",
+      "attributes": {
+        "label": "P Foster-Fishman",
+        "name": "Pennie G. Foster-Fishman",
+        "known?": false,
+        "orcid?": null,
+        "ncsu?": false,
+        "affiliations": [
+          "Michigan State University"
+        ],
+        "countries": [
+          "US"
+        ],
+        "color": "#BFBFBD",
+        "size": 10
+      }
+    },
+    {
+      "key": "huilanyang",
+      "attributes": {
+        "label": "H Yang",
+        "name": "Huilan Yang",
+        "known?": false,
+        "orcid?": null,
+        "ncsu?": false,
+        "affiliations": [
+          "W.K. Kellogg Foundation"
+        ],
+        "countries": [
+          "US"
+        ],
+        "color": "#BFBFBD",
+        "size": 10
+      }
+    },
+    {
+      "key": "deborahasalem",
+      "attributes": {
+        "label": "D Salem",
+        "name": "Deborah A. Salem",
+        "known?": false,
+        "orcid?": null,
+        "ncsu?": false,
+        "affiliations": [
+          "Michigan State University"
+        ],
+        "countries": [
+          "US"
+        ],
+        "color": "#BFBFBD",
+        "size": 10
+      }
+    }
+  ],
+  "edges": [
+    {
+      "source": "uid-blnowell",
+      "target": "uid-tasteelm",
+      "attributes": {
+        "label": 9,
+        "weight": 9,
+        "collaboration_count": 9,
+        "departments": "Forestry & Environmental Resources -- Political Science & Public Administration",
+        "colleges": "College of Humanities and Social Sciences -- College of Natural Resources",
+        "buildings": "Caldwell Hall -- Jordan Hall",
+        "roles": "faculty == faculty",
+        "years": [
+          2022,
+          2021,
+          2019,
+          2019,
+          2018,
+          2017,
+          2016,
+          2015,
+          2014
+        ],
+        "year_recent": 2022,
+        "dois": [
+          "10.1071/WF21139",
+          "10.1093/jopart/muab004",
+          "10.1515/jhsem-2018-0067",
+          "10.1071/WF18136",
+          "10.1177/0275074017724225",
+          "10.1111/disa.12211",
+          "10.5849/jof.14-026",
+          "10.1093/jopart/muu021",
+          "10.1177/0095399712469198"
+        ],
+        "ncsu?": true,
+        "cross_college?": true,
+        "cross_department?": true,
+        "cross_unit?": true,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": true,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          null
+        ],
+        "color": "#FAC800",
+        "size": 9
+      }
+    },
+    {
+      "source": "uid-blnowell",
+      "target": "uid-aknox2",
+      "attributes": {
+        "label": 4,
+        "weight": 4,
+        "collaboration_count": 4,
+        "departments": "Political Science & Public Administration -- Public and International Affairs",
+        "colleges": "College of Humanities and Social Sciences == College of Humanities and Social Sciences",
+        "buildings": "Caldwell Hall --- unknown",
+        "roles": "faculty == faculty",
+        "years": [
+          2022,
+          2021,
+          2018,
+          2017
+        ],
+        "year_recent": 2022,
+        "dois": [
+          "10.1071/WF21139",
+          "10.1093/jopart/muab004",
+          "10.1177/0275074017724225",
+          "10.1111/disa.12211"
+        ],
+        "ncsu?": true,
+        "cross_college?": false,
+        "cross_department?": true,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          null
+        ],
+        "color": "#CC0000",
+        "size": 4
+      }
+    },
+    {
+      "source": "uid-blnowell",
+      "target": "katealbrecht",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Political Science & Public Administration --- unknown",
+        "colleges": "College of Humanities and Social Sciences --- unknown",
+        "buildings": "Caldwell Hall --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          2022
+        ],
+        "year_recent": 2022,
+        "dois": [
+          "10.1071/WF21139"
+        ],
+        "ncsu?": null,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          null
+        ],
+        "color": "#000000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-blnowell",
+      "target": "uid-rjscott",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Political Science & Public Administration --- unknown",
+        "colleges": "College of Humanities and Social Sciences --- unknown",
+        "buildings": "Caldwell Hall --- unknown",
+        "roles": "faculty -- student",
+        "years": [
+          2021
+        ],
+        "year_recent": 2021,
+        "dois": [
+          "10.1093/jopart/muab004"
+        ],
+        "ncsu?": true,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          "Corporate governance",
+          "Representation (politics)",
+          "Network governance",
+          "Context (archaeology)",
+          "Normative",
+          "Collective action",
+          "Political science",
+          "Computer science",
+          "Business",
+          "Law",
+          "Politics",
+          "Paleontology",
+          "Finance",
+          "Biology"
+        ],
+        "host_venues": [
+          "Journal of Public Administration Research and Theory"
+        ],
+        "color": "#CC0000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-blnowell",
+      "target": "zhengyang",
+      "attributes": {
+        "label": 3,
+        "weight": 3,
+        "collaboration_count": 3,
+        "departments": "Political Science & Public Administration --- unknown",
+        "colleges": "College of Humanities and Social Sciences --- unknown",
+        "buildings": "Caldwell Hall --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          2020,
+          2018,
+          2018
+        ],
+        "year_recent": 2020,
+        "dois": [
+          "10.1080/10967494.2020.1824949",
+          "10.1177/0275074017692875",
+          "10.1177/0275074017724225"
+        ],
+        "ncsu?": false,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          "International Public Management Journal"
+        ],
+        "color": "#000000",
+        "size": 3
+      }
+    },
+    {
+      "source": "uid-blnowell",
+      "target": "https://orcid.org/0000-0001-8983-4519",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Political Science & Public Administration --- unknown",
+        "colleges": "College of Humanities and Social Sciences --- unknown",
+        "buildings": "Caldwell Hall --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          2020
+        ],
+        "year_recent": 2020,
+        "dois": [
+          "10.1002/jcop.22366"
+        ],
+        "ncsu?": false,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          "Scale (ratio)",
+          "Psychology",
+          "Sense of community",
+          "Social psychology",
+          "Clinical psychology",
+          "Geography",
+          "Cartography"
+        ],
+        "host_venues": [
+          "Journal of Community Psychology"
+        ],
+        "color": "#000000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-blnowell",
+      "target": "https://orcid.org/0000-0002-1617-0165",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Political Science & Public Administration --- unknown",
+        "colleges": "College of Humanities and Social Sciences --- unknown",
+        "buildings": "Caldwell Hall --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          2020
+        ],
+        "year_recent": 2020,
+        "dois": [
+          "10.1002/jcop.22366"
+        ],
+        "ncsu?": false,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          "Scale (ratio)",
+          "Psychology",
+          "Sense of community",
+          "Social psychology",
+          "Clinical psychology",
+          "Geography",
+          "Cartography"
+        ],
+        "host_venues": [
+          "Journal of Community Psychology"
+        ],
+        "color": "#000000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-blnowell",
+      "target": "https://orcid.org/0000-0001-8240-6159",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Political Science & Public Administration --- unknown",
+        "colleges": "College of Humanities and Social Sciences --- unknown",
+        "buildings": "Caldwell Hall --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          2020
+        ],
+        "year_recent": 2020,
+        "dois": [
+          "10.1002/jcop.22366"
+        ],
+        "ncsu?": false,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          "Scale (ratio)",
+          "Psychology",
+          "Sense of community",
+          "Social psychology",
+          "Clinical psychology",
+          "Geography",
+          "Cartography"
+        ],
+        "host_venues": [
+          "Journal of Community Psychology"
+        ],
+        "color": "#000000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-blnowell",
+      "target": "https://orcid.org/0000-0002-8653-290X",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Political Science & Public Administration --- unknown",
+        "colleges": "College of Humanities and Social Sciences --- unknown",
+        "buildings": "Caldwell Hall --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          2020
+        ],
+        "year_recent": 2020,
+        "dois": [
+          "10.1002/jcop.22366"
+        ],
+        "ncsu?": false,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          "Scale (ratio)",
+          "Psychology",
+          "Sense of community",
+          "Social psychology",
+          "Clinical psychology",
+          "Geography",
+          "Cartography"
+        ],
+        "host_venues": [
+          "Journal of Community Psychology"
+        ],
+        "color": "#000000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-blnowell",
+      "target": "https://orcid.org/0000-0003-2661-6797",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Political Science & Public Administration --- unknown",
+        "colleges": "College of Humanities and Social Sciences --- unknown",
+        "buildings": "Caldwell Hall --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          2020
+        ],
+        "year_recent": 2020,
+        "dois": [
+          "10.1002/jcop.22366"
+        ],
+        "ncsu?": false,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          "Scale (ratio)",
+          "Psychology",
+          "Sense of community",
+          "Social psychology",
+          "Clinical psychology",
+          "Geography",
+          "Cartography"
+        ],
+        "host_venues": [
+          "Journal of Community Psychology"
+        ],
+        "color": "#000000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-blnowell",
+      "target": "https://orcid.org/0000-0003-2149-6570",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Political Science & Public Administration --- unknown",
+        "colleges": "College of Humanities and Social Sciences --- unknown",
+        "buildings": "Caldwell Hall --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          2020
+        ],
+        "year_recent": 2020,
+        "dois": [
+          "10.1002/jcop.22366"
+        ],
+        "ncsu?": false,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          "Scale (ratio)",
+          "Psychology",
+          "Sense of community",
+          "Social psychology",
+          "Clinical psychology",
+          "Geography",
+          "Cartography"
+        ],
+        "host_venues": [
+          "Journal of Community Psychology"
+        ],
+        "color": "#000000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-blnowell",
+      "target": "https://orcid.org/0000-0003-3683-8035",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Political Science & Public Administration --- unknown",
+        "colleges": "College of Humanities and Social Sciences --- unknown",
+        "buildings": "Caldwell Hall --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          2020
+        ],
+        "year_recent": 2020,
+        "dois": [
+          "10.1002/jcop.22366"
+        ],
+        "ncsu?": false,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          "Scale (ratio)",
+          "Psychology",
+          "Sense of community",
+          "Social psychology",
+          "Clinical psychology",
+          "Geography",
+          "Cartography"
+        ],
+        "host_venues": [
+          "Journal of Community Psychology"
+        ],
+        "color": "#000000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-blnowell",
+      "target": "https://orcid.org/0000-0003-4240-5076",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Political Science & Public Administration --- unknown",
+        "colleges": "College of Humanities and Social Sciences --- unknown",
+        "buildings": "Caldwell Hall --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          2020
+        ],
+        "year_recent": 2020,
+        "dois": [
+          "10.1002/jcop.22366"
+        ],
+        "ncsu?": false,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          "Scale (ratio)",
+          "Psychology",
+          "Sense of community",
+          "Social psychology",
+          "Clinical psychology",
+          "Geography",
+          "Cartography"
+        ],
+        "host_venues": [
+          "Journal of Community Psychology"
+        ],
+        "color": "#000000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-blnowell",
+      "target": "https://orcid.org/0000-0002-2850-2673",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Political Science & Public Administration --- unknown",
+        "colleges": "College of Humanities and Social Sciences --- unknown",
+        "buildings": "Caldwell Hall --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          2020
+        ],
+        "year_recent": 2020,
+        "dois": [
+          "10.1002/jcop.22366"
+        ],
+        "ncsu?": false,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          "Scale (ratio)",
+          "Psychology",
+          "Sense of community",
+          "Social psychology",
+          "Clinical psychology",
+          "Geography",
+          "Cartography"
+        ],
+        "host_venues": [
+          "Journal of Community Psychology"
+        ],
+        "color": "#000000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-blnowell",
+      "target": "https://orcid.org/0000-0001-5089-4071",
+      "attributes": {
+        "label": 10,
+        "weight": 10,
+        "collaboration_count": 10,
+        "departments": "Political Science & Public Administration --- unknown",
+        "colleges": "College of Humanities and Social Sciences --- unknown",
+        "buildings": "Caldwell Hall --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          2020,
+          2020,
+          2018,
+          2018,
+          2017,
+          2016,
+          2014,
+          2014,
+          2011,
+          2010
+        ],
+        "year_recent": 2020,
+        "dois": [
+          "10.1002/jcop.22366",
+          "10.1080/14719037.2020.1740301",
+          "10.1007/978-3-319-77416-9_2",
+          "10.1177/0275074017692875",
+          "10.1002/jcop.21843",
+          "10.1093/jopart/muv048",
+          "10.1177/1056492613491433",
+          "10.1007/s10464-014-9667-x",
+          "10.1002/jcop.20504",
+          "10.1002/jcop.20398"
+        ],
+        "ncsu?": false,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          "Scale (ratio)",
+          "Psychology",
+          "Sense of community",
+          "Social psychology",
+          "Clinical psychology",
+          "Geography",
+          "Cartography"
+        ],
+        "host_venues": [
+          "Journal of Community Psychology"
+        ],
+        "color": "#000000",
+        "size": 10
+      }
+    },
+    {
+      "source": "uid-blnowell",
+      "target": "https://orcid.org/0000-0001-8127-6807",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Political Science & Public Administration --- unknown",
+        "colleges": "College of Humanities and Social Sciences --- unknown",
+        "buildings": "Caldwell Hall --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          2020
+        ],
+        "year_recent": 2020,
+        "dois": [
+          "10.1002/jcop.22366"
+        ],
+        "ncsu?": false,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          "Scale (ratio)",
+          "Psychology",
+          "Sense of community",
+          "Social psychology",
+          "Clinical psychology",
+          "Geography",
+          "Cartography"
+        ],
+        "host_venues": [
+          "Journal of Community Psychology"
+        ],
+        "color": "#000000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-blnowell",
+      "target": "uid-kralbrec",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Political Science & Public Administration -- Public Administration",
+        "colleges": "College of Humanities and Social Sciences == College of Humanities and Social Sciences",
+        "buildings": "Caldwell Hall --- unknown",
+        "roles": "faculty -- student",
+        "years": [
+          2019
+        ],
+        "year_recent": 2019,
+        "dois": [
+          "10.1093/jopart/muy052"
+        ],
+        "ncsu?": true,
+        "cross_college?": false,
+        "cross_department?": true,
+        "cross_unit?": true,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          "Journal of Public Administration Research and Theory"
+        ],
+        "color": "#CC0000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-blnowell",
+      "target": "maryclarehano",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Political Science & Public Administration --- unknown",
+        "colleges": "College of Humanities and Social Sciences --- unknown",
+        "buildings": "Caldwell Hall --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          2018
+        ],
+        "year_recent": 2018,
+        "dois": [
+          "10.1177/0275074017692875"
+        ],
+        "ncsu?": true,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          "The American Review of Public Administration"
+        ],
+        "color": "#CC0000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-blnowell",
+      "target": "https://orcid.org/0000-0002-1937-4606",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Political Science & Public Administration --- unknown",
+        "colleges": "College of Humanities and Social Sciences --- unknown",
+        "buildings": "Caldwell Hall --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          2017
+        ],
+        "year_recent": 2017,
+        "dois": [
+          "10.1002/eet.1765"
+        ],
+        "ncsu?": false,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          "Environmental Policy and Governance"
+        ],
+        "color": "#000000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-blnowell",
+      "target": "emilyjanedavis",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Political Science & Public Administration --- unknown",
+        "colleges": "College of Humanities and Social Sciences --- unknown",
+        "buildings": "Caldwell Hall --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          2017
+        ],
+        "year_recent": 2017,
+        "dois": [
+          "10.1002/eet.1765"
+        ],
+        "ncsu?": false,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          "Environmental Policy and Governance"
+        ],
+        "color": "#000000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-blnowell",
+      "target": "https://orcid.org/0000-0001-7062-1062",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Political Science & Public Administration --- unknown",
+        "colleges": "College of Humanities and Social Sciences --- unknown",
+        "buildings": "Caldwell Hall --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          2017
+        ],
+        "year_recent": 2017,
+        "dois": [
+          "10.1002/eet.1765"
+        ],
+        "ncsu?": false,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          "Environmental Policy and Governance"
+        ],
+        "color": "#000000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-blnowell",
+      "target": "https://orcid.org/0000-0002-8758-5624",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Political Science & Public Administration --- unknown",
+        "colleges": "College of Humanities and Social Sciences --- unknown",
+        "buildings": "Caldwell Hall --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          2017
+        ],
+        "year_recent": 2017,
+        "dois": [
+          "10.1111/disa.12211"
+        ],
+        "ncsu?": false,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          "Bridging (networking)",
+          "Similarity (geometry)",
+          "Disaster response",
+          "Preparedness",
+          "Emergency response",
+          "Scale (ratio)",
+          "Emergency management",
+          "Poison control",
+          "Geography",
+          "Suicide prevention",
+          "Computer security",
+          "Psychology",
+          "Computer science",
+          "Political science",
+          "Medical emergency",
+          "Medicine",
+          "Cartography",
+          "Artificial intelligence",
+          "Law",
+          "Image (mathematics)"
+        ],
+        "host_venues": [
+          "Disasters"
+        ],
+        "color": "#000000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-blnowell",
+      "target": "https://orcid.org/0000-0002-1021-8041",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Political Science & Public Administration --- unknown",
+        "colleges": "College of Humanities and Social Sciences --- unknown",
+        "buildings": "Caldwell Hall --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          2017
+        ],
+        "year_recent": 2017,
+        "dois": [
+          "10.1111/disa.12211"
+        ],
+        "ncsu?": true,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          "Bridging (networking)",
+          "Similarity (geometry)",
+          "Disaster response",
+          "Preparedness",
+          "Emergency response",
+          "Scale (ratio)",
+          "Emergency management",
+          "Poison control",
+          "Geography",
+          "Suicide prevention",
+          "Computer security",
+          "Psychology",
+          "Computer science",
+          "Political science",
+          "Medical emergency",
+          "Medicine",
+          "Cartography",
+          "Artificial intelligence",
+          "Law",
+          "Image (mathematics)"
+        ],
+        "host_venues": [
+          "Disasters"
+        ],
+        "color": "#CC0000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-blnowell",
+      "target": "candicepippinbodkin",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Political Science & Public Administration --- unknown",
+        "colleges": "College of Humanities and Social Sciences --- unknown",
+        "buildings": "Caldwell Hall --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          2017
+        ],
+        "year_recent": 2017,
+        "dois": [
+          "10.1111/1468-5973.12178"
+        ],
+        "ncsu?": false,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          "Journal of Contingencies and Crisis Management"
+        ],
+        "color": "#000000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-blnowell",
+      "target": "deenabayoumi",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Political Science & Public Administration --- unknown",
+        "colleges": "College of Humanities and Social Sciences --- unknown",
+        "buildings": "Caldwell Hall --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          2017
+        ],
+        "year_recent": 2017,
+        "dois": [
+          "10.1111/1468-5973.12178"
+        ],
+        "ncsu?": false,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          "Journal of Contingencies and Crisis Management"
+        ],
+        "color": "#000000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-blnowell",
+      "target": "uid-jmdiaz2",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Forestry & Environmental Resources -- Political Science & Public Administration",
+        "colleges": "College of Humanities and Social Sciences -- College of Natural Resources",
+        "buildings": "Caldwell Hall --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          2016
+        ],
+        "year_recent": 2016,
+        "dois": [
+          "10.5849/jof.14-026"
+        ],
+        "ncsu?": true,
+        "cross_college?": true,
+        "cross_department?": true,
+        "cross_unit?": true,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          "Environmental resource management",
+          "Geography",
+          "Ecology",
+          "Environmental planning",
+          "Environmental science",
+          "Biology"
+        ],
+        "host_venues": [
+          "Journal of Forestry"
+        ],
+        "color": "#FAC800",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-blnowell",
+      "target": "uid-amizod",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Political Science & Public Administration -- Public and International Affairs",
+        "colleges": "College of Humanities and Social Sciences == College of Humanities and Social Sciences",
+        "buildings": "Caldwell Hall --- unknown",
+        "roles": "faculty -- student",
+        "years": [
+          2016
+        ],
+        "year_recent": 2016,
+        "dois": [
+          "10.1093/jopart/muv048"
+        ],
+        "ncsu?": true,
+        "cross_college?": false,
+        "cross_department?": true,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          "Journal of Public Administration Research and Theory"
+        ],
+        "color": "#CC0000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-blnowell",
+      "target": "uid-kngarui",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Political Science & Public Administration -- Public Administration",
+        "colleges": "College of Humanities and Social Sciences == College of Humanities and Social Sciences",
+        "buildings": "Caldwell Hall -- James B Hunt Jr Centennial Cam",
+        "roles": "faculty == faculty",
+        "years": [
+          2016
+        ],
+        "year_recent": 2016,
+        "dois": [
+          "10.1093/jopart/muv048"
+        ],
+        "ncsu?": true,
+        "cross_college?": false,
+        "cross_department?": true,
+        "cross_unit?": true,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": true,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          "Journal of Public Administration Research and Theory"
+        ],
+        "color": "#CC0000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-blnowell",
+      "target": "uid-clee18",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Institute for Nonprofits -- Political Science & Public Administration",
+        "colleges": "College of Humanities and Social Sciences == College of Humanities and Social Sciences",
+        "buildings": "Caldwell Hall --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          2015
+        ],
+        "year_recent": 2015,
+        "dois": [
+          "10.1177/1098214014545828"
+        ],
+        "ncsu?": true,
+        "cross_college?": false,
+        "cross_department?": true,
+        "cross_unit?": true,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          "American Journal of Evaluation"
+        ],
+        "color": "#CC0000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-blnowell",
+      "target": "https://orcid.org/0000-0002-4287-9338",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Political Science & Public Administration --- unknown",
+        "colleges": "College of Humanities and Social Sciences --- unknown",
+        "buildings": "Caldwell Hall --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          2014
+        ],
+        "year_recent": 2014,
+        "dois": [
+          "10.1086/675782"
+        ],
+        "ncsu?": false,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          "Outreach",
+          "Stakeholder",
+          "Business",
+          "Environmental resource management",
+          "Capacity building",
+          "Consumption (sociology)",
+          "Environmental planning",
+          "Environmental economics",
+          "Geography",
+          "Economic growth",
+          "Political science",
+          "Public relations",
+          "Economics",
+          "Social science",
+          "Sociology"
+        ],
+        "host_venues": [
+          "Freshwater Science"
+        ],
+        "color": "#000000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-blnowell",
+      "target": "annekrause",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Political Science & Public Administration --- unknown",
+        "colleges": "College of Humanities and Social Sciences --- unknown",
+        "buildings": "Caldwell Hall --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          2014
+        ],
+        "year_recent": 2014,
+        "dois": [
+          "10.1086/675782"
+        ],
+        "ncsu?": false,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          "Outreach",
+          "Stakeholder",
+          "Business",
+          "Environmental resource management",
+          "Capacity building",
+          "Consumption (sociology)",
+          "Environmental planning",
+          "Environmental economics",
+          "Geography",
+          "Economic growth",
+          "Political science",
+          "Public relations",
+          "Economics",
+          "Social science",
+          "Sociology"
+        ],
+        "host_venues": [
+          "Freshwater Science"
+        ],
+        "color": "#000000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-blnowell",
+      "target": "larissalsano",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Political Science & Public Administration --- unknown",
+        "colleges": "College of Humanities and Social Sciences --- unknown",
+        "buildings": "Caldwell Hall --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          2014
+        ],
+        "year_recent": 2014,
+        "dois": [
+          "10.1086/675782"
+        ],
+        "ncsu?": false,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          "Outreach",
+          "Stakeholder",
+          "Business",
+          "Environmental resource management",
+          "Capacity building",
+          "Consumption (sociology)",
+          "Environmental planning",
+          "Environmental economics",
+          "Geography",
+          "Economic growth",
+          "Political science",
+          "Public relations",
+          "Economics",
+          "Social science",
+          "Sociology"
+        ],
+        "host_venues": [
+          "Freshwater Science"
+        ],
+        "color": "#000000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-blnowell",
+      "target": "https://orcid.org/0000-0002-8006-8229",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Political Science & Public Administration --- unknown",
+        "colleges": "College of Humanities and Social Sciences --- unknown",
+        "buildings": "Caldwell Hall --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          2014
+        ],
+        "year_recent": 2014,
+        "dois": [
+          "10.1086/675782"
+        ],
+        "ncsu?": false,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          "Outreach",
+          "Stakeholder",
+          "Business",
+          "Environmental resource management",
+          "Capacity building",
+          "Consumption (sociology)",
+          "Environmental planning",
+          "Environmental economics",
+          "Geography",
+          "Economic growth",
+          "Political science",
+          "Public relations",
+          "Economics",
+          "Social science",
+          "Sociology"
+        ],
+        "host_venues": [
+          "Freshwater Science"
+        ],
+        "color": "#000000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-blnowell",
+      "target": "uid-dabayoum",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Political Science & Public Administration == Political Science & Public Administration",
+        "colleges": "College of Humanities and Social Sciences == College of Humanities and Social Sciences",
+        "buildings": "Caldwell Hall --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          2014
+        ],
+        "year_recent": 2014,
+        "dois": [
+          "10.1177/0095399712469198"
+        ],
+        "ncsu?": true,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          "Administration & Society"
+        ],
+        "color": "#CC0000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-blnowell",
+      "target": "sarahmccaffrey",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Political Science & Public Administration --- unknown",
+        "colleges": "College of Humanities and Social Sciences --- unknown",
+        "buildings": "Caldwell Hall --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          2014
+        ],
+        "year_recent": 2014,
+        "dois": [
+          "10.1177/0095399712469198"
+        ],
+        "ncsu?": false,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          "Administration & Society"
+        ],
+        "color": "#000000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-blnowell",
+      "target": "penniegfosterfishman",
+      "attributes": {
+        "label": 2,
+        "weight": 2,
+        "collaboration_count": 2,
+        "departments": "Political Science & Public Administration --- unknown",
+        "colleges": "College of Humanities and Social Sciences --- unknown",
+        "buildings": "Caldwell Hall --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          2011,
+          2007
+        ],
+        "year_recent": 2011,
+        "dois": [
+          "10.1007/s10464-010-9364-3",
+          "10.1007/s10464-007-9109-0"
+        ],
+        "ncsu?": false,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          "American Journal of Community Psychology"
+        ],
+        "color": "#000000",
+        "size": 2
+      }
+    },
+    {
+      "source": "uid-blnowell",
+      "target": "huilanyang",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Political Science & Public Administration --- unknown",
+        "colleges": "College of Humanities and Social Sciences --- unknown",
+        "buildings": "Caldwell Hall --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          2007
+        ],
+        "year_recent": 2007,
+        "dois": [
+          "10.1007/s10464-007-9109-0"
+        ],
+        "ncsu?": false,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          "American Journal of Community Psychology"
+        ],
+        "color": "#000000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-blnowell",
+      "target": "deborahasalem",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Political Science & Public Administration --- unknown",
+        "colleges": "College of Humanities and Social Sciences --- unknown",
+        "buildings": "Caldwell Hall --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          2007
+        ],
+        "year_recent": 2007,
+        "dois": [
+          "10.1177/07419325070280050501"
+        ],
+        "ncsu?": false,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          "Remedial and Special Education"
+        ],
+        "color": "#000000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-tasteelm",
+      "target": "uid-aknox2",
+      "attributes": {
+        "label": 3,
+        "weight": 3,
+        "collaboration_count": 3,
+        "departments": "Forestry & Environmental Resources -- Public and International Affairs",
+        "colleges": "College of Humanities and Social Sciences -- College of Natural Resources",
+        "buildings": "Jordan Hall --- unknown",
+        "roles": "faculty == faculty",
+        "years": [
+          2022,
+          2021,
+          2018
+        ],
+        "year_recent": 2022,
+        "dois": [
+          "10.1071/WF21139",
+          "10.1093/jopart/muab004",
+          "10.1177/0275074017724225"
+        ],
+        "ncsu?": true,
+        "cross_college?": true,
+        "cross_department?": true,
+        "cross_unit?": true,
+        "cluster?": false,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          null
+        ],
+        "color": "#FAC800",
+        "size": 3
+      }
+    },
+    {
+      "source": "uid-tasteelm",
+      "target": "katealbrecht",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Forestry & Environmental Resources --- unknown",
+        "colleges": "College of Natural Resources --- unknown",
+        "buildings": "Jordan Hall --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          2022
+        ],
+        "year_recent": 2022,
+        "dois": [
+          "10.1071/WF21139"
+        ],
+        "ncsu?": null,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": false,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          null
+        ],
+        "color": "#000000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-tasteelm",
+      "target": "uid-rjscott",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Forestry & Environmental Resources --- unknown",
+        "colleges": "College of Natural Resources --- unknown",
+        "buildings": "Jordan Hall --- unknown",
+        "roles": "faculty -- student",
+        "years": [
+          2021
+        ],
+        "year_recent": 2021,
+        "dois": [
+          "10.1093/jopart/muab004"
+        ],
+        "ncsu?": true,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": false,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+
+        ],
+        "cross_building?": false,
+        "concepts": [
+          "Corporate governance",
+          "Representation (politics)",
+          "Network governance",
+          "Context (archaeology)",
+          "Normative",
+          "Collective action",
+          "Political science",
+          "Computer science",
+          "Business",
+          "Law",
+          "Politics",
+          "Paleontology",
+          "Finance",
+          "Biology"
+        ],
+        "host_venues": [
+          "Journal of Public Administration Research and Theory"
+        ],
+        "color": "#CC0000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-tasteelm",
+      "target": "zhengyang",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Forestry & Environmental Resources --- unknown",
+        "colleges": "College of Natural Resources --- unknown",
+        "buildings": "Jordan Hall --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          2018
+        ],
+        "year_recent": 2018,
+        "dois": [
+          "10.1177/0275074017724225"
+        ],
+        "ncsu?": false,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": false,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          "The American Review of Public Administration"
+        ],
+        "color": "#000000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-tasteelm",
+      "target": "uid-jmdiaz2",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Forestry & Environmental Resources == Forestry & Environmental Resources",
+        "colleges": "College of Natural Resources == College of Natural Resources",
+        "buildings": "Jordan Hall --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          2016
+        ],
+        "year_recent": 2016,
+        "dois": [
+          "10.5849/jof.14-026"
+        ],
+        "ncsu?": true,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": false,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+
+        ],
+        "cross_building?": false,
+        "concepts": [
+          "Environmental resource management",
+          "Geography",
+          "Ecology",
+          "Environmental planning",
+          "Environmental science",
+          "Biology"
+        ],
+        "host_venues": [
+          "Journal of Forestry"
+        ],
+        "color": "#CC0000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-aknox2",
+      "target": "uid-kngarui",
+      "attributes": {
+        "label": 3,
+        "weight": 3,
+        "collaboration_count": 3,
+        "departments": "Public Administration -- Public and International Affairs",
+        "colleges": "College of Humanities and Social Sciences == College of Humanities and Social Sciences",
+        "buildings": "James B Hunt Jr Centennial Cam --- unknown",
+        "roles": "faculty == faculty",
+        "years": [
+          2021,
+          2015,
+          2014
+        ],
+        "year_recent": 2021,
+        "dois": [
+          "10.18666/JNEL-2020-9649",
+          "10.1177/0095327x13489119",
+          "10.1177/0091026014530270"
+        ],
+        "ncsu?": true,
+        "cross_college?": false,
+        "cross_department?": true,
+        "cross_unit?": true,
+        "cluster?": false,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          "Journal of nonprofit education and leadership"
+        ],
+        "color": "#CC0000",
+        "size": 3
+      }
+    },
+    {
+      "source": "uid-aknox2",
+      "target": "uid-rjscott",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Public and International Affairs --- unknown",
+        "colleges": "College of Humanities and Social Sciences --- unknown",
+        "buildings": "unknown --- unknown",
+        "roles": "faculty -- student",
+        "years": [
+          2021
+        ],
+        "year_recent": 2021,
+        "dois": [
+          "10.1093/jopart/muab004"
+        ],
+        "ncsu?": true,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": false,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+
+        ],
+        "cross_building?": false,
+        "concepts": [
+          "Corporate governance",
+          "Representation (politics)",
+          "Network governance",
+          "Context (archaeology)",
+          "Normative",
+          "Collective action",
+          "Political science",
+          "Computer science",
+          "Business",
+          "Law",
+          "Politics",
+          "Paleontology",
+          "Finance",
+          "Biology"
+        ],
+        "host_venues": [
+          "Journal of Public Administration Research and Theory"
+        ],
+        "color": "#CC0000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-aknox2",
+      "target": "zhengyang",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Public and International Affairs --- unknown",
+        "colleges": "College of Humanities and Social Sciences --- unknown",
+        "buildings": "unknown --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          2018
+        ],
+        "year_recent": 2018,
+        "dois": [
+          "10.1177/0275074017724225"
+        ],
+        "ncsu?": false,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": false,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          "The American Review of Public Administration"
+        ],
+        "color": "#000000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-aknox2",
+      "target": "https://orcid.org/0000-0002-8758-5624",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Public and International Affairs --- unknown",
+        "colleges": "College of Humanities and Social Sciences --- unknown",
+        "buildings": "unknown --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          2017
+        ],
+        "year_recent": 2017,
+        "dois": [
+          "10.1111/disa.12211"
+        ],
+        "ncsu?": false,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": false,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+
+        ],
+        "cross_building?": false,
+        "concepts": [
+          "Bridging (networking)",
+          "Similarity (geometry)",
+          "Disaster response",
+          "Preparedness",
+          "Emergency response",
+          "Scale (ratio)",
+          "Emergency management",
+          "Poison control",
+          "Geography",
+          "Suicide prevention",
+          "Computer security",
+          "Psychology",
+          "Computer science",
+          "Political science",
+          "Medical emergency",
+          "Medicine",
+          "Cartography",
+          "Artificial intelligence",
+          "Law",
+          "Image (mathematics)"
+        ],
+        "host_venues": [
+          "Disasters"
+        ],
+        "color": "#000000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-aknox2",
+      "target": "https://orcid.org/0000-0002-1021-8041",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Public and International Affairs --- unknown",
+        "colleges": "College of Humanities and Social Sciences --- unknown",
+        "buildings": "unknown --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          2017
+        ],
+        "year_recent": 2017,
+        "dois": [
+          "10.1111/disa.12211"
+        ],
+        "ncsu?": true,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": false,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+
+        ],
+        "cross_building?": false,
+        "concepts": [
+          "Bridging (networking)",
+          "Similarity (geometry)",
+          "Disaster response",
+          "Preparedness",
+          "Emergency response",
+          "Scale (ratio)",
+          "Emergency management",
+          "Poison control",
+          "Geography",
+          "Suicide prevention",
+          "Computer security",
+          "Psychology",
+          "Computer science",
+          "Political science",
+          "Medical emergency",
+          "Medicine",
+          "Cartography",
+          "Artificial intelligence",
+          "Law",
+          "Image (mathematics)"
+        ],
+        "host_venues": [
+          "Disasters"
+        ],
+        "color": "#CC0000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-aknox2",
+      "target": "sarahmccaffrey",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Public and International Affairs --- unknown",
+        "colleges": "College of Humanities and Social Sciences --- unknown",
+        "buildings": "unknown --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          2015
+        ],
+        "year_recent": 2015,
+        "dois": [
+          "10.1007/s11069-014-1512-x"
+        ],
+        "ncsu?": false,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": false,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          "Natural Hazards"
+        ],
+        "color": "#000000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-amizod",
+      "target": "uid-kngarui",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Public Administration -- Public and International Affairs",
+        "colleges": "College of Humanities and Social Sciences == College of Humanities and Social Sciences",
+        "buildings": "James B Hunt Jr Centennial Cam --- unknown",
+        "roles": "faculty -- student",
+        "years": [
+          2016
+        ],
+        "year_recent": 2016,
+        "dois": [
+          "10.1093/jopart/muv048"
+        ],
+        "ncsu?": true,
+        "cross_college?": false,
+        "cross_department?": true,
+        "cross_unit?": true,
+        "cluster?": false,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          "Journal of Public Administration Research and Theory"
+        ],
+        "color": "#CC0000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-amizod",
+      "target": "https://orcid.org/0000-0001-5089-4071",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Public and International Affairs --- unknown",
+        "colleges": "College of Humanities and Social Sciences --- unknown",
+        "buildings": "unknown --- unknown",
+        "roles": "student --- unknown",
+        "years": [
+          2016
+        ],
+        "year_recent": 2016,
+        "dois": [
+          "10.1093/jopart/muv048"
+        ],
+        "ncsu?": false,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": false,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          "Journal of Public Administration Research and Theory"
+        ],
+        "color": "#000000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-kngarui",
+      "target": "https://orcid.org/0000-0001-5089-4071",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Public Administration --- unknown",
+        "colleges": "College of Humanities and Social Sciences --- unknown",
+        "buildings": "James B Hunt Jr Centennial Cam --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          2016
+        ],
+        "year_recent": 2016,
+        "dois": [
+          "10.1093/jopart/muv048"
+        ],
+        "ncsu?": false,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": false,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          "Journal of Public Administration Research and Theory"
+        ],
+        "color": "#000000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-dabayoum",
+      "target": "sarahmccaffrey",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Political Science & Public Administration --- unknown",
+        "colleges": "College of Humanities and Social Sciences --- unknown",
+        "buildings": "unknown --- unknown",
+        "roles": "unknown == unknown",
+        "years": [
+          2014
+        ],
+        "year_recent": 2014,
+        "dois": [
+          "10.1177/0095399712469198"
+        ],
+        "ncsu?": false,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": false,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          "Administration & Society"
+        ],
+        "color": "#000000",
+        "size": 1
+      }
+    }
+  ]
+}

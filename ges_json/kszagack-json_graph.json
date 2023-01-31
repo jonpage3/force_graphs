@@ -1,0 +1,2072 @@
+{
+  "options": {
+    "type": "undirected",
+    "multi": false,
+    "allowSelfLoops": false
+  },
+  "attributes": {
+    "creator": "Citation Index",
+    "lastModifiedDate": "2023-01-14"
+  },
+  "nodes": [
+    {
+      "key": "uid-kszagack",
+      "attributes": {
+        "label": "K Zagacki",
+        "name": "Kenneth Zagacki",
+        "known?": true,
+        "orcid?": false,
+        "ncsu?": true,
+        "affiliations": [
+          "North Carolina State University"
+        ],
+        "countries": [
+          "US"
+        ],
+        "uid": "kszagack",
+        "url": "https://ci.lib.ncsu.edu/profiles/kszagack",
+        "active?": true,
+        "department": "Communication",
+        "college": "College of Humanities and Social Sciences",
+        "ncsu_affiliations": [
+          "Communication",
+          "Leadership in Public Science",
+          "Genetic Engineering and Society",
+          "Communication Rhetoric and Digital Media"
+        ],
+        "cluster?": true,
+        "clusters": [
+          "Genetic Engineering and Society",
+          "Leadership in Public Science"
+        ],
+        "role": "faculty",
+        "building": "Winston Hall",
+        "count": 14,
+        "oa_count": 3,
+        "years": [
+          2014,
+          2011,
+          2009,
+          2008,
+          2007,
+          2006,
+          2005,
+          2003,
+          1995,
+          1992,
+          1988
+        ],
+        "year_recent": 2014,
+        "article_concepts": [
+          "Aesthetics",
+          "Anthropology",
+          "Archaeology",
+          "Art",
+          "Art history",
+          "Center (category theory)",
+          "Certainty",
+          "Chemistry",
+          "Civil rights",
+          "Composition (language)",
+          "Crystallography",
+          "Epistemology",
+          "History",
+          "Humanity",
+          "Law",
+          "Liminality",
+          "Linguistics",
+          "Literature",
+          "Materiality (auditing)",
+          "Media studies",
+          "Painting",
+          "Philosophy",
+          "Physics",
+          "Political science",
+          "Politics",
+          "Power (physics)",
+          "Psychology",
+          "Quantum mechanics",
+          "Rhetoric",
+          "Rhetorical question",
+          "Social psychology",
+          "Sociology",
+          "Space (punctuation)",
+          "Terrorism",
+          "Visual arts",
+          "Visual rhetoric",
+          "World trade center"
+        ],
+        "host_venues": [
+          "Communication studies",
+          "Critical Studies in Media Communication",
+          "Philosophy and Rhetoric",
+          "Quarterly Journal of Speech",
+          "Rhetoric Review",
+          "Rhetoric Society Quarterly",
+          "Rhetoric and public affairs",
+          "The Southern Communication Journal",
+          "Western Journal of Communication"
+        ],
+        "color": "#FAC800",
+        "size": 20
+      }
+    },
+    {
+      "key": "danielagrano",
+      "attributes": {
+        "label": "D Grano",
+        "name": "Daniel A. Grano",
+        "known?": false,
+        "orcid?": null,
+        "ncsu?": false,
+        "affiliations": [
+
+        ],
+        "countries": [
+
+        ],
+        "color": "#BFBFBD",
+        "size": 10
+      }
+    },
+    {
+      "key": "uid-vgallagh",
+      "attributes": {
+        "label": "V Gallagher",
+        "name": "Victoria Gallagher",
+        "known?": true,
+        "orcid?": false,
+        "ncsu?": true,
+        "affiliations": [
+          "North Carolina State University"
+        ],
+        "countries": [
+          "US"
+        ],
+        "uid": "vgallagh",
+        "url": "https://ci.lib.ncsu.edu/profiles/vgallagh",
+        "active?": true,
+        "department": "Communication",
+        "college": "College of Humanities and Social Sciences",
+        "ncsu_affiliations": [
+          "Communication",
+          "Communication Rhetoric and Digital Media"
+        ],
+        "cluster?": false,
+        "clusters": [
+
+        ],
+        "role": "faculty",
+        "building": "Winston Hall",
+        "count": 30,
+        "oa_count": 15,
+        "years": [
+          2021,
+          2020,
+          2019,
+          2018,
+          2013,
+          2011,
+          2010,
+          2009,
+          2007,
+          2006,
+          2005,
+          2004,
+          2003,
+          2001,
+          2000,
+          1999,
+          1997,
+          1996,
+          1995,
+          1992,
+          1990
+        ],
+        "year_recent": 2021,
+        "article_concepts": [
+          "Aesthetics",
+          "Anthropology",
+          "Archaeology",
+          "Art",
+          "Art history",
+          "Biology",
+          "Civil rights",
+          "Composition (language)",
+          "Constitution",
+          "Constitutional law",
+          "Constitutional theory",
+          "Contradiction",
+          "Deconstruction (building)",
+          "Dialectic",
+          "Dream",
+          "Ecology",
+          "Epistemology",
+          "History",
+          "Humanity",
+          "Judicial review",
+          "Law",
+          "Linguistics",
+          "Literature",
+          "Martin luther king",
+          "Materiality (auditing)",
+          "Neuroscience",
+          "Nullification",
+          "Opposition (politics)",
+          "Painting",
+          "Philosophy",
+          "Physics",
+          "Political science",
+          "Politics",
+          "Postmodernism",
+          "Power (physics)",
+          "Psychology",
+          "Quantum mechanics",
+          "Reflexivity",
+          "Rhetoric",
+          "Rhetorical question",
+          "Social science",
+          "Sociology",
+          "Supreme court",
+          "Theology",
+          "Visual arts",
+          "Visual rhetoric"
+        ],
+        "host_venues": [
+          "Argumentation and advocacy",
+          "Assessment & Evaluation in Higher Education",
+          "Communication Education",
+          "Design Issues",
+          "Journal of Engineering Education",
+          "Journal of Visual Literacy",
+          "Quarterly Journal of Speech",
+          "Research in Higher Education",
+          "Rhetoric Society Quarterly",
+          "Rhetoric and public affairs",
+          "SAGE Publications, Inc. eBooks",
+          "The Southern Communication Journal",
+          "Visual Communication Quarterly",
+          "Western Journal of Communication"
+        ],
+        "color": "#FAC800",
+        "size": 10
+      }
+    },
+    {
+      "key": "kevinjones",
+      "attributes": {
+        "label": "K Jones",
+        "name": "Kevin Jones",
+        "known?": false,
+        "orcid?": null,
+        "ncsu?": false,
+        "affiliations": [
+          "Chapman University"
+        ],
+        "countries": [
+          "US"
+        ],
+        "color": "#BFBFBD",
+        "size": 10
+      }
+    },
+    {
+      "key": "toddvlewis",
+      "attributes": {
+        "label": "T Lewis",
+        "name": "Todd V. Lewis",
+        "known?": false,
+        "orcid?": null,
+        "ncsu?": false,
+        "affiliations": [
+
+        ],
+        "countries": [
+
+        ],
+        "color": "#BFBFBD",
+        "size": 10
+      }
+    },
+    {
+      "key": "patrickaboleynfitzgerald",
+      "attributes": {
+        "label": "P Boleyn-Fitzgerald",
+        "name": "Patrick A. Boleyn-Fitzgerald",
+        "known?": false,
+        "orcid?": null,
+        "ncsu?": false,
+        "affiliations": [
+
+        ],
+        "countries": [
+
+        ],
+        "color": "#BFBFBD",
+        "size": 10
+      }
+    },
+    {
+      "key": "barbarawarnick",
+      "attributes": {
+        "label": "B Warnick",
+        "name": "Barbara Warnick",
+        "known?": false,
+        "orcid?": null,
+        "ncsu?": false,
+        "affiliations": [
+
+        ],
+        "countries": [
+
+        ],
+        "color": "#BFBFBD",
+        "size": 10
+      }
+    },
+    {
+      "key": "jmichaelhogan",
+      "attributes": {
+        "label": "J Hogan",
+        "name": "J. Michael Hogan",
+        "known?": false,
+        "orcid?": null,
+        "ncsu?": false,
+        "affiliations": [
+
+        ],
+        "countries": [
+
+        ],
+        "color": "#BFBFBD",
+        "size": 10
+      }
+    },
+    {
+      "key": "geoffreydklinger",
+      "attributes": {
+        "label": "G Klinger",
+        "name": "Geoffrey D. Klinger",
+        "known?": false,
+        "orcid?": null,
+        "ncsu?": false,
+        "affiliations": [
+
+        ],
+        "countries": [
+
+        ],
+        "color": "#BFBFBD",
+        "size": 10
+      }
+    },
+    {
+      "key": "annelpym",
+      "attributes": {
+        "label": "A Pym",
+        "name": "Anne L. Pym",
+        "known?": false,
+        "orcid?": null,
+        "ncsu?": false,
+        "affiliations": [
+
+        ],
+        "countries": [
+
+        ],
+        "color": "#BFBFBD",
+        "size": 10
+      }
+    },
+    {
+      "key": "detinelbowers",
+      "attributes": {
+        "label": "D Bowers",
+        "name": "Detine L. Bowers",
+        "known?": false,
+        "orcid?": null,
+        "ncsu?": false,
+        "affiliations": [
+
+        ],
+        "countries": [
+
+        ],
+        "color": "#BFBFBD",
+        "size": 10
+      }
+    },
+    {
+      "key": "lloydfbitzer",
+      "attributes": {
+        "label": "L Bitzer",
+        "name": "Lloyd F. Bitzer",
+        "known?": false,
+        "orcid?": null,
+        "ncsu?": false,
+        "affiliations": [
+
+        ],
+        "countries": [
+
+        ],
+        "color": "#BFBFBD",
+        "size": 10
+      }
+    },
+    {
+      "key": "michaelarwinchatz",
+      "attributes": {
+        "label": "M Winchatz",
+        "name": "Michaela R. Winchatz",
+        "known?": false,
+        "orcid?": null,
+        "ncsu?": false,
+        "affiliations": [
+
+        ],
+        "countries": [
+
+        ],
+        "color": "#BFBFBD",
+        "size": 10
+      }
+    },
+    {
+      "key": "brianstonehill",
+      "attributes": {
+        "label": "B Stonehill",
+        "name": "Brian Stonehill",
+        "known?": false,
+        "orcid?": null,
+        "ncsu?": false,
+        "affiliations": [
+
+        ],
+        "countries": [
+
+        ],
+        "color": "#BFBFBD",
+        "size": 10
+      }
+    },
+    {
+      "key": "maroufhasian",
+      "attributes": {
+        "label": "M Hasian",
+        "name": "Marouf Hasian",
+        "known?": false,
+        "orcid?": null,
+        "ncsu?": false,
+        "affiliations": [
+
+        ],
+        "countries": [
+
+        ],
+        "color": "#BFBFBD",
+        "size": 10
+      }
+    },
+    {
+      "key": "dansteward",
+      "attributes": {
+        "label": "D Steward",
+        "name": "Dan Steward",
+        "known?": false,
+        "orcid?": null,
+        "ncsu?": false,
+        "affiliations": [
+
+        ],
+        "countries": [
+
+        ],
+        "color": "#BFBFBD",
+        "size": 10
+      }
+    },
+    {
+      "key": "robertlivie",
+      "attributes": {
+        "label": "R Ivie",
+        "name": "Robert L. Ivie",
+        "known?": false,
+        "orcid?": null,
+        "ncsu?": false,
+        "affiliations": [
+
+        ],
+        "countries": [
+
+        ],
+        "color": "#BFBFBD",
+        "size": 10
+      }
+    },
+    {
+      "key": "richardleoenos",
+      "attributes": {
+        "label": "R Enos",
+        "name": "Richard Leo Enos",
+        "known?": false,
+        "orcid?": null,
+        "ncsu?": false,
+        "affiliations": [
+
+        ],
+        "countries": [
+
+        ],
+        "color": "#BFBFBD",
+        "size": 10
+      }
+    },
+    {
+      "key": "dorthylpennington",
+      "attributes": {
+        "label": "D Pennington",
+        "name": "Dorthy L. Pennington",
+        "known?": false,
+        "orcid?": null,
+        "ncsu?": false,
+        "affiliations": [
+
+        ],
+        "countries": [
+
+        ],
+        "color": "#BFBFBD",
+        "size": 10
+      }
+    },
+    {
+      "key": "jameswalsh",
+      "attributes": {
+        "label": "J Walsh",
+        "name": "James Walsh",
+        "known?": false,
+        "orcid?": null,
+        "ncsu?": false,
+        "affiliations": [
+
+        ],
+        "countries": [
+
+        ],
+        "color": "#BFBFBD",
+        "size": 10
+      }
+    },
+    {
+      "key": "barbarajohnstone",
+      "attributes": {
+        "label": "B Johnstone",
+        "name": "Barbara Johnstone",
+        "known?": false,
+        "orcid?": null,
+        "ncsu?": false,
+        "affiliations": [
+
+        ],
+        "countries": [
+
+        ],
+        "color": "#BFBFBD",
+        "size": 10
+      }
+    },
+    {
+      "key": "roseannmmandziuk",
+      "attributes": {
+        "label": "R Mandziuk",
+        "name": "Roseann M. Mandziuk",
+        "known?": false,
+        "orcid?": null,
+        "ncsu?": false,
+        "affiliations": [
+
+        ],
+        "countries": [
+
+        ],
+        "color": "#BFBFBD",
+        "size": 10
+      }
+    },
+    {
+      "key": "josprague",
+      "attributes": {
+        "label": "J Sprague",
+        "name": "Jo Sprague",
+        "known?": false,
+        "orcid?": null,
+        "ncsu?": false,
+        "affiliations": [
+
+        ],
+        "countries": [
+
+        ],
+        "color": "#BFBFBD",
+        "size": 10
+      }
+    },
+    {
+      "key": "robertlking",
+      "attributes": {
+        "label": "R King",
+        "name": "Robert L. King",
+        "known?": false,
+        "orcid?": null,
+        "ncsu?": false,
+        "affiliations": [
+
+        ],
+        "countries": [
+
+        ],
+        "color": "#BFBFBD",
+        "size": 10
+      }
+    },
+    {
+      "key": "janiceschuetz",
+      "attributes": {
+        "label": "J Schuetz",
+        "name": "Janice Schuetz",
+        "known?": false,
+        "orcid?": null,
+        "ncsu?": false,
+        "affiliations": [
+
+        ],
+        "countries": [
+
+        ],
+        "color": "#BFBFBD",
+        "size": 10
+      }
+    },
+    {
+      "key": "jeffdbass",
+      "attributes": {
+        "label": "J Bass",
+        "name": "Jeff D. Bass",
+        "known?": false,
+        "orcid?": null,
+        "ncsu?": false,
+        "affiliations": [
+
+        ],
+        "countries": [
+
+        ],
+        "color": "#BFBFBD",
+        "size": 10
+      }
+    },
+    {
+      "key": "bryanctaylor",
+      "attributes": {
+        "label": "B Taylor",
+        "name": "Bryan C. Taylor",
+        "known?": false,
+        "orcid?": null,
+        "ncsu?": false,
+        "affiliations": [
+
+        ],
+        "countries": [
+
+        ],
+        "color": "#BFBFBD",
+        "size": 10
+      }
+    },
+    {
+      "key": "brantshort",
+      "attributes": {
+        "label": "B Short",
+        "name": "Brant Short",
+        "known?": false,
+        "orcid?": null,
+        "ncsu?": false,
+        "affiliations": [
+
+        ],
+        "countries": [
+
+        ],
+        "color": "#BFBFBD",
+        "size": 10
+      }
+    },
+    {
+      "key": "ghmorris",
+      "attributes": {
+        "label": "G Morris",
+        "name": "G.H. Morris",
+        "known?": false,
+        "orcid?": null,
+        "ncsu?": false,
+        "affiliations": [
+
+        ],
+        "countries": [
+
+        ],
+        "color": "#BFBFBD",
+        "size": 10
+      }
+    },
+    {
+      "key": "davidrroskosewoldsen",
+      "attributes": {
+        "label": "D Roskos‐Ewoldsen",
+        "name": "David R. Roskos‐Ewoldsen",
+        "known?": false,
+        "orcid?": null,
+        "ncsu?": false,
+        "affiliations": [
+
+        ],
+        "countries": [
+
+        ],
+        "color": "#BFBFBD",
+        "size": 10
+      }
+    },
+    {
+      "key": "glenhstamp",
+      "attributes": {
+        "label": "G Stamp",
+        "name": "Glen H. Stamp",
+        "known?": false,
+        "orcid?": null,
+        "ncsu?": false,
+        "affiliations": [
+
+        ],
+        "countries": [
+
+        ],
+        "color": "#BFBFBD",
+        "size": 10
+      }
+    },
+    {
+      "key": "jameswhikins",
+      "attributes": {
+        "label": "J Hikins",
+        "name": "James W. Hikins",
+        "known?": false,
+        "orcid?": null,
+        "ncsu?": false,
+        "affiliations": [
+
+        ],
+        "countries": [
+
+        ],
+        "color": "#BFBFBD",
+        "size": 10
+      }
+    }
+  ],
+  "edges": [
+    {
+      "source": "uid-kszagack",
+      "target": "danielagrano",
+      "attributes": {
+        "label": 2,
+        "weight": 2,
+        "collaboration_count": 2,
+        "departments": "Communication --- unknown",
+        "colleges": "College of Humanities and Social Sciences --- unknown",
+        "buildings": "Winston Hall --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          2011,
+          2005
+        ],
+        "year_recent": 2011,
+        "dois": [
+          "10.1080/00335630.2011.560175",
+          "10.1080/0739318042000331844"
+        ],
+        "ncsu?": false,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society",
+          "Leadership in Public Science"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          "Quarterly Journal of Speech"
+        ],
+        "color": "#000000",
+        "size": 2
+      }
+    },
+    {
+      "source": "uid-kszagack",
+      "target": "uid-vgallagh",
+      "attributes": {
+        "label": 3,
+        "weight": 3,
+        "collaboration_count": 3,
+        "departments": "Communication == Communication",
+        "colleges": "College of Humanities and Social Sciences == College of Humanities and Social Sciences",
+        "buildings": "Winston Hall == Winston Hall",
+        "roles": "faculty == faculty",
+        "years": [
+          2009,
+          2007,
+          2005
+        ],
+        "year_recent": 2009,
+        "dois": [
+          "10.1080/00335630902842087",
+          "10.1080/02773940601016056",
+          "10.1080/00335630500291448"
+        ],
+        "ncsu?": true,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society",
+          "Leadership in Public Science"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          "Materiality (auditing)",
+          "Rhetoric",
+          "Art",
+          "Archaeology",
+          "Aesthetics",
+          "Sociology",
+          "Anthropology",
+          "Art history",
+          "History",
+          "Philosophy",
+          "Linguistics"
+        ],
+        "host_venues": [
+          "Quarterly Journal of Speech"
+        ],
+        "color": "#CC0000",
+        "size": 3
+      }
+    },
+    {
+      "source": "uid-kszagack",
+      "target": "kevinjones",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Communication --- unknown",
+        "colleges": "College of Humanities and Social Sciences --- unknown",
+        "buildings": "Winston Hall --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          2007
+        ],
+        "year_recent": 2007,
+        "dois": [
+          "10.1080/10510970601168780"
+        ],
+        "ncsu?": false,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society",
+          "Leadership in Public Science"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          "Liminality",
+          "Certainty",
+          "World trade center",
+          "Space (punctuation)",
+          "Aesthetics",
+          "Psychology",
+          "Sociology",
+          "Social psychology",
+          "Center (category theory)",
+          "Media studies",
+          "History",
+          "Epistemology",
+          "Art",
+          "Linguistics",
+          "Philosophy",
+          "Terrorism",
+          "Archaeology",
+          "Chemistry",
+          "Crystallography"
+        ],
+        "host_venues": [
+          "Communication studies"
+        ],
+        "color": "#000000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-kszagack",
+      "target": "toddvlewis",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Communication --- unknown",
+        "colleges": "College of Humanities and Social Sciences --- unknown",
+        "buildings": "Winston Hall --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          2007
+        ],
+        "year_recent": 2007,
+        "dois": [
+          "10.1080/10510970601168780"
+        ],
+        "ncsu?": false,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society",
+          "Leadership in Public Science"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          "Liminality",
+          "Certainty",
+          "World trade center",
+          "Space (punctuation)",
+          "Aesthetics",
+          "Psychology",
+          "Sociology",
+          "Social psychology",
+          "Center (category theory)",
+          "Media studies",
+          "History",
+          "Epistemology",
+          "Art",
+          "Linguistics",
+          "Philosophy",
+          "Terrorism",
+          "Archaeology",
+          "Chemistry",
+          "Crystallography"
+        ],
+        "host_venues": [
+          "Communication studies"
+        ],
+        "color": "#000000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-kszagack",
+      "target": "patrickaboleynfitzgerald",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Communication --- unknown",
+        "colleges": "College of Humanities and Social Sciences --- unknown",
+        "buildings": "Winston Hall --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          2006
+        ],
+        "year_recent": 2006,
+        "dois": [
+          "10.1353/par.2007.0006"
+        ],
+        "ncsu?": false,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society",
+          "Leadership in Public Science"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          "Philosophy and Rhetoric"
+        ],
+        "color": "#000000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-kszagack",
+      "target": "barbarawarnick",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Communication --- unknown",
+        "colleges": "College of Humanities and Social Sciences --- unknown",
+        "buildings": "Winston Hall --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          1995
+        ],
+        "year_recent": 1995,
+        "dois": [
+          "10.1080/00335639509384102"
+        ],
+        "ncsu?": false,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society",
+          "Leadership in Public Science"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          "Quarterly Journal of Speech"
+        ],
+        "color": "#000000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-kszagack",
+      "target": "jmichaelhogan",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Communication --- unknown",
+        "colleges": "College of Humanities and Social Sciences --- unknown",
+        "buildings": "Winston Hall --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          1995
+        ],
+        "year_recent": 1995,
+        "dois": [
+          "10.1080/00335639509384102"
+        ],
+        "ncsu?": false,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society",
+          "Leadership in Public Science"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          "Quarterly Journal of Speech"
+        ],
+        "color": "#000000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-kszagack",
+      "target": "geoffreydklinger",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Communication --- unknown",
+        "colleges": "College of Humanities and Social Sciences --- unknown",
+        "buildings": "Winston Hall --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          1995
+        ],
+        "year_recent": 1995,
+        "dois": [
+          "10.1080/00335639509384102"
+        ],
+        "ncsu?": false,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society",
+          "Leadership in Public Science"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          "Quarterly Journal of Speech"
+        ],
+        "color": "#000000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-kszagack",
+      "target": "annelpym",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Communication --- unknown",
+        "colleges": "College of Humanities and Social Sciences --- unknown",
+        "buildings": "Winston Hall --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          1995
+        ],
+        "year_recent": 1995,
+        "dois": [
+          "10.1080/00335639509384102"
+        ],
+        "ncsu?": false,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society",
+          "Leadership in Public Science"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          "Quarterly Journal of Speech"
+        ],
+        "color": "#000000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-kszagack",
+      "target": "detinelbowers",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Communication --- unknown",
+        "colleges": "College of Humanities and Social Sciences --- unknown",
+        "buildings": "Winston Hall --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          1995
+        ],
+        "year_recent": 1995,
+        "dois": [
+          "10.1080/00335639509384102"
+        ],
+        "ncsu?": false,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society",
+          "Leadership in Public Science"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          "Quarterly Journal of Speech"
+        ],
+        "color": "#000000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-kszagack",
+      "target": "lloydfbitzer",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Communication --- unknown",
+        "colleges": "College of Humanities and Social Sciences --- unknown",
+        "buildings": "Winston Hall --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          1995
+        ],
+        "year_recent": 1995,
+        "dois": [
+          "10.1080/00335639509384102"
+        ],
+        "ncsu?": false,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society",
+          "Leadership in Public Science"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          "Quarterly Journal of Speech"
+        ],
+        "color": "#000000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-kszagack",
+      "target": "michaelarwinchatz",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Communication --- unknown",
+        "colleges": "College of Humanities and Social Sciences --- unknown",
+        "buildings": "Winston Hall --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          1995
+        ],
+        "year_recent": 1995,
+        "dois": [
+          "10.1080/00335639509384102"
+        ],
+        "ncsu?": false,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society",
+          "Leadership in Public Science"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          "Quarterly Journal of Speech"
+        ],
+        "color": "#000000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-kszagack",
+      "target": "brianstonehill",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Communication --- unknown",
+        "colleges": "College of Humanities and Social Sciences --- unknown",
+        "buildings": "Winston Hall --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          1995
+        ],
+        "year_recent": 1995,
+        "dois": [
+          "10.1080/00335639509384102"
+        ],
+        "ncsu?": false,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society",
+          "Leadership in Public Science"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          "Quarterly Journal of Speech"
+        ],
+        "color": "#000000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-kszagack",
+      "target": "maroufhasian",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Communication --- unknown",
+        "colleges": "College of Humanities and Social Sciences --- unknown",
+        "buildings": "Winston Hall --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          1995
+        ],
+        "year_recent": 1995,
+        "dois": [
+          "10.1080/00335639509384102"
+        ],
+        "ncsu?": false,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society",
+          "Leadership in Public Science"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          "Quarterly Journal of Speech"
+        ],
+        "color": "#000000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-kszagack",
+      "target": "dansteward",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Communication --- unknown",
+        "colleges": "College of Humanities and Social Sciences --- unknown",
+        "buildings": "Winston Hall --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          1995
+        ],
+        "year_recent": 1995,
+        "dois": [
+          "10.1080/00335639509384102"
+        ],
+        "ncsu?": false,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society",
+          "Leadership in Public Science"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          "Quarterly Journal of Speech"
+        ],
+        "color": "#000000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-kszagack",
+      "target": "robertlivie",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Communication --- unknown",
+        "colleges": "College of Humanities and Social Sciences --- unknown",
+        "buildings": "Winston Hall --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          1992
+        ],
+        "year_recent": 1992,
+        "dois": [
+          "10.1080/00335639209383983"
+        ],
+        "ncsu?": false,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society",
+          "Leadership in Public Science"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          "Quarterly Journal of Speech"
+        ],
+        "color": "#000000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-kszagack",
+      "target": "richardleoenos",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Communication --- unknown",
+        "colleges": "College of Humanities and Social Sciences --- unknown",
+        "buildings": "Winston Hall --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          1992
+        ],
+        "year_recent": 1992,
+        "dois": [
+          "10.1080/00335639209383983"
+        ],
+        "ncsu?": false,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society",
+          "Leadership in Public Science"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          "Quarterly Journal of Speech"
+        ],
+        "color": "#000000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-kszagack",
+      "target": "dorthylpennington",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Communication --- unknown",
+        "colleges": "College of Humanities and Social Sciences --- unknown",
+        "buildings": "Winston Hall --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          1992
+        ],
+        "year_recent": 1992,
+        "dois": [
+          "10.1080/00335639209383983"
+        ],
+        "ncsu?": false,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society",
+          "Leadership in Public Science"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          "Quarterly Journal of Speech"
+        ],
+        "color": "#000000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-kszagack",
+      "target": "jameswalsh",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Communication --- unknown",
+        "colleges": "College of Humanities and Social Sciences --- unknown",
+        "buildings": "Winston Hall --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          1992
+        ],
+        "year_recent": 1992,
+        "dois": [
+          "10.1080/00335639209383983"
+        ],
+        "ncsu?": false,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society",
+          "Leadership in Public Science"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          "Quarterly Journal of Speech"
+        ],
+        "color": "#000000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-kszagack",
+      "target": "barbarajohnstone",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Communication --- unknown",
+        "colleges": "College of Humanities and Social Sciences --- unknown",
+        "buildings": "Winston Hall --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          1992
+        ],
+        "year_recent": 1992,
+        "dois": [
+          "10.1080/00335639209383983"
+        ],
+        "ncsu?": false,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society",
+          "Leadership in Public Science"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          "Quarterly Journal of Speech"
+        ],
+        "color": "#000000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-kszagack",
+      "target": "roseannmmandziuk",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Communication --- unknown",
+        "colleges": "College of Humanities and Social Sciences --- unknown",
+        "buildings": "Winston Hall --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          1992
+        ],
+        "year_recent": 1992,
+        "dois": [
+          "10.1080/00335639209383983"
+        ],
+        "ncsu?": false,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society",
+          "Leadership in Public Science"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          "Quarterly Journal of Speech"
+        ],
+        "color": "#000000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-kszagack",
+      "target": "josprague",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Communication --- unknown",
+        "colleges": "College of Humanities and Social Sciences --- unknown",
+        "buildings": "Winston Hall --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          1992
+        ],
+        "year_recent": 1992,
+        "dois": [
+          "10.1080/00335639209383983"
+        ],
+        "ncsu?": false,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society",
+          "Leadership in Public Science"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          "Quarterly Journal of Speech"
+        ],
+        "color": "#000000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-kszagack",
+      "target": "robertlking",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Communication --- unknown",
+        "colleges": "College of Humanities and Social Sciences --- unknown",
+        "buildings": "Winston Hall --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          1992
+        ],
+        "year_recent": 1992,
+        "dois": [
+          "10.1080/00335639209383983"
+        ],
+        "ncsu?": false,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society",
+          "Leadership in Public Science"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          "Quarterly Journal of Speech"
+        ],
+        "color": "#000000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-kszagack",
+      "target": "janiceschuetz",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Communication --- unknown",
+        "colleges": "College of Humanities and Social Sciences --- unknown",
+        "buildings": "Winston Hall --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          1992
+        ],
+        "year_recent": 1992,
+        "dois": [
+          "10.1080/00335639209383983"
+        ],
+        "ncsu?": false,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society",
+          "Leadership in Public Science"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          "Quarterly Journal of Speech"
+        ],
+        "color": "#000000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-kszagack",
+      "target": "jeffdbass",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Communication --- unknown",
+        "colleges": "College of Humanities and Social Sciences --- unknown",
+        "buildings": "Winston Hall --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          1992
+        ],
+        "year_recent": 1992,
+        "dois": [
+          "10.1080/00335639209383983"
+        ],
+        "ncsu?": false,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society",
+          "Leadership in Public Science"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          "Quarterly Journal of Speech"
+        ],
+        "color": "#000000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-kszagack",
+      "target": "bryanctaylor",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Communication --- unknown",
+        "colleges": "College of Humanities and Social Sciences --- unknown",
+        "buildings": "Winston Hall --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          1992
+        ],
+        "year_recent": 1992,
+        "dois": [
+          "10.1080/00335639209383983"
+        ],
+        "ncsu?": false,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society",
+          "Leadership in Public Science"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          "Quarterly Journal of Speech"
+        ],
+        "color": "#000000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-kszagack",
+      "target": "brantshort",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Communication --- unknown",
+        "colleges": "College of Humanities and Social Sciences --- unknown",
+        "buildings": "Winston Hall --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          1992
+        ],
+        "year_recent": 1992,
+        "dois": [
+          "10.1080/00335639209383983"
+        ],
+        "ncsu?": false,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society",
+          "Leadership in Public Science"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          "Quarterly Journal of Speech"
+        ],
+        "color": "#000000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-kszagack",
+      "target": "ghmorris",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Communication --- unknown",
+        "colleges": "College of Humanities and Social Sciences --- unknown",
+        "buildings": "Winston Hall --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          1992
+        ],
+        "year_recent": 1992,
+        "dois": [
+          "10.1080/00335639209383983"
+        ],
+        "ncsu?": false,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society",
+          "Leadership in Public Science"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          "Quarterly Journal of Speech"
+        ],
+        "color": "#000000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-kszagack",
+      "target": "davidrroskosewoldsen",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Communication --- unknown",
+        "colleges": "College of Humanities and Social Sciences --- unknown",
+        "buildings": "Winston Hall --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          1992
+        ],
+        "year_recent": 1992,
+        "dois": [
+          "10.1080/00335639209383983"
+        ],
+        "ncsu?": false,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society",
+          "Leadership in Public Science"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          "Quarterly Journal of Speech"
+        ],
+        "color": "#000000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-kszagack",
+      "target": "glenhstamp",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Communication --- unknown",
+        "colleges": "College of Humanities and Social Sciences --- unknown",
+        "buildings": "Winston Hall --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          1992
+        ],
+        "year_recent": 1992,
+        "dois": [
+          "10.1080/00335639209383983"
+        ],
+        "ncsu?": false,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society",
+          "Leadership in Public Science"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          "Quarterly Journal of Speech"
+        ],
+        "color": "#000000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-kszagack",
+      "target": "jameswhikins",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Communication --- unknown",
+        "colleges": "College of Humanities and Social Sciences --- unknown",
+        "buildings": "Winston Hall --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          1988
+        ],
+        "year_recent": 1988,
+        "dois": [
+          "10.1080/00335638809383837"
+        ],
+        "ncsu?": false,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society",
+          "Leadership in Public Science"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          "Quarterly Journal of Speech"
+        ],
+        "color": "#000000",
+        "size": 1
+      }
+    }
+  ]
+}

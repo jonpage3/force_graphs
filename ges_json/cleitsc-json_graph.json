@@ -1,0 +1,5865 @@
+{
+  "options": {
+    "type": "undirected",
+    "multi": false,
+    "allowSelfLoops": false
+  },
+  "attributes": {
+    "creator": "Citation Index",
+    "lastModifiedDate": "2023-01-17"
+  },
+  "nodes": [
+    {
+      "key": "uid-cleitsc",
+      "attributes": {
+        "label": "C Leitschuh",
+        "name": "Caroline Leitschuh",
+        "known?": true,
+        "orcid?": false,
+        "ncsu?": true,
+        "affiliations": [
+          "North Carolina State University"
+        ],
+        "countries": [
+          "US"
+        ],
+        "uid": "cleitsc",
+        "url": "https://ci.lib.ncsu.edu/profiles/cleitsc",
+        "active?": false,
+        "department": "Biological Sciences",
+        "college": "College of Sciences",
+        "ncsu_affiliations": [
+          "Biological Sciences",
+          "Genetic Engineering and Society"
+        ],
+        "cluster?": true,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "role": "student",
+        "building": null,
+        "count": 3,
+        "oa_count": 2,
+        "years": [
+          2018,
+          2017
+        ],
+        "year_recent": 2018,
+        "article_concepts": [
+          "Biology",
+          "Business",
+          "CRISPR",
+          "Computer science",
+          "Context (archaeology)",
+          "Corporate governance",
+          "Economics",
+          "Engineering",
+          "Engineering ethics",
+          "Finance",
+          "Frame (networking)",
+          "Gene",
+          "Gene drive",
+          "Genetics",
+          "Management",
+          "Paleontology",
+          "Political science",
+          "Process management",
+          "Public administration",
+          "Public relations",
+          "Responsible Research and Innovation",
+          "Sociology",
+          "Telecommunications"
+        ],
+        "host_venues": [
+          "Journal of Responsible Innovation"
+        ],
+        "color": "#4156A1",
+        "size": 20
+      }
+    },
+    {
+      "key": "uid-jkuzma",
+      "attributes": {
+        "label": "J Kuzma",
+        "name": "Jennifer Kuzma",
+        "known?": true,
+        "orcid?": true,
+        "ncsu?": true,
+        "affiliations": [
+          "North Carolina State University"
+        ],
+        "countries": [
+          "US"
+        ],
+        "uid": "jkuzma",
+        "url": "https://ci.lib.ncsu.edu/profiles/jkuzma",
+        "orcid": "0000-0003-4456-9613",
+        "active?": true,
+        "department": "Genetic Engineering and Society",
+        "college": "NC State",
+        "ncsu_affiliations": [
+          "Genetic Engineering and Society",
+          "Public and International Affairs",
+          "Genetics and Genomics Academy"
+        ],
+        "cluster?": true,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "role": "faculty",
+        "building": "James B Hunt Jr Centennial Cam",
+        "count": 156,
+        "oa_count": 25,
+        "years": [
+          2022,
+          2021,
+          2020,
+          2019,
+          2018,
+          2017,
+          2016,
+          2015,
+          2014,
+          2013,
+          2012,
+          2011,
+          2010,
+          2009,
+          2008,
+          2007,
+          2006,
+          2005,
+          2004,
+          2003,
+          2002,
+          2001,
+          2000,
+          1999,
+          1998,
+          1997,
+          1995,
+          1994
+        ],
+        "year_recent": 2022,
+        "article_concepts": [
+          "Agriculture",
+          "Agronomy",
+          "Anticipation (artificial intelligence)",
+          "Applications of nanotechnology",
+          "Archaeology",
+          "Artificial intelligence",
+          "Biochemical engineering",
+          "Biochemistry",
+          "Biofuel",
+          "Bioinformatics",
+          "Biology",
+          "Biotechnology",
+          "Botany",
+          "Business",
+          "CRISPR",
+          "Cartography",
+          "Chemistry",
+          "China",
+          "Commercialization",
+          "Community engagement",
+          "Competitor analysis",
+          "Composite material",
+          "Computational biology",
+          "Computer science",
+          "Computer security",
+          "Context (archaeology)",
+          "Copolymer",
+          "Corporate governance",
+          "Crop",
+          "Cross-site scripting",
+          "Data science",
+          "Delphi method",
+          "Dilemma",
+          "Ecology",
+          "Econometrics",
+          "Economics",
+          "Electrical engineering",
+          "Emerging technologies",
+          "Engineering",
+          "Engineering ethics",
+          "Environmental economics",
+          "Environmental ethics",
+          "Environmental planning",
+          "Environmental resource management",
+          "Enzyme",
+          "Epistemology",
+          "Evolutionary biology",
+          "Extinction (optical mineralogy)",
+          "Field (mathematics)",
+          "Finance",
+          "Focus group",
+          "Food industry",
+          "Food labeling",
+          "Food packaging",
+          "Food products",
+          "Food science",
+          "Frame (networking)",
+          "Gene",
+          "Gene drive",
+          "Genetically engineered",
+          "Genetically modified crops",
+          "Genetically modified food",
+          "Genetically modified organism",
+          "Genetics",
+          "Genome",
+          "Genome editing",
+          "Geography",
+          "Geometry",
+          "Government (linguistics)",
+          "Government regulation",
+          "Hydrocarbon",
+          "Impact of nanotechnology",
+          "Inclusion (mineral)",
+          "Interdependence",
+          "Internet privacy",
+          "Isoprene",
+          "Knowledge management",
+          "Latent class model",
+          "Law",
+          "Legitimacy",
+          "Limiting",
+          "Linguistics",
+          "Logistic regression",
+          "Logit",
+          "Machine learning",
+          "Management",
+          "Management science",
+          "Marketing",
+          "Materials science",
+          "Mathematics",
+          "Mechanical engineering",
+          "Medicine",
+          "Mixed logit",
+          "Multitude",
+          "Nano-",
+          "Nanotechnology",
+          "National security",
+          "Natural resource economics",
+          "Neuroscience",
+          "Operating system",
+          "Order (exchange)",
+          "Organic chemistry",
+          "Paleontology",
+          "Path (computing)",
+          "Perception",
+          "Pharmacy",
+          "Philosophy",
+          "Philosophy of science",
+          "Point (geometry)",
+          "Political science",
+          "Politics",
+          "Polymer",
+          "Process (computing)",
+          "Process management",
+          "Product (mathematics)",
+          "Programming language",
+          "Psychology",
+          "Public administration",
+          "Public policy",
+          "Public relations",
+          "Pure mathematics",
+          "Reboot",
+          "Reflexivity",
+          "Renewable energy",
+          "Reputation",
+          "Research council",
+          "Responsible Research and Innovation",
+          "Risk analysis (engineering)",
+          "Risk assessment",
+          "Risk governance",
+          "Scale (ratio)",
+          "Scholarship",
+          "Scope (computer science)",
+          "Scripting language",
+          "Social science",
+          "Societal impact of nanotechnology",
+          "Sociology",
+          "Software",
+          "Stakeholder",
+          "Stakeholder engagement",
+          "Statistics",
+          "Sustainability",
+          "Systems biology",
+          "Telecommunications",
+          "Terpenoid",
+          "Terrorism",
+          "The Internet",
+          "Transgene",
+          "Transparency (behavior)",
+          "Uncertainty",
+          "Upstream (networking)",
+          "Vulnerability (computing)",
+          "Waste management",
+          "Web application",
+          "Web application security",
+          "Web development",
+          "Work (physics)",
+          "World Wide Web"
+        ],
+        "host_venues": [
+          "Biological Invasions",
+          "Bulletin of Science, Technology & Society",
+          "Current Microbiology",
+          "EMBO Reports",
+          "Elementa",
+          "Encyclopedia of Nanoscience and Society",
+          "Encyclopedia of Science and Technology Communication",
+          "Energy Policy",
+          "Environment Systems and Decisions",
+          "Environmental Science & Policy",
+          "Frontiers in Bioengineering and Biotechnology",
+          "Informatics for Health & Social Care",
+          "Innovative Governance Models for Emerging Technologies",
+          "Journal of Agricultural Economics",
+          "Journal of Bioethical Inquiry",
+          "Journal of Consumer Policy",
+          "Journal of Law Medicine & Ethics",
+          "Journal of Nanoparticle Research",
+          "Journal of Responsible Innovation",
+          "Journal of Veterinary Medical Education",
+          "Livestock Science",
+          "Medicine Health Care and Philosophy",
+          "NanoImpact",
+          "Nanoethics",
+          "National Academies Press eBooks",
+          "Nature",
+          "Nature Nanotechnology",
+          "PLOS ONE",
+          "Plant Physiology",
+          "Policy and Society",
+          "Public Policy and Administration",
+          "Regulation & Governance",
+          "Review of Policy Research",
+          "Risk Analysis",
+          "Risk, systems and decisions",
+          "Science",
+          "Science & public policy",
+          "Science, Technology, & Human Values",
+          "Springer Netherlands eBooks",
+          "Sustainability",
+          "Technology Analysis & Strategic Management",
+          "Wiley-Blackwell eBooks",
+          "Women in engineering and science"
+        ],
+        "color": "#BD5383",
+        "size": 10
+      }
+    },
+    {
+      "key": "uid-fgould",
+      "attributes": {
+        "label": "F Gould",
+        "name": "Fred Gould",
+        "known?": true,
+        "orcid?": false,
+        "ncsu?": true,
+        "affiliations": [
+          "North Carolina State University"
+        ],
+        "countries": [
+          "US"
+        ],
+        "uid": "fgould",
+        "url": "https://ci.lib.ncsu.edu/profiles/fgould",
+        "active?": true,
+        "department": "Entomology and Plant Pathology",
+        "college": "College of Agriculture and Life Sciences",
+        "ncsu_affiliations": [
+          "Entomology and Plant Pathology",
+          "Genetic Engineering and Society",
+          "Genetics and Genomics Academy",
+          "Comparative Medicine Institute"
+        ],
+        "cluster?": true,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "role": "faculty",
+        "building": "Thomas Hall",
+        "count": 177,
+        "oa_count": 75,
+        "years": [
+          2022,
+          2021,
+          2020,
+          2019,
+          2018,
+          2017,
+          2016,
+          2015,
+          2014,
+          2013,
+          2012,
+          2011,
+          2010,
+          2009,
+          2008,
+          2007,
+          2006,
+          2005,
+          2004,
+          2003,
+          2002,
+          2001,
+          2000,
+          1999,
+          1998,
+          1997,
+          1996,
+          1995,
+          1994,
+          1991,
+          1990,
+          1987,
+          1984,
+          1980
+        ],
+        "year_recent": 2022,
+        "article_concepts": [
+          "Adaptation (eye)",
+          "Aedes",
+          "Aedes aegypti",
+          "Aedes albopictus",
+          "Aerospace engineering",
+          "Agricultural productivity",
+          "Agricultural science",
+          "Agriculture",
+          "Agroforestry",
+          "Agronomy",
+          "Alkaline phosphatase",
+          "Allele",
+          "Allele frequency",
+          "Anatomy",
+          "Animal ecology",
+          "Art history",
+          "Artemisinin",
+          "Artificial intelligence",
+          "Assortative mating",
+          "Astrophysics",
+          "Automotive engineering",
+          "Bacillus thuringiensis",
+          "Backcrossing",
+          "Bacteria",
+          "Balance (ability)",
+          "Bed nets",
+          "Beet armyworm",
+          "Binding site",
+          "Biochemistry",
+          "Bioinformatics",
+          "Biological dispersal",
+          "Biology",
+          "Biotechnology",
+          "Bollworm",
+          "Botany",
+          "Brassica oleracea",
+          "Brush border",
+          "Bt cotton",
+          "Business",
+          "CRISPR",
+          "Cage",
+          "Candidate gene",
+          "Cas9",
+          "Chemical communication",
+          "Chikungunya",
+          "Chilo suppressalis",
+          "Chloroplast",
+          "Colonization",
+          "Combinatorics",
+          "Competition (biology)",
+          "Computational biology",
+          "Computer science",
+          "Computer security",
+          "Construct (python library)",
+          "Container (type theory)",
+          "Context (archaeology)",
+          "Control (management)",
+          "Corporate governance",
+          "Countermeasure",
+          "Crambidae",
+          "Crop protection",
+          "Cry1Ac",
+          "Cyfluthrin",
+          "De novo transcriptome assembly",
+          "Demography",
+          "Dengue fever",
+          "Dengue virus",
+          "Density dependence",
+          "Diamondback moth",
+          "Directional selection",
+          "Disruptive selection",
+          "Distribution (mathematics)",
+          "Dominance (genetics)",
+          "Drosophila melanogaster",
+          "Ecological genetics",
+          "Ecology",
+          "Econometrics",
+          "Economic history",
+          "Economics",
+          "Electrical engineering",
+          "Electroantennography",
+          "Element (criminal law)",
+          "Endonuclease",
+          "Engineering",
+          "Engineering ethics",
+          "Environmental ethics",
+          "Environmental health",
+          "Enzyme",
+          "Epistasis",
+          "Epistemology",
+          "Evolutionary biology",
+          "Exigua",
+          "Experimental evolution",
+          "Fecundity",
+          "Female sex",
+          "Finance",
+          "Frame (networking)",
+          "Gene",
+          "Gene drive",
+          "Gene expression",
+          "Gene expression profiling",
+          "Gene flow",
+          "Generalist and specialist species",
+          "Genetic architecture",
+          "Genetic diversity",
+          "Genetic load",
+          "Genetic structure",
+          "Genetic variation",
+          "Genetically engineered",
+          "Genetically modified crops",
+          "Genetically modified maize",
+          "Genetically modified organism",
+          "Genetics",
+          "Genome",
+          "Genomics",
+          "Geographic variation",
+          "Geographical distance",
+          "Geography",
+          "Geometry",
+          "Glycosylation",
+          "Gossypium",
+          "Growing season",
+          "Habitat",
+          "Haplotype",
+          "Helicoverpa armigera",
+          "Helicoverpa zea",
+          "Heliothis",
+          "Heliothis virescens",
+          "Herbivore",
+          "Heritability",
+          "History",
+          "Homing (biology)",
+          "Homing endonuclease",
+          "Horticulture",
+          "Host (biology)",
+          "Illumina dye sequencing",
+          "Immunology",
+          "Inbreeding",
+          "Indoor residual spraying",
+          "Induction motor",
+          "Insect",
+          "Insecticide resistance",
+          "Instar",
+          "Integrated pest management",
+          "Internal medicine",
+          "Interspecific competition",
+          "Intraspecific competition",
+          "Introgression",
+          "Isolation by distance",
+          "Knockdown resistance",
+          "Larva",
+          "Law",
+          "Lectin",
+          "Lepidoptera genitalia",
+          "Ligand binding assay",
+          "Limiting",
+          "Local adaptation",
+          "Locus (genetics)",
+          "Macroeconomics",
+          "Malaria",
+          "Management",
+          "Mate choice",
+          "Mathematical analysis",
+          "Mathematics",
+          "Mating",
+          "Mating disruption",
+          "Mechanical engineering",
+          "Mechanism (biology)",
+          "Medicine",
+          "Meiotic drive",
+          "Membrane",
+          "Mendelian inheritance",
+          "Microbiology",
+          "Microsatellite",
+          "Midgut",
+          "Molecular biology",
+          "Mosquito control",
+          "Natural population growth",
+          "Natural selection",
+          "Neglected tropical diseases",
+          "Network packet",
+          "Neuroscience",
+          "Noctuidae",
+          "Nursing",
+          "Offspring",
+          "Olfaction",
+          "Olfactory receptor",
+          "Operating system",
+          "Overwintering",
+          "PEST analysis",
+          "Paleontology",
+          "Parametric statistics",
+          "Parasitism",
+          "Pathogen",
+          "Pathology",
+          "Payload (computing)",
+          "Penetrance",
+          "Pest control",
+          "Pesticide",
+          "Pesticide resistance",
+          "Phenotype",
+          "Pheromone",
+          "Philosophy",
+          "Physalis",
+          "Physics",
+          "Pink bollworm",
+          "Plasmodium falciparum",
+          "Plutella",
+          "Plutellidae",
+          "Political science",
+          "Population",
+          "Population density",
+          "Population genetics",
+          "Population genomics",
+          "Population model",
+          "Pregnancy",
+          "Process (computing)",
+          "Process management",
+          "Product (mathematics)",
+          "Production (economics)",
+          "Programming language",
+          "Public administration",
+          "Public engagement",
+          "Public health",
+          "Public relations",
+          "Pulmonary surfactant",
+          "Pupa",
+          "Pyralidae",
+          "Pyrethroid",
+          "Quantitative trait locus",
+          "Quantum mechanics",
+          "RNA",
+          "RNA interference",
+          "Range (aeronautics)",
+          "Receptor",
+          "Recombinant DNA",
+          "Red flour beetle",
+          "Reproductive isolation",
+          "Resistance (ecology)",
+          "Responsible Research and Innovation",
+          "Reversing",
+          "Science communication",
+          "Science education",
+          "Selection (genetic algorithm)",
+          "Sex pheromone",
+          "Sex ratio",
+          "Sexual selection",
+          "Sociology",
+          "Spatial heterogeneity",
+          "Spodoptera",
+          "Statistics",
+          "Sterile insect technique",
+          "Strain (injury)",
+          "Telecommunications",
+          "Temperate climate",
+          "Term (time)",
+          "Toxicology",
+          "Toxin",
+          "Trait",
+          "Transcriptome",
+          "Transgene",
+          "Type (biology)",
+          "Variation (astronomy)",
+          "Vector (molecular biology)",
+          "Vector control",
+          "Vesicle",
+          "Veterinary medicine",
+          "Virology",
+          "Voltage",
+          "Wolbachia",
+          "Zea mays",
+          "Zoology"
+        ],
+        "host_venues": [
+          "Agriculture and Human Values",
+          "American Entomologist",
+          "American Journal of Tropical Medicine and Hygiene",
+          "American Scientist",
+          "Annals of The Entomological Society of America",
+          "Annual Review of Ecology, Evolution, and Systematics",
+          "Annual Review of Entomology",
+          "Annual Review of Phytopathology",
+          "Applied and Environmental Microbiology",
+          "Biochemistry",
+          "Biocontrol Science and Technology",
+          "Biological Conservation",
+          "Biological Invasions",
+          "Biotechnology Advances",
+          "Bulletin of Entomological Research",
+          "Bulletin of the Entomological Society of America",
+          "Crop Protection",
+          "Current Microbiology",
+          "Ecological Entomology",
+          "Ecological Modelling",
+          "Ecology",
+          "Ecology and Evolution",
+          "Ecosphere",
+          "Entomologia Experimentalis Et Applicata",
+          "Environmental Entomology",
+          "Evolution",
+          "Evolutionary Applications",
+          "Evolutionary Biology-new York",
+          "Evolutionary Ecology",
+          "Genetics",
+          "Heredity",
+          "Insect Biochemistry and Molecular Biology",
+          "Insect Molecular Biology",
+          "Journal of Chemical Ecology",
+          "Journal of Economic Entomology",
+          "Journal of Entomological Science",
+          "Journal of Evolutionary Biology",
+          "Journal of Invertebrate Pathology",
+          "Journal of Medical Entomology",
+          "Journal of Responsible Innovation",
+          "Journal of Vector Ecology",
+          "Journal of insect science",
+          "Molecular Ecology",
+          "National Academies Press eBooks",
+          "Nature Biotechnology",
+          "Nature Reviews Genetics",
+          "PLOS Computational Biology",
+          "PLOS Neglected Tropical Diseases",
+          "PLOS ONE",
+          "Pest Management Science",
+          "Pesticide Biochemistry and Physiology",
+          "Pesticide Science",
+          "Proceedings of The Royal Society B: Biological Sciences",
+          "Proceedings of the National Academy of Sciences of the United States of America",
+          "Science",
+          "Scientific Reports"
+        ],
+        "color": "#6F7D1C",
+        "size": 10
+      }
+    },
+    {
+      "key": "uid-zsbrown2",
+      "attributes": {
+        "label": "Z Brown",
+        "name": "Zachary Brown",
+        "known?": true,
+        "orcid?": true,
+        "ncsu?": true,
+        "affiliations": [
+          "North Carolina State University"
+        ],
+        "countries": [
+          "US"
+        ],
+        "uid": "zsbrown2",
+        "url": "https://ci.lib.ncsu.edu/profiles/zsbrown2",
+        "orcid": "0000-0003-1301-4420",
+        "active?": true,
+        "department": "Agricultural & Resource Economics",
+        "college": "College of Agriculture and Life Sciences",
+        "ncsu_affiliations": [
+          "Agricultural & Resource Economics",
+          "Genetic Engineering and Society",
+          "Global Water, Sanitation and Hygiene",
+          "Center for Environmental and Resource Economic Policy",
+          "Genetics and Genomics Academy"
+        ],
+        "cluster?": true,
+        "clusters": [
+          "Genetic Engineering and Society",
+          "Global Water, Sanitation and Hygiene"
+        ],
+        "role": "faculty",
+        "building": "Nelson Hall",
+        "count": 36,
+        "oa_count": 18,
+        "years": [
+          2022,
+          2021,
+          2020,
+          2019,
+          2018,
+          2017,
+          2016,
+          2015,
+          2014,
+          2013,
+          2010
+        ],
+        "year_recent": 2022,
+        "article_concepts": [
+          "Accounting",
+          "Additionality",
+          "Agricultural economics",
+          "Agriculture",
+          "Agroforestry",
+          "Agronomy",
+          "Air quality index",
+          "Anopheles",
+          "Antibiotic resistance",
+          "Antibiotics",
+          "Art",
+          "Artemisinin",
+          "Artificial intelligence",
+          "Aviation biofuel",
+          "Bacillus thuringiensis",
+          "Bacteria",
+          "Baseline (sea)",
+          "Biochemistry",
+          "Biocide",
+          "Biodiesel",
+          "Bioenergy",
+          "Biofuel",
+          "Biology",
+          "Biostatistics",
+          "Biotechnology",
+          "Business",
+          "Call for bids",
+          "Cartography",
+          "Catalysis",
+          "Chemistry",
+          "Collective action",
+          "Computational biology",
+          "Computer science",
+          "Computer security",
+          "Consumption (sociology)",
+          "Context (archaeology)",
+          "Control (management)",
+          "Corporate governance",
+          "Crop",
+          "Crop rotation",
+          "Default",
+          "Demographic economics",
+          "Demography",
+          "Disease control",
+          "EPIC",
+          "Ecology",
+          "Econometric analysis",
+          "Econometric model",
+          "Econometrics",
+          "Economics",
+          "Economy",
+          "Efficient energy use",
+          "Electrical engineering",
+          "Engineering",
+          "Engineering ethics",
+          "Engineering management",
+          "Environmental economics",
+          "Environmental engineering",
+          "Environmental health",
+          "Environmental planning",
+          "Environmental quality",
+          "Environmental resource management",
+          "Environmental science",
+          "Expected utility hypothesis",
+          "Fecundity",
+          "Finance",
+          "Financial economics",
+          "Frame (networking)",
+          "Gene",
+          "General partnership",
+          "Genetically modified crops",
+          "Genetically modified maize",
+          "Genetically modified organism",
+          "Genetics",
+          "Geography",
+          "Government (linguistics)",
+          "Greening",
+          "Horticulture",
+          "Human health",
+          "Immunology",
+          "Incentive",
+          "Indoor air quality",
+          "Indoor residual spraying",
+          "Industrial organization",
+          "Insecticide resistance",
+          "Integrated pest management",
+          "Internet privacy",
+          "Law",
+          "Library science",
+          "Life satisfaction",
+          "Linguistics",
+          "Liquefied petroleum gas",
+          "Literature",
+          "Logistic regression",
+          "Malaria",
+          "Management",
+          "Market economy",
+          "Marketing",
+          "Mathematics",
+          "Mechanical engineering",
+          "Medicine",
+          "Meteorology",
+          "Metric (unit)",
+          "Microbiology",
+          "Microeconomics",
+          "Mosquito control",
+          "Natural resource economics",
+          "Need to know",
+          "Nursing",
+          "Operations management",
+          "Organic chemistry",
+          "PEST analysis",
+          "Paleontology",
+          "Pathology",
+          "Payment",
+          "Per capita",
+          "Pesticide",
+          "Philosophy",
+          "Plasmodium falciparum",
+          "Political science",
+          "Politics",
+          "Population",
+          "Process management",
+          "Procurement",
+          "Production (economics)",
+          "Proxy (statistics)",
+          "Psychology",
+          "Public administration",
+          "Public economics",
+          "Public health",
+          "Public relations",
+          "Randomized controlled trial",
+          "Rebound effect (conservation)",
+          "Recombinant DNA",
+          "Regional science",
+          "Resistance (ecology)",
+          "Respondent",
+          "Responsible Research and Innovation",
+          "Risk analysis (engineering)",
+          "Risk aversion (psychology)",
+          "Rural area",
+          "Sanitation",
+          "Selection (genetic algorithm)",
+          "Social psychology",
+          "Social science",
+          "Socioeconomics",
+          "Sociology",
+          "Sowing",
+          "Statistics",
+          "Status quo",
+          "Stove",
+          "Structural equation modeling",
+          "Subsidy",
+          "Surgery",
+          "Survey data collection",
+          "Sustainability",
+          "Telecommunications",
+          "Thematic map",
+          "Thermostat",
+          "Toxicology",
+          "Transgene",
+          "Turnover",
+          "Urbanity",
+          "Valuation (finance)",
+          "Value of information",
+          "Variety (cybernetics)",
+          "Vector (molecular biology)",
+          "Voting",
+          "Waste management",
+          "Western corn rootworm",
+          "Willingness to pay",
+          "Zea mays"
+        ],
+        "host_venues": [
+          "AMBIO: A Journal of the Human Environment",
+          "American Journal of Agricultural Economics",
+          "BMC Proceedings",
+          "BMC Public Health",
+          "CABI eBooks",
+          "Ecohealth",
+          "Ecological Economics",
+          "Energy Economics",
+          "Energy Policy",
+          "Environmental Science & Policy",
+          "Environmental and Resource Economics",
+          "Infectious Diseases of Poverty",
+          "Journal of Economic Entomology",
+          "Journal of Environmental Economics and Management",
+          "Journal of Responsible Innovation",
+          "Nature sustainability",
+          "OECD environment working papers",
+          "OECD statistics working papers",
+          "Proceedings of the National Academy of Sciences of the United States of America",
+          "Risk Analysis",
+          "Science",
+          "Science Advances",
+          "Springer Netherlands eBooks",
+          "Trends in Ecology and Evolution"
+        ],
+        "color": "#6F7D1C",
+        "size": 10
+      }
+    },
+    {
+      "key": "https://orcid.org/0000-0003-1022-9952",
+      "attributes": {
+        "label": "J Collins",
+        "name": "James P. Collins",
+        "known?": false,
+        "orcid?": null,
+        "ncsu?": false,
+        "affiliations": [
+          "Arizona State University"
+        ],
+        "countries": [
+          "US"
+        ],
+        "color": "#BFBFBD",
+        "size": 10
+      }
+    },
+    {
+      "key": "uid-jadelbor",
+      "attributes": {
+        "label": "J Delborne",
+        "name": "Jason Delborne",
+        "known?": true,
+        "orcid?": true,
+        "ncsu?": true,
+        "affiliations": [
+          "North Carolina State University"
+        ],
+        "countries": [
+          "US"
+        ],
+        "uid": "jadelbor",
+        "url": "https://ci.lib.ncsu.edu/profiles/jadelbor",
+        "orcid": "0000-0001-6436-782X",
+        "active?": true,
+        "department": "Forestry & Environmental Resources",
+        "college": "College of Natural Resources",
+        "ncsu_affiliations": [
+          "Forestry & Environmental Resources",
+          "Genetic Engineering and Society",
+          "Global Water, Sanitation and Hygiene",
+          "Genetics and Genomics Academy"
+        ],
+        "cluster?": true,
+        "clusters": [
+          "Genetic Engineering and Society",
+          "Global Water, Sanitation and Hygiene"
+        ],
+        "role": "faculty",
+        "building": "Jordan Hall Addition",
+        "count": 247,
+        "oa_count": 23,
+        "years": [
+          2022,
+          2021,
+          2020,
+          2019,
+          2018,
+          2017,
+          2016,
+          2015,
+          2014,
+          2013,
+          2012,
+          2011,
+          2010,
+          2009,
+          2008,
+          2007,
+          2006,
+          2005,
+          2004,
+          2003,
+          0
+        ],
+        "year_recent": 2022,
+        "article_concepts": [
+          "Agricultural biotechnology",
+          "Agriculture",
+          "Alternative medicine",
+          "Anticipation (artificial intelligence)",
+          "Applied mathematics",
+          "Archaeology",
+          "Articulation (sociology)",
+          "Artificial intelligence",
+          "Biodiversity",
+          "Biodiversity conservation",
+          "Bioinformatics",
+          "Biological systems engineering",
+          "Biology",
+          "Biotechnology",
+          "Botany",
+          "Business",
+          "CRISPR",
+          "Citizen science",
+          "Civil engineering software",
+          "Climate change",
+          "Commercialization",
+          "Commodification",
+          "Community development",
+          "Community engagement",
+          "Computational biology",
+          "Computer science",
+          "Computer security",
+          "Conservation biology",
+          "Construction engineering",
+          "Context (archaeology)",
+          "Controllability",
+          "Convention on Biological Diversity",
+          "Core (optical fiber)",
+          "Corporate governance",
+          "Darwinism",
+          "Data science",
+          "Deliberative democracy",
+          "Democracy",
+          "Demography",
+          "Diversity (politics)",
+          "Ecology",
+          "Economics",
+          "Economy",
+          "Editorial board",
+          "Engineering",
+          "Engineering education",
+          "Engineering ethics",
+          "Engineering management",
+          "Environmental ethics",
+          "Environmental planning",
+          "Environmental resource management",
+          "Environmental science",
+          "Epistemology",
+          "Evolutionary biology",
+          "Field (mathematics)",
+          "Field trial",
+          "Finance",
+          "Fixation (population genetics)",
+          "Food security",
+          "Food systems",
+          "Frame (networking)",
+          "Gene",
+          "Gene drive",
+          "Genetically engineered",
+          "Genetically modified crops",
+          "Genetically modified organism",
+          "Genetics",
+          "Geography",
+          "Geometry",
+          "Global biodiversity",
+          "Grand Challenges",
+          "Harm",
+          "Health systems engineering",
+          "Immunology",
+          "Indigenous",
+          "Informed consent",
+          "Insect",
+          "Internet privacy",
+          "Law",
+          "Leverage (statistics)",
+          "Library science",
+          "License",
+          "Livelihood",
+          "Machine learning",
+          "Malaria",
+          "Management",
+          "Management science",
+          "Mathematics",
+          "Mechanical engineering",
+          "Media studies",
+          "Medical research",
+          "Medicine",
+          "Multidisciplinary approach",
+          "Need to know",
+          "Negotiation",
+          "Operating system",
+          "Outreach",
+          "Paleontology",
+          "Pathology",
+          "Perspective (graphical)",
+          "Philosophy",
+          "Point (geometry)",
+          "Political science",
+          "Politics",
+          "Population",
+          "Process (computing)",
+          "Process management",
+          "Psychiatry",
+          "Psychological intervention",
+          "Psychology",
+          "Public administration",
+          "Public relations",
+          "Publics",
+          "Publishing",
+          "Pure mathematics",
+          "Regional science",
+          "Responsible Research and Innovation",
+          "Risk analysis (engineering)",
+          "Scientific publishing",
+          "Social science",
+          "Sociology",
+          "Stakeholder",
+          "Statement (logic)",
+          "Sustainability",
+          "Sustainability organizations",
+          "Sustainability science",
+          "Synthetic biology",
+          "System of systems engineering",
+          "Systems design",
+          "Systems engineering",
+          "Technoscience",
+          "Telecommunications",
+          "Transgene",
+          "Transparency (behavior)",
+          "Variety (cybernetics)",
+          "Work (physics)"
+        ],
+        "host_venues": [
+          "2016 International Congress of Entomology",
+          "ACS Synthetic Biology",
+          "ASME 2011 International Mechanical Engineering Congress and Exposition",
+          "Annals of The Entomological Society of America",
+          "BMC Proceedings",
+          "BioScience",
+          "Biodiversity and Conservation",
+          "Biological Conservation",
+          "Biological Invasions",
+          "Cambridge University Press eBooks",
+          "Conservation science and practice",
+          "Energy research and social science",
+          "Engaging Science, Technology, and Society",
+          "Environment And Planning E: Nature And Space",
+          "Gates open research",
+          "Journal of Environmental Management",
+          "Journal of Responsible Innovation",
+          "National Academies Press eBooks",
+          "Nature",
+          "Nature Biotechnology",
+          "Proceedings of The Royal Society B: Biological Sciences",
+          "Public Understanding of Science",
+          "Science",
+          "Science & public policy",
+          "Science Advances",
+          "Science As Culture",
+          "Social Epistemology",
+          "Social Studies of Science",
+          "Society & Natural Resources",
+          "Space Policy",
+          "Springer Singapore eBooks",
+          "Technology in Society",
+          "The MIT Press eBooks",
+          "iScience"
+        ],
+        "color": "#855735",
+        "size": 10
+      }
+    },
+    {
+      "key": "https://orcid.org/0000-0001-8067-7182",
+      "attributes": {
+        "label": "E Frow",
+        "name": "Emma Frow",
+        "known?": false,
+        "orcid?": null,
+        "ncsu?": false,
+        "affiliations": [
+          "Institute for the Future"
+        ],
+        "countries": [
+          "US"
+        ],
+        "color": "#BFBFBD",
+        "size": 10
+      }
+    },
+    {
+      "key": "https://orcid.org/0000-0001-8797-3945",
+      "attributes": {
+        "label": "K Esvelt",
+        "name": "Kevin M. Esvelt",
+        "known?": false,
+        "orcid?": null,
+        "ncsu?": false,
+        "affiliations": [
+          "Massachusetts Institute of Technology"
+        ],
+        "countries": [
+          "US"
+        ],
+        "color": "#BFBFBD",
+        "size": 10
+      }
+    },
+    {
+      "key": "davidhguston",
+      "attributes": {
+        "label": "D Guston",
+        "name": "David H. Guston",
+        "known?": false,
+        "orcid?": null,
+        "ncsu?": false,
+        "affiliations": [
+          "Arizona State University"
+        ],
+        "countries": [
+          "US"
+        ],
+        "color": "#BFBFBD",
+        "size": 10
+      }
+    },
+    {
+      "key": "https://orcid.org/0000-0002-9811-8415",
+      "attributes": {
+        "label": "K Oye",
+        "name": "Kenneth A. Oye",
+        "known?": false,
+        "orcid?": null,
+        "ncsu?": false,
+        "affiliations": [
+          "Massachusetts Institute of Technology"
+        ],
+        "countries": [
+          "US"
+        ],
+        "color": "#BFBFBD",
+        "size": 10
+      }
+    },
+    {
+      "key": "uid-sastauff",
+      "attributes": {
+        "label": "S Stauffer",
+        "name": "Sharon Stauffer",
+        "known?": true,
+        "orcid?": false,
+        "ncsu?": true,
+        "affiliations": [
+          "North Carolina State University"
+        ],
+        "countries": [
+          "US"
+        ],
+        "uid": "sastauff",
+        "url": "https://ci.lib.ncsu.edu/profiles/sastauff",
+        "active?": true,
+        "department": "Genetic Engineering and Society",
+        "college": "NC State",
+        "ncsu_affiliations": [
+          "Genetic Engineering and Society"
+        ],
+        "cluster?": true,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "role": "staff",
+        "building": "James B Hunt Jr Centennial Cam",
+        "count": 2,
+        "oa_count": 2,
+        "years": [
+          2021,
+          2018
+        ],
+        "year_recent": 2021,
+        "article_concepts": [
+          "Biology",
+          "Business",
+          "CATS",
+          "Computer science",
+          "Context (archaeology)",
+          "Corporate governance",
+          "Dysbiosis",
+          "Engineering",
+          "Engineering ethics",
+          "Feces",
+          "Fetus",
+          "Finance",
+          "Frame (networking)",
+          "Genetics",
+          "Gut flora",
+          "Helicobacter",
+          "Helicobacter pylori",
+          "Immunology",
+          "Internal medicine",
+          "Medicine",
+          "Microbiology",
+          "Paleontology",
+          "Pathogenesis",
+          "Political science",
+          "Pregnancy",
+          "Process management",
+          "Public administration",
+          "Public relations",
+          "Responsible Research and Innovation",
+          "Sociology",
+          "Telecommunications",
+          "Tritrichomonas foetus"
+        ],
+        "host_venues": [
+          "Journal of Responsible Innovation",
+          "PLOS ONE"
+        ],
+        "color": "#BD5383",
+        "size": 10
+      }
+    },
+    {
+      "key": "uid-jdsudwee",
+      "attributes": {
+        "label": "J Sudweeks",
+        "name": "Jayce Dean Sudweeks",
+        "known?": true,
+        "orcid?": false,
+        "ncsu?": true,
+        "affiliations": [
+          "North Carolina State University"
+        ],
+        "countries": [
+          "US"
+        ],
+        "uid": "jdsudwee",
+        "url": "https://ci.lib.ncsu.edu/profiles/jdsudwee",
+        "active?": false,
+        "department": "Public and International Affairs",
+        "college": "College of Humanities and Social Sciences",
+        "ncsu_affiliations": [
+          "Public and International Affairs"
+        ],
+        "cluster?": false,
+        "clusters": [
+
+        ],
+        "role": "student",
+        "building": null,
+        "count": 3,
+        "oa_count": 3,
+        "years": [
+          2019,
+          2018
+        ],
+        "year_recent": 2019,
+        "article_concepts": [
+          "Agriculture",
+          "Allele",
+          "Biology",
+          "Business",
+          "CRISPR",
+          "Cas9",
+          "Computational biology",
+          "Corporate governance",
+          "Ecology",
+          "Economics",
+          "Engineering",
+          "Environmental health",
+          "Evolutionary biology",
+          "Gene",
+          "Gene drive",
+          "Genetics",
+          "Management",
+          "Medicine",
+          "Political science",
+          "Population",
+          "Population genetics",
+          "Public relations",
+          "Responsible Research and Innovation",
+          "Software deployment",
+          "Software engineering"
+        ],
+        "host_venues": [
+          "Journal of Responsible Innovation",
+          "Scientific Reports"
+        ],
+        "color": "#FAC800",
+        "size": 10
+      }
+    },
+    {
+      "key": "https://orcid.org/0000-0003-4770-485X",
+      "attributes": {
+        "label": "D Kanavy",
+        "name": "Dona Kanavy",
+        "known?": false,
+        "orcid?": null,
+        "ncsu?": true,
+        "affiliations": [
+          "North Carolina State University"
+        ],
+        "countries": [
+          "US"
+        ],
+        "color": "#000000",
+        "size": 10
+      }
+    },
+    {
+      "key": "https://orcid.org/0000-0003-3695-8168",
+      "attributes": {
+        "label": "G Backus",
+        "name": "Gregory A. Backus",
+        "known?": false,
+        "orcid?": null,
+        "ncsu?": true,
+        "affiliations": [
+          "North Carolina State University"
+        ],
+        "countries": [
+          "US"
+        ],
+        "color": "#000000",
+        "size": 10
+      }
+    },
+    {
+      "key": "uid-rxvaldez",
+      "attributes": {
+        "label": "R Valdez",
+        "name": "Rene X. Valdez",
+        "known?": true,
+        "orcid?": false,
+        "ncsu?": true,
+        "affiliations": [
+          "North Carolina State University"
+        ],
+        "countries": [
+          "US"
+        ],
+        "uid": "rxvaldez",
+        "url": "https://ci.lib.ncsu.edu/profiles/rxvaldez",
+        "active?": false,
+        "department": "Fisheries, Wildlife, & Conservation Biology",
+        "college": "College of Natural Resources",
+        "ncsu_affiliations": [
+          "Fisheries, Wildlife, & Conservation Biology",
+          "Forestry & Environmental Resources",
+          "Genetic Engineering and Society"
+        ],
+        "cluster?": true,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "role": null,
+        "building": null,
+        "count": 5,
+        "oa_count": 1,
+        "years": [
+          2019,
+          2018,
+          2017
+        ],
+        "year_recent": 2019,
+        "article_concepts": [
+          "Biology",
+          "CRISPR",
+          "Ecology",
+          "Fishery",
+          "Gene",
+          "Gene drive",
+          "Genetics",
+          "Geography",
+          "Habitat"
+        ],
+        "host_venues": [
+          "Environmental Conservation",
+          "Fisheries",
+          "Journal of Responsible Innovation",
+          "Urban Ecosystems",
+          "Wildlife Society Bulletin"
+        ],
+        "color": "#855735",
+        "size": 10
+      }
+    },
+    {
+      "key": "uid-meserr",
+      "attributes": {
+        "label": "M Serr",
+        "name": "Megan Serr",
+        "known?": true,
+        "orcid?": false,
+        "ncsu?": true,
+        "affiliations": [
+          "North Carolina State University"
+        ],
+        "countries": [
+          "US"
+        ],
+        "uid": "meserr",
+        "url": "https://ci.lib.ncsu.edu/profiles/meserr",
+        "active?": true,
+        "department": "Biological Sciences",
+        "college": "College of Sciences",
+        "ncsu_affiliations": [
+          "Biological Sciences",
+          "Genetic Engineering and Society"
+        ],
+        "cluster?": true,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "role": "faculty",
+        "building": "Remote",
+        "count": 4,
+        "oa_count": 2,
+        "years": [
+          2019,
+          2017
+        ],
+        "year_recent": 2019,
+        "article_concepts": [
+          "Biochemistry",
+          "Biodiversity",
+          "Biology",
+          "Biosecurity",
+          "Botany",
+          "Business",
+          "CRISPR",
+          "Corporate governance",
+          "Deliberation",
+          "Demography",
+          "Ecology",
+          "Economics",
+          "Environmental planning",
+          "Environmental resource management",
+          "Evolutionary biology",
+          "Finance",
+          "Gene",
+          "Gene drive",
+          "Genetics",
+          "Geography",
+          "Law",
+          "PEST analysis",
+          "Pest control",
+          "Political science",
+          "Politics",
+          "Population",
+          "Sociology",
+          "Sustainability",
+          "Testis determining factor",
+          "Y chromosome"
+        ],
+        "host_venues": [
+          "Journal of Responsible Innovation",
+          "Proceedings of The Royal Society B: Biological Sciences",
+          "Sustainability",
+          "Trends in Ecology and Evolution"
+        ],
+        "color": "#4156A1",
+        "size": 10
+      }
+    },
+    {
+      "key": "elizabethapitts",
+      "attributes": {
+        "label": "E Pitts",
+        "name": "Elizabeth A. Pitts",
+        "known?": false,
+        "orcid?": null,
+        "ncsu?": false,
+        "affiliations": [
+          "University of Pittsburgh"
+        ],
+        "countries": [
+          "US"
+        ],
+        "color": "#BFBFBD",
+        "size": 10
+      }
+    },
+    {
+      "key": "https://orcid.org/0000-0003-3538-1635",
+      "attributes": {
+        "label": "D Threadgill",
+        "name": "David W. Threadgill",
+        "known?": false,
+        "orcid?": null,
+        "ncsu?": false,
+        "affiliations": [
+          "Texas A&M University"
+        ],
+        "countries": [
+          "US"
+        ],
+        "color": "#BFBFBD",
+        "size": 10
+      }
+    },
+    {
+      "key": "uid-godwin",
+      "attributes": {
+        "label": "J Godwin",
+        "name": "John Godwin",
+        "known?": true,
+        "orcid?": true,
+        "ncsu?": true,
+        "affiliations": [
+          "North Carolina State University"
+        ],
+        "countries": [
+          "US"
+        ],
+        "uid": "godwin",
+        "url": "https://ci.lib.ncsu.edu/profiles/godwin",
+        "orcid": "0000-0002-0928-501X",
+        "active?": true,
+        "department": "Biological Sciences",
+        "college": "College of Sciences",
+        "ncsu_affiliations": [
+          "Biological Sciences",
+          "Genetic Engineering and Society",
+          "Genetics and Genomics Academy"
+        ],
+        "cluster?": true,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "role": "faculty",
+        "building": "David Clark Labs",
+        "count": 80,
+        "oa_count": 32,
+        "years": [
+          2022,
+          2021,
+          2020,
+          2019,
+          2017,
+          2016,
+          2015,
+          2014,
+          2013,
+          2012,
+          2011,
+          2010,
+          2009,
+          2007,
+          2006,
+          2005,
+          2004,
+          2003,
+          2002,
+          2001,
+          2000,
+          1997,
+          1996,
+          1995,
+          1994,
+          1993,
+          1992,
+          1989
+        ],
+        "year_recent": 2022,
+        "article_concepts": [
+          "Aerospace engineering",
+          "Agriculture",
+          "Allele",
+          "Androgen",
+          "Androgen receptor",
+          "Animal science",
+          "Anxiety",
+          "Aromatase",
+          "Artificial intelligence",
+          "Behavioral syndrome",
+          "Big Five personality traits",
+          "Biochemistry",
+          "Biodiversity",
+          "Bioinformatics",
+          "Biology",
+          "Biosecurity",
+          "Boldness",
+          "Botany",
+          "Breast cancer",
+          "Business",
+          "CRISPR",
+          "Cancer",
+          "Cas9",
+          "Central nervous system",
+          "Cerebellum",
+          "Clinical psychology",
+          "Colonization",
+          "Computational biology",
+          "Computer science",
+          "Context (archaeology)",
+          "Coping (psychology)",
+          "Corporate governance",
+          "Courtship",
+          "Courtship display",
+          "DNA microarray",
+          "Danio",
+          "Deliberation",
+          "Demography",
+          "Development of the gonads",
+          "Dihydrotestosterone",
+          "Disorders of sex development",
+          "Dopamine",
+          "Ecology",
+          "Economics",
+          "Electrical engineering",
+          "Endocrinology",
+          "Engineering",
+          "Environmental health",
+          "Environmental planning",
+          "Environmental resource management",
+          "Environmental science",
+          "Epigenetics",
+          "Estrogen",
+          "Estrogen receptor",
+          "Evolutionary biology",
+          "Feces",
+          "Finance",
+          "Fish <Actinopterygii>",
+          "Fishery",
+          "Flatfish",
+          "Flounder",
+          "Fluoxetine",
+          "Food security",
+          "Forebrain",
+          "Gene",
+          "Gene drive",
+          "Gene expression",
+          "Gene expression profiling",
+          "Gene regulatory network",
+          "Genetics",
+          "Genome",
+          "Genomics",
+          "Geography",
+          "Gonad",
+          "Haplotype",
+          "Heterochrony",
+          "Hormone",
+          "Hypothalamus",
+          "In silico",
+          "In situ hybridization",
+          "Internal medicine",
+          "Juvenile",
+          "Law",
+          "Linkage disequilibrium",
+          "Medicine",
+          "Meiosis",
+          "Meiotic drive",
+          "Mendelian inheritance",
+          "Messenger RNA",
+          "Microarray",
+          "Mimicry",
+          "Model organism",
+          "Multidisciplinary approach",
+          "Natural (archaeology)",
+          "Natural selection",
+          "Neuropeptide",
+          "Neuroscience",
+          "Nucleus",
+          "Olive flounder",
+          "Ontogeny",
+          "Organism",
+          "Ovariectomized rat",
+          "PEST analysis",
+          "Paleontology",
+          "Paralichthys",
+          "Parvocellular cell",
+          "Personality",
+          "Pest control",
+          "Pharmacology",
+          "Phenotype",
+          "Phenotypic plasticity",
+          "Pleiotropy",
+          "Political science",
+          "Politics",
+          "Population",
+          "Population genetics",
+          "Population genomics",
+          "Preoptic area",
+          "Progesterone receptor",
+          "Programming language",
+          "Prostate cancer",
+          "Psychiatry",
+          "Psychology",
+          "Public relations",
+          "RNA",
+          "RNA-Seq",
+          "Range (aeronautics)",
+          "Receptor",
+          "Reproductive success",
+          "Reprogramming",
+          "Resistance (ecology)",
+          "Riboprobe",
+          "Risk analysis (engineering)",
+          "Selection (genetic algorithm)",
+          "Serotonergic",
+          "Serotonin",
+          "Sex change",
+          "Sex characteristics",
+          "Sex ratio",
+          "Sex reversal",
+          "Sex steroid",
+          "Sexual differentiation",
+          "Sexual dimorphism",
+          "Sexual selection",
+          "Social psychology",
+          "Sociology",
+          "Stakeholder",
+          "Steroid",
+          "Stressor",
+          "Sustainability",
+          "Testis determining factor",
+          "Testosterone (patch)",
+          "Trait",
+          "Transcriptome",
+          "Transmission (telecommunications)",
+          "Tyrosine hydroxylase",
+          "Variety (cybernetics)",
+          "Vasopressin",
+          "Vasotocin",
+          "Vertebrate",
+          "Wrasse",
+          "Y chromosome",
+          "Zebrafish",
+          "Zoology"
+        ],
+        "host_venues": [
+          "Animal Behaviour",
+          "Animal Welfare",
+          "Aquaculture",
+          "BMC Genomics",
+          "Behaviour",
+          "Behavioural Brain Research",
+          "Biological Conservation",
+          "Biology of Sex Differences",
+          "Brain Behavior and Evolution",
+          "Brain Research",
+          "Cellular and Molecular Neurobiology",
+          "Comparative Biochemistry and Physiology A-molecular & Integrative Physiology",
+          "Copeia",
+          "Elsevier eBooks",
+          "Evolution & Development",
+          "Evolutionary Applications",
+          "Frontiers in Neuroendocrinology",
+          "General and Comparative Endocrinology",
+          "Genomics data",
+          "Hormones and Behavior",
+          "Integrative and Comparative Biology",
+          "Journal of Chemical Neuroanatomy",
+          "Journal of Evolutionary Biology",
+          "Journal of Experimental Zoology Part A: Comparative Experimental Biology",
+          "Journal of Experimental Zoology Part A: Ecological and Integrative Physiology",
+          "Journal of Mammalogy",
+          "Journal of Neurobiology",
+          "Journal of Neuroendocrinology",
+          "Journal of Responsible Innovation",
+          "Journal of Zoology",
+          "Journal of the World Aquaculture Society",
+          "Molecular Biology and Evolution",
+          "Molecular Reproduction and Development",
+          "Neuroendocrinology",
+          "Neuromethods",
+          "Neurotoxicology and Teratology",
+          "PLOS ONE",
+          "PeerJ",
+          "Physiology & Behavior",
+          "Proceedings of The Royal Society B: Biological Sciences",
+          "Proceedings of the National Academy of Sciences of the United States of America",
+          "Science Advances",
+          "Scientific Reports",
+          "Seminars in Cell & Developmental Biology",
+          "Sustainability",
+          "The Journal of Neuroscience",
+          "The Journal of Steroid Biochemistry and Molecular Biology",
+          "Transactions of The American Fisheries Society",
+          "University of California Press eBooks",
+          "Wiley-Blackwell eBooks",
+          "bioRxiv"
+        ],
+        "color": "#4156A1",
+        "size": 10
+      }
+    }
+  ],
+  "edges": [
+    {
+      "source": "uid-cleitsc",
+      "target": "uid-jkuzma",
+      "attributes": {
+        "label": 2,
+        "weight": 2,
+        "collaboration_count": 2,
+        "departments": "Biological Sciences -- Genetic Engineering and Society",
+        "colleges": "College of Sciences -- NC State",
+        "buildings": "James B Hunt Jr Centennial Cam --- unknown",
+        "roles": "faculty -- student",
+        "years": [
+          2018,
+          2018
+        ],
+        "year_recent": 2018,
+        "dois": [
+          "10.1080/23299460.2017.1410344",
+          "10.1080/23299460.2017.1419413"
+        ],
+        "ncsu?": true,
+        "cross_college?": true,
+        "cross_department?": true,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": true,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          "Corporate governance",
+          "Context (archaeology)",
+          "Frame (networking)",
+          "Responsible Research and Innovation",
+          "Political science",
+          "Business",
+          "Engineering ethics",
+          "Public administration",
+          "Process management",
+          "Sociology",
+          "Public relations",
+          "Computer science",
+          "Engineering",
+          "Biology",
+          "Telecommunications",
+          "Finance",
+          "Paleontology"
+        ],
+        "host_venues": [
+          "Journal of Responsible Innovation"
+        ],
+        "color": "#FAC800",
+        "size": 2
+      }
+    },
+    {
+      "source": "uid-cleitsc",
+      "target": "uid-fgould",
+      "attributes": {
+        "label": 2,
+        "weight": 2,
+        "collaboration_count": 2,
+        "departments": "Biological Sciences -- Entomology and Plant Pathology",
+        "colleges": "College of Agriculture and Life Sciences -- College of Sciences",
+        "buildings": "Thomas Hall --- unknown",
+        "roles": "faculty -- student",
+        "years": [
+          2018,
+          2018
+        ],
+        "year_recent": 2018,
+        "dois": [
+          "10.1080/23299460.2017.1410344",
+          "10.1080/23299460.2017.1419413"
+        ],
+        "ncsu?": true,
+        "cross_college?": true,
+        "cross_department?": true,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": true,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          "Corporate governance",
+          "Context (archaeology)",
+          "Frame (networking)",
+          "Responsible Research and Innovation",
+          "Political science",
+          "Business",
+          "Engineering ethics",
+          "Public administration",
+          "Process management",
+          "Sociology",
+          "Public relations",
+          "Computer science",
+          "Engineering",
+          "Biology",
+          "Telecommunications",
+          "Finance",
+          "Paleontology"
+        ],
+        "host_venues": [
+          "Journal of Responsible Innovation"
+        ],
+        "color": "#FAC800",
+        "size": 2
+      }
+    },
+    {
+      "source": "uid-cleitsc",
+      "target": "uid-zsbrown2",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Agricultural & Resource Economics -- Biological Sciences",
+        "colleges": "College of Agriculture and Life Sciences -- College of Sciences",
+        "buildings": "Nelson Hall --- unknown",
+        "roles": "faculty -- student",
+        "years": [
+          2018
+        ],
+        "year_recent": 2018,
+        "dois": [
+          "10.1080/23299460.2017.1410344"
+        ],
+        "ncsu?": true,
+        "cross_college?": true,
+        "cross_department?": true,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": true,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society",
+          "Global Water, Sanitation and Hygiene"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          "Corporate governance",
+          "Context (archaeology)",
+          "Frame (networking)",
+          "Responsible Research and Innovation",
+          "Political science",
+          "Business",
+          "Engineering ethics",
+          "Public administration",
+          "Process management",
+          "Sociology",
+          "Public relations",
+          "Computer science",
+          "Engineering",
+          "Biology",
+          "Telecommunications",
+          "Finance",
+          "Paleontology"
+        ],
+        "host_venues": [
+          "Journal of Responsible Innovation"
+        ],
+        "color": "#FAC800",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-cleitsc",
+      "target": "https://orcid.org/0000-0003-1022-9952",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Biological Sciences --- unknown",
+        "colleges": "College of Sciences --- unknown",
+        "buildings": "unknown --- unknown",
+        "roles": "student --- unknown",
+        "years": [
+          2018
+        ],
+        "year_recent": 2018,
+        "dois": [
+          "10.1080/23299460.2017.1410344"
+        ],
+        "ncsu?": false,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          "Corporate governance",
+          "Context (archaeology)",
+          "Frame (networking)",
+          "Responsible Research and Innovation",
+          "Political science",
+          "Business",
+          "Engineering ethics",
+          "Public administration",
+          "Process management",
+          "Sociology",
+          "Public relations",
+          "Computer science",
+          "Engineering",
+          "Biology",
+          "Telecommunications",
+          "Finance",
+          "Paleontology"
+        ],
+        "host_venues": [
+          "Journal of Responsible Innovation"
+        ],
+        "color": "#000000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-cleitsc",
+      "target": "uid-jadelbor",
+      "attributes": {
+        "label": 2,
+        "weight": 2,
+        "collaboration_count": 2,
+        "departments": "Biological Sciences -- Forestry & Environmental Resources",
+        "colleges": "College of Natural Resources -- College of Sciences",
+        "buildings": "Jordan Hall Addition --- unknown",
+        "roles": "faculty -- student",
+        "years": [
+          2018,
+          2018
+        ],
+        "year_recent": 2018,
+        "dois": [
+          "10.1080/23299460.2017.1410344",
+          "10.1080/23299460.2017.1419413"
+        ],
+        "ncsu?": true,
+        "cross_college?": true,
+        "cross_department?": true,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": true,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society",
+          "Global Water, Sanitation and Hygiene"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          "Corporate governance",
+          "Context (archaeology)",
+          "Frame (networking)",
+          "Responsible Research and Innovation",
+          "Political science",
+          "Business",
+          "Engineering ethics",
+          "Public administration",
+          "Process management",
+          "Sociology",
+          "Public relations",
+          "Computer science",
+          "Engineering",
+          "Biology",
+          "Telecommunications",
+          "Finance",
+          "Paleontology"
+        ],
+        "host_venues": [
+          "Journal of Responsible Innovation"
+        ],
+        "color": "#FAC800",
+        "size": 2
+      }
+    },
+    {
+      "source": "uid-cleitsc",
+      "target": "https://orcid.org/0000-0001-8067-7182",
+      "attributes": {
+        "label": 2,
+        "weight": 2,
+        "collaboration_count": 2,
+        "departments": "Biological Sciences --- unknown",
+        "colleges": "College of Sciences --- unknown",
+        "buildings": "unknown --- unknown",
+        "roles": "student --- unknown",
+        "years": [
+          2018,
+          2018
+        ],
+        "year_recent": 2018,
+        "dois": [
+          "10.1080/23299460.2017.1410344",
+          "10.1080/23299460.2017.1419413"
+        ],
+        "ncsu?": false,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          "Corporate governance",
+          "Context (archaeology)",
+          "Frame (networking)",
+          "Responsible Research and Innovation",
+          "Political science",
+          "Business",
+          "Engineering ethics",
+          "Public administration",
+          "Process management",
+          "Sociology",
+          "Public relations",
+          "Computer science",
+          "Engineering",
+          "Biology",
+          "Telecommunications",
+          "Finance",
+          "Paleontology"
+        ],
+        "host_venues": [
+          "Journal of Responsible Innovation"
+        ],
+        "color": "#000000",
+        "size": 2
+      }
+    },
+    {
+      "source": "uid-cleitsc",
+      "target": "https://orcid.org/0000-0001-8797-3945",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Biological Sciences --- unknown",
+        "colleges": "College of Sciences --- unknown",
+        "buildings": "unknown --- unknown",
+        "roles": "student --- unknown",
+        "years": [
+          2018
+        ],
+        "year_recent": 2018,
+        "dois": [
+          "10.1080/23299460.2017.1410344"
+        ],
+        "ncsu?": false,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          "Corporate governance",
+          "Context (archaeology)",
+          "Frame (networking)",
+          "Responsible Research and Innovation",
+          "Political science",
+          "Business",
+          "Engineering ethics",
+          "Public administration",
+          "Process management",
+          "Sociology",
+          "Public relations",
+          "Computer science",
+          "Engineering",
+          "Biology",
+          "Telecommunications",
+          "Finance",
+          "Paleontology"
+        ],
+        "host_venues": [
+          "Journal of Responsible Innovation"
+        ],
+        "color": "#000000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-cleitsc",
+      "target": "davidhguston",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Biological Sciences --- unknown",
+        "colleges": "College of Sciences --- unknown",
+        "buildings": "unknown --- unknown",
+        "roles": "student --- unknown",
+        "years": [
+          2018
+        ],
+        "year_recent": 2018,
+        "dois": [
+          "10.1080/23299460.2017.1410344"
+        ],
+        "ncsu?": false,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          "Corporate governance",
+          "Context (archaeology)",
+          "Frame (networking)",
+          "Responsible Research and Innovation",
+          "Political science",
+          "Business",
+          "Engineering ethics",
+          "Public administration",
+          "Process management",
+          "Sociology",
+          "Public relations",
+          "Computer science",
+          "Engineering",
+          "Biology",
+          "Telecommunications",
+          "Finance",
+          "Paleontology"
+        ],
+        "host_venues": [
+          "Journal of Responsible Innovation"
+        ],
+        "color": "#000000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-cleitsc",
+      "target": "https://orcid.org/0000-0002-9811-8415",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Biological Sciences --- unknown",
+        "colleges": "College of Sciences --- unknown",
+        "buildings": "unknown --- unknown",
+        "roles": "student --- unknown",
+        "years": [
+          2018
+        ],
+        "year_recent": 2018,
+        "dois": [
+          "10.1080/23299460.2017.1410344"
+        ],
+        "ncsu?": false,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          "Corporate governance",
+          "Context (archaeology)",
+          "Frame (networking)",
+          "Responsible Research and Innovation",
+          "Political science",
+          "Business",
+          "Engineering ethics",
+          "Public administration",
+          "Process management",
+          "Sociology",
+          "Public relations",
+          "Computer science",
+          "Engineering",
+          "Biology",
+          "Telecommunications",
+          "Finance",
+          "Paleontology"
+        ],
+        "host_venues": [
+          "Journal of Responsible Innovation"
+        ],
+        "color": "#000000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-cleitsc",
+      "target": "uid-sastauff",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Biological Sciences -- Genetic Engineering and Society",
+        "colleges": "College of Sciences -- NC State",
+        "buildings": "James B Hunt Jr Centennial Cam --- unknown",
+        "roles": "staff -- student",
+        "years": [
+          2018
+        ],
+        "year_recent": 2018,
+        "dois": [
+          "10.1080/23299460.2017.1410344"
+        ],
+        "ncsu?": true,
+        "cross_college?": true,
+        "cross_department?": true,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": true,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          "Corporate governance",
+          "Context (archaeology)",
+          "Frame (networking)",
+          "Responsible Research and Innovation",
+          "Political science",
+          "Business",
+          "Engineering ethics",
+          "Public administration",
+          "Process management",
+          "Sociology",
+          "Public relations",
+          "Computer science",
+          "Engineering",
+          "Biology",
+          "Telecommunications",
+          "Finance",
+          "Paleontology"
+        ],
+        "host_venues": [
+          "Journal of Responsible Innovation"
+        ],
+        "color": "#FAC800",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-cleitsc",
+      "target": "uid-jdsudwee",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Biological Sciences -- Public and International Affairs",
+        "colleges": "College of Humanities and Social Sciences -- College of Sciences",
+        "buildings": "unknown --- unknown",
+        "roles": "student == student",
+        "years": [
+          2018
+        ],
+        "year_recent": 2018,
+        "dois": [
+          "10.1080/23299460.2017.1419413"
+        ],
+        "ncsu?": true,
+        "cross_college?": true,
+        "cross_department?": true,
+        "cross_unit?": true,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          "Corporate governance",
+          "Responsible Research and Innovation",
+          "Political science",
+          "Business",
+          "Public relations",
+          "Management",
+          "Economics"
+        ],
+        "host_venues": [
+          "Journal of Responsible Innovation"
+        ],
+        "color": "#FAC800",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-cleitsc",
+      "target": "https://orcid.org/0000-0003-4770-485X",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Biological Sciences --- unknown",
+        "colleges": "College of Sciences --- unknown",
+        "buildings": "unknown --- unknown",
+        "roles": "student --- unknown",
+        "years": [
+          2017
+        ],
+        "year_recent": 2017,
+        "dois": [
+          "10.1080/23299460.2017.1365232"
+        ],
+        "ncsu?": true,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          "Gene drive",
+          "Biology",
+          "Gene",
+          "Genetics",
+          "CRISPR"
+        ],
+        "host_venues": [
+          "Journal of Responsible Innovation"
+        ],
+        "color": "#CC0000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-cleitsc",
+      "target": "https://orcid.org/0000-0003-3695-8168",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Biological Sciences --- unknown",
+        "colleges": "College of Sciences --- unknown",
+        "buildings": "unknown --- unknown",
+        "roles": "student --- unknown",
+        "years": [
+          2017
+        ],
+        "year_recent": 2017,
+        "dois": [
+          "10.1080/23299460.2017.1365232"
+        ],
+        "ncsu?": true,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          "Gene drive",
+          "Biology",
+          "Gene",
+          "Genetics",
+          "CRISPR"
+        ],
+        "host_venues": [
+          "Journal of Responsible Innovation"
+        ],
+        "color": "#CC0000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-cleitsc",
+      "target": "uid-rxvaldez",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Biological Sciences -- Fisheries, Wildlife, & Conservation Biology",
+        "colleges": "College of Natural Resources -- College of Sciences",
+        "buildings": "unknown --- unknown",
+        "roles": "student --- unknown",
+        "years": [
+          2017
+        ],
+        "year_recent": 2017,
+        "dois": [
+          "10.1080/23299460.2017.1365232"
+        ],
+        "ncsu?": true,
+        "cross_college?": true,
+        "cross_department?": true,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": true,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          "Gene drive",
+          "Biology",
+          "Gene",
+          "Genetics",
+          "CRISPR"
+        ],
+        "host_venues": [
+          "Journal of Responsible Innovation"
+        ],
+        "color": "#FAC800",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-cleitsc",
+      "target": "uid-meserr",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Biological Sciences == Biological Sciences",
+        "colleges": "College of Sciences == College of Sciences",
+        "buildings": "Remote --- unknown",
+        "roles": "faculty -- student",
+        "years": [
+          2017
+        ],
+        "year_recent": 2017,
+        "dois": [
+          "10.1080/23299460.2017.1365232"
+        ],
+        "ncsu?": true,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": true,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          "Gene drive",
+          "Biology",
+          "Gene",
+          "Genetics",
+          "CRISPR"
+        ],
+        "host_venues": [
+          "Journal of Responsible Innovation"
+        ],
+        "color": "#CC0000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-cleitsc",
+      "target": "elizabethapitts",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Biological Sciences --- unknown",
+        "colleges": "College of Sciences --- unknown",
+        "buildings": "unknown --- unknown",
+        "roles": "student --- unknown",
+        "years": [
+          2017
+        ],
+        "year_recent": 2017,
+        "dois": [
+          "10.1080/23299460.2017.1365232"
+        ],
+        "ncsu?": false,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          "Gene drive",
+          "Biology",
+          "Gene",
+          "Genetics",
+          "CRISPR"
+        ],
+        "host_venues": [
+          "Journal of Responsible Innovation"
+        ],
+        "color": "#000000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-cleitsc",
+      "target": "https://orcid.org/0000-0003-3538-1635",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Biological Sciences --- unknown",
+        "colleges": "College of Sciences --- unknown",
+        "buildings": "unknown --- unknown",
+        "roles": "student --- unknown",
+        "years": [
+          2017
+        ],
+        "year_recent": 2017,
+        "dois": [
+          "10.1080/23299460.2017.1365232"
+        ],
+        "ncsu?": false,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          "Gene drive",
+          "Biology",
+          "Gene",
+          "Genetics",
+          "CRISPR"
+        ],
+        "host_venues": [
+          "Journal of Responsible Innovation"
+        ],
+        "color": "#000000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-cleitsc",
+      "target": "uid-godwin",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Biological Sciences == Biological Sciences",
+        "colleges": "College of Sciences == College of Sciences",
+        "buildings": "David Clark Labs --- unknown",
+        "roles": "faculty -- student",
+        "years": [
+          2017
+        ],
+        "year_recent": 2017,
+        "dois": [
+          "10.1080/23299460.2017.1365232"
+        ],
+        "ncsu?": true,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": true,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          "Gene drive",
+          "Biology",
+          "Gene",
+          "Genetics",
+          "CRISPR"
+        ],
+        "host_venues": [
+          "Journal of Responsible Innovation"
+        ],
+        "color": "#CC0000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-jkuzma",
+      "target": "uid-fgould",
+      "attributes": {
+        "label": 3,
+        "weight": 3,
+        "collaboration_count": 3,
+        "departments": "Entomology and Plant Pathology -- Genetic Engineering and Society",
+        "colleges": "College of Agriculture and Life Sciences -- NC State",
+        "buildings": "James B Hunt Jr Centennial Cam -- Thomas Hall",
+        "roles": "faculty == faculty",
+        "years": [
+          2018,
+          2018,
+          2018
+        ],
+        "year_recent": 2018,
+        "dois": [
+          "10.1080/23299460.2017.1410344",
+          "10.1126/science.aar3780",
+          "10.1080/23299460.2017.1419413"
+        ],
+        "ncsu?": true,
+        "cross_college?": true,
+        "cross_department?": true,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": true,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": true,
+        "concepts": [
+          "Corporate governance",
+          "Context (archaeology)",
+          "Frame (networking)",
+          "Responsible Research and Innovation",
+          "Political science",
+          "Business",
+          "Engineering ethics",
+          "Public administration",
+          "Process management",
+          "Sociology",
+          "Public relations",
+          "Computer science",
+          "Engineering",
+          "Biology",
+          "Telecommunications",
+          "Finance",
+          "Paleontology"
+        ],
+        "host_venues": [
+          "Journal of Responsible Innovation"
+        ],
+        "color": "#FAC800",
+        "size": 3
+      }
+    },
+    {
+      "source": "uid-jkuzma",
+      "target": "uid-zsbrown2",
+      "attributes": {
+        "label": 2,
+        "weight": 2,
+        "collaboration_count": 2,
+        "departments": "Agricultural & Resource Economics -- Genetic Engineering and Society",
+        "colleges": "College of Agriculture and Life Sciences -- NC State",
+        "buildings": "James B Hunt Jr Centennial Cam -- Nelson Hall",
+        "roles": "faculty == faculty",
+        "years": [
+          2018,
+          2018
+        ],
+        "year_recent": 2018,
+        "dois": [
+          "10.1080/23299460.2017.1410344",
+          "10.1126/science.aar3780"
+        ],
+        "ncsu?": true,
+        "cross_college?": true,
+        "cross_department?": true,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": true,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society",
+          "Global Water, Sanitation and Hygiene"
+        ],
+        "cross_building?": true,
+        "concepts": [
+          "Corporate governance",
+          "Context (archaeology)",
+          "Frame (networking)",
+          "Responsible Research and Innovation",
+          "Political science",
+          "Business",
+          "Engineering ethics",
+          "Public administration",
+          "Process management",
+          "Sociology",
+          "Public relations",
+          "Computer science",
+          "Engineering",
+          "Biology",
+          "Telecommunications",
+          "Finance",
+          "Paleontology"
+        ],
+        "host_venues": [
+          "Journal of Responsible Innovation"
+        ],
+        "color": "#FAC800",
+        "size": 2
+      }
+    },
+    {
+      "source": "uid-jkuzma",
+      "target": "https://orcid.org/0000-0003-1022-9952",
+      "attributes": {
+        "label": 2,
+        "weight": 2,
+        "collaboration_count": 2,
+        "departments": "Genetic Engineering and Society --- unknown",
+        "colleges": "NC State --- unknown",
+        "buildings": "James B Hunt Jr Centennial Cam --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          2018,
+          2018
+        ],
+        "year_recent": 2018,
+        "dois": [
+          "10.1080/23299460.2017.1410344",
+          "10.1126/science.aat4612"
+        ],
+        "ncsu?": false,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          "Corporate governance",
+          "Context (archaeology)",
+          "Frame (networking)",
+          "Responsible Research and Innovation",
+          "Political science",
+          "Business",
+          "Engineering ethics",
+          "Public administration",
+          "Process management",
+          "Sociology",
+          "Public relations",
+          "Computer science",
+          "Engineering",
+          "Biology",
+          "Telecommunications",
+          "Finance",
+          "Paleontology"
+        ],
+        "host_venues": [
+          "Journal of Responsible Innovation"
+        ],
+        "color": "#000000",
+        "size": 2
+      }
+    },
+    {
+      "source": "uid-jkuzma",
+      "target": "uid-jadelbor",
+      "attributes": {
+        "label": 3,
+        "weight": 3,
+        "collaboration_count": 3,
+        "departments": "Forestry & Environmental Resources -- Genetic Engineering and Society",
+        "colleges": "College of Natural Resources -- NC State",
+        "buildings": "James B Hunt Jr Centennial Cam -- Jordan Hall Addition",
+        "roles": "faculty == faculty",
+        "years": [
+          2018,
+          2018,
+          2014
+        ],
+        "year_recent": 2018,
+        "dois": [
+          "10.1080/23299460.2017.1410344",
+          "10.1080/23299460.2017.1419413",
+          "10.1038/510218b"
+        ],
+        "ncsu?": true,
+        "cross_college?": true,
+        "cross_department?": true,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": true,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society",
+          "Global Water, Sanitation and Hygiene"
+        ],
+        "cross_building?": true,
+        "concepts": [
+          "Corporate governance",
+          "Context (archaeology)",
+          "Frame (networking)",
+          "Responsible Research and Innovation",
+          "Political science",
+          "Business",
+          "Engineering ethics",
+          "Public administration",
+          "Process management",
+          "Sociology",
+          "Public relations",
+          "Computer science",
+          "Engineering",
+          "Biology",
+          "Telecommunications",
+          "Finance",
+          "Paleontology"
+        ],
+        "host_venues": [
+          "Journal of Responsible Innovation"
+        ],
+        "color": "#FAC800",
+        "size": 3
+      }
+    },
+    {
+      "source": "uid-jkuzma",
+      "target": "https://orcid.org/0000-0001-8067-7182",
+      "attributes": {
+        "label": 2,
+        "weight": 2,
+        "collaboration_count": 2,
+        "departments": "Genetic Engineering and Society --- unknown",
+        "colleges": "NC State --- unknown",
+        "buildings": "James B Hunt Jr Centennial Cam --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          2018,
+          2018
+        ],
+        "year_recent": 2018,
+        "dois": [
+          "10.1080/23299460.2017.1410344",
+          "10.1080/23299460.2017.1419413"
+        ],
+        "ncsu?": false,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          "Corporate governance",
+          "Context (archaeology)",
+          "Frame (networking)",
+          "Responsible Research and Innovation",
+          "Political science",
+          "Business",
+          "Engineering ethics",
+          "Public administration",
+          "Process management",
+          "Sociology",
+          "Public relations",
+          "Computer science",
+          "Engineering",
+          "Biology",
+          "Telecommunications",
+          "Finance",
+          "Paleontology"
+        ],
+        "host_venues": [
+          "Journal of Responsible Innovation"
+        ],
+        "color": "#000000",
+        "size": 2
+      }
+    },
+    {
+      "source": "uid-jkuzma",
+      "target": "https://orcid.org/0000-0001-8797-3945",
+      "attributes": {
+        "label": 2,
+        "weight": 2,
+        "collaboration_count": 2,
+        "departments": "Genetic Engineering and Society --- unknown",
+        "colleges": "NC State --- unknown",
+        "buildings": "James B Hunt Jr Centennial Cam --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          2018,
+          2018
+        ],
+        "year_recent": 2018,
+        "dois": [
+          "10.1080/23299460.2017.1410344",
+          "10.1126/science.aat4612"
+        ],
+        "ncsu?": false,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          "Corporate governance",
+          "Context (archaeology)",
+          "Frame (networking)",
+          "Responsible Research and Innovation",
+          "Political science",
+          "Business",
+          "Engineering ethics",
+          "Public administration",
+          "Process management",
+          "Sociology",
+          "Public relations",
+          "Computer science",
+          "Engineering",
+          "Biology",
+          "Telecommunications",
+          "Finance",
+          "Paleontology"
+        ],
+        "host_venues": [
+          "Journal of Responsible Innovation"
+        ],
+        "color": "#000000",
+        "size": 2
+      }
+    },
+    {
+      "source": "uid-jkuzma",
+      "target": "davidhguston",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Genetic Engineering and Society --- unknown",
+        "colleges": "NC State --- unknown",
+        "buildings": "James B Hunt Jr Centennial Cam --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          2018
+        ],
+        "year_recent": 2018,
+        "dois": [
+          "10.1080/23299460.2017.1410344"
+        ],
+        "ncsu?": false,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          "Corporate governance",
+          "Context (archaeology)",
+          "Frame (networking)",
+          "Responsible Research and Innovation",
+          "Political science",
+          "Business",
+          "Engineering ethics",
+          "Public administration",
+          "Process management",
+          "Sociology",
+          "Public relations",
+          "Computer science",
+          "Engineering",
+          "Biology",
+          "Telecommunications",
+          "Finance",
+          "Paleontology"
+        ],
+        "host_venues": [
+          "Journal of Responsible Innovation"
+        ],
+        "color": "#000000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-jkuzma",
+      "target": "https://orcid.org/0000-0002-9811-8415",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Genetic Engineering and Society --- unknown",
+        "colleges": "NC State --- unknown",
+        "buildings": "James B Hunt Jr Centennial Cam --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          2018
+        ],
+        "year_recent": 2018,
+        "dois": [
+          "10.1080/23299460.2017.1410344"
+        ],
+        "ncsu?": false,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          "Corporate governance",
+          "Context (archaeology)",
+          "Frame (networking)",
+          "Responsible Research and Innovation",
+          "Political science",
+          "Business",
+          "Engineering ethics",
+          "Public administration",
+          "Process management",
+          "Sociology",
+          "Public relations",
+          "Computer science",
+          "Engineering",
+          "Biology",
+          "Telecommunications",
+          "Finance",
+          "Paleontology"
+        ],
+        "host_venues": [
+          "Journal of Responsible Innovation"
+        ],
+        "color": "#000000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-jkuzma",
+      "target": "uid-sastauff",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Genetic Engineering and Society == Genetic Engineering and Society",
+        "colleges": "NC State == NC State",
+        "buildings": "James B Hunt Jr Centennial Cam == James B Hunt Jr Centennial Cam",
+        "roles": "faculty -- staff",
+        "years": [
+          2018
+        ],
+        "year_recent": 2018,
+        "dois": [
+          "10.1080/23299460.2017.1410344"
+        ],
+        "ncsu?": true,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": true,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          "Corporate governance",
+          "Context (archaeology)",
+          "Frame (networking)",
+          "Responsible Research and Innovation",
+          "Political science",
+          "Business",
+          "Engineering ethics",
+          "Public administration",
+          "Process management",
+          "Sociology",
+          "Public relations",
+          "Computer science",
+          "Engineering",
+          "Biology",
+          "Telecommunications",
+          "Finance",
+          "Paleontology"
+        ],
+        "host_venues": [
+          "Journal of Responsible Innovation"
+        ],
+        "color": "#CC0000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-jkuzma",
+      "target": "uid-jdsudwee",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Genetic Engineering and Society -- Public and International Affairs",
+        "colleges": "College of Humanities and Social Sciences -- NC State",
+        "buildings": "James B Hunt Jr Centennial Cam --- unknown",
+        "roles": "faculty -- student",
+        "years": [
+          2018
+        ],
+        "year_recent": 2018,
+        "dois": [
+          "10.1080/23299460.2017.1419413"
+        ],
+        "ncsu?": true,
+        "cross_college?": true,
+        "cross_department?": true,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          "Corporate governance",
+          "Responsible Research and Innovation",
+          "Political science",
+          "Business",
+          "Public relations",
+          "Management",
+          "Economics"
+        ],
+        "host_venues": [
+          "Journal of Responsible Innovation"
+        ],
+        "color": "#FAC800",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-fgould",
+      "target": "uid-godwin",
+      "attributes": {
+        "label": 3,
+        "weight": 3,
+        "collaboration_count": 3,
+        "departments": "Biological Sciences -- Entomology and Plant Pathology",
+        "colleges": "College of Agriculture and Life Sciences -- College of Sciences",
+        "buildings": "David Clark Labs -- Thomas Hall",
+        "roles": "faculty == faculty",
+        "years": [
+          2021,
+          2019,
+          2015
+        ],
+        "year_recent": 2021,
+        "dois": [
+          "10.1111/eva.13210",
+          "10.1038/s41598-019-51994-0",
+          "10.1016/j.biocon.2014.10.016"
+        ],
+        "ncsu?": true,
+        "cross_college?": true,
+        "cross_department?": true,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": true,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": true,
+        "concepts": [
+          "Biology",
+          "Colonization",
+          "Genomics",
+          "Population genomics",
+          "Population",
+          "Gene",
+          "Genetics",
+          "Evolutionary biology",
+          "Genome",
+          "Gene drive",
+          "Population genetics",
+          "Computational biology",
+          "Ecology",
+          "CRISPR",
+          "Demography",
+          "Sociology"
+        ],
+        "host_venues": [
+          "Evolutionary Applications"
+        ],
+        "color": "#FAC800",
+        "size": 3
+      }
+    },
+    {
+      "source": "uid-fgould",
+      "target": "uid-zsbrown2",
+      "attributes": {
+        "label": 2,
+        "weight": 2,
+        "collaboration_count": 2,
+        "departments": "Agricultural & Resource Economics -- Entomology and Plant Pathology",
+        "colleges": "College of Agriculture and Life Sciences == College of Agriculture and Life Sciences",
+        "buildings": "Nelson Hall -- Thomas Hall",
+        "roles": "faculty == faculty",
+        "years": [
+          2018,
+          2018
+        ],
+        "year_recent": 2018,
+        "dois": [
+          "10.1080/23299460.2017.1410344",
+          "10.1126/science.aar3780"
+        ],
+        "ncsu?": true,
+        "cross_college?": false,
+        "cross_department?": true,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": true,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society",
+          "Global Water, Sanitation and Hygiene"
+        ],
+        "cross_building?": true,
+        "concepts": [
+          "Corporate governance",
+          "Context (archaeology)",
+          "Frame (networking)",
+          "Responsible Research and Innovation",
+          "Political science",
+          "Business",
+          "Engineering ethics",
+          "Public administration",
+          "Process management",
+          "Sociology",
+          "Public relations",
+          "Computer science",
+          "Engineering",
+          "Biology",
+          "Telecommunications",
+          "Finance",
+          "Paleontology"
+        ],
+        "host_venues": [
+          "Journal of Responsible Innovation"
+        ],
+        "color": "#CC0000",
+        "size": 2
+      }
+    },
+    {
+      "source": "uid-fgould",
+      "target": "https://orcid.org/0000-0003-1022-9952",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Entomology and Plant Pathology --- unknown",
+        "colleges": "College of Agriculture and Life Sciences --- unknown",
+        "buildings": "Thomas Hall --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          2018
+        ],
+        "year_recent": 2018,
+        "dois": [
+          "10.1080/23299460.2017.1410344"
+        ],
+        "ncsu?": false,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          "Corporate governance",
+          "Context (archaeology)",
+          "Frame (networking)",
+          "Responsible Research and Innovation",
+          "Political science",
+          "Business",
+          "Engineering ethics",
+          "Public administration",
+          "Process management",
+          "Sociology",
+          "Public relations",
+          "Computer science",
+          "Engineering",
+          "Biology",
+          "Telecommunications",
+          "Finance",
+          "Paleontology"
+        ],
+        "host_venues": [
+          "Journal of Responsible Innovation"
+        ],
+        "color": "#000000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-fgould",
+      "target": "uid-jadelbor",
+      "attributes": {
+        "label": 2,
+        "weight": 2,
+        "collaboration_count": 2,
+        "departments": "Entomology and Plant Pathology -- Forestry & Environmental Resources",
+        "colleges": "College of Agriculture and Life Sciences -- College of Natural Resources",
+        "buildings": "Jordan Hall Addition -- Thomas Hall",
+        "roles": "faculty == faculty",
+        "years": [
+          2018,
+          2018
+        ],
+        "year_recent": 2018,
+        "dois": [
+          "10.1080/23299460.2017.1410344",
+          "10.1080/23299460.2017.1419413"
+        ],
+        "ncsu?": true,
+        "cross_college?": true,
+        "cross_department?": true,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": true,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society",
+          "Global Water, Sanitation and Hygiene"
+        ],
+        "cross_building?": true,
+        "concepts": [
+          "Corporate governance",
+          "Context (archaeology)",
+          "Frame (networking)",
+          "Responsible Research and Innovation",
+          "Political science",
+          "Business",
+          "Engineering ethics",
+          "Public administration",
+          "Process management",
+          "Sociology",
+          "Public relations",
+          "Computer science",
+          "Engineering",
+          "Biology",
+          "Telecommunications",
+          "Finance",
+          "Paleontology"
+        ],
+        "host_venues": [
+          "Journal of Responsible Innovation"
+        ],
+        "color": "#FAC800",
+        "size": 2
+      }
+    },
+    {
+      "source": "uid-fgould",
+      "target": "https://orcid.org/0000-0001-8067-7182",
+      "attributes": {
+        "label": 2,
+        "weight": 2,
+        "collaboration_count": 2,
+        "departments": "Entomology and Plant Pathology --- unknown",
+        "colleges": "College of Agriculture and Life Sciences --- unknown",
+        "buildings": "Thomas Hall --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          2018,
+          2018
+        ],
+        "year_recent": 2018,
+        "dois": [
+          "10.1080/23299460.2017.1410344",
+          "10.1080/23299460.2017.1419413"
+        ],
+        "ncsu?": false,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          "Corporate governance",
+          "Context (archaeology)",
+          "Frame (networking)",
+          "Responsible Research and Innovation",
+          "Political science",
+          "Business",
+          "Engineering ethics",
+          "Public administration",
+          "Process management",
+          "Sociology",
+          "Public relations",
+          "Computer science",
+          "Engineering",
+          "Biology",
+          "Telecommunications",
+          "Finance",
+          "Paleontology"
+        ],
+        "host_venues": [
+          "Journal of Responsible Innovation"
+        ],
+        "color": "#000000",
+        "size": 2
+      }
+    },
+    {
+      "source": "uid-fgould",
+      "target": "https://orcid.org/0000-0001-8797-3945",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Entomology and Plant Pathology --- unknown",
+        "colleges": "College of Agriculture and Life Sciences --- unknown",
+        "buildings": "Thomas Hall --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          2018
+        ],
+        "year_recent": 2018,
+        "dois": [
+          "10.1080/23299460.2017.1410344"
+        ],
+        "ncsu?": false,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          "Corporate governance",
+          "Context (archaeology)",
+          "Frame (networking)",
+          "Responsible Research and Innovation",
+          "Political science",
+          "Business",
+          "Engineering ethics",
+          "Public administration",
+          "Process management",
+          "Sociology",
+          "Public relations",
+          "Computer science",
+          "Engineering",
+          "Biology",
+          "Telecommunications",
+          "Finance",
+          "Paleontology"
+        ],
+        "host_venues": [
+          "Journal of Responsible Innovation"
+        ],
+        "color": "#000000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-fgould",
+      "target": "davidhguston",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Entomology and Plant Pathology --- unknown",
+        "colleges": "College of Agriculture and Life Sciences --- unknown",
+        "buildings": "Thomas Hall --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          2018
+        ],
+        "year_recent": 2018,
+        "dois": [
+          "10.1080/23299460.2017.1410344"
+        ],
+        "ncsu?": false,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          "Corporate governance",
+          "Context (archaeology)",
+          "Frame (networking)",
+          "Responsible Research and Innovation",
+          "Political science",
+          "Business",
+          "Engineering ethics",
+          "Public administration",
+          "Process management",
+          "Sociology",
+          "Public relations",
+          "Computer science",
+          "Engineering",
+          "Biology",
+          "Telecommunications",
+          "Finance",
+          "Paleontology"
+        ],
+        "host_venues": [
+          "Journal of Responsible Innovation"
+        ],
+        "color": "#000000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-fgould",
+      "target": "https://orcid.org/0000-0002-9811-8415",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Entomology and Plant Pathology --- unknown",
+        "colleges": "College of Agriculture and Life Sciences --- unknown",
+        "buildings": "Thomas Hall --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          2018
+        ],
+        "year_recent": 2018,
+        "dois": [
+          "10.1080/23299460.2017.1410344"
+        ],
+        "ncsu?": false,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          "Corporate governance",
+          "Context (archaeology)",
+          "Frame (networking)",
+          "Responsible Research and Innovation",
+          "Political science",
+          "Business",
+          "Engineering ethics",
+          "Public administration",
+          "Process management",
+          "Sociology",
+          "Public relations",
+          "Computer science",
+          "Engineering",
+          "Biology",
+          "Telecommunications",
+          "Finance",
+          "Paleontology"
+        ],
+        "host_venues": [
+          "Journal of Responsible Innovation"
+        ],
+        "color": "#000000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-fgould",
+      "target": "uid-sastauff",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Entomology and Plant Pathology -- Genetic Engineering and Society",
+        "colleges": "College of Agriculture and Life Sciences -- NC State",
+        "buildings": "James B Hunt Jr Centennial Cam -- Thomas Hall",
+        "roles": "faculty -- staff",
+        "years": [
+          2018
+        ],
+        "year_recent": 2018,
+        "dois": [
+          "10.1080/23299460.2017.1410344"
+        ],
+        "ncsu?": true,
+        "cross_college?": true,
+        "cross_department?": true,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": true,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": true,
+        "concepts": [
+          "Corporate governance",
+          "Context (archaeology)",
+          "Frame (networking)",
+          "Responsible Research and Innovation",
+          "Political science",
+          "Business",
+          "Engineering ethics",
+          "Public administration",
+          "Process management",
+          "Sociology",
+          "Public relations",
+          "Computer science",
+          "Engineering",
+          "Biology",
+          "Telecommunications",
+          "Finance",
+          "Paleontology"
+        ],
+        "host_venues": [
+          "Journal of Responsible Innovation"
+        ],
+        "color": "#FAC800",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-fgould",
+      "target": "uid-jdsudwee",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Entomology and Plant Pathology -- Public and International Affairs",
+        "colleges": "College of Agriculture and Life Sciences -- College of Humanities and Social Sciences",
+        "buildings": "Thomas Hall --- unknown",
+        "roles": "faculty -- student",
+        "years": [
+          2018
+        ],
+        "year_recent": 2018,
+        "dois": [
+          "10.1080/23299460.2017.1419413"
+        ],
+        "ncsu?": true,
+        "cross_college?": true,
+        "cross_department?": true,
+        "cross_unit?": true,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          "Corporate governance",
+          "Responsible Research and Innovation",
+          "Political science",
+          "Business",
+          "Public relations",
+          "Management",
+          "Economics"
+        ],
+        "host_venues": [
+          "Journal of Responsible Innovation"
+        ],
+        "color": "#FAC800",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-zsbrown2",
+      "target": "uid-jadelbor",
+      "attributes": {
+        "label": 2,
+        "weight": 2,
+        "collaboration_count": 2,
+        "departments": "Agricultural & Resource Economics -- Forestry & Environmental Resources",
+        "colleges": "College of Agriculture and Life Sciences -- College of Natural Resources",
+        "buildings": "Jordan Hall Addition -- Nelson Hall",
+        "roles": "faculty == faculty",
+        "years": [
+          2019,
+          2018
+        ],
+        "year_recent": 2019,
+        "dois": [
+          "10.1126/sciadv.aau8462",
+          "10.1080/23299460.2017.1410344"
+        ],
+        "ncsu?": true,
+        "cross_college?": true,
+        "cross_department?": true,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": true,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society",
+          "Global Water, Sanitation and Hygiene"
+        ],
+        "cross_building?": true,
+        "concepts": [
+          "Need to know",
+          "Agriculture",
+          "Business",
+          "Computer science",
+          "Biotechnology",
+          "Internet privacy",
+          "Computational biology",
+          "Biology",
+          "Computer security",
+          "Ecology"
+        ],
+        "host_venues": [
+          "Science Advances"
+        ],
+        "color": "#FAC800",
+        "size": 2
+      }
+    },
+    {
+      "source": "uid-zsbrown2",
+      "target": "https://orcid.org/0000-0003-1022-9952",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Agricultural & Resource Economics --- unknown",
+        "colleges": "College of Agriculture and Life Sciences --- unknown",
+        "buildings": "Nelson Hall --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          2018
+        ],
+        "year_recent": 2018,
+        "dois": [
+          "10.1080/23299460.2017.1410344"
+        ],
+        "ncsu?": false,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society",
+          "Global Water, Sanitation and Hygiene"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          "Corporate governance",
+          "Context (archaeology)",
+          "Frame (networking)",
+          "Responsible Research and Innovation",
+          "Political science",
+          "Business",
+          "Engineering ethics",
+          "Public administration",
+          "Process management",
+          "Sociology",
+          "Public relations",
+          "Computer science",
+          "Engineering",
+          "Biology",
+          "Telecommunications",
+          "Finance",
+          "Paleontology"
+        ],
+        "host_venues": [
+          "Journal of Responsible Innovation"
+        ],
+        "color": "#000000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-zsbrown2",
+      "target": "https://orcid.org/0000-0001-8067-7182",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Agricultural & Resource Economics --- unknown",
+        "colleges": "College of Agriculture and Life Sciences --- unknown",
+        "buildings": "Nelson Hall --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          2018
+        ],
+        "year_recent": 2018,
+        "dois": [
+          "10.1080/23299460.2017.1410344"
+        ],
+        "ncsu?": false,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society",
+          "Global Water, Sanitation and Hygiene"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          "Corporate governance",
+          "Context (archaeology)",
+          "Frame (networking)",
+          "Responsible Research and Innovation",
+          "Political science",
+          "Business",
+          "Engineering ethics",
+          "Public administration",
+          "Process management",
+          "Sociology",
+          "Public relations",
+          "Computer science",
+          "Engineering",
+          "Biology",
+          "Telecommunications",
+          "Finance",
+          "Paleontology"
+        ],
+        "host_venues": [
+          "Journal of Responsible Innovation"
+        ],
+        "color": "#000000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-zsbrown2",
+      "target": "https://orcid.org/0000-0001-8797-3945",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Agricultural & Resource Economics --- unknown",
+        "colleges": "College of Agriculture and Life Sciences --- unknown",
+        "buildings": "Nelson Hall --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          2018
+        ],
+        "year_recent": 2018,
+        "dois": [
+          "10.1080/23299460.2017.1410344"
+        ],
+        "ncsu?": false,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society",
+          "Global Water, Sanitation and Hygiene"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          "Corporate governance",
+          "Context (archaeology)",
+          "Frame (networking)",
+          "Responsible Research and Innovation",
+          "Political science",
+          "Business",
+          "Engineering ethics",
+          "Public administration",
+          "Process management",
+          "Sociology",
+          "Public relations",
+          "Computer science",
+          "Engineering",
+          "Biology",
+          "Telecommunications",
+          "Finance",
+          "Paleontology"
+        ],
+        "host_venues": [
+          "Journal of Responsible Innovation"
+        ],
+        "color": "#000000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-zsbrown2",
+      "target": "davidhguston",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Agricultural & Resource Economics --- unknown",
+        "colleges": "College of Agriculture and Life Sciences --- unknown",
+        "buildings": "Nelson Hall --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          2018
+        ],
+        "year_recent": 2018,
+        "dois": [
+          "10.1080/23299460.2017.1410344"
+        ],
+        "ncsu?": false,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society",
+          "Global Water, Sanitation and Hygiene"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          "Corporate governance",
+          "Context (archaeology)",
+          "Frame (networking)",
+          "Responsible Research and Innovation",
+          "Political science",
+          "Business",
+          "Engineering ethics",
+          "Public administration",
+          "Process management",
+          "Sociology",
+          "Public relations",
+          "Computer science",
+          "Engineering",
+          "Biology",
+          "Telecommunications",
+          "Finance",
+          "Paleontology"
+        ],
+        "host_venues": [
+          "Journal of Responsible Innovation"
+        ],
+        "color": "#000000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-zsbrown2",
+      "target": "https://orcid.org/0000-0002-9811-8415",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Agricultural & Resource Economics --- unknown",
+        "colleges": "College of Agriculture and Life Sciences --- unknown",
+        "buildings": "Nelson Hall --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          2018
+        ],
+        "year_recent": 2018,
+        "dois": [
+          "10.1080/23299460.2017.1410344"
+        ],
+        "ncsu?": false,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society",
+          "Global Water, Sanitation and Hygiene"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          "Corporate governance",
+          "Context (archaeology)",
+          "Frame (networking)",
+          "Responsible Research and Innovation",
+          "Political science",
+          "Business",
+          "Engineering ethics",
+          "Public administration",
+          "Process management",
+          "Sociology",
+          "Public relations",
+          "Computer science",
+          "Engineering",
+          "Biology",
+          "Telecommunications",
+          "Finance",
+          "Paleontology"
+        ],
+        "host_venues": [
+          "Journal of Responsible Innovation"
+        ],
+        "color": "#000000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-zsbrown2",
+      "target": "uid-sastauff",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Agricultural & Resource Economics -- Genetic Engineering and Society",
+        "colleges": "College of Agriculture and Life Sciences -- NC State",
+        "buildings": "James B Hunt Jr Centennial Cam -- Nelson Hall",
+        "roles": "faculty -- staff",
+        "years": [
+          2018
+        ],
+        "year_recent": 2018,
+        "dois": [
+          "10.1080/23299460.2017.1410344"
+        ],
+        "ncsu?": true,
+        "cross_college?": true,
+        "cross_department?": true,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": true,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society",
+          "Global Water, Sanitation and Hygiene"
+        ],
+        "cross_building?": true,
+        "concepts": [
+          "Corporate governance",
+          "Context (archaeology)",
+          "Frame (networking)",
+          "Responsible Research and Innovation",
+          "Political science",
+          "Business",
+          "Engineering ethics",
+          "Public administration",
+          "Process management",
+          "Sociology",
+          "Public relations",
+          "Computer science",
+          "Engineering",
+          "Biology",
+          "Telecommunications",
+          "Finance",
+          "Paleontology"
+        ],
+        "host_venues": [
+          "Journal of Responsible Innovation"
+        ],
+        "color": "#FAC800",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-jadelbor",
+      "target": "https://orcid.org/0000-0003-1022-9952",
+      "attributes": {
+        "label": 3,
+        "weight": 3,
+        "collaboration_count": 3,
+        "departments": "Forestry & Environmental Resources --- unknown",
+        "colleges": "College of Natural Resources --- unknown",
+        "buildings": "Jordan Hall Addition --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          2020,
+          2018,
+          2016
+        ],
+        "year_recent": 2020,
+        "dois": [
+          "10.1126/science.abd1908",
+          "10.1080/23299460.2017.1410344",
+          "10.1126/science.aah5125"
+        ],
+        "ncsu?": false,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society",
+          "Global Water, Sanitation and Hygiene"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          "Core (optical fiber)",
+          "Gene",
+          "Field (mathematics)",
+          "Computational biology",
+          "Biology",
+          "Field trial",
+          "Gene drive",
+          "Genetics",
+          "Computer science",
+          "Mathematics",
+          "Telecommunications",
+          "Pure mathematics",
+          "CRISPR"
+        ],
+        "host_venues": [
+          "Science"
+        ],
+        "color": "#000000",
+        "size": 3
+      }
+    },
+    {
+      "source": "uid-jadelbor",
+      "target": "https://orcid.org/0000-0002-9811-8415",
+      "attributes": {
+        "label": 2,
+        "weight": 2,
+        "collaboration_count": 2,
+        "departments": "Forestry & Environmental Resources --- unknown",
+        "colleges": "College of Natural Resources --- unknown",
+        "buildings": "Jordan Hall Addition --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          2020,
+          2018
+        ],
+        "year_recent": 2020,
+        "dois": [
+          "10.1126/science.abd1908",
+          "10.1080/23299460.2017.1410344"
+        ],
+        "ncsu?": false,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society",
+          "Global Water, Sanitation and Hygiene"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          "Core (optical fiber)",
+          "Gene",
+          "Field (mathematics)",
+          "Computational biology",
+          "Biology",
+          "Field trial",
+          "Gene drive",
+          "Genetics",
+          "Computer science",
+          "Mathematics",
+          "Telecommunications",
+          "Pure mathematics",
+          "CRISPR"
+        ],
+        "host_venues": [
+          "Science"
+        ],
+        "color": "#000000",
+        "size": 2
+      }
+    },
+    {
+      "source": "uid-jadelbor",
+      "target": "elizabethapitts",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Forestry & Environmental Resources --- unknown",
+        "colleges": "College of Natural Resources --- unknown",
+        "buildings": "Jordan Hall Addition --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          2019
+        ],
+        "year_recent": 2019,
+        "dois": [
+          "10.1017/9781316691489.009"
+        ],
+        "ncsu?": false,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society",
+          "Global Water, Sanitation and Hygiene"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          "Cambridge University Press eBooks"
+        ],
+        "color": "#000000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-jadelbor",
+      "target": "uid-godwin",
+      "attributes": {
+        "label": 2,
+        "weight": 2,
+        "collaboration_count": 2,
+        "departments": "Biological Sciences -- Forestry & Environmental Resources",
+        "colleges": "College of Natural Resources -- College of Sciences",
+        "buildings": "David Clark Labs -- Jordan Hall Addition",
+        "roles": "faculty == faculty",
+        "years": [
+          2019,
+          2017
+        ],
+        "year_recent": 2019,
+        "dois": [
+          "10.1098/rspb.2019.1606"
+        ],
+        "ncsu?": true,
+        "cross_college?": true,
+        "cross_department?": true,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": true,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society",
+          "Global Water, Sanitation and Hygiene"
+        ],
+        "cross_building?": true,
+        "concepts": [
+          "Biodiversity",
+          "Gene drive",
+          "Variety (cybernetics)",
+          "Multidisciplinary approach",
+          "Environmental planning",
+          "Biology",
+          "Food security",
+          "Stakeholder",
+          "Environmental resource management",
+          "Business",
+          "Risk analysis (engineering)",
+          "Ecology",
+          "Geography",
+          "Gene",
+          "Political science",
+          "Computer science",
+          "Agriculture",
+          "Genetics",
+          "Public relations",
+          "Environmental science",
+          "Artificial intelligence",
+          "Law",
+          "CRISPR"
+        ],
+        "host_venues": [
+          "Proceedings of The Royal Society B: Biological Sciences"
+        ],
+        "color": "#FAC800",
+        "size": 2
+      }
+    },
+    {
+      "source": "uid-jadelbor",
+      "target": "https://orcid.org/0000-0003-3695-8168",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Forestry & Environmental Resources --- unknown",
+        "colleges": "College of Natural Resources --- unknown",
+        "buildings": "Jordan Hall Addition --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          2019
+        ],
+        "year_recent": 2019,
+        "dois": [
+          "10.1093/biosci/biz098"
+        ],
+        "ncsu?": false,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society",
+          "Global Water, Sanitation and Hygiene"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          "Gene drive",
+          "Controllability",
+          "Population",
+          "Biology",
+          "Ecology",
+          "Context (archaeology)",
+          "Fixation (population genetics)",
+          "Perspective (graphical)",
+          "Gene",
+          "Genetics",
+          "Computer science",
+          "Mathematics",
+          "Artificial intelligence",
+          "Sociology",
+          "Applied mathematics",
+          "Paleontology",
+          "Demography",
+          "CRISPR"
+        ],
+        "host_venues": [
+          "BioScience"
+        ],
+        "color": "#000000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-jadelbor",
+      "target": "https://orcid.org/0000-0001-8067-7182",
+      "attributes": {
+        "label": 2,
+        "weight": 2,
+        "collaboration_count": 2,
+        "departments": "Forestry & Environmental Resources --- unknown",
+        "colleges": "College of Natural Resources --- unknown",
+        "buildings": "Jordan Hall Addition --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          2018,
+          2018
+        ],
+        "year_recent": 2018,
+        "dois": [
+          "10.1080/23299460.2017.1410344",
+          "10.1080/23299460.2017.1419413"
+        ],
+        "ncsu?": false,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society",
+          "Global Water, Sanitation and Hygiene"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          "Corporate governance",
+          "Context (archaeology)",
+          "Frame (networking)",
+          "Responsible Research and Innovation",
+          "Political science",
+          "Business",
+          "Engineering ethics",
+          "Public administration",
+          "Process management",
+          "Sociology",
+          "Public relations",
+          "Computer science",
+          "Engineering",
+          "Biology",
+          "Telecommunications",
+          "Finance",
+          "Paleontology"
+        ],
+        "host_venues": [
+          "Journal of Responsible Innovation"
+        ],
+        "color": "#000000",
+        "size": 2
+      }
+    },
+    {
+      "source": "uid-jadelbor",
+      "target": "davidhguston",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Forestry & Environmental Resources --- unknown",
+        "colleges": "College of Natural Resources --- unknown",
+        "buildings": "Jordan Hall Addition --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          2018
+        ],
+        "year_recent": 2018,
+        "dois": [
+          "10.1080/23299460.2017.1410344"
+        ],
+        "ncsu?": false,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society",
+          "Global Water, Sanitation and Hygiene"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          "Corporate governance",
+          "Context (archaeology)",
+          "Frame (networking)",
+          "Responsible Research and Innovation",
+          "Political science",
+          "Business",
+          "Engineering ethics",
+          "Public administration",
+          "Process management",
+          "Sociology",
+          "Public relations",
+          "Computer science",
+          "Engineering",
+          "Biology",
+          "Telecommunications",
+          "Finance",
+          "Paleontology"
+        ],
+        "host_venues": [
+          "Journal of Responsible Innovation"
+        ],
+        "color": "#000000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-jadelbor",
+      "target": "uid-sastauff",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Forestry & Environmental Resources -- Genetic Engineering and Society",
+        "colleges": "College of Natural Resources -- NC State",
+        "buildings": "James B Hunt Jr Centennial Cam -- Jordan Hall Addition",
+        "roles": "faculty -- staff",
+        "years": [
+          2018
+        ],
+        "year_recent": 2018,
+        "dois": [
+          "10.1080/23299460.2017.1410344"
+        ],
+        "ncsu?": true,
+        "cross_college?": true,
+        "cross_department?": true,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": true,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society",
+          "Global Water, Sanitation and Hygiene"
+        ],
+        "cross_building?": true,
+        "concepts": [
+          "Corporate governance",
+          "Context (archaeology)",
+          "Frame (networking)",
+          "Responsible Research and Innovation",
+          "Political science",
+          "Business",
+          "Engineering ethics",
+          "Public administration",
+          "Process management",
+          "Sociology",
+          "Public relations",
+          "Computer science",
+          "Engineering",
+          "Biology",
+          "Telecommunications",
+          "Finance",
+          "Paleontology"
+        ],
+        "host_venues": [
+          "Journal of Responsible Innovation"
+        ],
+        "color": "#FAC800",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-jadelbor",
+      "target": "uid-jdsudwee",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Forestry & Environmental Resources -- Public and International Affairs",
+        "colleges": "College of Humanities and Social Sciences -- College of Natural Resources",
+        "buildings": "Jordan Hall Addition --- unknown",
+        "roles": "faculty -- student",
+        "years": [
+          2018
+        ],
+        "year_recent": 2018,
+        "dois": [
+          "10.1080/23299460.2017.1419413"
+        ],
+        "ncsu?": true,
+        "cross_college?": true,
+        "cross_department?": true,
+        "cross_unit?": true,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society",
+          "Global Water, Sanitation and Hygiene"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          "Corporate governance",
+          "Responsible Research and Innovation",
+          "Political science",
+          "Business",
+          "Public relations",
+          "Management",
+          "Economics"
+        ],
+        "host_venues": [
+          "Journal of Responsible Innovation"
+        ],
+        "color": "#FAC800",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-sastauff",
+      "target": "https://orcid.org/0000-0003-1022-9952",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Genetic Engineering and Society --- unknown",
+        "colleges": "NC State --- unknown",
+        "buildings": "James B Hunt Jr Centennial Cam --- unknown",
+        "roles": "staff --- unknown",
+        "years": [
+          2018
+        ],
+        "year_recent": 2018,
+        "dois": [
+          "10.1080/23299460.2017.1410344"
+        ],
+        "ncsu?": false,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          "Corporate governance",
+          "Context (archaeology)",
+          "Frame (networking)",
+          "Responsible Research and Innovation",
+          "Political science",
+          "Business",
+          "Engineering ethics",
+          "Public administration",
+          "Process management",
+          "Sociology",
+          "Public relations",
+          "Computer science",
+          "Engineering",
+          "Biology",
+          "Telecommunications",
+          "Finance",
+          "Paleontology"
+        ],
+        "host_venues": [
+          "Journal of Responsible Innovation"
+        ],
+        "color": "#000000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-sastauff",
+      "target": "https://orcid.org/0000-0001-8067-7182",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Genetic Engineering and Society --- unknown",
+        "colleges": "NC State --- unknown",
+        "buildings": "James B Hunt Jr Centennial Cam --- unknown",
+        "roles": "staff --- unknown",
+        "years": [
+          2018
+        ],
+        "year_recent": 2018,
+        "dois": [
+          "10.1080/23299460.2017.1410344"
+        ],
+        "ncsu?": false,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          "Corporate governance",
+          "Context (archaeology)",
+          "Frame (networking)",
+          "Responsible Research and Innovation",
+          "Political science",
+          "Business",
+          "Engineering ethics",
+          "Public administration",
+          "Process management",
+          "Sociology",
+          "Public relations",
+          "Computer science",
+          "Engineering",
+          "Biology",
+          "Telecommunications",
+          "Finance",
+          "Paleontology"
+        ],
+        "host_venues": [
+          "Journal of Responsible Innovation"
+        ],
+        "color": "#000000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-sastauff",
+      "target": "https://orcid.org/0000-0001-8797-3945",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Genetic Engineering and Society --- unknown",
+        "colleges": "NC State --- unknown",
+        "buildings": "James B Hunt Jr Centennial Cam --- unknown",
+        "roles": "staff --- unknown",
+        "years": [
+          2018
+        ],
+        "year_recent": 2018,
+        "dois": [
+          "10.1080/23299460.2017.1410344"
+        ],
+        "ncsu?": false,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          "Corporate governance",
+          "Context (archaeology)",
+          "Frame (networking)",
+          "Responsible Research and Innovation",
+          "Political science",
+          "Business",
+          "Engineering ethics",
+          "Public administration",
+          "Process management",
+          "Sociology",
+          "Public relations",
+          "Computer science",
+          "Engineering",
+          "Biology",
+          "Telecommunications",
+          "Finance",
+          "Paleontology"
+        ],
+        "host_venues": [
+          "Journal of Responsible Innovation"
+        ],
+        "color": "#000000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-sastauff",
+      "target": "davidhguston",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Genetic Engineering and Society --- unknown",
+        "colleges": "NC State --- unknown",
+        "buildings": "James B Hunt Jr Centennial Cam --- unknown",
+        "roles": "staff --- unknown",
+        "years": [
+          2018
+        ],
+        "year_recent": 2018,
+        "dois": [
+          "10.1080/23299460.2017.1410344"
+        ],
+        "ncsu?": false,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          "Corporate governance",
+          "Context (archaeology)",
+          "Frame (networking)",
+          "Responsible Research and Innovation",
+          "Political science",
+          "Business",
+          "Engineering ethics",
+          "Public administration",
+          "Process management",
+          "Sociology",
+          "Public relations",
+          "Computer science",
+          "Engineering",
+          "Biology",
+          "Telecommunications",
+          "Finance",
+          "Paleontology"
+        ],
+        "host_venues": [
+          "Journal of Responsible Innovation"
+        ],
+        "color": "#000000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-sastauff",
+      "target": "https://orcid.org/0000-0002-9811-8415",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Genetic Engineering and Society --- unknown",
+        "colleges": "NC State --- unknown",
+        "buildings": "James B Hunt Jr Centennial Cam --- unknown",
+        "roles": "staff --- unknown",
+        "years": [
+          2018
+        ],
+        "year_recent": 2018,
+        "dois": [
+          "10.1080/23299460.2017.1410344"
+        ],
+        "ncsu?": false,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          "Corporate governance",
+          "Context (archaeology)",
+          "Frame (networking)",
+          "Responsible Research and Innovation",
+          "Political science",
+          "Business",
+          "Engineering ethics",
+          "Public administration",
+          "Process management",
+          "Sociology",
+          "Public relations",
+          "Computer science",
+          "Engineering",
+          "Biology",
+          "Telecommunications",
+          "Finance",
+          "Paleontology"
+        ],
+        "host_venues": [
+          "Journal of Responsible Innovation"
+        ],
+        "color": "#000000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-jdsudwee",
+      "target": "uid-godwin",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Biological Sciences -- Public and International Affairs",
+        "colleges": "College of Humanities and Social Sciences -- College of Sciences",
+        "buildings": "David Clark Labs --- unknown",
+        "roles": "faculty -- student",
+        "years": [
+          2019
+        ],
+        "year_recent": 2019,
+        "dois": [
+          "10.1038/s41598-019-51994-0"
+        ],
+        "ncsu?": true,
+        "cross_college?": true,
+        "cross_department?": true,
+        "cross_unit?": true,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          "Gene drive",
+          "Allele",
+          "Population",
+          "Biology",
+          "CRISPR",
+          "Cas9",
+          "Genetics",
+          "Population genetics",
+          "Evolutionary biology",
+          "Computational biology",
+          "Gene",
+          "Medicine",
+          "Environmental health"
+        ],
+        "host_venues": [
+          "Scientific Reports"
+        ],
+        "color": "#FAC800",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-jdsudwee",
+      "target": "https://orcid.org/0000-0001-8067-7182",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Public and International Affairs --- unknown",
+        "colleges": "College of Humanities and Social Sciences --- unknown",
+        "buildings": "unknown --- unknown",
+        "roles": "student --- unknown",
+        "years": [
+          2018
+        ],
+        "year_recent": 2018,
+        "dois": [
+          "10.1080/23299460.2017.1419413"
+        ],
+        "ncsu?": false,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": false,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+
+        ],
+        "cross_building?": false,
+        "concepts": [
+          "Corporate governance",
+          "Responsible Research and Innovation",
+          "Political science",
+          "Business",
+          "Public relations",
+          "Management",
+          "Economics"
+        ],
+        "host_venues": [
+          "Journal of Responsible Innovation"
+        ],
+        "color": "#000000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-rxvaldez",
+      "target": "https://orcid.org/0000-0003-4770-485X",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Fisheries, Wildlife, & Conservation Biology --- unknown",
+        "colleges": "College of Natural Resources --- unknown",
+        "buildings": "unknown --- unknown",
+        "roles": "unknown == unknown",
+        "years": [
+          2017
+        ],
+        "year_recent": 2017,
+        "dois": [
+          "10.1080/23299460.2017.1365232"
+        ],
+        "ncsu?": true,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          "Gene drive",
+          "Biology",
+          "Gene",
+          "Genetics",
+          "CRISPR"
+        ],
+        "host_venues": [
+          "Journal of Responsible Innovation"
+        ],
+        "color": "#CC0000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-rxvaldez",
+      "target": "https://orcid.org/0000-0003-3695-8168",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Fisheries, Wildlife, & Conservation Biology --- unknown",
+        "colleges": "College of Natural Resources --- unknown",
+        "buildings": "unknown --- unknown",
+        "roles": "unknown == unknown",
+        "years": [
+          2017
+        ],
+        "year_recent": 2017,
+        "dois": [
+          "10.1080/23299460.2017.1365232"
+        ],
+        "ncsu?": true,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          "Gene drive",
+          "Biology",
+          "Gene",
+          "Genetics",
+          "CRISPR"
+        ],
+        "host_venues": [
+          "Journal of Responsible Innovation"
+        ],
+        "color": "#CC0000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-rxvaldez",
+      "target": "uid-meserr",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Biological Sciences -- Fisheries, Wildlife, & Conservation Biology",
+        "colleges": "College of Natural Resources -- College of Sciences",
+        "buildings": "Remote --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          2017
+        ],
+        "year_recent": 2017,
+        "dois": [
+          "10.1080/23299460.2017.1365232"
+        ],
+        "ncsu?": true,
+        "cross_college?": true,
+        "cross_department?": true,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": true,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          "Gene drive",
+          "Biology",
+          "Gene",
+          "Genetics",
+          "CRISPR"
+        ],
+        "host_venues": [
+          "Journal of Responsible Innovation"
+        ],
+        "color": "#FAC800",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-rxvaldez",
+      "target": "elizabethapitts",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Fisheries, Wildlife, & Conservation Biology --- unknown",
+        "colleges": "College of Natural Resources --- unknown",
+        "buildings": "unknown --- unknown",
+        "roles": "unknown == unknown",
+        "years": [
+          2017
+        ],
+        "year_recent": 2017,
+        "dois": [
+          "10.1080/23299460.2017.1365232"
+        ],
+        "ncsu?": false,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          "Gene drive",
+          "Biology",
+          "Gene",
+          "Genetics",
+          "CRISPR"
+        ],
+        "host_venues": [
+          "Journal of Responsible Innovation"
+        ],
+        "color": "#000000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-rxvaldez",
+      "target": "https://orcid.org/0000-0003-3538-1635",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Fisheries, Wildlife, & Conservation Biology --- unknown",
+        "colleges": "College of Natural Resources --- unknown",
+        "buildings": "unknown --- unknown",
+        "roles": "unknown == unknown",
+        "years": [
+          2017
+        ],
+        "year_recent": 2017,
+        "dois": [
+          "10.1080/23299460.2017.1365232"
+        ],
+        "ncsu?": false,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          "Gene drive",
+          "Biology",
+          "Gene",
+          "Genetics",
+          "CRISPR"
+        ],
+        "host_venues": [
+          "Journal of Responsible Innovation"
+        ],
+        "color": "#000000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-rxvaldez",
+      "target": "uid-godwin",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Biological Sciences -- Fisheries, Wildlife, & Conservation Biology",
+        "colleges": "College of Natural Resources -- College of Sciences",
+        "buildings": "David Clark Labs --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          2017
+        ],
+        "year_recent": 2017,
+        "dois": [
+          "10.1080/23299460.2017.1365232"
+        ],
+        "ncsu?": true,
+        "cross_college?": true,
+        "cross_department?": true,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": true,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          "Gene drive",
+          "Biology",
+          "Gene",
+          "Genetics",
+          "CRISPR"
+        ],
+        "host_venues": [
+          "Journal of Responsible Innovation"
+        ],
+        "color": "#FAC800",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-meserr",
+      "target": "uid-godwin",
+      "attributes": {
+        "label": 3,
+        "weight": 3,
+        "collaboration_count": 3,
+        "departments": "Biological Sciences == Biological Sciences",
+        "colleges": "College of Sciences == College of Sciences",
+        "buildings": "David Clark Labs -- Remote",
+        "roles": "faculty == faculty",
+        "years": [
+          2019,
+          2019,
+          2017
+        ],
+        "year_recent": 2019,
+        "dois": [
+          "10.1098/rspb.2019.0852",
+          "10.3390/su11051334",
+          "10.1080/23299460.2017.1365232"
+        ],
+        "ncsu?": true,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": true,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": true,
+        "concepts": [
+          "Gene drive",
+          "Biology",
+          "Testis determining factor",
+          "Population",
+          "Biodiversity",
+          "Ecology",
+          "PEST analysis",
+          "Pest control",
+          "Evolutionary biology",
+          "Genetics",
+          "Gene",
+          "Y chromosome",
+          "Sociology",
+          "CRISPR",
+          "Demography",
+          "Botany"
+        ],
+        "host_venues": [
+          "Proceedings of The Royal Society B: Biological Sciences"
+        ],
+        "color": "#CC0000",
+        "size": 3
+      }
+    },
+    {
+      "source": "uid-meserr",
+      "target": "https://orcid.org/0000-0003-4770-485X",
+      "attributes": {
+        "label": 2,
+        "weight": 2,
+        "collaboration_count": 2,
+        "departments": "Biological Sciences --- unknown",
+        "colleges": "College of Sciences --- unknown",
+        "buildings": "Remote --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          2017,
+          2017
+        ],
+        "year_recent": 2017,
+        "dois": [
+          "10.1080/23299460.2017.1365232",
+          "10.1016/j.tree.2017.03.006"
+        ],
+        "ncsu?": true,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          "Gene drive",
+          "Biology",
+          "Gene",
+          "Genetics",
+          "CRISPR"
+        ],
+        "host_venues": [
+          "Journal of Responsible Innovation"
+        ],
+        "color": "#CC0000",
+        "size": 2
+      }
+    },
+    {
+      "source": "uid-meserr",
+      "target": "https://orcid.org/0000-0003-3695-8168",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Biological Sciences --- unknown",
+        "colleges": "College of Sciences --- unknown",
+        "buildings": "Remote --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          2017
+        ],
+        "year_recent": 2017,
+        "dois": [
+          "10.1080/23299460.2017.1365232"
+        ],
+        "ncsu?": true,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          "Gene drive",
+          "Biology",
+          "Gene",
+          "Genetics",
+          "CRISPR"
+        ],
+        "host_venues": [
+          "Journal of Responsible Innovation"
+        ],
+        "color": "#CC0000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-meserr",
+      "target": "elizabethapitts",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Biological Sciences --- unknown",
+        "colleges": "College of Sciences --- unknown",
+        "buildings": "Remote --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          2017
+        ],
+        "year_recent": 2017,
+        "dois": [
+          "10.1080/23299460.2017.1365232"
+        ],
+        "ncsu?": false,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          "Gene drive",
+          "Biology",
+          "Gene",
+          "Genetics",
+          "CRISPR"
+        ],
+        "host_venues": [
+          "Journal of Responsible Innovation"
+        ],
+        "color": "#000000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-meserr",
+      "target": "https://orcid.org/0000-0003-3538-1635",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Biological Sciences --- unknown",
+        "colleges": "College of Sciences --- unknown",
+        "buildings": "Remote --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          2017
+        ],
+        "year_recent": 2017,
+        "dois": [
+          "10.1080/23299460.2017.1365232"
+        ],
+        "ncsu?": false,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          "Gene drive",
+          "Biology",
+          "Gene",
+          "Genetics",
+          "CRISPR"
+        ],
+        "host_venues": [
+          "Journal of Responsible Innovation"
+        ],
+        "color": "#000000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-godwin",
+      "target": "https://orcid.org/0000-0003-4770-485X",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Biological Sciences --- unknown",
+        "colleges": "College of Sciences --- unknown",
+        "buildings": "David Clark Labs --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          2017
+        ],
+        "year_recent": 2017,
+        "dois": [
+          "10.1080/23299460.2017.1365232"
+        ],
+        "ncsu?": true,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          "Gene drive",
+          "Biology",
+          "Gene",
+          "Genetics",
+          "CRISPR"
+        ],
+        "host_venues": [
+          "Journal of Responsible Innovation"
+        ],
+        "color": "#CC0000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-godwin",
+      "target": "https://orcid.org/0000-0003-3695-8168",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Biological Sciences --- unknown",
+        "colleges": "College of Sciences --- unknown",
+        "buildings": "David Clark Labs --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          2017
+        ],
+        "year_recent": 2017,
+        "dois": [
+          "10.1080/23299460.2017.1365232"
+        ],
+        "ncsu?": true,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          "Gene drive",
+          "Biology",
+          "Gene",
+          "Genetics",
+          "CRISPR"
+        ],
+        "host_venues": [
+          "Journal of Responsible Innovation"
+        ],
+        "color": "#CC0000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-godwin",
+      "target": "elizabethapitts",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Biological Sciences --- unknown",
+        "colleges": "College of Sciences --- unknown",
+        "buildings": "David Clark Labs --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          2017
+        ],
+        "year_recent": 2017,
+        "dois": [
+          "10.1080/23299460.2017.1365232"
+        ],
+        "ncsu?": false,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          "Gene drive",
+          "Biology",
+          "Gene",
+          "Genetics",
+          "CRISPR"
+        ],
+        "host_venues": [
+          "Journal of Responsible Innovation"
+        ],
+        "color": "#000000",
+        "size": 1
+      }
+    }
+  ]
+}

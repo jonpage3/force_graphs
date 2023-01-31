@@ -1,0 +1,4573 @@
+{
+  "options": {
+    "type": "undirected",
+    "multi": false,
+    "allowSelfLoops": false
+  },
+  "attributes": {
+    "creator": "Citation Index",
+    "lastModifiedDate": "2023-01-14"
+  },
+  "nodes": [
+    {
+      "key": "uid-wthurman",
+      "attributes": {
+        "label": "W Thurman",
+        "name": "Walter Thurman",
+        "known?": true,
+        "orcid?": true,
+        "ncsu?": true,
+        "affiliations": [
+          "North Carolina State University"
+        ],
+        "countries": [
+          "US"
+        ],
+        "uid": "wthurman",
+        "url": "https://ci.lib.ncsu.edu/profiles/wthurman",
+        "orcid": "0000-0002-6106-7685",
+        "active?": true,
+        "department": "Economics",
+        "college": "Poole College of Management",
+        "ncsu_affiliations": [
+          "Economics",
+          "Agricultural & Resource Economics",
+          "Genetic Engineering and Society",
+          "Center for Environmental and Resource Economic Policy"
+        ],
+        "cluster?": true,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "role": "faculty",
+        "building": "Nelson Hall",
+        "count": 95,
+        "oa_count": 5,
+        "years": [
+          2019,
+          2018,
+          2014,
+          2013,
+          2012,
+          2011,
+          2010,
+          2009,
+          2008,
+          2007,
+          2005,
+          2004,
+          2003,
+          2002,
+          2001,
+          1999,
+          1996,
+          1995,
+          1994,
+          1993,
+          1992,
+          1991,
+          1990,
+          1989,
+          1988,
+          1987,
+          1986,
+          1984,
+          1981
+        ],
+        "year_recent": 2019,
+        "article_concepts": [
+          "Agricultural economics",
+          "Agricultural science",
+          "Agriculture",
+          "Agronomy",
+          "Archaeology",
+          "Art",
+          "Bidding",
+          "Biofuel",
+          "Biology",
+          "Biotechnology",
+          "Botany",
+          "Business",
+          "Capital investment",
+          "Causality (physics)",
+          "Computer science",
+          "Conservation Reserve Program",
+          "Consumption (sociology)",
+          "Corn ethanol",
+          "Database",
+          "Ecology",
+          "Econometrics",
+          "Economics",
+          "Environmental science",
+          "Ethanol fuel",
+          "Fable",
+          "Finance",
+          "Financial economics",
+          "Futures contract",
+          "Futures market",
+          "General equilibrium theory",
+          "Geography",
+          "Honey Bees",
+          "Incentive",
+          "Investment (military)",
+          "Law",
+          "Literature",
+          "Macroeconomics",
+          "Market economy",
+          "Marketing",
+          "Mathematical economics",
+          "Measure (data warehouse)",
+          "Microeconomics",
+          "Natural resource economics",
+          "Nature Conservation",
+          "Nature reserve",
+          "Partial equilibrium",
+          "Physics",
+          "Political science",
+          "Politics",
+          "Production (economics)",
+          "Public economics",
+          "Quantum mechanics",
+          "Social science",
+          "Sociology",
+          "Supply and demand",
+          "Sustainability",
+          "Welfare",
+          "Zea mays"
+        ],
+        "host_venues": [
+          "Agricultural Economics",
+          "American Journal of Agricultural Economics",
+          "Annual Review of Resource Economics",
+          "Applied Economic Perspectives and Policy",
+          "Applied Economics",
+          "Economic Inquiry",
+          "Elsevier eBooks",
+          "Environmental and Resource Economics",
+          "Journal of Agricultural and Applied Economics",
+          "Journal of Environmental Economics and Management",
+          "Journal of Futures Markets",
+          "Journal of Labor Economics",
+          "Journal of Political Economy",
+          "Journal of Sports Economics",
+          "Journal of the Association of Environmental and Resource Economists",
+          "Land Economics",
+          "Marine Resource Economics",
+          "Poultry Science",
+          "Preventive Veterinary Medicine",
+          "Public Finance Quarterly",
+          "Social Science Research Network",
+          "The American Statistician",
+          "The Journal of Economic History",
+          "The Journal of Law and Economics",
+          "The RAND Journal of Economics",
+          "The Review of Economics and Statistics"
+        ],
+        "color": "#273434",
+        "size": 20
+      }
+    },
+    {
+      "key": "u-14418",
+      "attributes": {
+        "label": "R Rucker",
+        "name": "R. R. Rucker",
+        "known?": true,
+        "orcid?": false,
+        "ncsu?": true,
+        "affiliations": [
+          "North Carolina State University"
+        ],
+        "countries": [
+          "US"
+        ],
+        "url": "https://ci.lib.ncsu.edu/profiles/14418",
+        "active?": false,
+        "department": "Economics",
+        "college": "Poole College of Management",
+        "ncsu_affiliations": [
+          "Economics"
+        ],
+        "cluster?": false,
+        "clusters": [
+
+        ],
+        "role": null,
+        "building": null,
+        "count": 3,
+        "oa_count": 0,
+        "years": [
+          2019,
+          1990
+        ],
+        "year_recent": 2019,
+        "article_concepts": [
+
+        ],
+        "host_venues": [
+          "American Journal of Agricultural Economics",
+          "Journal of the Association of Environmental and Resource Economists",
+          "The Journal of Law and Economics"
+        ],
+        "color": "#273434",
+        "size": 10
+      }
+    },
+    {
+      "key": "https://orcid.org/0000-0001-9755-3784",
+      "attributes": {
+        "label": "M Burgett",
+        "name": "Michael Burgett",
+        "known?": false,
+        "orcid?": null,
+        "ncsu?": false,
+        "affiliations": [
+
+        ],
+        "countries": [
+
+        ],
+        "color": "#BFBFBD",
+        "size": 10
+      }
+    },
+    {
+      "key": "dominicpparker",
+      "attributes": {
+        "label": "D Parker",
+        "name": "Dominic P. Parker",
+        "known?": false,
+        "orcid?": null,
+        "ncsu?": false,
+        "affiliations": [
+          "University of Wisconsin–Madison"
+        ],
+        "countries": [
+          "US"
+        ],
+        "color": "#BFBFBD",
+        "size": 10
+      }
+    },
+    {
+      "key": "bkarali",
+      "attributes": {
+        "label": "B Karali",
+        "name": "B. Karali",
+        "known?": false,
+        "orcid?": null,
+        "ncsu?": null,
+        "affiliations": null,
+        "countries": null,
+        "color": "#BFBFBD",
+        "size": 10
+      }
+    },
+    {
+      "key": "kmcnew",
+      "attributes": {
+        "label": "K Mcnew",
+        "name": "K. Mcnew",
+        "known?": false,
+        "orcid?": null,
+        "ncsu?": null,
+        "affiliations": null,
+        "countries": null,
+        "color": "#BFBFBD",
+        "size": 10
+      }
+    },
+    {
+      "key": "yehushuashayfatal",
+      "attributes": {
+        "label": "Y Fatal",
+        "name": "Yehushua Shay Fatal",
+        "known?": false,
+        "orcid?": null,
+        "ncsu?": false,
+        "affiliations": [
+          "University of North Carolina at Chapel Hill"
+        ],
+        "countries": [
+          "US"
+        ],
+        "color": "#BFBFBD",
+        "size": 10
+      }
+    },
+    {
+      "key": "https://orcid.org/0000-0001-8810-2674",
+      "attributes": {
+        "label": "K Jacobs",
+        "name": "Keri Jacobs",
+        "known?": false,
+        "orcid?": null,
+        "ncsu?": false,
+        "affiliations": [
+          "Iowa State University"
+        ],
+        "countries": [
+          "US"
+        ],
+        "color": "#BFBFBD",
+        "size": 10
+      }
+    },
+    {
+      "key": "uid-marra",
+      "attributes": {
+        "label": "M Marra",
+        "name": "Michele Marra",
+        "known?": true,
+        "orcid?": false,
+        "ncsu?": true,
+        "affiliations": [
+          "North Carolina State University"
+        ],
+        "countries": [
+          "US"
+        ],
+        "uid": "marra",
+        "url": "https://ci.lib.ncsu.edu/profiles/marra",
+        "active?": true,
+        "department": "Agricultural & Resource Economics",
+        "college": "College of Agriculture and Life Sciences",
+        "ncsu_affiliations": [
+          "Agricultural & Resource Economics"
+        ],
+        "cluster?": false,
+        "clusters": [
+
+        ],
+        "role": "faculty",
+        "building": "Nelson Hall",
+        "count": 21,
+        "oa_count": 2,
+        "years": [
+          2016,
+          2014,
+          2010,
+          2008,
+          2007,
+          2003,
+          2002,
+          2001,
+          2000,
+          1998,
+          1997
+        ],
+        "year_recent": 2016,
+        "article_concepts": [
+          "Agricultural economics",
+          "Agriculture",
+          "Agronomy",
+          "Archaeology",
+          "Bidding",
+          "Biology",
+          "Business",
+          "Classical mechanics",
+          "Conservation Reserve Program",
+          "Distribution (mathematics)",
+          "Ecology",
+          "Economics",
+          "Engineering",
+          "Finance",
+          "Geography",
+          "Greenhouse",
+          "Management",
+          "Marketing",
+          "Mathematical analysis",
+          "Mathematics",
+          "Mechanical engineering",
+          "Moment (physics)",
+          "Natural resource economics",
+          "Nature Conservation",
+          "Nature reserve",
+          "Net income",
+          "Physics",
+          "Task (project management)",
+          "Work (physics)"
+        ],
+        "host_venues": [
+          "Acta horticulturae",
+          "Agricultural Systems",
+          "American Journal of Agricultural Economics",
+          "International Journal of Industrial Organization",
+          "Journal of Agricultural and Applied Economics",
+          "Journal of sustainable agriculture",
+          "Land Economics",
+          "Precision Agriculture"
+        ],
+        "color": "#6F7D1C",
+        "size": 10
+      }
+    },
+    {
+      "key": "hoanjaepark",
+      "attributes": {
+        "label": "H Park",
+        "name": "Hoanjae Park",
+        "known?": false,
+        "orcid?": null,
+        "ncsu?": false,
+        "affiliations": [
+          "California State University at Fresno, Fresno, CA, USA; Catholic University of Daegu, International Trade, Gyeongsan-si, Republic of Korea"
+        ],
+        "countries": [
+
+        ],
+        "color": "#BFBFBD",
+        "size": 10
+      }
+    },
+    {
+      "key": "randalrrucker",
+      "attributes": {
+        "label": "R Rucker",
+        "name": "Randal R. Rucker",
+        "known?": false,
+        "orcid?": null,
+        "ncsu?": false,
+        "affiliations": [
+          "Montana State University"
+        ],
+        "countries": [
+          "US"
+        ],
+        "color": "#BFBFBD",
+        "size": 10
+      }
+    },
+    {
+      "key": "shuli",
+      "attributes": {
+        "label": "S Li",
+        "name": "Shu Li",
+        "known?": false,
+        "orcid?": null,
+        "ncsu?": null,
+        "affiliations": null,
+        "countries": null,
+        "color": "#BFBFBD",
+        "size": 10
+      }
+    },
+    {
+      "key": "chrismoore",
+      "attributes": {
+        "label": "C Moore",
+        "name": "Chris Moore",
+        "known?": false,
+        "orcid?": null,
+        "ncsu?": false,
+        "affiliations": [
+          "Environmental Protection Agency"
+        ],
+        "countries": [
+          "GH"
+        ],
+        "color": "#BFBFBD",
+        "size": 10
+      }
+    },
+    {
+      "key": "uid-phaneuf",
+      "attributes": {
+        "label": "D Phaneuf",
+        "name": "Daniel J. Phaneuf",
+        "known?": true,
+        "orcid?": false,
+        "ncsu?": true,
+        "affiliations": [
+          "North Carolina State University"
+        ],
+        "countries": [
+          "US"
+        ],
+        "uid": "phaneuf",
+        "url": "https://ci.lib.ncsu.edu/profiles/phaneuf",
+        "active?": false,
+        "department": "Agricultural & Resource Economics",
+        "college": "College of Agriculture and Life Sciences",
+        "ncsu_affiliations": [
+          "Agricultural & Resource Economics"
+        ],
+        "cluster?": false,
+        "clusters": [
+
+        ],
+        "role": null,
+        "building": null,
+        "count": 25,
+        "oa_count": 6,
+        "years": [
+          2020,
+          2011,
+          2010,
+          2009,
+          2008,
+          2006,
+          2004,
+          2003,
+          2002,
+          2000,
+          1999,
+          1998
+        ],
+        "year_recent": 2020,
+        "article_concepts": [
+          "Biology",
+          "Complementarity (molecular biology)",
+          "Computer science",
+          "Context (archaeology)",
+          "Convergent validity",
+          "Ecology",
+          "Econometrics",
+          "Economics",
+          "Engineering",
+          "Epistemology",
+          "Estimation",
+          "Finance",
+          "Focus (optics)",
+          "Genetics",
+          "Internal consistency",
+          "Law",
+          "Leisure time",
+          "Machine learning",
+          "Management",
+          "Marginal utility",
+          "Marginal value",
+          "Market economy",
+          "Mathematical economics",
+          "Mathematical optimization",
+          "Mathematics",
+          "Medicine",
+          "Microeconomics",
+          "Optics",
+          "Paleontology",
+          "Parallel computing",
+          "Philosophy",
+          "Physical activity",
+          "Physical medicine and rehabilitation",
+          "Physics",
+          "Political science",
+          "Preference",
+          "Psychometrics",
+          "Quality (philosophy)",
+          "Recreation",
+          "Revealed preference",
+          "Shadow price",
+          "Statistics",
+          "TRIPS architecture",
+          "Time allocation",
+          "Time value of money",
+          "Transport engineering",
+          "Travel time",
+          "Valuation (finance)",
+          "Value (mathematics)",
+          "Value of time",
+          "Welfare",
+          "Willingness to pay"
+        ],
+        "host_venues": [
+          "American Journal of Agricultural Economics",
+          "Ecological Economics",
+          "Economics Letters",
+          "Environmental and Resource Economics",
+          "Journal of Agricultural Economics",
+          "Journal of Econometrics",
+          "Journal of Environmental Economics and Management",
+          "Journal of Environmental Management",
+          "Land Economics",
+          "Marine Resource Economics",
+          "Review of Environmental Economics and Policy",
+          "The Review of Economics and Statistics",
+          "Water Resources Research"
+        ],
+        "color": "#6F7D1C",
+        "size": 10
+      }
+    },
+    {
+      "key": "https://orcid.org/0000-0003-3839-6824",
+      "attributes": {
+        "label": "D Sumner",
+        "name": "Daniel A. Sumner",
+        "known?": false,
+        "orcid?": null,
+        "ncsu?": false,
+        "affiliations": [
+          "University of California Agricultural Issues Center, Davis 95616"
+        ],
+        "countries": [
+
+        ],
+        "color": "#BFBFBD",
+        "size": 10
+      }
+    },
+    {
+      "key": "hamishrgow",
+      "attributes": {
+        "label": "H Gow",
+        "name": "Hamish R. Gow",
+        "known?": false,
+        "orcid?": null,
+        "ncsu?": false,
+        "affiliations": [
+          "Massey University"
+        ],
+        "countries": [
+          "NZ"
+        ],
+        "color": "#BFBFBD",
+        "size": 10
+      }
+    },
+    {
+      "key": "https://orcid.org/0000-0002-6278-7238",
+      "attributes": {
+        "label": "D Hayes",
+        "name": "Dermot J. Hayes",
+        "known?": false,
+        "orcid?": null,
+        "ncsu?": false,
+        "affiliations": [
+          "Iowa State University"
+        ],
+        "countries": [
+          "US"
+        ],
+        "color": "#BFBFBD",
+        "size": 10
+      }
+    },
+    {
+      "key": "williamamatthews",
+      "attributes": {
+        "label": "W Matthews",
+        "name": "William A. Matthews",
+        "known?": false,
+        "orcid?": null,
+        "ncsu?": false,
+        "affiliations": [
+          "†University of California Agricultural Issues Center, Davis 95616"
+        ],
+        "countries": [
+
+        ],
+        "color": "#BFBFBD",
+        "size": 10
+      }
+    },
+    {
+      "key": "bfnorwood",
+      "attributes": {
+        "label": "B Norwood",
+        "name": "B. F. Norwood",
+        "known?": false,
+        "orcid?": null,
+        "ncsu?": false,
+        "affiliations": [
+          "Oklahoma State University"
+        ],
+        "countries": [
+          "US"
+        ],
+        "color": "#BFBFBD",
+        "size": 10
+      }
+    },
+    {
+      "key": "jtrosenmolina",
+      "attributes": {
+        "label": "J Rosen-Molina",
+        "name": "J. T. Rosen-Molina",
+        "known?": false,
+        "orcid?": null,
+        "ncsu?": false,
+        "affiliations": [
+          "†University of California Agricultural Issues Center, Davis 95616"
+        ],
+        "countries": [
+
+        ],
+        "color": "#BFBFBD",
+        "size": 10
+      }
+    },
+    {
+      "key": "crossrefmetadatasearch",
+      "attributes": {
+        "label": "C Search",
+        "name": "Crossref Metadata Search",
+        "known?": false,
+        "orcid?": null,
+        "ncsu?": null,
+        "affiliations": null,
+        "countries": null,
+        "color": "#BFBFBD",
+        "size": 10
+      }
+    },
+    {
+      "key": "https://orcid.org/0000-0001-7969-7506",
+      "attributes": {
+        "label": "B Karali",
+        "name": "Berna Karali",
+        "known?": false,
+        "orcid?": null,
+        "ncsu?": false,
+        "affiliations": [
+          "University of Georgia"
+        ],
+        "countries": [
+          "US"
+        ],
+        "color": "#BFBFBD",
+        "size": 10
+      }
+    },
+    {
+      "key": "https://orcid.org/0000-0001-9568-1248",
+      "attributes": {
+        "label": "J Dorfman",
+        "name": "Jeffrey H. Dorfman",
+        "known?": false,
+        "orcid?": null,
+        "ncsu?": false,
+        "affiliations": [
+          "University of Georgia"
+        ],
+        "countries": [
+          "US"
+        ],
+        "color": "#BFBFBD",
+        "size": 10
+      }
+    },
+    {
+      "key": "dcaron",
+      "attributes": {
+        "label": "D Caron",
+        "name": "D. Caron",
+        "known?": false,
+        "orcid?": null,
+        "ncsu?": null,
+        "affiliations": null,
+        "countries": null,
+        "color": "#BFBFBD",
+        "size": 10
+      }
+    },
+    {
+      "key": "mburgett",
+      "attributes": {
+        "label": "M Burgett",
+        "name": "M. Burgett",
+        "known?": false,
+        "orcid?": null,
+        "ncsu?": null,
+        "affiliations": null,
+        "countries": null,
+        "color": "#BFBFBD",
+        "size": 10
+      }
+    },
+    {
+      "key": "rrucker",
+      "attributes": {
+        "label": "R Rucker",
+        "name": "R. Rucker",
+        "known?": false,
+        "orcid?": null,
+        "ncsu?": null,
+        "affiliations": null,
+        "countries": null,
+        "color": "#BFBFBD",
+        "size": 10
+      }
+    },
+    {
+      "key": "sdaberkow",
+      "attributes": {
+        "label": "S Daberkow",
+        "name": "S. Daberkow",
+        "known?": false,
+        "orcid?": null,
+        "ncsu?": null,
+        "affiliations": null,
+        "countries": null,
+        "color": "#BFBFBD",
+        "size": 10
+      }
+    },
+    {
+      "key": "toddamcfall",
+      "attributes": {
+        "label": "T McFall",
+        "name": "Todd A. McFall",
+        "known?": false,
+        "orcid?": null,
+        "ncsu?": false,
+        "affiliations": [
+          "Welch Foundation"
+        ],
+        "countries": [
+          "US"
+        ],
+        "color": "#BFBFBD",
+        "size": 10
+      }
+    },
+    {
+      "key": "uid-knoeber",
+      "attributes": {
+        "label": "C Knoeber",
+        "name": "Charles Knoeber",
+        "known?": true,
+        "orcid?": false,
+        "ncsu?": true,
+        "affiliations": [
+          "North Carolina State University"
+        ],
+        "countries": [
+          "US"
+        ],
+        "uid": "knoeber",
+        "url": "https://ci.lib.ncsu.edu/profiles/knoeber",
+        "active?": true,
+        "department": "Economics",
+        "college": "Poole College of Management",
+        "ncsu_affiliations": [
+          "Economics"
+        ],
+        "cluster?": false,
+        "clusters": [
+
+        ],
+        "role": "faculty",
+        "building": "Nelson Hall",
+        "count": 12,
+        "oa_count": 0,
+        "years": [
+          2013,
+          2009,
+          2007,
+          2006,
+          2003,
+          2001,
+          1998,
+          1997,
+          1995,
+          1983
+        ],
+        "year_recent": 2013,
+        "article_concepts": [
+
+        ],
+        "host_venues": [
+          "American Journal of Agricultural Economics",
+          "Economic Theory",
+          "International Journal of Industrial Organization",
+          "Journal of Corporate Finance",
+          "Journal of Economics",
+          "Journal of Financial Economics",
+          "Journal of Financial and Quantitative Analysis",
+          "Journal of Sports Economics",
+          "Public Choice",
+          "The Journal of Law and Economics"
+        ],
+        "color": "#273434",
+        "size": 10
+      }
+    },
+    {
+      "key": "charlesrknoeber",
+      "attributes": {
+        "label": "C Knoeber",
+        "name": "Charles R. Knoeber",
+        "known?": false,
+        "orcid?": null,
+        "ncsu?": true,
+        "affiliations": [
+          "North Carolina State University"
+        ],
+        "countries": [
+          "US"
+        ],
+        "color": "#000000",
+        "size": 10
+      }
+    },
+    {
+      "key": "jeffreydorfman",
+      "attributes": {
+        "label": "J Dorfman",
+        "name": "Jeffrey Dorfman",
+        "known?": false,
+        "orcid?": null,
+        "ncsu?": false,
+        "affiliations": [
+
+        ],
+        "countries": [
+
+        ],
+        "color": "#BFBFBD",
+        "size": 10
+      }
+    },
+    {
+      "key": "eriklichtenberg",
+      "attributes": {
+        "label": "E Lichtenberg",
+        "name": "Erik Lichtenberg",
+        "known?": false,
+        "orcid?": null,
+        "ncsu?": false,
+        "affiliations": [
+
+        ],
+        "countries": [
+
+        ],
+        "color": "#BFBFBD",
+        "size": 10
+      }
+    },
+    {
+      "key": "paulpreckel",
+      "attributes": {
+        "label": "P Preckel",
+        "name": "Paul Preckel",
+        "known?": false,
+        "orcid?": null,
+        "ncsu?": false,
+        "affiliations": [
+
+        ],
+        "countries": [
+
+        ],
+        "color": "#BFBFBD",
+        "size": 10
+      }
+    },
+    {
+      "key": "uid-abbrown",
+      "attributes": {
+        "label": "A Brown",
+        "name": "A. Brown",
+        "known?": true,
+        "orcid?": false,
+        "ncsu?": true,
+        "affiliations": [
+          "North Carolina State University"
+        ],
+        "countries": [
+          "US"
+        ],
+        "uid": "abbrown",
+        "url": "https://ci.lib.ncsu.edu/profiles/abbrown",
+        "active?": true,
+        "department": "Agricultural & Resource Economics",
+        "college": "College of Agriculture and Life Sciences",
+        "ncsu_affiliations": [
+          "Agricultural & Resource Economics"
+        ],
+        "cluster?": false,
+        "clusters": [
+
+        ],
+        "role": "faculty",
+        "building": "Nelson Hall",
+        "count": 12,
+        "oa_count": 3,
+        "years": [
+          2020,
+          2019,
+          2018,
+          2007,
+          2002,
+          2001,
+          1999,
+          1998,
+          1995
+        ],
+        "year_recent": 2020,
+        "article_concepts": [
+          "Activated clotting time",
+          "Agricultural economics",
+          "Agricultural engineering",
+          "Agriculture",
+          "Agronomy",
+          "Anesthesia",
+          "Archaeology",
+          "Biochemistry",
+          "Biology",
+          "Biotechnology",
+          "Business",
+          "Capital (architecture)",
+          "Cardiopulmonary bypass",
+          "Chemistry",
+          "Cryoprecipitate",
+          "Cultivation of tobacco",
+          "Curing of tobacco",
+          "Econometrics",
+          "Economic growth",
+          "Economics",
+          "Engineering",
+          "Environmental health",
+          "Environmental science",
+          "Ex vivo",
+          "Face (sociological concept)",
+          "Fibrin",
+          "Fibrinogen",
+          "Gene",
+          "Geography",
+          "Hemostasis",
+          "History",
+          "Horticulture",
+          "Immunology",
+          "In vivo",
+          "Internal medicine",
+          "Law",
+          "Macroeconomics",
+          "Marginal cost",
+          "Materials science",
+          "Mechanical engineering",
+          "Medicine",
+          "Metallurgy",
+          "Microeconomics",
+          "Nicotiana tabacum",
+          "Nitrogen",
+          "Organic chemistry",
+          "Political science",
+          "Politics",
+          "Population",
+          "Production (economics)",
+          "Short run",
+          "Social science",
+          "Sociology",
+          "Sowing",
+          "Stalk",
+          "Stock (firearms)",
+          "Surgery",
+          "Thromboelastometry",
+          "Tobacco industry",
+          "Tobacco leaf",
+          "Tobacco use",
+          "Toxicology",
+          "Transplanting",
+          "Whole blood",
+          "Yield (engineering)"
+        ],
+        "host_venues": [
+          "Agricultural Economics",
+          "Agronomy Journal",
+          "American Journal of Agricultural Economics",
+          "Applied Economic Perspectives and Policy",
+          "Applied Economics",
+          "Crop, forage & turfgrass management",
+          "Journal of Agricultural Economics",
+          "Journal of Agricultural and Applied Economics",
+          "Journal of Thrombosis and Haemostasis"
+        ],
+        "color": "#6F7D1C",
+        "size": 10
+      }
+    },
+    {
+      "key": "https://orcid.org/0000-0002-9049-9591",
+      "attributes": {
+        "label": "J Yoder",
+        "name": "Jonathan K. Yoder",
+        "known?": false,
+        "orcid?": null,
+        "ncsu?": false,
+        "affiliations": [
+          "Washington State University"
+        ],
+        "countries": [
+          "US"
+        ],
+        "color": "#BFBFBD",
+        "size": 10
+      }
+    },
+    {
+      "key": "briancmurray",
+      "attributes": {
+        "label": "B Murray",
+        "name": "Brian C. Murray",
+        "known?": false,
+        "orcid?": null,
+        "ncsu?": false,
+        "affiliations": [
+          "RTI International"
+        ],
+        "countries": [
+          "US"
+        ],
+        "color": "#BFBFBD",
+        "size": 10
+      }
+    },
+    {
+      "key": "andrewgkeeler",
+      "attributes": {
+        "label": "A Keeler",
+        "name": "Andrew G. Keeler",
+        "known?": false,
+        "orcid?": null,
+        "ncsu?": false,
+        "affiliations": [
+          "The Ohio State University"
+        ],
+        "countries": [
+          "US"
+        ],
+        "color": "#BFBFBD",
+        "size": 10
+      }
+    },
+    {
+      "key": "jeeasley",
+      "attributes": {
+        "label": "J Easley,",
+        "name": "J.E. Easley",
+        "known?": false,
+        "orcid?": null,
+        "ncsu?": false,
+        "affiliations": [
+
+        ],
+        "countries": [
+
+        ],
+        "color": "#BFBFBD",
+        "size": 10
+      }
+    },
+    {
+      "key": "uid-mkmuth",
+      "attributes": {
+        "label": "M Muth",
+        "name": "Mary Muth",
+        "known?": true,
+        "orcid?": false,
+        "ncsu?": true,
+        "affiliations": [
+          "North Carolina State University"
+        ],
+        "countries": [
+          "US"
+        ],
+        "uid": "mkmuth",
+        "url": "https://ci.lib.ncsu.edu/profiles/mkmuth",
+        "active?": false,
+        "department": "Economics",
+        "college": "Poole College of Management",
+        "ncsu_affiliations": [
+          "Economics",
+          "Agricultural & Resource Economics"
+        ],
+        "cluster?": false,
+        "clusters": [
+
+        ],
+        "role": "faculty",
+        "building": null,
+        "count": 14,
+        "oa_count": 3,
+        "years": [
+          2020,
+          2007,
+          2003,
+          2002,
+          1999,
+          1995
+        ],
+        "year_recent": 2020,
+        "article_concepts": [
+          "Art",
+          "Biology",
+          "Botany",
+          "Fable",
+          "Honey Bees",
+          "Literature"
+        ],
+        "host_venues": [
+          "American Journal of Agricultural Economics",
+          "Applied Economic Perspectives and Policy",
+          "Elsevier eBooks",
+          "The Journal of Law and Economics"
+        ],
+        "color": "#273434",
+        "size": 10
+      }
+    },
+    {
+      "key": "chingtachuang",
+      "attributes": {
+        "label": "C Chuang",
+        "name": "Ching-Ta Chuang",
+        "known?": false,
+        "orcid?": null,
+        "ncsu?": false,
+        "affiliations": [
+
+        ],
+        "countries": [
+
+        ],
+        "color": "#BFBFBD",
+        "size": 10
+      }
+    },
+    {
+      "key": "ablakebrown",
+      "attributes": {
+        "label": "A Brown",
+        "name": "A.Blake Brown",
+        "known?": false,
+        "orcid?": null,
+        "ncsu?": null,
+        "affiliations": null,
+        "countries": null,
+        "color": "#BFBFBD",
+        "size": 10
+      }
+    },
+    {
+      "key": "janchvosta",
+      "attributes": {
+        "label": "J Chvosta",
+        "name": "Jan Chvosta",
+        "known?": false,
+        "orcid?": null,
+        "ncsu?": null,
+        "affiliations": null,
+        "countries": null,
+        "color": "#BFBFBD",
+        "size": 10
+      }
+    },
+    {
+      "key": "tylerjfox",
+      "attributes": {
+        "label": "E Fox",
+        "name": "Tyler J. Fox",
+        "known?": false,
+        "orcid?": null,
+        "ncsu?": false,
+        "affiliations": [
+          "RTI International"
+        ],
+        "countries": [
+          "US"
+        ],
+        "color": "#BFBFBD",
+        "size": 10
+      }
+    },
+    {
+      "key": "taylerhbingham",
+      "attributes": {
+        "label": "T Bingham",
+        "name": "Tayler H. Bingham",
+        "known?": false,
+        "orcid?": null,
+        "ncsu?": false,
+        "affiliations": [
+          "RTI International"
+        ],
+        "countries": [
+          "US"
+        ],
+        "color": "#BFBFBD",
+        "size": 10
+      }
+    },
+    {
+      "key": "jonathonkyoder",
+      "attributes": {
+        "label": "J Yoder",
+        "name": "Jonathon K. Yoder",
+        "known?": false,
+        "orcid?": null,
+        "ncsu?": null,
+        "affiliations": null,
+        "countries": null,
+        "color": "#BFBFBD",
+        "size": 10
+      }
+    },
+    {
+      "key": "francisgscrimgeour",
+      "attributes": {
+        "label": "F Scrimgeour",
+        "name": "Francis G. Scrimgeour",
+        "known?": false,
+        "orcid?": null,
+        "ncsu?": null,
+        "affiliations": null,
+        "countries": null,
+        "color": "#BFBFBD",
+        "size": 10
+      }
+    },
+    {
+      "key": "marykmuth",
+      "attributes": {
+        "label": "M Muth",
+        "name": "Mary K. Muth",
+        "known?": false,
+        "orcid?": null,
+        "ncsu?": null,
+        "affiliations": null,
+        "countries": null,
+        "color": "#BFBFBD",
+        "size": 10
+      }
+    },
+    {
+      "key": "rborges",
+      "attributes": {
+        "label": "R Borges",
+        "name": "R. Borges",
+        "known?": false,
+        "orcid?": null,
+        "ncsu?": false,
+        "affiliations": [
+          "Kansas State University"
+        ],
+        "countries": [
+          "US"
+        ],
+        "color": "#BFBFBD",
+        "size": 10
+      }
+    },
+    {
+      "key": "rodneyrobenstein",
+      "attributes": {
+        "label": "R Robenstein",
+        "name": "Rodney Robenstein",
+        "known?": false,
+        "orcid?": null,
+        "ncsu?": null,
+        "affiliations": null,
+        "countries": null,
+        "color": "#BFBFBD",
+        "size": 10
+      }
+    },
+    {
+      "key": "u-2655",
+      "attributes": {
+        "label": "R Morales",
+        "name": "Roberta A. Morales",
+        "known?": true,
+        "orcid?": false,
+        "ncsu?": true,
+        "affiliations": [
+          "North Carolina State University"
+        ],
+        "countries": [
+          "US"
+        ],
+        "url": "https://ci.lib.ncsu.edu/profiles/2655",
+        "active?": false,
+        "department": "Agricultural & Resource Economics",
+        "college": "College of Agriculture and Life Sciences",
+        "ncsu_affiliations": [
+          "Agricultural & Resource Economics"
+        ],
+        "cluster?": false,
+        "clusters": [
+
+        ],
+        "role": null,
+        "building": null,
+        "count": 5,
+        "oa_count": 1,
+        "years": [
+          2007,
+          2000,
+          1997,
+          1993,
+          1988
+        ],
+        "year_recent": 2007,
+        "article_concepts": [
+          "Bacteria",
+          "Biology",
+          "Campylobacter",
+          "Ecology",
+          "Econometrics",
+          "Environmental science",
+          "Genetics",
+          "Hazard",
+          "Logistic regression",
+          "Markov chain Monte Carlo",
+          "Mathematics",
+          "Monte Carlo method",
+          "Statistics",
+          "Uncertainty analysis"
+        ],
+        "host_venues": [
+          "Journal of Food Protection",
+          "Preventive Veterinary Medicine",
+          "Revue Scientifique Et Technique De L Office International Des Epizooties"
+        ],
+        "color": "#6F7D1C",
+        "size": 10
+      }
+    },
+    {
+      "key": "robertbborges",
+      "attributes": {
+        "label": "R Borges",
+        "name": "Robert B. Borges",
+        "known?": false,
+        "orcid?": null,
+        "ncsu?": null,
+        "affiliations": null,
+        "countries": null,
+        "color": "#BFBFBD",
+        "size": 10
+      }
+    },
+    {
+      "key": "robertamorales",
+      "attributes": {
+        "label": "R Morales",
+        "name": "Roberta Morales",
+        "known?": false,
+        "orcid?": null,
+        "ncsu?": null,
+        "affiliations": null,
+        "countries": null,
+        "color": "#BFBFBD",
+        "size": 10
+      }
+    },
+    {
+      "key": "miguelamartinez",
+      "attributes": {
+        "label": "M Martinez",
+        "name": "Miguel A. Martinez",
+        "known?": false,
+        "orcid?": null,
+        "ncsu?": null,
+        "affiliations": null,
+        "countries": null,
+        "color": "#BFBFBD",
+        "size": 10
+      }
+    },
+    {
+      "key": "michaelkwohlgenant",
+      "attributes": {
+        "label": "M Wohlgenant",
+        "name": "Michael K. Wohlgenant",
+        "known?": false,
+        "orcid?": null,
+        "ncsu?": true,
+        "affiliations": [
+          "North Carolina State University"
+        ],
+        "countries": [
+          "US"
+        ],
+        "color": "#000000",
+        "size": 10
+      }
+    },
+    {
+      "key": "douglasfisher",
+      "attributes": {
+        "label": "D Fisher",
+        "name": "Douglas Fisher",
+        "known?": false,
+        "orcid?": null,
+        "ncsu?": true,
+        "affiliations": [
+          "North Carolina State University"
+        ],
+        "countries": [
+          "US"
+        ],
+        "color": "#000000",
+        "size": 10
+      }
+    },
+    {
+      "key": "markfisher",
+      "attributes": {
+        "label": "M Fisher",
+        "name": "Mark Fisher",
+        "known?": false,
+        "orcid?": null,
+        "ncsu?": true,
+        "affiliations": [
+          "North Carolina State University"
+        ],
+        "countries": [
+          "US"
+        ],
+        "color": "#000000",
+        "size": 10
+      }
+    },
+    {
+      "key": "salihahakeem",
+      "attributes": {
+        "label": "S Hakeem",
+        "name": "Salih A. Hakeem",
+        "known?": false,
+        "orcid?": null,
+        "ncsu?": null,
+        "affiliations": null,
+        "countries": null,
+        "color": "#BFBFBD",
+        "size": 10
+      }
+    },
+    {
+      "key": "jamesestandaert",
+      "attributes": {
+        "label": "J Standaert",
+        "name": "James E. Standaert",
+        "known?": false,
+        "orcid?": null,
+        "ncsu?": null,
+        "affiliations": null,
+        "countries": null,
+        "color": "#BFBFBD",
+        "size": 10
+      }
+    },
+    {
+      "key": "gtilley",
+      "attributes": {
+        "label": "G Tilley",
+        "name": "G. Tilley",
+        "known?": false,
+        "orcid?": null,
+        "ncsu?": null,
+        "affiliations": null,
+        "countries": null,
+        "color": "#BFBFBD",
+        "size": 10
+      }
+    },
+    {
+      "key": "jhodge",
+      "attributes": {
+        "label": "J Hodge",
+        "name": "J. Hodge",
+        "known?": false,
+        "orcid?": null,
+        "ncsu?": null,
+        "affiliations": null,
+        "countries": null,
+        "color": "#BFBFBD",
+        "size": 10
+      }
+    },
+    {
+      "key": "joehmke",
+      "attributes": {
+        "label": "J Oehmke",
+        "name": "J. Oehmke",
+        "known?": false,
+        "orcid?": null,
+        "ncsu?": null,
+        "affiliations": null,
+        "countries": null,
+        "color": "#BFBFBD",
+        "size": 10
+      }
+    },
+    {
+      "key": "johnbaden",
+      "attributes": {
+        "label": "J BADEN",
+        "name": "John Baden",
+        "known?": false,
+        "orcid?": null,
+        "ncsu?": false,
+        "affiliations": [
+
+        ],
+        "countries": [
+
+        ],
+        "color": "#BFBFBD",
+        "size": 10
+      }
+    },
+    {
+      "key": "richardstroup",
+      "attributes": {
+        "label": "R STROUP",
+        "name": "Richard Stroup",
+        "known?": false,
+        "orcid?": null,
+        "ncsu?": false,
+        "affiliations": [
+
+        ],
+        "countries": [
+
+        ],
+        "color": "#BFBFBD",
+        "size": 10
+      }
+    }
+  ],
+  "edges": [
+    {
+      "source": "uid-wthurman",
+      "target": "u-14418",
+      "attributes": {
+        "label": 3,
+        "weight": 3,
+        "collaboration_count": 3,
+        "departments": "Economics == Economics",
+        "colleges": "Poole College of Management == Poole College of Management",
+        "buildings": "Nelson Hall --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          2019,
+          2004,
+          1990
+        ],
+        "year_recent": 2019,
+        "dois": [
+          "10.1086/704360",
+          "10.1086/467215"
+        ],
+        "ncsu?": true,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          "Journal of the Association of Environmental and Resource Economists"
+        ],
+        "color": "#CC0000",
+        "size": 3
+      }
+    },
+    {
+      "source": "uid-wthurman",
+      "target": "https://orcid.org/0000-0001-9755-3784",
+      "attributes": {
+        "label": 4,
+        "weight": 4,
+        "collaboration_count": 4,
+        "departments": "Economics --- unknown",
+        "colleges": "Poole College of Management --- unknown",
+        "buildings": "Nelson Hall --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          2019,
+          2012,
+          2009,
+          2002
+        ],
+        "year_recent": 2019,
+        "dois": [
+          "10.1086/704360",
+          "10.1093/ajae/aas031"
+        ],
+        "ncsu?": false,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          "Journal of the Association of Environmental and Resource Economists"
+        ],
+        "color": "#000000",
+        "size": 4
+      }
+    },
+    {
+      "source": "uid-wthurman",
+      "target": "dominicpparker",
+      "attributes": {
+        "label": 5,
+        "weight": 5,
+        "collaboration_count": 5,
+        "departments": "Economics --- unknown",
+        "colleges": "Poole College of Management --- unknown",
+        "buildings": "Nelson Hall --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          2019,
+          2018,
+          2013,
+          2004,
+          1991
+        ],
+        "year_recent": 2019,
+        "dois": [
+          "10.1146/annurev-resource-100518-094121",
+          "10.1086/695615",
+          "10.1016/b978-0-12-375067-9.00053-x"
+        ],
+        "ncsu?": false,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          "Annual Review of Resource Economics"
+        ],
+        "color": "#000000",
+        "size": 5
+      }
+    },
+    {
+      "source": "uid-wthurman",
+      "target": "bkarali",
+      "attributes": {
+        "label": 2,
+        "weight": 2,
+        "collaboration_count": 2,
+        "departments": "Economics --- unknown",
+        "colleges": "Poole College of Management --- unknown",
+        "buildings": "Nelson Hall --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          2018,
+          2010
+        ],
+        "year_recent": 2018,
+        "dois": [
+
+        ],
+        "ncsu?": null,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          null
+        ],
+        "color": "#000000",
+        "size": 2
+      }
+    },
+    {
+      "source": "uid-wthurman",
+      "target": "kmcnew",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Economics --- unknown",
+        "colleges": "Poole College of Management --- unknown",
+        "buildings": "Nelson Hall --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          2018
+        ],
+        "year_recent": 2018,
+        "dois": [
+
+        ],
+        "ncsu?": null,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          null
+        ],
+        "color": "#000000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-wthurman",
+      "target": "yehushuashayfatal",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Economics --- unknown",
+        "colleges": "Poole College of Management --- unknown",
+        "buildings": "Nelson Hall --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          2014
+        ],
+        "year_recent": 2014,
+        "dois": [
+          "10.1017/s1074070800000717"
+        ],
+        "ncsu?": false,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          "Ethanol fuel",
+          "Corn ethanol",
+          "Agricultural economics",
+          "Agronomy",
+          "Production (economics)",
+          "Environmental science",
+          "Zea mays",
+          "Agricultural science",
+          "Biofuel",
+          "Economics",
+          "Biology",
+          "Biotechnology",
+          "Macroeconomics"
+        ],
+        "host_venues": [
+          "Journal of Agricultural and Applied Economics"
+        ],
+        "color": "#000000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-wthurman",
+      "target": "https://orcid.org/0000-0001-8810-2674",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Economics --- unknown",
+        "colleges": "Poole College of Management --- unknown",
+        "buildings": "Nelson Hall --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          2014
+        ],
+        "year_recent": 2014,
+        "dois": [
+          "10.3368/le.90.1.1"
+        ],
+        "ncsu?": false,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          "Bidding",
+          "Conservation Reserve Program",
+          "Business",
+          "Nature reserve",
+          "Nature Conservation",
+          "Natural resource economics",
+          "Economics",
+          "Geography",
+          "Ecology",
+          "Marketing",
+          "Biology",
+          "Archaeology",
+          "Agriculture"
+        ],
+        "host_venues": [
+          "Land Economics"
+        ],
+        "color": "#000000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-wthurman",
+      "target": "uid-marra",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Agricultural & Resource Economics -- Economics",
+        "colleges": "College of Agriculture and Life Sciences -- Poole College of Management",
+        "buildings": "Nelson Hall == Nelson Hall",
+        "roles": "faculty == faculty",
+        "years": [
+          2014
+        ],
+        "year_recent": 2014,
+        "dois": [
+          "10.3368/le.90.1.1"
+        ],
+        "ncsu?": true,
+        "cross_college?": true,
+        "cross_department?": true,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          "Bidding",
+          "Conservation Reserve Program",
+          "Business",
+          "Nature reserve",
+          "Nature Conservation",
+          "Natural resource economics",
+          "Economics",
+          "Geography",
+          "Ecology",
+          "Marketing",
+          "Biology",
+          "Archaeology",
+          "Agriculture"
+        ],
+        "host_venues": [
+          "Land Economics"
+        ],
+        "color": "#FAC800",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-wthurman",
+      "target": "hoanjaepark",
+      "attributes": {
+        "label": 3,
+        "weight": 3,
+        "collaboration_count": 3,
+        "departments": "Economics --- unknown",
+        "colleges": "Poole College of Management --- unknown",
+        "buildings": "Nelson Hall --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          2013,
+          2004,
+          1999
+        ],
+        "year_recent": 2013,
+        "dois": [
+          "10.1080/00036846.2013.788784",
+          "10.1086/MRE.19.3.42629438",
+          "10.2307/1244337"
+        ],
+        "ncsu?": false,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          "Applied Economics"
+        ],
+        "color": "#000000",
+        "size": 3
+      }
+    },
+    {
+      "source": "uid-wthurman",
+      "target": "randalrrucker",
+      "attributes": {
+        "label": 15,
+        "weight": 15,
+        "collaboration_count": 15,
+        "departments": "Economics --- unknown",
+        "colleges": "Poole College of Management --- unknown",
+        "buildings": "Nelson Hall --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          2012,
+          2009,
+          2007,
+          2005,
+          2005,
+          2003,
+          2002,
+          2001,
+          2001,
+          2001,
+          1999,
+          1996,
+          1995,
+          1991,
+          1990
+        ],
+        "year_recent": 2012,
+        "dois": [
+          "10.1093/ajae/aas031",
+          "10.1111/j.1467-9353.2007.00378.x",
+          "10.1111/j.1467-8276.2005.00736.x",
+          "10.1086/377290",
+          "10.1086/261979"
+        ],
+        "ncsu?": false,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          "American Journal of Agricultural Economics"
+        ],
+        "color": "#000000",
+        "size": 15
+      }
+    },
+    {
+      "source": "uid-wthurman",
+      "target": "shuli",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Economics --- unknown",
+        "colleges": "Poole College of Management --- unknown",
+        "buildings": "Nelson Hall --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          2012
+        ],
+        "year_recent": 2012,
+        "dois": [
+
+        ],
+        "ncsu?": null,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          null
+        ],
+        "color": "#000000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-wthurman",
+      "target": "chrismoore",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Economics --- unknown",
+        "colleges": "Poole College of Management --- unknown",
+        "buildings": "Nelson Hall --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          2011
+        ],
+        "year_recent": 2011,
+        "dois": [
+          "10.1007/s10640-011-9457-y"
+        ],
+        "ncsu?": false,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          "Environmental and Resource Economics"
+        ],
+        "color": "#000000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-wthurman",
+      "target": "uid-phaneuf",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Agricultural & Resource Economics -- Economics",
+        "colleges": "College of Agriculture and Life Sciences -- Poole College of Management",
+        "buildings": "Nelson Hall --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          2011
+        ],
+        "year_recent": 2011,
+        "dois": [
+          "10.1007/s10640-011-9457-y"
+        ],
+        "ncsu?": true,
+        "cross_college?": true,
+        "cross_department?": true,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          "Environmental and Resource Economics"
+        ],
+        "color": "#FAC800",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-wthurman",
+      "target": "https://orcid.org/0000-0003-3839-6824",
+      "attributes": {
+        "label": 3,
+        "weight": 3,
+        "collaboration_count": 3,
+        "departments": "Economics --- unknown",
+        "colleges": "Poole College of Management --- unknown",
+        "buildings": "Nelson Hall --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          2011,
+          1995,
+          1990
+        ],
+        "year_recent": 2011,
+        "dois": [
+          "10.3382/ps.2010-00822",
+          "10.1086/261979"
+        ],
+        "ncsu?": false,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          "Production (economics)",
+          "Consumption (sociology)",
+          "Business",
+          "Investment (military)",
+          "Capital investment",
+          "Agricultural economics",
+          "Sustainability",
+          "Economics",
+          "Agricultural science",
+          "Finance",
+          "Microeconomics",
+          "Ecology",
+          "Social science",
+          "Environmental science",
+          "Sociology",
+          "Politics",
+          "Political science",
+          "Law",
+          "Biology"
+        ],
+        "host_venues": [
+          "Poultry Science"
+        ],
+        "color": "#000000",
+        "size": 3
+      }
+    },
+    {
+      "source": "uid-wthurman",
+      "target": "hamishrgow",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Economics --- unknown",
+        "colleges": "Poole College of Management --- unknown",
+        "buildings": "Nelson Hall --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          2011
+        ],
+        "year_recent": 2011,
+        "dois": [
+          "10.3382/ps.2010-00822"
+        ],
+        "ncsu?": false,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          "Production (economics)",
+          "Consumption (sociology)",
+          "Business",
+          "Investment (military)",
+          "Capital investment",
+          "Agricultural economics",
+          "Sustainability",
+          "Economics",
+          "Agricultural science",
+          "Finance",
+          "Microeconomics",
+          "Ecology",
+          "Social science",
+          "Environmental science",
+          "Sociology",
+          "Politics",
+          "Political science",
+          "Law",
+          "Biology"
+        ],
+        "host_venues": [
+          "Poultry Science"
+        ],
+        "color": "#000000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-wthurman",
+      "target": "https://orcid.org/0000-0002-6278-7238",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Economics --- unknown",
+        "colleges": "Poole College of Management --- unknown",
+        "buildings": "Nelson Hall --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          2011
+        ],
+        "year_recent": 2011,
+        "dois": [
+          "10.3382/ps.2010-00822"
+        ],
+        "ncsu?": false,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          "Production (economics)",
+          "Consumption (sociology)",
+          "Business",
+          "Investment (military)",
+          "Capital investment",
+          "Agricultural economics",
+          "Sustainability",
+          "Economics",
+          "Agricultural science",
+          "Finance",
+          "Microeconomics",
+          "Ecology",
+          "Social science",
+          "Environmental science",
+          "Sociology",
+          "Politics",
+          "Political science",
+          "Law",
+          "Biology"
+        ],
+        "host_venues": [
+          "Poultry Science"
+        ],
+        "color": "#000000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-wthurman",
+      "target": "williamamatthews",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Economics --- unknown",
+        "colleges": "Poole College of Management --- unknown",
+        "buildings": "Nelson Hall --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          2011
+        ],
+        "year_recent": 2011,
+        "dois": [
+          "10.3382/ps.2010-00822"
+        ],
+        "ncsu?": false,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          "Production (economics)",
+          "Consumption (sociology)",
+          "Business",
+          "Investment (military)",
+          "Capital investment",
+          "Agricultural economics",
+          "Sustainability",
+          "Economics",
+          "Agricultural science",
+          "Finance",
+          "Microeconomics",
+          "Ecology",
+          "Social science",
+          "Environmental science",
+          "Sociology",
+          "Politics",
+          "Political science",
+          "Law",
+          "Biology"
+        ],
+        "host_venues": [
+          "Poultry Science"
+        ],
+        "color": "#000000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-wthurman",
+      "target": "bfnorwood",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Economics --- unknown",
+        "colleges": "Poole College of Management --- unknown",
+        "buildings": "Nelson Hall --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          2011
+        ],
+        "year_recent": 2011,
+        "dois": [
+          "10.3382/ps.2010-00822"
+        ],
+        "ncsu?": false,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          "Production (economics)",
+          "Consumption (sociology)",
+          "Business",
+          "Investment (military)",
+          "Capital investment",
+          "Agricultural economics",
+          "Sustainability",
+          "Economics",
+          "Agricultural science",
+          "Finance",
+          "Microeconomics",
+          "Ecology",
+          "Social science",
+          "Environmental science",
+          "Sociology",
+          "Politics",
+          "Political science",
+          "Law",
+          "Biology"
+        ],
+        "host_venues": [
+          "Poultry Science"
+        ],
+        "color": "#000000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-wthurman",
+      "target": "jtrosenmolina",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Economics --- unknown",
+        "colleges": "Poole College of Management --- unknown",
+        "buildings": "Nelson Hall --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          2011
+        ],
+        "year_recent": 2011,
+        "dois": [
+          "10.3382/ps.2010-00822"
+        ],
+        "ncsu?": false,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          "Production (economics)",
+          "Consumption (sociology)",
+          "Business",
+          "Investment (military)",
+          "Capital investment",
+          "Agricultural economics",
+          "Sustainability",
+          "Economics",
+          "Agricultural science",
+          "Finance",
+          "Microeconomics",
+          "Ecology",
+          "Social science",
+          "Environmental science",
+          "Sociology",
+          "Politics",
+          "Political science",
+          "Law",
+          "Biology"
+        ],
+        "host_venues": [
+          "Poultry Science"
+        ],
+        "color": "#000000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-wthurman",
+      "target": "crossrefmetadatasearch",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Economics --- unknown",
+        "colleges": "Poole College of Management --- unknown",
+        "buildings": "Nelson Hall --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          2011
+        ],
+        "year_recent": 2011,
+        "dois": [
+          "10.1093/ajae/aaq188"
+        ],
+        "ncsu?": null,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          "American Journal of Agricultural Economics"
+        ],
+        "color": "#000000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-wthurman",
+      "target": "https://orcid.org/0000-0001-7969-7506",
+      "attributes": {
+        "label": 3,
+        "weight": 3,
+        "collaboration_count": 3,
+        "departments": "Economics --- unknown",
+        "colleges": "Poole College of Management --- unknown",
+        "buildings": "Nelson Hall --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          2010,
+          2010,
+          2009
+        ],
+        "year_recent": 2010,
+        "dois": [
+          "10.1002/fut.20449",
+          "10.1002/fut.20412",
+          "10.1111/j.1574-0862.2009.00389.x"
+        ],
+        "ncsu?": false,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          "Journal of Futures Markets"
+        ],
+        "color": "#000000",
+        "size": 3
+      }
+    },
+    {
+      "source": "uid-wthurman",
+      "target": "https://orcid.org/0000-0001-9568-1248",
+      "attributes": {
+        "label": 2,
+        "weight": 2,
+        "collaboration_count": 2,
+        "departments": "Economics --- unknown",
+        "colleges": "Poole College of Management --- unknown",
+        "buildings": "Nelson Hall --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          2010,
+          2010
+        ],
+        "year_recent": 2010,
+        "dois": [
+          "10.1002/fut.20449",
+          "10.1002/fut.20412"
+        ],
+        "ncsu?": false,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          "Journal of Futures Markets"
+        ],
+        "color": "#000000",
+        "size": 2
+      }
+    },
+    {
+      "source": "uid-wthurman",
+      "target": "dcaron",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Economics --- unknown",
+        "colleges": "Poole College of Management --- unknown",
+        "buildings": "Nelson Hall --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          2010
+        ],
+        "year_recent": 2010,
+        "dois": [
+
+        ],
+        "ncsu?": null,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          null
+        ],
+        "color": "#000000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-wthurman",
+      "target": "mburgett",
+      "attributes": {
+        "label": 5,
+        "weight": 5,
+        "collaboration_count": 5,
+        "departments": "Economics --- unknown",
+        "colleges": "Poole College of Management --- unknown",
+        "buildings": "Nelson Hall --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          2010,
+          2010,
+          2009,
+          2009,
+          2004
+        ],
+        "year_recent": 2010,
+        "dois": [
+
+        ],
+        "ncsu?": null,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          null
+        ],
+        "color": "#000000",
+        "size": 5
+      }
+    },
+    {
+      "source": "uid-wthurman",
+      "target": "rrucker",
+      "attributes": {
+        "label": 4,
+        "weight": 4,
+        "collaboration_count": 4,
+        "departments": "Economics --- unknown",
+        "colleges": "Poole College of Management --- unknown",
+        "buildings": "Nelson Hall --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          2010,
+          2010,
+          2009,
+          2009
+        ],
+        "year_recent": 2010,
+        "dois": [
+
+        ],
+        "ncsu?": null,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          null
+        ],
+        "color": "#000000",
+        "size": 4
+      }
+    },
+    {
+      "source": "uid-wthurman",
+      "target": "sdaberkow",
+      "attributes": {
+        "label": 2,
+        "weight": 2,
+        "collaboration_count": 2,
+        "departments": "Economics --- unknown",
+        "colleges": "Poole College of Management --- unknown",
+        "buildings": "Nelson Hall --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          2010,
+          2009
+        ],
+        "year_recent": 2010,
+        "dois": [
+
+        ],
+        "ncsu?": null,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          null
+        ],
+        "color": "#000000",
+        "size": 2
+      }
+    },
+    {
+      "source": "uid-wthurman",
+      "target": "toddamcfall",
+      "attributes": {
+        "label": 2,
+        "weight": 2,
+        "collaboration_count": 2,
+        "departments": "Economics --- unknown",
+        "colleges": "Poole College of Management --- unknown",
+        "buildings": "Nelson Hall --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          2009,
+          2008
+        ],
+        "year_recent": 2009,
+        "dois": [
+          "10.1177/1527002508326683",
+          "10.2139/ssrn.881562"
+        ],
+        "ncsu?": false,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          "Journal of Sports Economics"
+        ],
+        "color": "#000000",
+        "size": 2
+      }
+    },
+    {
+      "source": "uid-wthurman",
+      "target": "uid-knoeber",
+      "attributes": {
+        "label": 2,
+        "weight": 2,
+        "collaboration_count": 2,
+        "departments": "Economics == Economics",
+        "colleges": "Poole College of Management == Poole College of Management",
+        "buildings": "Nelson Hall == Nelson Hall",
+        "roles": "faculty == faculty",
+        "years": [
+          2009,
+          1995
+        ],
+        "year_recent": 2009,
+        "dois": [
+          "10.1177/1527002508326683",
+          "10.2307/1243218"
+        ],
+        "ncsu?": true,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          "Journal of Sports Economics"
+        ],
+        "color": "#CC0000",
+        "size": 2
+      }
+    },
+    {
+      "source": "uid-wthurman",
+      "target": "charlesrknoeber",
+      "attributes": {
+        "label": 2,
+        "weight": 2,
+        "collaboration_count": 2,
+        "departments": "Economics --- unknown",
+        "colleges": "Poole College of Management --- unknown",
+        "buildings": "Nelson Hall --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          2008,
+          1994
+        ],
+        "year_recent": 2008,
+        "dois": [
+          "10.2139/ssrn.881562",
+          "10.1086/298354"
+        ],
+        "ncsu?": true,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          "Social Science Research Network"
+        ],
+        "color": "#CC0000",
+        "size": 2
+      }
+    },
+    {
+      "source": "uid-wthurman",
+      "target": "jeffreydorfman",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Economics --- unknown",
+        "colleges": "Poole College of Management --- unknown",
+        "buildings": "Nelson Hall --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          2008
+        ],
+        "year_recent": 2008,
+        "dois": [
+          "10.1111/j.1467-8276.2008.01233.x"
+        ],
+        "ncsu?": false,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          "American Journal of Agricultural Economics"
+        ],
+        "color": "#000000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-wthurman",
+      "target": "eriklichtenberg",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Economics --- unknown",
+        "colleges": "Poole College of Management --- unknown",
+        "buildings": "Nelson Hall --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          2008
+        ],
+        "year_recent": 2008,
+        "dois": [
+          "10.1111/j.1467-8276.2008.01233.x"
+        ],
+        "ncsu?": false,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          "American Journal of Agricultural Economics"
+        ],
+        "color": "#000000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-wthurman",
+      "target": "paulpreckel",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Economics --- unknown",
+        "colleges": "Poole College of Management --- unknown",
+        "buildings": "Nelson Hall --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          2008
+        ],
+        "year_recent": 2008,
+        "dois": [
+          "10.1111/j.1467-8276.2008.01233.x"
+        ],
+        "ncsu?": false,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          "American Journal of Agricultural Economics"
+        ],
+        "color": "#000000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-wthurman",
+      "target": "uid-abbrown",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Agricultural & Resource Economics -- Economics",
+        "colleges": "College of Agriculture and Life Sciences -- Poole College of Management",
+        "buildings": "Nelson Hall == Nelson Hall",
+        "roles": "faculty == faculty",
+        "years": [
+          2007
+        ],
+        "year_recent": 2007,
+        "dois": [
+          "10.1111/j.1467-9353.2007.00378.x"
+        ],
+        "ncsu?": true,
+        "cross_college?": true,
+        "cross_department?": true,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          "Applied Economic Perspectives and Policy"
+        ],
+        "color": "#FAC800",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-wthurman",
+      "target": "https://orcid.org/0000-0002-9049-9591",
+      "attributes": {
+        "label": 2,
+        "weight": 2,
+        "collaboration_count": 2,
+        "departments": "Economics --- unknown",
+        "colleges": "Poole College of Management --- unknown",
+        "buildings": "Nelson Hall --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          2005,
+          2005
+        ],
+        "year_recent": 2005,
+        "dois": [
+          "10.1111/j.1467-8276.2005.00736.x"
+        ],
+        "ncsu?": false,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          null
+        ],
+        "color": "#000000",
+        "size": 2
+      }
+    },
+    {
+      "source": "uid-wthurman",
+      "target": "briancmurray",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Economics --- unknown",
+        "colleges": "Poole College of Management --- unknown",
+        "buildings": "Nelson Hall --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          2005
+        ],
+        "year_recent": 2005,
+        "dois": [
+          "10.1007/s10640-004-2379-1"
+        ],
+        "ncsu?": false,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          "Environmental and Resource Economics"
+        ],
+        "color": "#000000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-wthurman",
+      "target": "andrewgkeeler",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Economics --- unknown",
+        "colleges": "Poole College of Management --- unknown",
+        "buildings": "Nelson Hall --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          2005
+        ],
+        "year_recent": 2005,
+        "dois": [
+          "10.1007/s10640-004-2379-1"
+        ],
+        "ncsu?": false,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          "Environmental and Resource Economics"
+        ],
+        "color": "#000000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-wthurman",
+      "target": "jeeasley",
+      "attributes": {
+        "label": 2,
+        "weight": 2,
+        "collaboration_count": 2,
+        "departments": "Economics --- unknown",
+        "colleges": "Poole College of Management --- unknown",
+        "buildings": "Nelson Hall --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          2004,
+          1992
+        ],
+        "year_recent": 2004,
+        "dois": [
+          "10.1086/MRE.19.3.42629438",
+          "10.1016/0095-0696(92)90030-z"
+        ],
+        "ncsu?": false,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          "Marine Resource Economics"
+        ],
+        "color": "#000000",
+        "size": 2
+      }
+    },
+    {
+      "source": "uid-wthurman",
+      "target": "uid-mkmuth",
+      "attributes": {
+        "label": 3,
+        "weight": 3,
+        "collaboration_count": 3,
+        "departments": "Economics == Economics",
+        "colleges": "Poole College of Management == Poole College of Management",
+        "buildings": "Nelson Hall --- unknown",
+        "roles": "faculty == faculty",
+        "years": [
+          2003,
+          1996,
+          1996
+        ],
+        "year_recent": 2003,
+        "dois": [
+          "10.1086/377290"
+        ],
+        "ncsu?": true,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          "Fable",
+          "Honey Bees",
+          "Biology",
+          "Literature",
+          "Art",
+          "Botany"
+        ],
+        "host_venues": [
+          "The Journal of Law and Economics"
+        ],
+        "color": "#CC0000",
+        "size": 3
+      }
+    },
+    {
+      "source": "uid-wthurman",
+      "target": "chingtachuang",
+      "attributes": {
+        "label": 3,
+        "weight": 3,
+        "collaboration_count": 3,
+        "departments": "Economics --- unknown",
+        "colleges": "Poole College of Management --- unknown",
+        "buildings": "Nelson Hall --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          2003,
+          1996,
+          1996
+        ],
+        "year_recent": 2003,
+        "dois": [
+          "10.1086/377290"
+        ],
+        "ncsu?": false,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          "Fable",
+          "Honey Bees",
+          "Biology",
+          "Literature",
+          "Art",
+          "Botany"
+        ],
+        "host_venues": [
+          "The Journal of Law and Economics"
+        ],
+        "color": "#000000",
+        "size": 3
+      }
+    },
+    {
+      "source": "uid-wthurman",
+      "target": "ablakebrown",
+      "attributes": {
+        "label": 2,
+        "weight": 2,
+        "collaboration_count": 2,
+        "departments": "Economics --- unknown",
+        "colleges": "Poole College of Management --- unknown",
+        "buildings": "Nelson Hall --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          2002,
+          2002
+        ],
+        "year_recent": 2002,
+        "dois": [
+
+        ],
+        "ncsu?": null,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          null
+        ],
+        "color": "#000000",
+        "size": 2
+      }
+    },
+    {
+      "source": "uid-wthurman",
+      "target": "janchvosta",
+      "attributes": {
+        "label": 3,
+        "weight": 3,
+        "collaboration_count": 3,
+        "departments": "Economics --- unknown",
+        "colleges": "Poole College of Management --- unknown",
+        "buildings": "Nelson Hall --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          2002,
+          2001,
+          2001
+        ],
+        "year_recent": 2002,
+        "dois": [
+
+        ],
+        "ncsu?": null,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          null
+        ],
+        "color": "#000000",
+        "size": 3
+      }
+    },
+    {
+      "source": "uid-wthurman",
+      "target": "tylerjfox",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Economics --- unknown",
+        "colleges": "Poole College of Management --- unknown",
+        "buildings": "Nelson Hall --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          2001
+        ],
+        "year_recent": 2001,
+        "dois": [
+          "10.1162/00346530152480153"
+        ],
+        "ncsu?": false,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          "The Review of Economics and Statistics"
+        ],
+        "color": "#000000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-wthurman",
+      "target": "taylerhbingham",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Economics --- unknown",
+        "colleges": "Poole College of Management --- unknown",
+        "buildings": "Nelson Hall --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          2001
+        ],
+        "year_recent": 2001,
+        "dois": [
+          "10.1162/00346530152480153"
+        ],
+        "ncsu?": false,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          "The Review of Economics and Statistics"
+        ],
+        "color": "#000000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-wthurman",
+      "target": "jonathonkyoder",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Economics --- unknown",
+        "colleges": "Poole College of Management --- unknown",
+        "buildings": "Nelson Hall --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          1999
+        ],
+        "year_recent": 1999,
+        "dois": [
+
+        ],
+        "ncsu?": null,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          null
+        ],
+        "color": "#000000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-wthurman",
+      "target": "francisgscrimgeour",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Economics --- unknown",
+        "colleges": "Poole College of Management --- unknown",
+        "buildings": "Nelson Hall --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          1996
+        ],
+        "year_recent": 1996,
+        "dois": [
+
+        ],
+        "ncsu?": null,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          null
+        ],
+        "color": "#000000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-wthurman",
+      "target": "marykmuth",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Economics --- unknown",
+        "colleges": "Poole College of Management --- unknown",
+        "buildings": "Nelson Hall --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          1995
+        ],
+        "year_recent": 1995,
+        "dois": [
+
+        ],
+        "ncsu?": null,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          null
+        ],
+        "color": "#000000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-wthurman",
+      "target": "rborges",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Economics --- unknown",
+        "colleges": "Poole College of Management --- unknown",
+        "buildings": "Nelson Hall --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          1994
+        ],
+        "year_recent": 1994,
+        "dois": [
+          "10.2307/1243742"
+        ],
+        "ncsu?": false,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          "American Journal of Agricultural Economics"
+        ],
+        "color": "#000000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-wthurman",
+      "target": "rodneyrobenstein",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Economics --- unknown",
+        "colleges": "Poole College of Management --- unknown",
+        "buildings": "Nelson Hall --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          1993
+        ],
+        "year_recent": 1993,
+        "dois": [
+
+        ],
+        "ncsu?": null,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          null
+        ],
+        "color": "#000000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-wthurman",
+      "target": "u-2655",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Agricultural & Resource Economics -- Economics",
+        "colleges": "College of Agriculture and Life Sciences -- Poole College of Management",
+        "buildings": "Nelson Hall --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          1993
+        ],
+        "year_recent": 1993,
+        "dois": [
+          "10.1016/0167-5877(93)90018-o"
+        ],
+        "ncsu?": true,
+        "cross_college?": true,
+        "cross_department?": true,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          "Preventive Veterinary Medicine"
+        ],
+        "color": "#FAC800",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-wthurman",
+      "target": "robertbborges",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Economics --- unknown",
+        "colleges": "Poole College of Management --- unknown",
+        "buildings": "Nelson Hall --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          1993
+        ],
+        "year_recent": 1993,
+        "dois": [
+
+        ],
+        "ncsu?": null,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          null
+        ],
+        "color": "#000000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-wthurman",
+      "target": "robertamorales",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Economics --- unknown",
+        "colleges": "Poole College of Management --- unknown",
+        "buildings": "Nelson Hall --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          1993
+        ],
+        "year_recent": 1993,
+        "dois": [
+
+        ],
+        "ncsu?": null,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          null
+        ],
+        "color": "#000000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-wthurman",
+      "target": "miguelamartinez",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Economics --- unknown",
+        "colleges": "Poole College of Management --- unknown",
+        "buildings": "Nelson Hall --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          1991
+        ],
+        "year_recent": 1991,
+        "dois": [
+
+        ],
+        "ncsu?": null,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          null
+        ],
+        "color": "#000000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-wthurman",
+      "target": "michaelkwohlgenant",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Economics --- unknown",
+        "colleges": "Poole College of Management --- unknown",
+        "buildings": "Nelson Hall --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          1989
+        ],
+        "year_recent": 1989,
+        "dois": [
+          "10.2307/1242680"
+        ],
+        "ncsu?": true,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          "American Journal of Agricultural Economics"
+        ],
+        "color": "#CC0000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-wthurman",
+      "target": "douglasfisher",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Economics --- unknown",
+        "colleges": "Poole College of Management --- unknown",
+        "buildings": "Nelson Hall --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          1989
+        ],
+        "year_recent": 1989,
+        "dois": [
+          "10.1017/s0022050700008780"
+        ],
+        "ncsu?": true,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          "The Journal of Economic History"
+        ],
+        "color": "#CC0000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-wthurman",
+      "target": "markfisher",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Economics --- unknown",
+        "colleges": "Poole College of Management --- unknown",
+        "buildings": "Nelson Hall --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          1988
+        ],
+        "year_recent": 1988,
+        "dois": [
+          "10.2307/1242062"
+        ],
+        "ncsu?": true,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          "Causality (physics)",
+          "Economics",
+          "Physics",
+          "Quantum mechanics"
+        ],
+        "host_venues": [
+          "American Journal of Agricultural Economics"
+        ],
+        "color": "#CC0000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-wthurman",
+      "target": "salihahakeem",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Economics --- unknown",
+        "colleges": "Poole College of Management --- unknown",
+        "buildings": "Nelson Hall --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          1988
+        ],
+        "year_recent": 1988,
+        "dois": [
+
+        ],
+        "ncsu?": null,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          null
+        ],
+        "color": "#000000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-wthurman",
+      "target": "jamesestandaert",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Economics --- unknown",
+        "colleges": "Poole College of Management --- unknown",
+        "buildings": "Nelson Hall --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          1986
+        ],
+        "year_recent": 1986,
+        "dois": [
+
+        ],
+        "ncsu?": null,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          null
+        ],
+        "color": "#000000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-wthurman",
+      "target": "gtilley",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Economics --- unknown",
+        "colleges": "Poole College of Management --- unknown",
+        "buildings": "Nelson Hall --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          1984
+        ],
+        "year_recent": 1984,
+        "dois": [
+
+        ],
+        "ncsu?": null,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          null
+        ],
+        "color": "#000000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-wthurman",
+      "target": "jhodge",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Economics --- unknown",
+        "colleges": "Poole College of Management --- unknown",
+        "buildings": "Nelson Hall --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          1984
+        ],
+        "year_recent": 1984,
+        "dois": [
+
+        ],
+        "ncsu?": null,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          null
+        ],
+        "color": "#000000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-wthurman",
+      "target": "joehmke",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Economics --- unknown",
+        "colleges": "Poole College of Management --- unknown",
+        "buildings": "Nelson Hall --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          1984
+        ],
+        "year_recent": 1984,
+        "dois": [
+
+        ],
+        "ncsu?": null,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          null
+        ],
+        "color": "#000000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-wthurman",
+      "target": "johnbaden",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Economics --- unknown",
+        "colleges": "Poole College of Management --- unknown",
+        "buildings": "Nelson Hall --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          1981
+        ],
+        "year_recent": 1981,
+        "dois": [
+          "10.1111/j.1465-7295.1981.tb00607.x"
+        ],
+        "ncsu?": false,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          "Economic Inquiry"
+        ],
+        "color": "#000000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-wthurman",
+      "target": "richardstroup",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Economics --- unknown",
+        "colleges": "Poole College of Management --- unknown",
+        "buildings": "Nelson Hall --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          1981
+        ],
+        "year_recent": 1981,
+        "dois": [
+          "10.1111/j.1465-7295.1981.tb00607.x"
+        ],
+        "ncsu?": false,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          "Economic Inquiry"
+        ],
+        "color": "#000000",
+        "size": 1
+      }
+    },
+    {
+      "source": "u-14418",
+      "target": "https://orcid.org/0000-0001-9755-3784",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Economics --- unknown",
+        "colleges": "Poole College of Management --- unknown",
+        "buildings": "unknown --- unknown",
+        "roles": "unknown == unknown",
+        "years": [
+          2019
+        ],
+        "year_recent": 2019,
+        "dois": [
+          "10.1086/704360"
+        ],
+        "ncsu?": false,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": false,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          "Journal of the Association of Environmental and Resource Economists"
+        ],
+        "color": "#000000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-marra",
+      "target": "https://orcid.org/0000-0001-8810-2674",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Agricultural & Resource Economics --- unknown",
+        "colleges": "College of Agriculture and Life Sciences --- unknown",
+        "buildings": "Nelson Hall --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          2014
+        ],
+        "year_recent": 2014,
+        "dois": [
+          "10.3368/le.90.1.1"
+        ],
+        "ncsu?": false,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": false,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+
+        ],
+        "cross_building?": false,
+        "concepts": [
+          "Bidding",
+          "Conservation Reserve Program",
+          "Business",
+          "Nature reserve",
+          "Nature Conservation",
+          "Natural resource economics",
+          "Economics",
+          "Geography",
+          "Ecology",
+          "Marketing",
+          "Biology",
+          "Archaeology",
+          "Agriculture"
+        ],
+        "host_venues": [
+          "Land Economics"
+        ],
+        "color": "#000000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-phaneuf",
+      "target": "chrismoore",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Agricultural & Resource Economics --- unknown",
+        "colleges": "College of Agriculture and Life Sciences --- unknown",
+        "buildings": "unknown --- unknown",
+        "roles": "unknown == unknown",
+        "years": [
+          2011
+        ],
+        "year_recent": 2011,
+        "dois": [
+          "10.1007/s10640-011-9457-y"
+        ],
+        "ncsu?": false,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": false,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          "Environmental and Resource Economics"
+        ],
+        "color": "#000000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-knoeber",
+      "target": "toddamcfall",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Economics --- unknown",
+        "colleges": "Poole College of Management --- unknown",
+        "buildings": "Nelson Hall --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          2009
+        ],
+        "year_recent": 2009,
+        "dois": [
+          "10.1177/1527002508326683"
+        ],
+        "ncsu?": false,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": false,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          "Journal of Sports Economics"
+        ],
+        "color": "#000000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-abbrown",
+      "target": "randalrrucker",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Agricultural & Resource Economics --- unknown",
+        "colleges": "College of Agriculture and Life Sciences --- unknown",
+        "buildings": "Nelson Hall --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          2007
+        ],
+        "year_recent": 2007,
+        "dois": [
+          "10.1111/j.1467-9353.2007.00378.x"
+        ],
+        "ncsu?": false,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": false,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          "Applied Economic Perspectives and Policy"
+        ],
+        "color": "#000000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-mkmuth",
+      "target": "randalrrucker",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Economics --- unknown",
+        "colleges": "Poole College of Management --- unknown",
+        "buildings": "unknown --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          2003
+        ],
+        "year_recent": 2003,
+        "dois": [
+          "10.1086/377290"
+        ],
+        "ncsu?": false,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": false,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+
+        ],
+        "cross_building?": false,
+        "concepts": [
+          "Fable",
+          "Honey Bees",
+          "Biology",
+          "Literature",
+          "Art",
+          "Botany"
+        ],
+        "host_venues": [
+          "The Journal of Law and Economics"
+        ],
+        "color": "#000000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-mkmuth",
+      "target": "chingtachuang",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Economics --- unknown",
+        "colleges": "Poole College of Management --- unknown",
+        "buildings": "unknown --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          2003
+        ],
+        "year_recent": 2003,
+        "dois": [
+          "10.1086/377290"
+        ],
+        "ncsu?": false,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": false,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+
+        ],
+        "cross_building?": false,
+        "concepts": [
+          "Fable",
+          "Honey Bees",
+          "Biology",
+          "Literature",
+          "Art",
+          "Botany"
+        ],
+        "host_venues": [
+          "The Journal of Law and Economics"
+        ],
+        "color": "#000000",
+        "size": 1
+      }
+    }
+  ]
+}

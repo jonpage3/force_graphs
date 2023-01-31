@@ -1,0 +1,2769 @@
+{
+  "options": {
+    "type": "undirected",
+    "multi": false,
+    "allowSelfLoops": false
+  },
+  "attributes": {
+    "creator": "Citation Index",
+    "lastModifiedDate": "2023-01-17"
+  },
+  "nodes": [
+    {
+      "key": "uid-msjones2",
+      "attributes": {
+        "label": "M Jones",
+        "name": "Michael Jones",
+        "known?": true,
+        "orcid?": false,
+        "ncsu?": true,
+        "affiliations": [
+          "North Carolina State University"
+        ],
+        "countries": [
+          "US"
+        ],
+        "uid": "msjones2",
+        "url": "https://ci.lib.ncsu.edu/profiles/msjones2",
+        "active?": false,
+        "department": "Agricultural & Resource Economics",
+        "college": "College of Agriculture and Life Sciences",
+        "ncsu_affiliations": [
+          "Agricultural & Resource Economics",
+          "Genetic Engineering and Society",
+          "College of Agriculture and Life Sciences Administration"
+        ],
+        "cluster?": true,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "role": "student",
+        "building": null,
+        "count": 6,
+        "oa_count": 2,
+        "years": [
+          2021,
+          2020,
+          2018,
+          2015
+        ],
+        "year_recent": 2021,
+        "article_concepts": [
+          "Agriculture",
+          "Alternative medicine",
+          "Biology",
+          "Business",
+          "CRISPR",
+          "Confidence interval",
+          "Demography",
+          "Developing country",
+          "Ecology",
+          "Economic growth",
+          "Economics",
+          "Engineering",
+          "Gene",
+          "Gene drive",
+          "Genetics",
+          "High income countries",
+          "Informed consent",
+          "Internal medicine",
+          "Interquartile range",
+          "Medicine",
+          "Odds ratio",
+          "Pathology",
+          "Psychiatry",
+          "Psychological intervention",
+          "Randomized controlled trial",
+          "Sociology",
+          "Software deployment",
+          "Software engineering"
+        ],
+        "host_venues": [
+          "Clinical Pediatrics",
+          "Crop Protection",
+          "Journal of Responsible Innovation",
+          "PLOS ONE",
+          "Pest Management Science",
+          "Public Opinion Quarterly"
+        ],
+        "color": "#6F7D1C",
+        "size": 20
+      }
+    },
+    {
+      "key": "https://orcid.org/0000-0002-3330-7872",
+      "attributes": {
+        "label": "J Patterson",
+        "name": "Jacquelyn Patterson",
+        "known?": false,
+        "orcid?": null,
+        "ncsu?": false,
+        "affiliations": [
+          "University of North Carolina at Chapel Hill"
+        ],
+        "countries": [
+          "US"
+        ],
+        "color": "#BFBFBD",
+        "size": 10
+      }
+    },
+    {
+      "key": "https://orcid.org/0000-0002-3912-5965",
+      "attributes": {
+        "label": "S Pant",
+        "name": "Stuti Pant",
+        "known?": false,
+        "orcid?": null,
+        "ncsu?": false,
+        "affiliations": [
+          "Imperial College London"
+        ],
+        "countries": [
+          "GB"
+        ],
+        "color": "#BFBFBD",
+        "size": 10
+      }
+    },
+    {
+      "key": "denisefjones",
+      "attributes": {
+        "label": "D Jones",
+        "name": "Denise F. Jones",
+        "known?": false,
+        "orcid?": null,
+        "ncsu?": false,
+        "affiliations": [
+          "University of North Carolina at Chapel Hill"
+        ],
+        "countries": [
+          "US"
+        ],
+        "color": "#BFBFBD",
+        "size": 10
+      }
+    },
+    {
+      "key": "https://orcid.org/0000-0002-3291-8428",
+      "attributes": {
+        "label": "S Taha",
+        "name": "Syed Taha",
+        "known?": false,
+        "orcid?": null,
+        "ncsu?": false,
+        "affiliations": [
+          "Imperial College London"
+        ],
+        "countries": [
+          "GB"
+        ],
+        "color": "#BFBFBD",
+        "size": 10
+      }
+    },
+    {
+      "key": "https://orcid.org/0000-0002-4992-9895",
+      "attributes": {
+        "label": "M Bauserman",
+        "name": "Melissa Bauserman",
+        "known?": false,
+        "orcid?": null,
+        "ncsu?": false,
+        "affiliations": [
+          "University of North Carolina at Chapel Hill"
+        ],
+        "countries": [
+          "US"
+        ],
+        "color": "#BFBFBD",
+        "size": 10
+      }
+    },
+    {
+      "key": "https://orcid.org/0000-0002-6034-7976",
+      "attributes": {
+        "label": "P Montaldo",
+        "name": "Paolo Montaldo",
+        "known?": false,
+        "orcid?": null,
+        "ncsu?": false,
+        "affiliations": [
+          "Imperial College London"
+        ],
+        "countries": [
+          "GB"
+        ],
+        "color": "#BFBFBD",
+        "size": 10
+      }
+    },
+    {
+      "key": "https://orcid.org/0000-0002-8727-8640",
+      "attributes": {
+        "label": "C Bose",
+        "name": "Carl L. Bose",
+        "known?": false,
+        "orcid?": null,
+        "ncsu?": false,
+        "affiliations": [
+          "University of North Carolina at Chapel Hill"
+        ],
+        "countries": [
+          "US"
+        ],
+        "color": "#BFBFBD",
+        "size": 10
+      }
+    },
+    {
+      "key": "https://orcid.org/0000-0001-8795-5165",
+      "attributes": {
+        "label": "S Thayyil",
+        "name": "Sudhin Thayyil",
+        "known?": false,
+        "orcid?": null,
+        "ncsu?": false,
+        "affiliations": [
+          "Imperial College London"
+        ],
+        "countries": [
+          "GB"
+        ],
+        "color": "#BFBFBD",
+        "size": 10
+      }
+    },
+    {
+      "key": "uid-rmrejesu",
+      "attributes": {
+        "label": "R Rejesus",
+        "name": "Roderick Rejesus",
+        "known?": true,
+        "orcid?": false,
+        "ncsu?": true,
+        "affiliations": [
+          "North Carolina State University"
+        ],
+        "countries": [
+          "US"
+        ],
+        "uid": "rmrejesu",
+        "url": "https://ci.lib.ncsu.edu/profiles/rmrejesu",
+        "active?": true,
+        "department": "Agricultural & Resource Economics",
+        "college": "College of Agriculture and Life Sciences",
+        "ncsu_affiliations": [
+          "Agricultural & Resource Economics",
+          "Genetic Engineering and Society"
+        ],
+        "cluster?": true,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "role": "faculty",
+        "building": "Nelson Hall",
+        "count": 63,
+        "oa_count": 18,
+        "years": [
+          2022,
+          2021,
+          2020,
+          2019,
+          2018,
+          2017,
+          2016,
+          2015,
+          2014,
+          2013,
+          2012,
+          2011,
+          2010,
+          2009,
+          2008,
+          2007,
+          2006,
+          2005,
+          2004
+        ],
+        "year_recent": 2022,
+        "article_concepts": [
+          "Abiotic component",
+          "Abiotic stress",
+          "Accounting",
+          "Acre",
+          "Actuarial science",
+          "Adverse selection",
+          "Agribusiness",
+          "Agricultural economics",
+          "Agricultural engineering",
+          "Agricultural science",
+          "Agriculture",
+          "Agroforestry",
+          "Agronomy",
+          "Algorithm",
+          "Archaeology",
+          "Artificial intelligence",
+          "Audit",
+          "Bayesian inference",
+          "Bayesian probability",
+          "Biochemistry",
+          "Bioenergy",
+          "Biofuel",
+          "Biology",
+          "Biotechnology",
+          "Business",
+          "Caloric intake",
+          "Calorie",
+          "Carbon fibers",
+          "Censoring (clinical trials)",
+          "Chemistry",
+          "Chromatography",
+          "Classical mechanics",
+          "Climate change",
+          "Collusion",
+          "Composite number",
+          "Computer science",
+          "Constraint (computer-aided design)",
+          "Context (archaeology)",
+          "Cost estimate",
+          "Crop",
+          "Crop insurance",
+          "Crop production",
+          "Curing of tobacco",
+          "Data mining",
+          "Downside risk",
+          "Ecology",
+          "Econometrics",
+          "Economic growth",
+          "Economics",
+          "Electrical engineering",
+          "Endocrinology",
+          "Energy crop",
+          "Engineering",
+          "Environmental science",
+          "Epistemology",
+          "Estimation",
+          "Farm income",
+          "Field (mathematics)",
+          "Finance",
+          "Financial economics",
+          "Flexibility (engineering)",
+          "Food prices",
+          "Food security",
+          "Forestry",
+          "Gene",
+          "Genetically modified crops",
+          "Genetically modified maize",
+          "Geography",
+          "Geometry",
+          "Global warming",
+          "Government (linguistics)",
+          "Incentive",
+          "Indemnity",
+          "Independence (probability theory)",
+          "Industrial organization",
+          "Inference",
+          "Information system",
+          "Insurance policy",
+          "Internal medicine",
+          "Law",
+          "Lease",
+          "Legislature",
+          "Leverage (statistics)",
+          "Linguistics",
+          "Listing (finance)",
+          "Machine learning",
+          "Management",
+          "Management information systems",
+          "Market economy",
+          "Marketing",
+          "Materials science",
+          "Mathematics",
+          "Measure (data warehouse)",
+          "Medicine",
+          "Metallurgy",
+          "Microeconomics",
+          "Monte Carlo method",
+          "Moral hazard",
+          "Multinomial logistic regression",
+          "Multinomial probit",
+          "Multivariate probit model",
+          "Multivariate statistics",
+          "Natural resource economics",
+          "Neuroscience",
+          "Obesity",
+          "Ordered probit",
+          "Outreach",
+          "Payment",
+          "Perception",
+          "Philosophy",
+          "Physics",
+          "Political science",
+          "Portfolio",
+          "Preference",
+          "Probit",
+          "Probit model",
+          "Production (economics)",
+          "Profitability index",
+          "Psychological resilience",
+          "Psychology",
+          "Psychotherapist",
+          "Pure mathematics",
+          "Quality (philosophy)",
+          "Resilience (materials science)",
+          "Resistance (ecology)",
+          "Revenue",
+          "Risk management",
+          "Risk management information systems",
+          "Risk perception",
+          "Rural area",
+          "Sample (material)",
+          "Simultaneity",
+          "Skewness",
+          "Socioeconomics",
+          "Soil carbon",
+          "Soil health",
+          "Soil organic matter",
+          "Soil science",
+          "Soil water",
+          "Staple food",
+          "Statistics",
+          "Subsidy",
+          "Survey data collection",
+          "The Internet",
+          "Thermodynamics",
+          "Tobacco leaf",
+          "Transgene",
+          "Unobservable",
+          "Variance (accounting)",
+          "Welfare",
+          "World Wide Web",
+          "Yield (engineering)"
+        ],
+        "host_venues": [
+          "Agribusiness",
+          "Agricultural Economics",
+          "Agricultural Systems",
+          "Agricultural and Resource Economics Review",
+          "Agronomy Journal",
+          "American Journal of Agricultural Economics",
+          "Applied Economics",
+          "Applied economic perspectives and policy",
+          "Australian Journal of Agricultural and Resource Economics",
+          "Canadian Journal of Agricultural Economics-revue Canadienne D Agroeconomie",
+          "Computers and Electronics in Agriculture",
+          "Crop Protection",
+          "Ecological Economics",
+          "Economics Letters",
+          "Economics and Politics",
+          "European Review of Agricultural Economics",
+          "Field Crops Research",
+          "Food Policy",
+          "Geneva Papers on Risk and Insurance-issues and Practice",
+          "Global Food Security",
+          "International Review of Applied Economics",
+          "Journal of Agricultural Economics",
+          "Journal of Agricultural and Applied Economics",
+          "Journal of Business Ethics",
+          "Journal of Environmental Management",
+          "Journal of Soil and Water Conservation",
+          "Journal of family and economic issues",
+          "Mitigation and Adaptation Strategies for Global Change",
+          "Ocean & Coastal Management",
+          "Pest Management Science",
+          "Precision Agriculture",
+          "Review of World Economics",
+          "Science",
+          "World Development"
+        ],
+        "color": "#6F7D1C",
+        "size": 10
+      }
+    },
+    {
+      "key": "uid-jfbaltze",
+      "attributes": {
+        "label": "J Baltzegar",
+        "name": "Jennifer Baltzegar",
+        "known?": true,
+        "orcid?": false,
+        "ncsu?": true,
+        "affiliations": [
+          "North Carolina State University"
+        ],
+        "countries": [
+          "US"
+        ],
+        "uid": "jfbaltze",
+        "url": "https://ci.lib.ncsu.edu/profiles/jfbaltze",
+        "active?": true,
+        "department": "Plant Pathology",
+        "college": "College of Agriculture and Life Sciences",
+        "ncsu_affiliations": [
+          "Plant Pathology",
+          "Genetic Engineering and Society"
+        ],
+        "cluster?": true,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "role": "staff",
+        "building": "James B Hunt Jr Centennial Cam",
+        "count": 3,
+        "oa_count": 2,
+        "years": [
+          2021,
+          2018,
+          2016
+        ],
+        "year_recent": 2021,
+        "article_concepts": [
+          "Aedes aegypti",
+          "Agriculture",
+          "Allele",
+          "Allele frequency",
+          "Biology",
+          "Botany",
+          "Business",
+          "CRISPR",
+          "Cyfluthrin",
+          "Demography",
+          "Dominance (genetics)",
+          "Ecology",
+          "Engineering",
+          "Evolutionary biology",
+          "Gene",
+          "Gene drive",
+          "Genetic diversity",
+          "Genetic variation",
+          "Genetics",
+          "Haplotype",
+          "Heliothis virescens",
+          "Inbreeding",
+          "Insecticide resistance",
+          "Knockdown resistance",
+          "Larva",
+          "Noctuidae",
+          "PEST analysis",
+          "Pesticide",
+          "Population",
+          "Population genetics",
+          "Pyrethroid",
+          "Sociology",
+          "Software deployment",
+          "Software engineering",
+          "Toxicology"
+        ],
+        "host_venues": [
+          "Evolutionary Applications",
+          "Insect Molecular Biology",
+          "Journal of Responsible Innovation"
+        ],
+        "color": "#6F7D1C",
+        "size": 10
+      }
+    },
+    {
+      "key": "https://orcid.org/0000-0002-3472-1100",
+      "attributes": {
+        "label": "J Barnes",
+        "name": "Jessica Cavin Barnes",
+        "known?": false,
+        "orcid?": null,
+        "ncsu?": true,
+        "affiliations": [
+          "North Carolina State University"
+        ],
+        "countries": [
+          "US"
+        ],
+        "color": "#000000",
+        "size": 10
+      }
+    },
+    {
+      "key": "uid-jeelsens",
+      "attributes": {
+        "label": "J Elsensohn",
+        "name": "Johanna E Elsensohn",
+        "known?": true,
+        "orcid?": false,
+        "ncsu?": true,
+        "affiliations": [
+          "North Carolina State University"
+        ],
+        "countries": [
+          "US"
+        ],
+        "uid": "jeelsens",
+        "url": "https://ci.lib.ncsu.edu/profiles/jeelsens",
+        "active?": false,
+        "department": "Plant Pathology",
+        "college": "College of Agriculture and Life Sciences",
+        "ncsu_affiliations": [
+          "Plant Pathology"
+        ],
+        "cluster?": false,
+        "clusters": [
+
+        ],
+        "role": "student",
+        "building": null,
+        "count": 8,
+        "oa_count": 3,
+        "years": [
+          2022,
+          2021,
+          2020,
+          2019,
+          2018
+        ],
+        "year_recent": 2022,
+        "article_concepts": [
+          "Adaptation (eye)",
+          "Agriculture",
+          "Agronomy",
+          "Artificial intelligence",
+          "Biochemistry",
+          "Biology",
+          "Blowing a raspberry",
+          "Botany",
+          "Business",
+          "CRISPR",
+          "Competition (biology)",
+          "Computer science",
+          "Crop",
+          "Cropping",
+          "Demography",
+          "Density dependence",
+          "Drosophila (subgenus)",
+          "Drosophila melanogaster",
+          "Drosophila suzukii",
+          "Drosophilidae",
+          "Ecological niche",
+          "Ecology",
+          "Economics",
+          "Engineering",
+          "Engineering ethics",
+          "Food preference",
+          "Food science",
+          "Gene",
+          "Gene drive",
+          "Genetics",
+          "Government (linguistics)",
+          "Habitat",
+          "Horticulture",
+          "Host (biology)",
+          "Ideal free distribution",
+          "Infestation",
+          "Interfacing",
+          "Intraspecific competition",
+          "Larva",
+          "Law",
+          "Legislation",
+          "Linguistics",
+          "Mechanical engineering",
+          "Microeconomics",
+          "Netting",
+          "Neuroscience",
+          "Niche",
+          "PEST analysis",
+          "Philosophy",
+          "Political science",
+          "Population",
+          "Population density",
+          "Predation",
+          "Predator",
+          "Preference",
+          "Public administration",
+          "Public policy",
+          "Public relations",
+          "Rubus",
+          "Science policy",
+          "Selection (genetic algorithm)",
+          "Sociology",
+          "Software deployment",
+          "Software engineering",
+          "Variety (cybernetics)",
+          "Work (physics)",
+          "Zoology"
+        ],
+        "host_venues": [
+          "Annals of The Entomological Society of America",
+          "Crop Protection",
+          "Insects",
+          "Journal of Economic Entomology",
+          "Journal of Environmental Management",
+          "Journal of Responsible Innovation",
+          "Scientific Reports"
+        ],
+        "color": "#6F7D1C",
+        "size": 10
+      }
+    },
+    {
+      "key": "uid-negutzma",
+      "attributes": {
+        "label": "N Gutzmann",
+        "name": "Nicole Gutzmann",
+        "known?": true,
+        "orcid?": false,
+        "ncsu?": true,
+        "affiliations": [
+          "North Carolina State University"
+        ],
+        "countries": [
+          "US"
+        ],
+        "uid": "negutzma",
+        "url": "https://ci.lib.ncsu.edu/profiles/negutzma",
+        "active?": true,
+        "department": "Plant Pathology",
+        "college": "College of Agriculture and Life Sciences",
+        "ncsu_affiliations": [
+          "Plant Pathology"
+        ],
+        "cluster?": false,
+        "clusters": [
+
+        ],
+        "role": "staff",
+        "building": "Thomas Hall",
+        "count": 1,
+        "oa_count": 1,
+        "years": [
+          2018
+        ],
+        "year_recent": 2018,
+        "article_concepts": [
+          "Agriculture",
+          "Biology",
+          "Business",
+          "CRISPR",
+          "Ecology",
+          "Engineering",
+          "Gene",
+          "Gene drive",
+          "Genetics",
+          "Software deployment",
+          "Software engineering"
+        ],
+        "host_venues": [
+          "Journal of Responsible Innovation"
+        ],
+        "color": "#6F7D1C",
+        "size": 10
+      }
+    },
+    {
+      "key": "https://orcid.org/0000-0002-1642-7442",
+      "attributes": {
+        "label": "S King",
+        "name": "Sheron King",
+        "known?": false,
+        "orcid?": null,
+        "ncsu?": true,
+        "affiliations": [
+          "North Carolina State University"
+        ],
+        "countries": [
+          "US"
+        ],
+        "color": "#000000",
+        "size": 10
+      }
+    },
+    {
+      "key": "uid-jdsudwee",
+      "attributes": {
+        "label": "J Sudweeks",
+        "name": "Jayce Dean Sudweeks",
+        "known?": true,
+        "orcid?": false,
+        "ncsu?": true,
+        "affiliations": [
+          "North Carolina State University"
+        ],
+        "countries": [
+          "US"
+        ],
+        "uid": "jdsudwee",
+        "url": "https://ci.lib.ncsu.edu/profiles/jdsudwee",
+        "active?": false,
+        "department": "Public and International Affairs",
+        "college": "College of Humanities and Social Sciences",
+        "ncsu_affiliations": [
+          "Public and International Affairs"
+        ],
+        "cluster?": false,
+        "clusters": [
+
+        ],
+        "role": "student",
+        "building": null,
+        "count": 3,
+        "oa_count": 3,
+        "years": [
+          2019,
+          2018
+        ],
+        "year_recent": 2019,
+        "article_concepts": [
+          "Agriculture",
+          "Allele",
+          "Biology",
+          "Business",
+          "CRISPR",
+          "Cas9",
+          "Computational biology",
+          "Corporate governance",
+          "Ecology",
+          "Economics",
+          "Engineering",
+          "Environmental health",
+          "Evolutionary biology",
+          "Gene",
+          "Gene drive",
+          "Genetics",
+          "Management",
+          "Medicine",
+          "Political science",
+          "Population",
+          "Population genetics",
+          "Public relations",
+          "Responsible Research and Innovation",
+          "Software deployment",
+          "Software engineering"
+        ],
+        "host_venues": [
+          "Journal of Responsible Innovation",
+          "Scientific Reports"
+        ],
+        "color": "#FAC800",
+        "size": 10
+      }
+    },
+    {
+      "key": "corinneealexander",
+      "attributes": {
+        "label": "C Alexander",
+        "name": "Corinne E. Alexander",
+        "known?": false,
+        "orcid?": null,
+        "ncsu?": false,
+        "affiliations": [
+          "Purdue University West Lafayette"
+        ],
+        "countries": [
+          "US"
+        ],
+        "color": "#BFBFBD",
+        "size": 10
+      }
+    },
+    {
+      "key": "brucesmith",
+      "attributes": {
+        "label": "B Smith",
+        "name": "Bruce Smith",
+        "known?": false,
+        "orcid?": null,
+        "ncsu?": false,
+        "affiliations": [
+          "Senior Advisor, The Palladium Group, Canada"
+        ],
+        "countries": [
+
+        ],
+        "color": "#BFBFBD",
+        "size": 10
+      }
+    },
+    {
+      "key": "abigailrmcrea",
+      "attributes": {
+        "label": "A McRea",
+        "name": "Abigail R. McRea",
+        "known?": false,
+        "orcid?": null,
+        "ncsu?": false,
+        "affiliations": [
+          "1 North Carolina Children's Hospital, Chapel Hill, NC, USA."
+        ],
+        "countries": [
+
+        ],
+        "color": "#BFBFBD",
+        "size": 10
+      }
+    },
+    {
+      "key": "meerakjairath",
+      "attributes": {
+        "label": "M Jairath",
+        "name": "Meera K. Jairath",
+        "known?": false,
+        "orcid?": null,
+        "ncsu?": false,
+        "affiliations": [
+          "1 North Carolina Children's Hospital, Chapel Hill, NC, USA."
+        ],
+        "countries": [
+
+        ],
+        "color": "#BFBFBD",
+        "size": 10
+      }
+    },
+    {
+      "key": "kathleenkbradford",
+      "attributes": {
+        "label": "K Bradford",
+        "name": "Kathleen K. Bradford",
+        "known?": false,
+        "orcid?": null,
+        "ncsu?": false,
+        "affiliations": [
+          "1 North Carolina Children's Hospital, Chapel Hill, NC, USA.",
+          "University of North Carolina at Chapel Hill"
+        ],
+        "countries": [
+          "US"
+        ],
+        "color": "#BFBFBD",
+        "size": 10
+      }
+    },
+    {
+      "key": "https://orcid.org/0000-0001-9921-0419",
+      "attributes": {
+        "label": "R Jhaveri",
+        "name": "Ravi Jhaveri",
+        "known?": false,
+        "orcid?": null,
+        "ncsu?": false,
+        "affiliations": [
+          "1 North Carolina Children's Hospital, Chapel Hill, NC, USA.",
+          "University of North Carolina at Chapel Hill"
+        ],
+        "countries": [
+          "US"
+        ],
+        "color": "#BFBFBD",
+        "size": 10
+      }
+    },
+    {
+      "key": "https://orcid.org/0000-0002-1901-6550",
+      "attributes": {
+        "label": "L House",
+        "name": "Lisa House",
+        "known?": false,
+        "orcid?": null,
+        "ncsu?": false,
+        "affiliations": [
+
+        ],
+        "countries": [
+
+        ],
+        "color": "#BFBFBD",
+        "size": 10
+      }
+    },
+    {
+      "key": "https://orcid.org/0000-0003-2984-8278",
+      "attributes": {
+        "label": "Z Gao",
+        "name": "Zhifeng Gao",
+        "known?": false,
+        "orcid?": null,
+        "ncsu?": false,
+        "affiliations": [
+
+        ],
+        "countries": [
+
+        ],
+        "color": "#BFBFBD",
+        "size": 10
+      }
+    }
+  ],
+  "edges": [
+    {
+      "source": "uid-msjones2",
+      "target": "https://orcid.org/0000-0002-3330-7872",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Agricultural & Resource Economics --- unknown",
+        "colleges": "College of Agriculture and Life Sciences --- unknown",
+        "buildings": "unknown --- unknown",
+        "roles": "student --- unknown",
+        "years": [
+          2021
+        ],
+        "year_recent": 2021,
+        "dois": [
+          "10.1371/journal.pone.0248263"
+        ],
+        "ncsu?": false,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          "Medicine",
+          "Interquartile range",
+          "Informed consent",
+          "Randomized controlled trial",
+          "Odds ratio",
+          "Psychological intervention",
+          "Confidence interval",
+          "High income countries",
+          "Demography",
+          "Developing country",
+          "Internal medicine",
+          "Psychiatry",
+          "Alternative medicine",
+          "Pathology",
+          "Sociology",
+          "Economics",
+          "Economic growth"
+        ],
+        "host_venues": [
+          "PLOS ONE"
+        ],
+        "color": "#000000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-msjones2",
+      "target": "https://orcid.org/0000-0002-3912-5965",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Agricultural & Resource Economics --- unknown",
+        "colleges": "College of Agriculture and Life Sciences --- unknown",
+        "buildings": "unknown --- unknown",
+        "roles": "student --- unknown",
+        "years": [
+          2021
+        ],
+        "year_recent": 2021,
+        "dois": [
+          "10.1371/journal.pone.0248263"
+        ],
+        "ncsu?": false,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          "Medicine",
+          "Interquartile range",
+          "Informed consent",
+          "Randomized controlled trial",
+          "Odds ratio",
+          "Psychological intervention",
+          "Confidence interval",
+          "High income countries",
+          "Demography",
+          "Developing country",
+          "Internal medicine",
+          "Psychiatry",
+          "Alternative medicine",
+          "Pathology",
+          "Sociology",
+          "Economics",
+          "Economic growth"
+        ],
+        "host_venues": [
+          "PLOS ONE"
+        ],
+        "color": "#000000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-msjones2",
+      "target": "denisefjones",
+      "attributes": {
+        "label": 2,
+        "weight": 2,
+        "collaboration_count": 2,
+        "departments": "Agricultural & Resource Economics --- unknown",
+        "colleges": "College of Agriculture and Life Sciences --- unknown",
+        "buildings": "unknown --- unknown",
+        "roles": "student --- unknown",
+        "years": [
+          2021,
+          2018
+        ],
+        "year_recent": 2021,
+        "dois": [
+          "10.1371/journal.pone.0248263",
+          "10.1177/0009922817724399"
+        ],
+        "ncsu?": false,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          "Medicine",
+          "Interquartile range",
+          "Informed consent",
+          "Randomized controlled trial",
+          "Odds ratio",
+          "Psychological intervention",
+          "Confidence interval",
+          "High income countries",
+          "Demography",
+          "Developing country",
+          "Internal medicine",
+          "Psychiatry",
+          "Alternative medicine",
+          "Pathology",
+          "Sociology",
+          "Economics",
+          "Economic growth"
+        ],
+        "host_venues": [
+          "PLOS ONE"
+        ],
+        "color": "#000000",
+        "size": 2
+      }
+    },
+    {
+      "source": "uid-msjones2",
+      "target": "https://orcid.org/0000-0002-3291-8428",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Agricultural & Resource Economics --- unknown",
+        "colleges": "College of Agriculture and Life Sciences --- unknown",
+        "buildings": "unknown --- unknown",
+        "roles": "student --- unknown",
+        "years": [
+          2021
+        ],
+        "year_recent": 2021,
+        "dois": [
+          "10.1371/journal.pone.0248263"
+        ],
+        "ncsu?": false,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          "Medicine",
+          "Interquartile range",
+          "Informed consent",
+          "Randomized controlled trial",
+          "Odds ratio",
+          "Psychological intervention",
+          "Confidence interval",
+          "High income countries",
+          "Demography",
+          "Developing country",
+          "Internal medicine",
+          "Psychiatry",
+          "Alternative medicine",
+          "Pathology",
+          "Sociology",
+          "Economics",
+          "Economic growth"
+        ],
+        "host_venues": [
+          "PLOS ONE"
+        ],
+        "color": "#000000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-msjones2",
+      "target": "https://orcid.org/0000-0002-4992-9895",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Agricultural & Resource Economics --- unknown",
+        "colleges": "College of Agriculture and Life Sciences --- unknown",
+        "buildings": "unknown --- unknown",
+        "roles": "student --- unknown",
+        "years": [
+          2021
+        ],
+        "year_recent": 2021,
+        "dois": [
+          "10.1371/journal.pone.0248263"
+        ],
+        "ncsu?": false,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          "Medicine",
+          "Interquartile range",
+          "Informed consent",
+          "Randomized controlled trial",
+          "Odds ratio",
+          "Psychological intervention",
+          "Confidence interval",
+          "High income countries",
+          "Demography",
+          "Developing country",
+          "Internal medicine",
+          "Psychiatry",
+          "Alternative medicine",
+          "Pathology",
+          "Sociology",
+          "Economics",
+          "Economic growth"
+        ],
+        "host_venues": [
+          "PLOS ONE"
+        ],
+        "color": "#000000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-msjones2",
+      "target": "https://orcid.org/0000-0002-6034-7976",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Agricultural & Resource Economics --- unknown",
+        "colleges": "College of Agriculture and Life Sciences --- unknown",
+        "buildings": "unknown --- unknown",
+        "roles": "student --- unknown",
+        "years": [
+          2021
+        ],
+        "year_recent": 2021,
+        "dois": [
+          "10.1371/journal.pone.0248263"
+        ],
+        "ncsu?": false,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          "Medicine",
+          "Interquartile range",
+          "Informed consent",
+          "Randomized controlled trial",
+          "Odds ratio",
+          "Psychological intervention",
+          "Confidence interval",
+          "High income countries",
+          "Demography",
+          "Developing country",
+          "Internal medicine",
+          "Psychiatry",
+          "Alternative medicine",
+          "Pathology",
+          "Sociology",
+          "Economics",
+          "Economic growth"
+        ],
+        "host_venues": [
+          "PLOS ONE"
+        ],
+        "color": "#000000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-msjones2",
+      "target": "https://orcid.org/0000-0002-8727-8640",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Agricultural & Resource Economics --- unknown",
+        "colleges": "College of Agriculture and Life Sciences --- unknown",
+        "buildings": "unknown --- unknown",
+        "roles": "student --- unknown",
+        "years": [
+          2021
+        ],
+        "year_recent": 2021,
+        "dois": [
+          "10.1371/journal.pone.0248263"
+        ],
+        "ncsu?": false,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          "Medicine",
+          "Interquartile range",
+          "Informed consent",
+          "Randomized controlled trial",
+          "Odds ratio",
+          "Psychological intervention",
+          "Confidence interval",
+          "High income countries",
+          "Demography",
+          "Developing country",
+          "Internal medicine",
+          "Psychiatry",
+          "Alternative medicine",
+          "Pathology",
+          "Sociology",
+          "Economics",
+          "Economic growth"
+        ],
+        "host_venues": [
+          "PLOS ONE"
+        ],
+        "color": "#000000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-msjones2",
+      "target": "https://orcid.org/0000-0001-8795-5165",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Agricultural & Resource Economics --- unknown",
+        "colleges": "College of Agriculture and Life Sciences --- unknown",
+        "buildings": "unknown --- unknown",
+        "roles": "student --- unknown",
+        "years": [
+          2021
+        ],
+        "year_recent": 2021,
+        "dois": [
+          "10.1371/journal.pone.0248263"
+        ],
+        "ncsu?": false,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          "Medicine",
+          "Interquartile range",
+          "Informed consent",
+          "Randomized controlled trial",
+          "Odds ratio",
+          "Psychological intervention",
+          "Confidence interval",
+          "High income countries",
+          "Demography",
+          "Developing country",
+          "Internal medicine",
+          "Psychiatry",
+          "Alternative medicine",
+          "Pathology",
+          "Sociology",
+          "Economics",
+          "Economic growth"
+        ],
+        "host_venues": [
+          "PLOS ONE"
+        ],
+        "color": "#000000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-msjones2",
+      "target": "uid-rmrejesu",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Agricultural & Resource Economics == Agricultural & Resource Economics",
+        "colleges": "College of Agriculture and Life Sciences == College of Agriculture and Life Sciences",
+        "buildings": "Nelson Hall --- unknown",
+        "roles": "faculty -- student",
+        "years": [
+          2020
+        ],
+        "year_recent": 2020,
+        "dois": [
+          "10.1002/ps.5912"
+        ],
+        "ncsu?": true,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": true,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          "Pest Management Science"
+        ],
+        "color": "#CC0000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-msjones2",
+      "target": "uid-jfbaltze",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Agricultural & Resource Economics -- Plant Pathology",
+        "colleges": "College of Agriculture and Life Sciences == College of Agriculture and Life Sciences",
+        "buildings": "James B Hunt Jr Centennial Cam --- unknown",
+        "roles": "staff -- student",
+        "years": [
+          2018
+        ],
+        "year_recent": 2018,
+        "dois": [
+          "10.1080/23299460.2017.1407910"
+        ],
+        "ncsu?": true,
+        "cross_college?": false,
+        "cross_department?": true,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": true,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          "Software deployment",
+          "Gene drive",
+          "Agriculture",
+          "Business",
+          "Biology",
+          "Engineering",
+          "Ecology",
+          "Gene",
+          "Genetics",
+          "CRISPR",
+          "Software engineering"
+        ],
+        "host_venues": [
+          "Journal of Responsible Innovation"
+        ],
+        "color": "#CC0000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-msjones2",
+      "target": "https://orcid.org/0000-0002-3472-1100",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Agricultural & Resource Economics --- unknown",
+        "colleges": "College of Agriculture and Life Sciences --- unknown",
+        "buildings": "unknown --- unknown",
+        "roles": "student --- unknown",
+        "years": [
+          2018
+        ],
+        "year_recent": 2018,
+        "dois": [
+          "10.1080/23299460.2017.1407910"
+        ],
+        "ncsu?": true,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          "Software deployment",
+          "Gene drive",
+          "Agriculture",
+          "Business",
+          "Biology",
+          "Engineering",
+          "Ecology",
+          "Gene",
+          "Genetics",
+          "CRISPR",
+          "Software engineering"
+        ],
+        "host_venues": [
+          "Journal of Responsible Innovation"
+        ],
+        "color": "#CC0000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-msjones2",
+      "target": "uid-jeelsens",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Agricultural & Resource Economics -- Plant Pathology",
+        "colleges": "College of Agriculture and Life Sciences == College of Agriculture and Life Sciences",
+        "buildings": "unknown --- unknown",
+        "roles": "student == student",
+        "years": [
+          2018
+        ],
+        "year_recent": 2018,
+        "dois": [
+          "10.1080/23299460.2017.1407910"
+        ],
+        "ncsu?": true,
+        "cross_college?": false,
+        "cross_department?": true,
+        "cross_unit?": true,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          "Software deployment",
+          "Gene drive",
+          "Agriculture",
+          "Business",
+          "Biology",
+          "Engineering",
+          "Ecology",
+          "Gene",
+          "Genetics",
+          "CRISPR",
+          "Software engineering"
+        ],
+        "host_venues": [
+          "Journal of Responsible Innovation"
+        ],
+        "color": "#CC0000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-msjones2",
+      "target": "uid-negutzma",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Agricultural & Resource Economics -- Plant Pathology",
+        "colleges": "College of Agriculture and Life Sciences == College of Agriculture and Life Sciences",
+        "buildings": "Thomas Hall --- unknown",
+        "roles": "staff -- student",
+        "years": [
+          2018
+        ],
+        "year_recent": 2018,
+        "dois": [
+          "10.1080/23299460.2017.1407910"
+        ],
+        "ncsu?": true,
+        "cross_college?": false,
+        "cross_department?": true,
+        "cross_unit?": true,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          "Software deployment",
+          "Gene drive",
+          "Agriculture",
+          "Business",
+          "Biology",
+          "Engineering",
+          "Ecology",
+          "Gene",
+          "Genetics",
+          "CRISPR",
+          "Software engineering"
+        ],
+        "host_venues": [
+          "Journal of Responsible Innovation"
+        ],
+        "color": "#CC0000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-msjones2",
+      "target": "https://orcid.org/0000-0002-1642-7442",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Agricultural & Resource Economics --- unknown",
+        "colleges": "College of Agriculture and Life Sciences --- unknown",
+        "buildings": "unknown --- unknown",
+        "roles": "student --- unknown",
+        "years": [
+          2018
+        ],
+        "year_recent": 2018,
+        "dois": [
+          "10.1080/23299460.2017.1407910"
+        ],
+        "ncsu?": true,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          "Software deployment",
+          "Gene drive",
+          "Agriculture",
+          "Business",
+          "Biology",
+          "Engineering",
+          "Ecology",
+          "Gene",
+          "Genetics",
+          "CRISPR",
+          "Software engineering"
+        ],
+        "host_venues": [
+          "Journal of Responsible Innovation"
+        ],
+        "color": "#CC0000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-msjones2",
+      "target": "uid-jdsudwee",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Agricultural & Resource Economics -- Public and International Affairs",
+        "colleges": "College of Agriculture and Life Sciences -- College of Humanities and Social Sciences",
+        "buildings": "unknown --- unknown",
+        "roles": "student == student",
+        "years": [
+          2018
+        ],
+        "year_recent": 2018,
+        "dois": [
+          "10.1080/23299460.2017.1407910"
+        ],
+        "ncsu?": true,
+        "cross_college?": true,
+        "cross_department?": true,
+        "cross_unit?": true,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          "Software deployment",
+          "Gene drive",
+          "Agriculture",
+          "Business",
+          "Biology",
+          "Engineering",
+          "Ecology",
+          "Gene",
+          "Genetics",
+          "CRISPR",
+          "Software engineering"
+        ],
+        "host_venues": [
+          "Journal of Responsible Innovation"
+        ],
+        "color": "#FAC800",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-msjones2",
+      "target": "corinneealexander",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Agricultural & Resource Economics --- unknown",
+        "colleges": "College of Agriculture and Life Sciences --- unknown",
+        "buildings": "unknown --- unknown",
+        "roles": "student --- unknown",
+        "years": [
+          2018
+        ],
+        "year_recent": 2018,
+        "dois": [
+          "10.1016/j.cropro.2017.10.015"
+        ],
+        "ncsu?": false,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          "Crop Protection"
+        ],
+        "color": "#000000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-msjones2",
+      "target": "brucesmith",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Agricultural & Resource Economics --- unknown",
+        "colleges": "College of Agriculture and Life Sciences --- unknown",
+        "buildings": "unknown --- unknown",
+        "roles": "student --- unknown",
+        "years": [
+          2018
+        ],
+        "year_recent": 2018,
+        "dois": [
+          "10.1016/j.cropro.2017.10.015"
+        ],
+        "ncsu?": false,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          "Crop Protection"
+        ],
+        "color": "#000000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-msjones2",
+      "target": "abigailrmcrea",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Agricultural & Resource Economics --- unknown",
+        "colleges": "College of Agriculture and Life Sciences --- unknown",
+        "buildings": "unknown --- unknown",
+        "roles": "student --- unknown",
+        "years": [
+          2018
+        ],
+        "year_recent": 2018,
+        "dois": [
+          "10.1177/0009922817724399"
+        ],
+        "ncsu?": false,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          "Clinical Pediatrics"
+        ],
+        "color": "#000000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-msjones2",
+      "target": "meerakjairath",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Agricultural & Resource Economics --- unknown",
+        "colleges": "College of Agriculture and Life Sciences --- unknown",
+        "buildings": "unknown --- unknown",
+        "roles": "student --- unknown",
+        "years": [
+          2018
+        ],
+        "year_recent": 2018,
+        "dois": [
+          "10.1177/0009922817724399"
+        ],
+        "ncsu?": false,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          "Clinical Pediatrics"
+        ],
+        "color": "#000000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-msjones2",
+      "target": "kathleenkbradford",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Agricultural & Resource Economics --- unknown",
+        "colleges": "College of Agriculture and Life Sciences --- unknown",
+        "buildings": "unknown --- unknown",
+        "roles": "student --- unknown",
+        "years": [
+          2018
+        ],
+        "year_recent": 2018,
+        "dois": [
+          "10.1177/0009922817724399"
+        ],
+        "ncsu?": false,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          "Clinical Pediatrics"
+        ],
+        "color": "#000000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-msjones2",
+      "target": "https://orcid.org/0000-0001-9921-0419",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Agricultural & Resource Economics --- unknown",
+        "colleges": "College of Agriculture and Life Sciences --- unknown",
+        "buildings": "unknown --- unknown",
+        "roles": "student --- unknown",
+        "years": [
+          2018
+        ],
+        "year_recent": 2018,
+        "dois": [
+          "10.1177/0009922817724399"
+        ],
+        "ncsu?": false,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          "Clinical Pediatrics"
+        ],
+        "color": "#000000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-msjones2",
+      "target": "https://orcid.org/0000-0002-1901-6550",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Agricultural & Resource Economics --- unknown",
+        "colleges": "College of Agriculture and Life Sciences --- unknown",
+        "buildings": "unknown --- unknown",
+        "roles": "student --- unknown",
+        "years": [
+          2015
+        ],
+        "year_recent": 2015,
+        "dois": [
+          "10.1093/poq/nfv015"
+        ],
+        "ncsu?": false,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          "Public Opinion Quarterly"
+        ],
+        "color": "#000000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-msjones2",
+      "target": "https://orcid.org/0000-0003-2984-8278",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Agricultural & Resource Economics --- unknown",
+        "colleges": "College of Agriculture and Life Sciences --- unknown",
+        "buildings": "unknown --- unknown",
+        "roles": "student --- unknown",
+        "years": [
+          2015
+        ],
+        "year_recent": 2015,
+        "dois": [
+          "10.1093/poq/nfv015"
+        ],
+        "ncsu?": false,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          "Public Opinion Quarterly"
+        ],
+        "color": "#000000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-jfbaltze",
+      "target": "https://orcid.org/0000-0002-3472-1100",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Plant Pathology --- unknown",
+        "colleges": "College of Agriculture and Life Sciences --- unknown",
+        "buildings": "James B Hunt Jr Centennial Cam --- unknown",
+        "roles": "staff --- unknown",
+        "years": [
+          2018
+        ],
+        "year_recent": 2018,
+        "dois": [
+          "10.1080/23299460.2017.1407910"
+        ],
+        "ncsu?": true,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          "Software deployment",
+          "Gene drive",
+          "Agriculture",
+          "Business",
+          "Biology",
+          "Engineering",
+          "Ecology",
+          "Gene",
+          "Genetics",
+          "CRISPR",
+          "Software engineering"
+        ],
+        "host_venues": [
+          "Journal of Responsible Innovation"
+        ],
+        "color": "#CC0000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-jfbaltze",
+      "target": "uid-jeelsens",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Plant Pathology == Plant Pathology",
+        "colleges": "College of Agriculture and Life Sciences == College of Agriculture and Life Sciences",
+        "buildings": "James B Hunt Jr Centennial Cam --- unknown",
+        "roles": "staff -- student",
+        "years": [
+          2018
+        ],
+        "year_recent": 2018,
+        "dois": [
+          "10.1080/23299460.2017.1407910"
+        ],
+        "ncsu?": true,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          "Software deployment",
+          "Gene drive",
+          "Agriculture",
+          "Business",
+          "Biology",
+          "Engineering",
+          "Ecology",
+          "Gene",
+          "Genetics",
+          "CRISPR",
+          "Software engineering"
+        ],
+        "host_venues": [
+          "Journal of Responsible Innovation"
+        ],
+        "color": "#CC0000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-jfbaltze",
+      "target": "uid-negutzma",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Plant Pathology == Plant Pathology",
+        "colleges": "College of Agriculture and Life Sciences == College of Agriculture and Life Sciences",
+        "buildings": "James B Hunt Jr Centennial Cam -- Thomas Hall",
+        "roles": "staff == staff",
+        "years": [
+          2018
+        ],
+        "year_recent": 2018,
+        "dois": [
+          "10.1080/23299460.2017.1407910"
+        ],
+        "ncsu?": true,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": true,
+        "concepts": [
+          "Software deployment",
+          "Gene drive",
+          "Agriculture",
+          "Business",
+          "Biology",
+          "Engineering",
+          "Ecology",
+          "Gene",
+          "Genetics",
+          "CRISPR",
+          "Software engineering"
+        ],
+        "host_venues": [
+          "Journal of Responsible Innovation"
+        ],
+        "color": "#CC0000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-jfbaltze",
+      "target": "https://orcid.org/0000-0002-1642-7442",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Plant Pathology --- unknown",
+        "colleges": "College of Agriculture and Life Sciences --- unknown",
+        "buildings": "James B Hunt Jr Centennial Cam --- unknown",
+        "roles": "staff --- unknown",
+        "years": [
+          2018
+        ],
+        "year_recent": 2018,
+        "dois": [
+          "10.1080/23299460.2017.1407910"
+        ],
+        "ncsu?": true,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          "Software deployment",
+          "Gene drive",
+          "Agriculture",
+          "Business",
+          "Biology",
+          "Engineering",
+          "Ecology",
+          "Gene",
+          "Genetics",
+          "CRISPR",
+          "Software engineering"
+        ],
+        "host_venues": [
+          "Journal of Responsible Innovation"
+        ],
+        "color": "#CC0000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-jfbaltze",
+      "target": "uid-jdsudwee",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Plant Pathology -- Public and International Affairs",
+        "colleges": "College of Agriculture and Life Sciences -- College of Humanities and Social Sciences",
+        "buildings": "James B Hunt Jr Centennial Cam --- unknown",
+        "roles": "staff -- student",
+        "years": [
+          2018
+        ],
+        "year_recent": 2018,
+        "dois": [
+          "10.1080/23299460.2017.1407910"
+        ],
+        "ncsu?": true,
+        "cross_college?": true,
+        "cross_department?": true,
+        "cross_unit?": true,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          "Software deployment",
+          "Gene drive",
+          "Agriculture",
+          "Business",
+          "Biology",
+          "Engineering",
+          "Ecology",
+          "Gene",
+          "Genetics",
+          "CRISPR",
+          "Software engineering"
+        ],
+        "host_venues": [
+          "Journal of Responsible Innovation"
+        ],
+        "color": "#FAC800",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-jeelsens",
+      "target": "https://orcid.org/0000-0002-3472-1100",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Plant Pathology --- unknown",
+        "colleges": "College of Agriculture and Life Sciences --- unknown",
+        "buildings": "unknown --- unknown",
+        "roles": "student --- unknown",
+        "years": [
+          2018
+        ],
+        "year_recent": 2018,
+        "dois": [
+          "10.1080/23299460.2017.1407910"
+        ],
+        "ncsu?": true,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": false,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+
+        ],
+        "cross_building?": false,
+        "concepts": [
+          "Software deployment",
+          "Gene drive",
+          "Agriculture",
+          "Business",
+          "Biology",
+          "Engineering",
+          "Ecology",
+          "Gene",
+          "Genetics",
+          "CRISPR",
+          "Software engineering"
+        ],
+        "host_venues": [
+          "Journal of Responsible Innovation"
+        ],
+        "color": "#CC0000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-jeelsens",
+      "target": "uid-negutzma",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Plant Pathology == Plant Pathology",
+        "colleges": "College of Agriculture and Life Sciences == College of Agriculture and Life Sciences",
+        "buildings": "Thomas Hall --- unknown",
+        "roles": "staff -- student",
+        "years": [
+          2018
+        ],
+        "year_recent": 2018,
+        "dois": [
+          "10.1080/23299460.2017.1407910"
+        ],
+        "ncsu?": true,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": false,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+
+        ],
+        "cross_building?": false,
+        "concepts": [
+          "Software deployment",
+          "Gene drive",
+          "Agriculture",
+          "Business",
+          "Biology",
+          "Engineering",
+          "Ecology",
+          "Gene",
+          "Genetics",
+          "CRISPR",
+          "Software engineering"
+        ],
+        "host_venues": [
+          "Journal of Responsible Innovation"
+        ],
+        "color": "#CC0000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-jeelsens",
+      "target": "https://orcid.org/0000-0002-1642-7442",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Plant Pathology --- unknown",
+        "colleges": "College of Agriculture and Life Sciences --- unknown",
+        "buildings": "unknown --- unknown",
+        "roles": "student --- unknown",
+        "years": [
+          2018
+        ],
+        "year_recent": 2018,
+        "dois": [
+          "10.1080/23299460.2017.1407910"
+        ],
+        "ncsu?": true,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": false,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+
+        ],
+        "cross_building?": false,
+        "concepts": [
+          "Software deployment",
+          "Gene drive",
+          "Agriculture",
+          "Business",
+          "Biology",
+          "Engineering",
+          "Ecology",
+          "Gene",
+          "Genetics",
+          "CRISPR",
+          "Software engineering"
+        ],
+        "host_venues": [
+          "Journal of Responsible Innovation"
+        ],
+        "color": "#CC0000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-jeelsens",
+      "target": "uid-jdsudwee",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Plant Pathology -- Public and International Affairs",
+        "colleges": "College of Agriculture and Life Sciences -- College of Humanities and Social Sciences",
+        "buildings": "unknown --- unknown",
+        "roles": "student == student",
+        "years": [
+          2018
+        ],
+        "year_recent": 2018,
+        "dois": [
+          "10.1080/23299460.2017.1407910"
+        ],
+        "ncsu?": true,
+        "cross_college?": true,
+        "cross_department?": true,
+        "cross_unit?": true,
+        "cluster?": false,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+
+        ],
+        "cross_building?": false,
+        "concepts": [
+          "Software deployment",
+          "Gene drive",
+          "Agriculture",
+          "Business",
+          "Biology",
+          "Engineering",
+          "Ecology",
+          "Gene",
+          "Genetics",
+          "CRISPR",
+          "Software engineering"
+        ],
+        "host_venues": [
+          "Journal of Responsible Innovation"
+        ],
+        "color": "#FAC800",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-negutzma",
+      "target": "https://orcid.org/0000-0002-3472-1100",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Plant Pathology --- unknown",
+        "colleges": "College of Agriculture and Life Sciences --- unknown",
+        "buildings": "Thomas Hall --- unknown",
+        "roles": "staff --- unknown",
+        "years": [
+          2018
+        ],
+        "year_recent": 2018,
+        "dois": [
+          "10.1080/23299460.2017.1407910"
+        ],
+        "ncsu?": true,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": false,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+
+        ],
+        "cross_building?": false,
+        "concepts": [
+          "Software deployment",
+          "Gene drive",
+          "Agriculture",
+          "Business",
+          "Biology",
+          "Engineering",
+          "Ecology",
+          "Gene",
+          "Genetics",
+          "CRISPR",
+          "Software engineering"
+        ],
+        "host_venues": [
+          "Journal of Responsible Innovation"
+        ],
+        "color": "#CC0000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-negutzma",
+      "target": "https://orcid.org/0000-0002-1642-7442",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Plant Pathology --- unknown",
+        "colleges": "College of Agriculture and Life Sciences --- unknown",
+        "buildings": "Thomas Hall --- unknown",
+        "roles": "staff --- unknown",
+        "years": [
+          2018
+        ],
+        "year_recent": 2018,
+        "dois": [
+          "10.1080/23299460.2017.1407910"
+        ],
+        "ncsu?": true,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": false,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+
+        ],
+        "cross_building?": false,
+        "concepts": [
+          "Software deployment",
+          "Gene drive",
+          "Agriculture",
+          "Business",
+          "Biology",
+          "Engineering",
+          "Ecology",
+          "Gene",
+          "Genetics",
+          "CRISPR",
+          "Software engineering"
+        ],
+        "host_venues": [
+          "Journal of Responsible Innovation"
+        ],
+        "color": "#CC0000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-negutzma",
+      "target": "uid-jdsudwee",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Plant Pathology -- Public and International Affairs",
+        "colleges": "College of Agriculture and Life Sciences -- College of Humanities and Social Sciences",
+        "buildings": "Thomas Hall --- unknown",
+        "roles": "staff -- student",
+        "years": [
+          2018
+        ],
+        "year_recent": 2018,
+        "dois": [
+          "10.1080/23299460.2017.1407910"
+        ],
+        "ncsu?": true,
+        "cross_college?": true,
+        "cross_department?": true,
+        "cross_unit?": true,
+        "cluster?": false,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+
+        ],
+        "cross_building?": false,
+        "concepts": [
+          "Software deployment",
+          "Gene drive",
+          "Agriculture",
+          "Business",
+          "Biology",
+          "Engineering",
+          "Ecology",
+          "Gene",
+          "Genetics",
+          "CRISPR",
+          "Software engineering"
+        ],
+        "host_venues": [
+          "Journal of Responsible Innovation"
+        ],
+        "color": "#FAC800",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-jdsudwee",
+      "target": "https://orcid.org/0000-0002-3472-1100",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Public and International Affairs --- unknown",
+        "colleges": "College of Humanities and Social Sciences --- unknown",
+        "buildings": "unknown --- unknown",
+        "roles": "student --- unknown",
+        "years": [
+          2018
+        ],
+        "year_recent": 2018,
+        "dois": [
+          "10.1080/23299460.2017.1407910"
+        ],
+        "ncsu?": true,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": false,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+
+        ],
+        "cross_building?": false,
+        "concepts": [
+          "Software deployment",
+          "Gene drive",
+          "Agriculture",
+          "Business",
+          "Biology",
+          "Engineering",
+          "Ecology",
+          "Gene",
+          "Genetics",
+          "CRISPR",
+          "Software engineering"
+        ],
+        "host_venues": [
+          "Journal of Responsible Innovation"
+        ],
+        "color": "#CC0000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-jdsudwee",
+      "target": "https://orcid.org/0000-0002-1642-7442",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Public and International Affairs --- unknown",
+        "colleges": "College of Humanities and Social Sciences --- unknown",
+        "buildings": "unknown --- unknown",
+        "roles": "student --- unknown",
+        "years": [
+          2018
+        ],
+        "year_recent": 2018,
+        "dois": [
+          "10.1080/23299460.2017.1407910"
+        ],
+        "ncsu?": true,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": false,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+
+        ],
+        "cross_building?": false,
+        "concepts": [
+          "Software deployment",
+          "Gene drive",
+          "Agriculture",
+          "Business",
+          "Biology",
+          "Engineering",
+          "Ecology",
+          "Gene",
+          "Genetics",
+          "CRISPR",
+          "Software engineering"
+        ],
+        "host_venues": [
+          "Journal of Responsible Innovation"
+        ],
+        "color": "#CC0000",
+        "size": 1
+      }
+    }
+  ]
+}

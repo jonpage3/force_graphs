@@ -1,0 +1,3484 @@
+{
+  "options": {
+    "type": "undirected",
+    "multi": false,
+    "allowSelfLoops": false
+  },
+  "attributes": {
+    "creator": "Citation Index",
+    "lastModifiedDate": "2023-01-14"
+  },
+  "nodes": [
+    {
+      "key": "uid-dpdannel",
+      "attributes": {
+        "label": "D Dannels",
+        "name": "Deanna Dannels",
+        "known?": true,
+        "orcid?": false,
+        "ncsu?": true,
+        "affiliations": [
+          "North Carolina State University"
+        ],
+        "countries": [
+          "US"
+        ],
+        "uid": "dpdannel",
+        "url": "https://ci.lib.ncsu.edu/profiles/dpdannel",
+        "active?": true,
+        "department": "Communication",
+        "college": "College of Humanities and Social Sciences",
+        "ncsu_affiliations": [
+          "Communication",
+          "Genetic Engineering and Society",
+          "Communication Rhetoric and Digital Media",
+          "College of Humanities and Social Sciences Administration"
+        ],
+        "cluster?": true,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "role": "faculty",
+        "building": "Caldwell Hall",
+        "count": 47,
+        "oa_count": 14,
+        "years": [
+          2022,
+          2020,
+          2019,
+          2018,
+          2017,
+          2016,
+          2015,
+          2014,
+          2011,
+          2009,
+          2008,
+          2006,
+          2005,
+          2004,
+          2003,
+          2002,
+          2001,
+          2000
+        ],
+        "year_recent": 2022,
+        "article_concepts": [
+          "Art",
+          "Biochemistry",
+          "Biology",
+          "Center (category theory)",
+          "Chemistry",
+          "Cognitive psychology",
+          "Communication",
+          "Communicative competence",
+          "Competence (human resources)",
+          "Computer science",
+          "Context (archaeology)",
+          "Crystallography",
+          "Discipline",
+          "Engineering",
+          "Gene",
+          "Higher education",
+          "History",
+          "Honor",
+          "Internet privacy",
+          "Law",
+          "Linguistics",
+          "Literature",
+          "Mathematics education",
+          "Mechanical engineering",
+          "Media studies",
+          "Medicine",
+          "Multimedia",
+          "Ode",
+          "Paleontology",
+          "Pedagogy",
+          "Philosophy",
+          "Political science",
+          "Presentation (obstetrics)",
+          "Psychology",
+          "Publishing",
+          "Radiology",
+          "Raising (metalworking)",
+          "Scholarly communication",
+          "Social psychology",
+          "Social science",
+          "Sociology",
+          "Speech communication",
+          "Transition (genetics)",
+          "Visual arts"
+        ],
+        "host_venues": [
+          "Communication Education",
+          "International journal for the scholarship of teaching and learning",
+          "Journal of Business and Technical Communication"
+        ],
+        "color": "#FAC800",
+        "size": 20
+      }
+    },
+    {
+      "key": "anndarling",
+      "attributes": {
+        "label": "A Darling",
+        "name": "Ann Darling",
+        "known?": false,
+        "orcid?": null,
+        "ncsu?": false,
+        "affiliations": [
+          "University of Utah"
+        ],
+        "countries": [
+          "US"
+        ],
+        "color": "#BFBFBD",
+        "size": 10
+      }
+    },
+    {
+      "key": "ckylerudick",
+      "attributes": {
+        "label": "C Rudick",
+        "name": "C. Kyle Rudick",
+        "known?": false,
+        "orcid?": null,
+        "ncsu?": false,
+        "affiliations": [
+          "University of Northern Iowa"
+        ],
+        "countries": [
+          "US"
+        ],
+        "color": "#BFBFBD",
+        "size": 10
+      }
+    },
+    {
+      "key": "prpalmerton",
+      "attributes": {
+        "label": "P Palmerton",
+        "name": "P.R. Palmerton",
+        "known?": false,
+        "orcid?": null,
+        "ncsu?": null,
+        "affiliations": null,
+        "countries": null,
+        "color": "#BFBFBD",
+        "size": 10
+      }
+    },
+    {
+      "key": "lhgaffney",
+      "attributes": {
+        "label": "L Gaffney",
+        "name": "L.H. Gaffney",
+        "known?": false,
+        "orcid?": null,
+        "ncsu?": null,
+        "affiliations": null,
+        "countries": null,
+        "color": "#BFBFBD",
+        "size": 10
+      }
+    },
+    {
+      "key": "uid-canson",
+      "attributes": {
+        "label": "C Anson",
+        "name": "Chris Anson",
+        "known?": true,
+        "orcid?": false,
+        "ncsu?": true,
+        "affiliations": [
+          "North Carolina State University"
+        ],
+        "countries": [
+          "US"
+        ],
+        "uid": "canson",
+        "url": "https://ci.lib.ncsu.edu/profiles/canson",
+        "active?": true,
+        "department": "English",
+        "college": "College of Humanities and Social Sciences",
+        "ncsu_affiliations": [
+          "English",
+          "Communication Rhetoric and Digital Media"
+        ],
+        "cluster?": false,
+        "clusters": [
+
+        ],
+        "role": "faculty",
+        "building": "Tompkins Hall",
+        "count": 48,
+        "oa_count": 2,
+        "years": [
+          2020,
+          2019,
+          2017,
+          2016,
+          2015,
+          2013,
+          2012,
+          2011,
+          2010,
+          2009,
+          2008,
+          2007,
+          2006,
+          2005,
+          2004,
+          2003,
+          2002,
+          2000,
+          1999
+        ],
+        "year_recent": 2020,
+        "article_concepts": [
+          "Academic writing",
+          "Appearance of impropriety",
+          "Biology",
+          "Computer science",
+          "Context (archaeology)",
+          "Engineering",
+          "Engineering ethics",
+          "Law",
+          "Library science",
+          "Linguistics",
+          "Media studies",
+          "Paleontology",
+          "Paragraph",
+          "Pedagogy",
+          "Philosophy",
+          "Political science",
+          "Public relations",
+          "Publishing",
+          "Scientific writing",
+          "Sociology",
+          "Writing process"
+        ],
+        "host_venues": [
+          "Aila Review",
+          "Assessing Writing",
+          "Communication Education",
+          "Computers and Composition",
+          "Journal of Business and Technical Communication",
+          "Journal of Engineering Education",
+          "Learned Publishing",
+          "Rhetoric Society Quarterly",
+          "Utah State University Press eBooks"
+        ],
+        "color": "#FAC800",
+        "size": 10
+      }
+    },
+    {
+      "key": "uid-jilaboy",
+      "attributes": {
+        "label": "J Laboy",
+        "name": "Johanne Ivonne Laboy",
+        "known?": true,
+        "orcid?": false,
+        "ncsu?": true,
+        "affiliations": [
+          "North Carolina State University"
+        ],
+        "countries": [
+          "US"
+        ],
+        "uid": "jilaboy",
+        "url": "https://ci.lib.ncsu.edu/profiles/jilaboy",
+        "active?": false,
+        "department": "Communication",
+        "college": "College of Humanities and Social Sciences",
+        "ncsu_affiliations": [
+          "Communication"
+        ],
+        "cluster?": false,
+        "clusters": [
+
+        ],
+        "role": null,
+        "building": null,
+        "count": 3,
+        "oa_count": 0,
+        "years": [
+          2016,
+          2014,
+          2013
+        ],
+        "year_recent": 2016,
+        "article_concepts": [
+
+        ],
+        "host_venues": [
+          "International Journal of Information Management",
+          "Journal of Business and Technical Communication",
+          "Journal of Loss & Trauma"
+        ],
+        "color": "#FAC800",
+        "size": 10
+      }
+    },
+    {
+      "key": "uid-lscarnei",
+      "attributes": {
+        "label": "L Carneiro",
+        "name": "Larissa S. Carneiro",
+        "known?": true,
+        "orcid?": false,
+        "ncsu?": true,
+        "affiliations": [
+          "North Carolina State University"
+        ],
+        "countries": [
+          "US"
+        ],
+        "uid": "lscarnei",
+        "url": "https://ci.lib.ncsu.edu/profiles/lscarnei",
+        "active?": false,
+        "department": "Communication",
+        "college": "College of Humanities and Social Sciences",
+        "ncsu_affiliations": [
+          "Communication"
+        ],
+        "cluster?": false,
+        "clusters": [
+
+        ],
+        "role": null,
+        "building": null,
+        "count": 4,
+        "oa_count": 0,
+        "years": [
+          2016,
+          2015,
+          2014
+        ],
+        "year_recent": 2016,
+        "article_concepts": [
+
+        ],
+        "host_venues": [
+          "Journal of Business and Technical Communication",
+          "Visual Communication"
+        ],
+        "color": "#FAC800",
+        "size": 10
+      }
+    },
+    {
+      "key": "maryctoale",
+      "attributes": {
+        "label": "M Toale",
+        "name": "Mary C. Toale",
+        "known?": false,
+        "orcid?": null,
+        "ncsu?": false,
+        "affiliations": [
+          "State University of New York at Oswego"
+        ],
+        "countries": [
+          "US"
+        ],
+        "color": "#BFBFBD",
+        "size": 10
+      }
+    },
+    {
+      "key": "philipmbacklund",
+      "attributes": {
+        "label": "P Backlund",
+        "name": "Philip M. Backlund",
+        "known?": false,
+        "orcid?": null,
+        "ncsu?": false,
+        "affiliations": [
+          "Central Washington University"
+        ],
+        "countries": [
+          "US"
+        ],
+        "color": "#BFBFBD",
+        "size": 10
+      }
+    },
+    {
+      "key": "johngmfrederick",
+      "attributes": {
+        "label": "J Frederick",
+        "name": "John G. M. Frederick",
+        "known?": false,
+        "orcid?": null,
+        "ncsu?": false,
+        "affiliations": [
+          "University of North Carolina at Charlotte"
+        ],
+        "countries": [
+          "US"
+        ],
+        "color": "#BFBFBD",
+        "size": 10
+      }
+    },
+    {
+      "key": "https://orcid.org/0000-0002-3865-5219",
+      "attributes": {
+        "label": "B Love",
+        "name": "Brad Love",
+        "known?": false,
+        "orcid?": null,
+        "ncsu?": false,
+        "affiliations": [
+          "The University of Texas at Austin"
+        ],
+        "countries": [
+          "US"
+        ],
+        "color": "#BFBFBD",
+        "size": 10
+      }
+    },
+    {
+      "key": "https://orcid.org/0000-0002-8104-0850",
+      "attributes": {
+        "label": "A Gaffney",
+        "name": "Amy L. Housley Gaffney",
+        "known?": false,
+        "orcid?": null,
+        "ncsu?": false,
+        "affiliations": [
+
+        ],
+        "countries": [
+
+        ],
+        "color": "#BFBFBD",
+        "size": 10
+      }
+    },
+    {
+      "key": "annldarling",
+      "attributes": {
+        "label": "A Darling",
+        "name": "Ann L. Darling",
+        "known?": false,
+        "orcid?": null,
+        "ncsu?": false,
+        "affiliations": [
+
+        ],
+        "countries": [
+
+        ],
+        "color": "#BFBFBD",
+        "size": 10
+      }
+    },
+    {
+      "key": "deannalfassett",
+      "attributes": {
+        "label": "D Fassett",
+        "name": "Deanna L. Fassett",
+        "known?": false,
+        "orcid?": null,
+        "ncsu?": false,
+        "affiliations": [
+
+        ],
+        "countries": [
+
+        ],
+        "color": "#BFBFBD",
+        "size": 10
+      }
+    },
+    {
+      "key": "jeffkerssengriep",
+      "attributes": {
+        "label": "J Kerssen-Griep",
+        "name": "Jeff Kerssen-Griep",
+        "known?": false,
+        "orcid?": null,
+        "ncsu?": false,
+        "affiliations": [
+
+        ],
+        "countries": [
+
+        ],
+        "color": "#BFBFBD",
+        "size": 10
+      }
+    },
+    {
+      "key": "derekrlane",
+      "attributes": {
+        "label": "D Lane",
+        "name": "Derek R. Lane",
+        "known?": false,
+        "orcid?": null,
+        "ncsu?": false,
+        "affiliations": [
+
+        ],
+        "countries": [
+
+        ],
+        "color": "#BFBFBD",
+        "size": 10
+      }
+    },
+    {
+      "key": "timothypmottet",
+      "attributes": {
+        "label": "T Mottet",
+        "name": "Timothy P. Mottet",
+        "known?": false,
+        "orcid?": null,
+        "ncsu?": false,
+        "affiliations": [
+
+        ],
+        "countries": [
+
+        ],
+        "color": "#BFBFBD",
+        "size": 10
+      }
+    },
+    {
+      "key": "keithnainby",
+      "attributes": {
+        "label": "K Nainby",
+        "name": "Keith Nainby",
+        "known?": false,
+        "orcid?": null,
+        "ncsu?": false,
+        "affiliations": [
+
+        ],
+        "countries": [
+
+        ],
+        "color": "#BFBFBD",
+        "size": 10
+      }
+    },
+    {
+      "key": "https://orcid.org/0000-0003-4668-4359",
+      "attributes": {
+        "label": "D Sellnow",
+        "name": "Deanna D. Sellnow",
+        "known?": false,
+        "orcid?": null,
+        "ncsu?": false,
+        "affiliations": [
+
+        ],
+        "countries": [
+
+        ],
+        "color": "#BFBFBD",
+        "size": 10
+      }
+    },
+    {
+      "key": "u-9365",
+      "attributes": {
+        "label": "K Martin",
+        "name": "Kelly Norris Martin",
+        "known?": true,
+        "orcid?": false,
+        "ncsu?": true,
+        "affiliations": [
+          "North Carolina State University"
+        ],
+        "countries": [
+          "US"
+        ],
+        "url": "https://ci.lib.ncsu.edu/profiles/9365",
+        "active?": false,
+        "department": "Communication Rhetoric and Digital Media",
+        "college": "College of Humanities and Social Sciences",
+        "ncsu_affiliations": [
+          "Communication Rhetoric and Digital Media"
+        ],
+        "cluster?": false,
+        "clusters": [
+
+        ],
+        "role": null,
+        "building": null,
+        "count": 3,
+        "oa_count": 1,
+        "years": [
+          2011,
+          2008
+        ],
+        "year_recent": 2011,
+        "article_concepts": [
+          "Biology",
+          "Communicative competence",
+          "Competence (human resources)",
+          "Computer science",
+          "Context (archaeology)",
+          "Discipline",
+          "Medicine",
+          "Multimedia",
+          "Paleontology",
+          "Pedagogy",
+          "Presentation (obstetrics)",
+          "Psychology",
+          "Radiology",
+          "Social psychology",
+          "Social science",
+          "Sociology"
+        ],
+        "host_venues": [
+          "Design Issues",
+          "International journal for the scholarship of teaching and learning",
+          "Journal of Business and Technical Communication"
+        ],
+        "color": "#FAC800",
+        "size": 10
+      }
+    },
+    {
+      "key": "u-5414",
+      "attributes": {
+        "label": "V Lee",
+        "name": "Virginia S. Lee",
+        "known?": true,
+        "orcid?": false,
+        "ncsu?": true,
+        "affiliations": [
+          "North Carolina State University"
+        ],
+        "countries": [
+          "US"
+        ],
+        "url": "https://ci.lib.ncsu.edu/profiles/5414",
+        "active?": false,
+        "department": "Educational Research & Leadership & Counselor Education",
+        "college": "College of Education",
+        "ncsu_affiliations": [
+          "Educational Research & Leadership & Counselor Education"
+        ],
+        "cluster?": false,
+        "clusters": [
+
+        ],
+        "role": null,
+        "building": null,
+        "count": 1,
+        "oa_count": 0,
+        "years": [
+          2004
+        ],
+        "year_recent": 2004,
+        "article_concepts": [
+
+        ],
+        "host_venues": [
+
+        ],
+        "color": "#D14905",
+        "size": 10
+      }
+    },
+    {
+      "key": "uid-dbgreene",
+      "attributes": {
+        "label": "D Greene",
+        "name": "David Greene",
+        "known?": true,
+        "orcid?": false,
+        "ncsu?": true,
+        "affiliations": [
+          "North Carolina State University"
+        ],
+        "countries": [
+          "US"
+        ],
+        "uid": "dbgreene",
+        "url": "https://ci.lib.ncsu.edu/profiles/dbgreene",
+        "active?": true,
+        "department": "Multidisciplinary Studies",
+        "college": "College of Humanities and Social Sciences",
+        "ncsu_affiliations": [
+          "Multidisciplinary Studies",
+          "Interdisciplinary Studies"
+        ],
+        "cluster?": false,
+        "clusters": [
+
+        ],
+        "role": "faculty",
+        "building": null,
+        "count": 10,
+        "oa_count": 0,
+        "years": [
+          2012,
+          2010,
+          2009,
+          2007,
+          2006,
+          2005,
+          2004,
+          2000
+        ],
+        "year_recent": 2012,
+        "article_concepts": [
+
+        ],
+        "host_venues": [
+
+        ],
+        "color": "#FAC800",
+        "size": 10
+      }
+    },
+    {
+      "key": "djwellman",
+      "attributes": {
+        "label": "D Wellman",
+        "name": "D. J. Wellman",
+        "known?": false,
+        "orcid?": null,
+        "ncsu?": null,
+        "affiliations": null,
+        "countries": null,
+        "color": "#BFBFBD",
+        "size": 10
+      }
+    },
+    {
+      "key": "al",
+      "attributes": {
+        "label": " al.",
+        "name": " al.",
+        "known?": false,
+        "orcid?": null,
+        "ncsu?": null,
+        "affiliations": null,
+        "countries": null,
+        "color": "#BFBFBD",
+        "size": 10
+      }
+    },
+    {
+      "key": "uid-lgbullar",
+      "attributes": {
+        "label": "L Bullard",
+        "name": "Lisa Bullard",
+        "known?": true,
+        "orcid?": true,
+        "ncsu?": true,
+        "affiliations": [
+          "North Carolina State University"
+        ],
+        "countries": [
+          "US"
+        ],
+        "uid": "lgbullar",
+        "url": "https://ci.lib.ncsu.edu/profiles/lgbullar",
+        "orcid": "0000-0002-7488-2275",
+        "active?": true,
+        "department": "Chemical and Biomolecular Engineering",
+        "college": "College of Engineering",
+        "ncsu_affiliations": [
+          "Chemical and Biomolecular Engineering"
+        ],
+        "cluster?": false,
+        "clusters": [
+
+        ],
+        "role": "faculty",
+        "building": "Engineering Building I (EB1)",
+        "count": 41,
+        "oa_count": 2,
+        "years": [
+          2019,
+          2017,
+          2016,
+          2015,
+          2014,
+          2013,
+          2012,
+          2011,
+          2010,
+          2008,
+          2007,
+          2005,
+          2003,
+          2001,
+          1993,
+          1992,
+          1987
+        ],
+        "year_recent": 2019,
+        "article_concepts": [
+
+        ],
+        "host_venues": [
+          "Academy of Management Learning and Education",
+          "College Teaching",
+          "Communication Education",
+          "Computers & Chemical Engineering",
+          "Hazardous waste and hazardous materials"
+        ],
+        "color": "#990000",
+        "size": 10
+      }
+    },
+    {
+      "key": "uid-peretti",
+      "attributes": {
+        "label": "S Peretti",
+        "name": "Steven Peretti",
+        "known?": true,
+        "orcid?": false,
+        "ncsu?": true,
+        "affiliations": [
+          "North Carolina State University"
+        ],
+        "countries": [
+          "US"
+        ],
+        "uid": "peretti",
+        "url": "https://ci.lib.ncsu.edu/profiles/peretti",
+        "active?": true,
+        "department": "Chemical and Biomolecular Engineering",
+        "college": "College of Engineering",
+        "ncsu_affiliations": [
+          "Chemical and Biomolecular Engineering"
+        ],
+        "cluster?": false,
+        "clusters": [
+
+        ],
+        "role": "faculty",
+        "building": "Engineering Building I (EB1)",
+        "count": 49,
+        "oa_count": 6,
+        "years": [
+          2018,
+          2017,
+          2016,
+          2015,
+          2013,
+          2012,
+          2005,
+          2003,
+          2002,
+          2000,
+          1999,
+          1998,
+          1994,
+          1993,
+          1992,
+          1991,
+          1990,
+          1989,
+          1988,
+          1987,
+          1986
+        ],
+        "year_recent": 2018,
+        "article_concepts": [
+          "Anatomy",
+          "Aqueous medium",
+          "Aqueous solution",
+          "Biology",
+          "Biophysics",
+          "Catalysis",
+          "Catalyst support",
+          "Chemical engineering",
+          "Chemistry",
+          "Deposition (geology)",
+          "Ecology",
+          "Engineering",
+          "Geology",
+          "Hydrodeoxygenation",
+          "Internal medicine",
+          "Lignin",
+          "Lung",
+          "Materials science",
+          "Medicine",
+          "Metallurgy",
+          "Meteorology",
+          "Mucociliary clearance",
+          "Mucus",
+          "Nickel",
+          "Organic chemistry",
+          "Paleontology",
+          "Physics",
+          "Precipitation",
+          "Sediment",
+          "Selectivity"
+        ],
+        "host_venues": [
+          "Acta Psychiatrica Scandinavica",
+          "Annals of the New York Academy of Sciences",
+          "Applied Biochemistry and Biotechnology",
+          "Applied Catalysis A-general",
+          "Bioresource Technology",
+          "Biotechnology Letters",
+          "Biotechnology Progress",
+          "Biotechnology Techniques",
+          "Biotechnology and Bioengineering",
+          "Communication Education",
+          "Energy for Sustainable Development",
+          "Enzyme and microbial technology",
+          "Green Chemistry",
+          "Journal of Clinical Investigation",
+          "Journal of Membrane Science",
+          "Plant Cell Reports",
+          "RSC Advances"
+        ],
+        "color": "#990000",
+        "size": 10
+      }
+    },
+    {
+      "key": "pberardinelle",
+      "attributes": {
+        "label": "P Berardinelle",
+        "name": "P. Berardinelle",
+        "known?": false,
+        "orcid?": null,
+        "ncsu?": null,
+        "affiliations": null,
+        "countries": null,
+        "color": "#BFBFBD",
+        "size": 10
+      }
+    },
+    {
+      "key": "nkleid",
+      "attributes": {
+        "label": "N Kleid",
+        "name": "N. Kleid",
+        "known?": false,
+        "orcid?": null,
+        "ncsu?": null,
+        "affiliations": null,
+        "countries": null,
+        "color": "#BFBFBD",
+        "size": 10
+      }
+    },
+    {
+      "key": "dkmeic",
+      "attributes": {
+        "label": "D Kmeic",
+        "name": "D. Kmeic",
+        "known?": false,
+        "orcid?": null,
+        "ncsu?": null,
+        "affiliations": null,
+        "countries": null,
+        "color": "#BFBFBD",
+        "size": 10
+      }
+    },
+    {
+      "key": "uid-mpc",
+      "attributes": {
+        "label": "M Carter",
+        "name": "Mike Carter",
+        "known?": true,
+        "orcid?": false,
+        "ncsu?": true,
+        "affiliations": [
+          "North Carolina State University"
+        ],
+        "countries": [
+          "US"
+        ],
+        "uid": "mpc",
+        "url": "https://ci.lib.ncsu.edu/profiles/mpc",
+        "active?": true,
+        "department": "English",
+        "college": "College of Humanities and Social Sciences",
+        "ncsu_affiliations": [
+          "English",
+          "Communication Rhetoric and Digital Media",
+          "Graduate School Administration"
+        ],
+        "cluster?": false,
+        "clusters": [
+
+        ],
+        "role": "faculty",
+        "building": "Textiles Complex",
+        "count": 13,
+        "oa_count": 2,
+        "years": [
+          2021,
+          2016,
+          2011,
+          2007,
+          2005,
+          2004,
+          2003,
+          2001,
+          1998
+        ],
+        "year_recent": 2021,
+        "article_concepts": [
+
+        ],
+        "host_venues": [
+          "Conference on Software Engineering Education and Training",
+          "Journal of Business and Technical Communication",
+          "Written Communication"
+        ],
+        "color": "#FAC800",
+        "size": 10
+      }
+    },
+    {
+      "key": "uid-jrust",
+      "attributes": {
+        "label": "J Rust",
+        "name": "Jon Rust",
+        "known?": true,
+        "orcid?": false,
+        "ncsu?": true,
+        "affiliations": [
+          "North Carolina State University"
+        ],
+        "countries": [
+          "US"
+        ],
+        "uid": "jrust",
+        "url": "https://ci.lib.ncsu.edu/profiles/jrust",
+        "active?": true,
+        "department": "Textile Engineering, Chemistry & Science",
+        "college": "Wilson College of Textiles",
+        "ncsu_affiliations": [
+          "Textile Engineering, Chemistry & Science"
+        ],
+        "cluster?": false,
+        "clusters": [
+
+        ],
+        "role": "faculty",
+        "building": "Textiles Complex",
+        "count": 36,
+        "oa_count": 7,
+        "years": [
+          2014,
+          2005,
+          2003,
+          2001,
+          2000,
+          1999,
+          1998,
+          1996,
+          1995,
+          1994,
+          1993,
+          1992,
+          1991,
+          1990,
+          1988,
+          1986,
+          0
+        ],
+        "year_recent": 2014,
+        "article_concepts": [
+          "Artificial intelligence",
+          "Calibration",
+          "Composite material",
+          "Computer science",
+          "Computer vision",
+          "Digital image processing",
+          "Fiber",
+          "Image (mathematics)",
+          "Image processing",
+          "Length measurement",
+          "Materials science",
+          "Mathematics",
+          "Optics",
+          "Physics",
+          "Statistics"
+        ],
+        "host_venues": [
+          "Isa Transactions",
+          "Journal of Biomedical Materials Research Part B",
+          "Journal of The Textile Institute",
+          "Textile Research Journal"
+        ],
+        "color": "#008473",
+        "size": 10
+      }
+    }
+  ],
+  "edges": [
+    {
+      "source": "uid-dpdannel",
+      "target": "anndarling",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Communication --- unknown",
+        "colleges": "College of Humanities and Social Sciences --- unknown",
+        "buildings": "Caldwell Hall --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          2022
+        ],
+        "year_recent": 2022,
+        "dois": [
+          "10.1080/03634523.2021.2005814"
+        ],
+        "ncsu?": false,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          "Communication Education"
+        ],
+        "color": "#000000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-dpdannel",
+      "target": "ckylerudick",
+      "attributes": {
+        "label": 12,
+        "weight": 12,
+        "collaboration_count": 12,
+        "departments": "Communication --- unknown",
+        "colleges": "College of Humanities and Social Sciences --- unknown",
+        "buildings": "Caldwell Hall --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          2020,
+          2020,
+          2020,
+          2019,
+          2019,
+          2019,
+          2019,
+          2019,
+          2018,
+          2018,
+          2018,
+          2018
+        ],
+        "year_recent": 2020,
+        "dois": [
+          "10.1080/03634523.2020.1809167",
+          "10.1080/03634523.2020.1724374",
+          "10.1080/03634523.2020.1769904",
+          "10.1080/03634523.2019.1572198",
+          "10.1080/03634523.2018.1538523",
+          "10.1080/03634523.2019.1608663",
+          "10.1080/03634523.2019.1646979",
+          "10.1080/03634523.2020.1684690",
+          "10.1080/03634523.2017.1392584",
+          "10.1080/03634523.2018.1467563",
+          "10.1080/03634523.2018.1431681",
+          "10.1080/03634523.2018.1503311"
+        ],
+        "ncsu?": false,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          "Communication Education"
+        ],
+        "color": "#000000",
+        "size": 12
+      }
+    },
+    {
+      "source": "uid-dpdannel",
+      "target": "prpalmerton",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Communication --- unknown",
+        "colleges": "College of Humanities and Social Sciences --- unknown",
+        "buildings": "Caldwell Hall --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          2017
+        ],
+        "year_recent": 2017,
+        "dois": [
+
+        ],
+        "ncsu?": null,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          null
+        ],
+        "color": "#000000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-dpdannel",
+      "target": "lhgaffney",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Communication --- unknown",
+        "colleges": "College of Humanities and Social Sciences --- unknown",
+        "buildings": "Caldwell Hall --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          2017
+        ],
+        "year_recent": 2017,
+        "dois": [
+
+        ],
+        "ncsu?": null,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          null
+        ],
+        "color": "#000000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-dpdannel",
+      "target": "uid-canson",
+      "attributes": {
+        "label": 4,
+        "weight": 4,
+        "collaboration_count": 4,
+        "departments": "Communication -- English",
+        "colleges": "College of Humanities and Social Sciences == College of Humanities and Social Sciences",
+        "buildings": "Caldwell Hall -- Tompkins Hall",
+        "roles": "faculty == faculty",
+        "years": [
+          2016,
+          2003,
+          2003,
+          2003
+        ],
+        "year_recent": 2016,
+        "dois": [
+          "10.1177/1050651916636424",
+          "10.1080/03634520302454"
+        ],
+        "ncsu?": true,
+        "cross_college?": false,
+        "cross_department?": true,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": true,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          "Journal of Business and Technical Communication"
+        ],
+        "color": "#CC0000",
+        "size": 4
+      }
+    },
+    {
+      "source": "uid-dpdannel",
+      "target": "uid-jilaboy",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Communication == Communication",
+        "colleges": "College of Humanities and Social Sciences == College of Humanities and Social Sciences",
+        "buildings": "Caldwell Hall --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          2016
+        ],
+        "year_recent": 2016,
+        "dois": [
+          "10.1177/1050651916636424"
+        ],
+        "ncsu?": true,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          "Journal of Business and Technical Communication"
+        ],
+        "color": "#CC0000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-dpdannel",
+      "target": "uid-lscarnei",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Communication == Communication",
+        "colleges": "College of Humanities and Social Sciences == College of Humanities and Social Sciences",
+        "buildings": "Caldwell Hall --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          2016
+        ],
+        "year_recent": 2016,
+        "dois": [
+          "10.1177/1050651916636424"
+        ],
+        "ncsu?": true,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          "Journal of Business and Technical Communication"
+        ],
+        "color": "#CC0000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-dpdannel",
+      "target": "maryctoale",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Communication --- unknown",
+        "colleges": "College of Humanities and Social Sciences --- unknown",
+        "buildings": "Caldwell Hall --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          2016
+        ],
+        "year_recent": 2016,
+        "dois": [
+          "10.1080/03634523.2016.1203008"
+        ],
+        "ncsu?": false,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          "Communication Education"
+        ],
+        "color": "#000000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-dpdannel",
+      "target": "philipmbacklund",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Communication --- unknown",
+        "colleges": "College of Humanities and Social Sciences --- unknown",
+        "buildings": "Caldwell Hall --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          2016
+        ],
+        "year_recent": 2016,
+        "dois": [
+          "10.1080/03634523.2016.1203008"
+        ],
+        "ncsu?": false,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          "Communication Education"
+        ],
+        "color": "#000000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-dpdannel",
+      "target": "johngmfrederick",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Communication --- unknown",
+        "colleges": "College of Humanities and Social Sciences --- unknown",
+        "buildings": "Caldwell Hall --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          2016
+        ],
+        "year_recent": 2016,
+        "dois": [
+          "10.1080/03634523.2016.1203008"
+        ],
+        "ncsu?": false,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          "Communication Education"
+        ],
+        "color": "#000000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-dpdannel",
+      "target": "https://orcid.org/0000-0002-3865-5219",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Communication --- unknown",
+        "colleges": "College of Humanities and Social Sciences --- unknown",
+        "buildings": "Caldwell Hall --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          2016
+        ],
+        "year_recent": 2016,
+        "dois": [
+          "10.1080/03634523.2016.1203008"
+        ],
+        "ncsu?": false,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          "Communication Education"
+        ],
+        "color": "#000000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-dpdannel",
+      "target": "https://orcid.org/0000-0002-8104-0850",
+      "attributes": {
+        "label": 4,
+        "weight": 4,
+        "collaboration_count": 4,
+        "departments": "Communication --- unknown",
+        "colleges": "College of Humanities and Social Sciences --- unknown",
+        "buildings": "Caldwell Hall --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          2015,
+          2011,
+          2009,
+          2008
+        ],
+        "year_recent": 2015,
+        "dois": [
+          "10.1080/03634523.2015.1058488",
+          "10.1080/03634523.2010.487111",
+          "10.1080/03634520802527288",
+          "10.20429/ijsotl.2008.020212"
+        ],
+        "ncsu?": false,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          "Communication Education"
+        ],
+        "color": "#000000",
+        "size": 4
+      }
+    },
+    {
+      "source": "uid-dpdannel",
+      "target": "annldarling",
+      "attributes": {
+        "label": 2,
+        "weight": 2,
+        "collaboration_count": 2,
+        "departments": "Communication --- unknown",
+        "colleges": "College of Humanities and Social Sciences --- unknown",
+        "buildings": "Caldwell Hall --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          2014,
+          2003
+        ],
+        "year_recent": 2014,
+        "dois": [
+          "10.1080/03634523.2014.934849",
+          "10.1080/03634520302457"
+        ],
+        "ncsu?": false,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          "Communication Education"
+        ],
+        "color": "#000000",
+        "size": 2
+      }
+    },
+    {
+      "source": "uid-dpdannel",
+      "target": "deannalfassett",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Communication --- unknown",
+        "colleges": "College of Humanities and Social Sciences --- unknown",
+        "buildings": "Caldwell Hall --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          2014
+        ],
+        "year_recent": 2014,
+        "dois": [
+          "10.1080/03634523.2014.934849"
+        ],
+        "ncsu?": false,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          "Communication Education"
+        ],
+        "color": "#000000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-dpdannel",
+      "target": "jeffkerssengriep",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Communication --- unknown",
+        "colleges": "College of Humanities and Social Sciences --- unknown",
+        "buildings": "Caldwell Hall --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          2014
+        ],
+        "year_recent": 2014,
+        "dois": [
+          "10.1080/03634523.2014.934849"
+        ],
+        "ncsu?": false,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          "Communication Education"
+        ],
+        "color": "#000000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-dpdannel",
+      "target": "derekrlane",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Communication --- unknown",
+        "colleges": "College of Humanities and Social Sciences --- unknown",
+        "buildings": "Caldwell Hall --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          2014
+        ],
+        "year_recent": 2014,
+        "dois": [
+          "10.1080/03634523.2014.934849"
+        ],
+        "ncsu?": false,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          "Communication Education"
+        ],
+        "color": "#000000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-dpdannel",
+      "target": "timothypmottet",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Communication --- unknown",
+        "colleges": "College of Humanities and Social Sciences --- unknown",
+        "buildings": "Caldwell Hall --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          2014
+        ],
+        "year_recent": 2014,
+        "dois": [
+          "10.1080/03634523.2014.934849"
+        ],
+        "ncsu?": false,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          "Communication Education"
+        ],
+        "color": "#000000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-dpdannel",
+      "target": "keithnainby",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Communication --- unknown",
+        "colleges": "College of Humanities and Social Sciences --- unknown",
+        "buildings": "Caldwell Hall --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          2014
+        ],
+        "year_recent": 2014,
+        "dois": [
+          "10.1080/03634523.2014.934849"
+        ],
+        "ncsu?": false,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          "Communication Education"
+        ],
+        "color": "#000000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-dpdannel",
+      "target": "https://orcid.org/0000-0003-4668-4359",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Communication --- unknown",
+        "colleges": "College of Humanities and Social Sciences --- unknown",
+        "buildings": "Caldwell Hall --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          2014
+        ],
+        "year_recent": 2014,
+        "dois": [
+          "10.1080/03634523.2014.934849"
+        ],
+        "ncsu?": false,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          "Communication Education"
+        ],
+        "color": "#000000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-dpdannel",
+      "target": "u-9365",
+      "attributes": {
+        "label": 3,
+        "weight": 3,
+        "collaboration_count": 3,
+        "departments": "Communication -- Communication Rhetoric and Digital Media",
+        "colleges": "College of Humanities and Social Sciences == College of Humanities and Social Sciences",
+        "buildings": "Caldwell Hall --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          2011,
+          2008,
+          2008
+        ],
+        "year_recent": 2011,
+        "dois": [
+          "10.1080/03634523.2010.487111",
+          "10.20429/ijsotl.2008.020212",
+          "10.1177/1050651907311923"
+        ],
+        "ncsu?": true,
+        "cross_college?": false,
+        "cross_department?": true,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          "Communication Education"
+        ],
+        "color": "#CC0000",
+        "size": 3
+      }
+    },
+    {
+      "source": "uid-dpdannel",
+      "target": "u-5414",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Communication -- Educational Research & Leadership & Counselor Education",
+        "colleges": "College of Education -- College of Humanities and Social Sciences",
+        "buildings": "Caldwell Hall --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          2004
+        ],
+        "year_recent": 2004,
+        "dois": [
+
+        ],
+        "ncsu?": true,
+        "cross_college?": true,
+        "cross_department?": true,
+        "cross_unit?": true,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          null
+        ],
+        "color": "#FAC800",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-dpdannel",
+      "target": "uid-dbgreene",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Communication -- Multidisciplinary Studies",
+        "colleges": "College of Humanities and Social Sciences == College of Humanities and Social Sciences",
+        "buildings": "Caldwell Hall --- unknown",
+        "roles": "faculty == faculty",
+        "years": [
+          2004
+        ],
+        "year_recent": 2004,
+        "dois": [
+
+        ],
+        "ncsu?": true,
+        "cross_college?": false,
+        "cross_department?": true,
+        "cross_unit?": true,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          null
+        ],
+        "color": "#CC0000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-dpdannel",
+      "target": "djwellman",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Communication --- unknown",
+        "colleges": "College of Humanities and Social Sciences --- unknown",
+        "buildings": "Caldwell Hall --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          2004
+        ],
+        "year_recent": 2004,
+        "dois": [
+
+        ],
+        "ncsu?": null,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          null
+        ],
+        "color": "#000000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-dpdannel",
+      "target": "al",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Communication --- unknown",
+        "colleges": "College of Humanities and Social Sciences --- unknown",
+        "buildings": "Caldwell Hall --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          2004
+        ],
+        "year_recent": 2004,
+        "dois": [
+
+        ],
+        "ncsu?": null,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          null
+        ],
+        "color": "#000000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-dpdannel",
+      "target": "uid-lgbullar",
+      "attributes": {
+        "label": 2,
+        "weight": 2,
+        "collaboration_count": 2,
+        "departments": "Chemical and Biomolecular Engineering -- Communication",
+        "colleges": "College of Engineering -- College of Humanities and Social Sciences",
+        "buildings": "Caldwell Hall -- Engineering Building I (EB1)",
+        "roles": "faculty == faculty",
+        "years": [
+          2003,
+          2003
+        ],
+        "year_recent": 2003,
+        "dois": [
+          "10.1080/03634520302454"
+        ],
+        "ncsu?": true,
+        "cross_college?": true,
+        "cross_department?": true,
+        "cross_unit?": true,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": true,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          "Communication Education"
+        ],
+        "color": "#FAC800",
+        "size": 2
+      }
+    },
+    {
+      "source": "uid-dpdannel",
+      "target": "uid-peretti",
+      "attributes": {
+        "label": 2,
+        "weight": 2,
+        "collaboration_count": 2,
+        "departments": "Chemical and Biomolecular Engineering -- Communication",
+        "colleges": "College of Engineering -- College of Humanities and Social Sciences",
+        "buildings": "Caldwell Hall -- Engineering Building I (EB1)",
+        "roles": "faculty == faculty",
+        "years": [
+          2003,
+          2003
+        ],
+        "year_recent": 2003,
+        "dois": [
+          "10.1080/03634520302454"
+        ],
+        "ncsu?": true,
+        "cross_college?": true,
+        "cross_department?": true,
+        "cross_unit?": true,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": true,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          "Communication Education"
+        ],
+        "color": "#FAC800",
+        "size": 2
+      }
+    },
+    {
+      "source": "uid-dpdannel",
+      "target": "pberardinelle",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Communication --- unknown",
+        "colleges": "College of Humanities and Social Sciences --- unknown",
+        "buildings": "Caldwell Hall --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          2003
+        ],
+        "year_recent": 2003,
+        "dois": [
+
+        ],
+        "ncsu?": null,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          null
+        ],
+        "color": "#000000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-dpdannel",
+      "target": "nkleid",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Communication --- unknown",
+        "colleges": "College of Humanities and Social Sciences --- unknown",
+        "buildings": "Caldwell Hall --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          2003
+        ],
+        "year_recent": 2003,
+        "dois": [
+
+        ],
+        "ncsu?": null,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          null
+        ],
+        "color": "#000000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-dpdannel",
+      "target": "dkmeic",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Communication --- unknown",
+        "colleges": "College of Humanities and Social Sciences --- unknown",
+        "buildings": "Caldwell Hall --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          2003
+        ],
+        "year_recent": 2003,
+        "dois": [
+
+        ],
+        "ncsu?": null,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          null
+        ],
+        "color": "#000000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-dpdannel",
+      "target": "uid-mpc",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Communication -- English",
+        "colleges": "College of Humanities and Social Sciences == College of Humanities and Social Sciences",
+        "buildings": "Caldwell Hall -- Textiles Complex",
+        "roles": "faculty == faculty",
+        "years": [
+          2003
+        ],
+        "year_recent": 2003,
+        "dois": [
+
+        ],
+        "ncsu?": true,
+        "cross_college?": false,
+        "cross_department?": true,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": true,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          null
+        ],
+        "color": "#CC0000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-dpdannel",
+      "target": "uid-jrust",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Communication -- Textile Engineering, Chemistry & Science",
+        "colleges": "College of Humanities and Social Sciences -- Wilson College of Textiles",
+        "buildings": "Caldwell Hall -- Textiles Complex",
+        "roles": "faculty == faculty",
+        "years": [
+          2003
+        ],
+        "year_recent": 2003,
+        "dois": [
+
+        ],
+        "ncsu?": true,
+        "cross_college?": true,
+        "cross_department?": true,
+        "cross_unit?": true,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": true,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          null
+        ],
+        "color": "#FAC800",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-canson",
+      "target": "uid-jilaboy",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Communication -- English",
+        "colleges": "College of Humanities and Social Sciences == College of Humanities and Social Sciences",
+        "buildings": "Tompkins Hall --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          2016
+        ],
+        "year_recent": 2016,
+        "dois": [
+          "10.1177/1050651916636424"
+        ],
+        "ncsu?": true,
+        "cross_college?": false,
+        "cross_department?": true,
+        "cross_unit?": true,
+        "cluster?": false,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          "Journal of Business and Technical Communication"
+        ],
+        "color": "#CC0000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-canson",
+      "target": "uid-lscarnei",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Communication -- English",
+        "colleges": "College of Humanities and Social Sciences == College of Humanities and Social Sciences",
+        "buildings": "Tompkins Hall --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          2016
+        ],
+        "year_recent": 2016,
+        "dois": [
+          "10.1177/1050651916636424"
+        ],
+        "ncsu?": true,
+        "cross_college?": false,
+        "cross_department?": true,
+        "cross_unit?": true,
+        "cluster?": false,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          "Journal of Business and Technical Communication"
+        ],
+        "color": "#CC0000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-canson",
+      "target": "u-5414",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Educational Research & Leadership & Counselor Education -- English",
+        "colleges": "College of Education -- College of Humanities and Social Sciences",
+        "buildings": "Tompkins Hall --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          2004
+        ],
+        "year_recent": 2004,
+        "dois": [
+
+        ],
+        "ncsu?": true,
+        "cross_college?": true,
+        "cross_department?": true,
+        "cross_unit?": true,
+        "cluster?": false,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          null
+        ],
+        "color": "#FAC800",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-canson",
+      "target": "uid-dbgreene",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "English -- Multidisciplinary Studies",
+        "colleges": "College of Humanities and Social Sciences == College of Humanities and Social Sciences",
+        "buildings": "Tompkins Hall --- unknown",
+        "roles": "faculty == faculty",
+        "years": [
+          2004
+        ],
+        "year_recent": 2004,
+        "dois": [
+
+        ],
+        "ncsu?": true,
+        "cross_college?": false,
+        "cross_department?": true,
+        "cross_unit?": true,
+        "cluster?": false,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          null
+        ],
+        "color": "#CC0000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-canson",
+      "target": "djwellman",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "English --- unknown",
+        "colleges": "College of Humanities and Social Sciences --- unknown",
+        "buildings": "Tompkins Hall --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          2004
+        ],
+        "year_recent": 2004,
+        "dois": [
+
+        ],
+        "ncsu?": null,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": false,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          null
+        ],
+        "color": "#000000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-canson",
+      "target": "al",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "English --- unknown",
+        "colleges": "College of Humanities and Social Sciences --- unknown",
+        "buildings": "Tompkins Hall --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          2004
+        ],
+        "year_recent": 2004,
+        "dois": [
+
+        ],
+        "ncsu?": null,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": false,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          null
+        ],
+        "color": "#000000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-canson",
+      "target": "uid-lgbullar",
+      "attributes": {
+        "label": 2,
+        "weight": 2,
+        "collaboration_count": 2,
+        "departments": "Chemical and Biomolecular Engineering -- English",
+        "colleges": "College of Engineering -- College of Humanities and Social Sciences",
+        "buildings": "Engineering Building I (EB1) -- Tompkins Hall",
+        "roles": "faculty == faculty",
+        "years": [
+          2003,
+          2003
+        ],
+        "year_recent": 2003,
+        "dois": [
+          "10.1080/03634520302454"
+        ],
+        "ncsu?": true,
+        "cross_college?": true,
+        "cross_department?": true,
+        "cross_unit?": true,
+        "cluster?": false,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+
+        ],
+        "cross_building?": true,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          "Communication Education"
+        ],
+        "color": "#FAC800",
+        "size": 2
+      }
+    },
+    {
+      "source": "uid-canson",
+      "target": "uid-peretti",
+      "attributes": {
+        "label": 2,
+        "weight": 2,
+        "collaboration_count": 2,
+        "departments": "Chemical and Biomolecular Engineering -- English",
+        "colleges": "College of Engineering -- College of Humanities and Social Sciences",
+        "buildings": "Engineering Building I (EB1) -- Tompkins Hall",
+        "roles": "faculty == faculty",
+        "years": [
+          2003,
+          2003
+        ],
+        "year_recent": 2003,
+        "dois": [
+          "10.1080/03634520302454"
+        ],
+        "ncsu?": true,
+        "cross_college?": true,
+        "cross_department?": true,
+        "cross_unit?": true,
+        "cluster?": false,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+
+        ],
+        "cross_building?": true,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          "Communication Education"
+        ],
+        "color": "#FAC800",
+        "size": 2
+      }
+    },
+    {
+      "source": "uid-canson",
+      "target": "pberardinelle",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "English --- unknown",
+        "colleges": "College of Humanities and Social Sciences --- unknown",
+        "buildings": "Tompkins Hall --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          2003
+        ],
+        "year_recent": 2003,
+        "dois": [
+
+        ],
+        "ncsu?": null,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": false,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          null
+        ],
+        "color": "#000000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-canson",
+      "target": "nkleid",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "English --- unknown",
+        "colleges": "College of Humanities and Social Sciences --- unknown",
+        "buildings": "Tompkins Hall --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          2003
+        ],
+        "year_recent": 2003,
+        "dois": [
+
+        ],
+        "ncsu?": null,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": false,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          null
+        ],
+        "color": "#000000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-canson",
+      "target": "dkmeic",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "English --- unknown",
+        "colleges": "College of Humanities and Social Sciences --- unknown",
+        "buildings": "Tompkins Hall --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          2003
+        ],
+        "year_recent": 2003,
+        "dois": [
+
+        ],
+        "ncsu?": null,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": false,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          null
+        ],
+        "color": "#000000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-canson",
+      "target": "uid-mpc",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "English == English",
+        "colleges": "College of Humanities and Social Sciences == College of Humanities and Social Sciences",
+        "buildings": "Textiles Complex -- Tompkins Hall",
+        "roles": "faculty == faculty",
+        "years": [
+          2003
+        ],
+        "year_recent": 2003,
+        "dois": [
+
+        ],
+        "ncsu?": true,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": false,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+
+        ],
+        "cross_building?": true,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          null
+        ],
+        "color": "#CC0000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-canson",
+      "target": "uid-jrust",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "English -- Textile Engineering, Chemistry & Science",
+        "colleges": "College of Humanities and Social Sciences -- Wilson College of Textiles",
+        "buildings": "Textiles Complex -- Tompkins Hall",
+        "roles": "faculty == faculty",
+        "years": [
+          2003
+        ],
+        "year_recent": 2003,
+        "dois": [
+
+        ],
+        "ncsu?": true,
+        "cross_college?": true,
+        "cross_department?": true,
+        "cross_unit?": true,
+        "cluster?": false,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+
+        ],
+        "cross_building?": true,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          null
+        ],
+        "color": "#FAC800",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-jilaboy",
+      "target": "uid-lscarnei",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Communication == Communication",
+        "colleges": "College of Humanities and Social Sciences == College of Humanities and Social Sciences",
+        "buildings": "unknown --- unknown",
+        "roles": "unknown == unknown",
+        "years": [
+          2016
+        ],
+        "year_recent": 2016,
+        "dois": [
+          "10.1177/1050651916636424"
+        ],
+        "ncsu?": true,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": false,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          "Journal of Business and Technical Communication"
+        ],
+        "color": "#CC0000",
+        "size": 1
+      }
+    },
+    {
+      "source": "u-9365",
+      "target": "https://orcid.org/0000-0002-8104-0850",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Communication Rhetoric and Digital Media --- unknown",
+        "colleges": "College of Humanities and Social Sciences --- unknown",
+        "buildings": "unknown --- unknown",
+        "roles": "unknown == unknown",
+        "years": [
+          2008
+        ],
+        "year_recent": 2008,
+        "dois": [
+          "10.20429/ijsotl.2008.020212"
+        ],
+        "ncsu?": true,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": false,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+
+        ],
+        "cross_building?": false,
+        "concepts": [
+          "Discipline",
+          "Competence (human resources)",
+          "Presentation (obstetrics)",
+          "Context (archaeology)",
+          "Communicative competence",
+          "Psychology",
+          "Pedagogy",
+          "Multimedia",
+          "Computer science",
+          "Sociology",
+          "Social psychology",
+          "Medicine",
+          "Social science",
+          "Paleontology",
+          "Biology",
+          "Radiology"
+        ],
+        "host_venues": [
+          "International journal for the scholarship of teaching and learning"
+        ],
+        "color": "#CC0000",
+        "size": 1
+      }
+    },
+    {
+      "source": "u-5414",
+      "target": "uid-dbgreene",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Educational Research & Leadership & Counselor Education -- Multidisciplinary Studies",
+        "colleges": "College of Education -- College of Humanities and Social Sciences",
+        "buildings": "unknown --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          2004
+        ],
+        "year_recent": 2004,
+        "dois": [
+
+        ],
+        "ncsu?": true,
+        "cross_college?": true,
+        "cross_department?": true,
+        "cross_unit?": true,
+        "cluster?": false,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          null
+        ],
+        "color": "#FAC800",
+        "size": 1
+      }
+    },
+    {
+      "source": "u-5414",
+      "target": "djwellman",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Educational Research & Leadership & Counselor Education --- unknown",
+        "colleges": "College of Education --- unknown",
+        "buildings": "unknown --- unknown",
+        "roles": "unknown == unknown",
+        "years": [
+          2004
+        ],
+        "year_recent": 2004,
+        "dois": [
+
+        ],
+        "ncsu?": null,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": false,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          null
+        ],
+        "color": "#000000",
+        "size": 1
+      }
+    },
+    {
+      "source": "u-5414",
+      "target": "al",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Educational Research & Leadership & Counselor Education --- unknown",
+        "colleges": "College of Education --- unknown",
+        "buildings": "unknown --- unknown",
+        "roles": "unknown == unknown",
+        "years": [
+          2004
+        ],
+        "year_recent": 2004,
+        "dois": [
+
+        ],
+        "ncsu?": null,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": false,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          null
+        ],
+        "color": "#000000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-dbgreene",
+      "target": "djwellman",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Multidisciplinary Studies --- unknown",
+        "colleges": "College of Humanities and Social Sciences --- unknown",
+        "buildings": "unknown --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          2004
+        ],
+        "year_recent": 2004,
+        "dois": [
+
+        ],
+        "ncsu?": null,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": false,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          null
+        ],
+        "color": "#000000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-dbgreene",
+      "target": "al",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Multidisciplinary Studies --- unknown",
+        "colleges": "College of Humanities and Social Sciences --- unknown",
+        "buildings": "unknown --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          2004
+        ],
+        "year_recent": 2004,
+        "dois": [
+
+        ],
+        "ncsu?": null,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": false,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          null
+        ],
+        "color": "#000000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-lgbullar",
+      "target": "uid-peretti",
+      "attributes": {
+        "label": 4,
+        "weight": 4,
+        "collaboration_count": 4,
+        "departments": "Chemical and Biomolecular Engineering == Chemical and Biomolecular Engineering",
+        "colleges": "College of Engineering == College of Engineering",
+        "buildings": "Engineering Building I (EB1) == Engineering Building I (EB1)",
+        "roles": "faculty == faculty",
+        "years": [
+          2012,
+          2005,
+          2003,
+          2003
+        ],
+        "year_recent": 2012,
+        "dois": [
+          "10.1080/03634520302454"
+        ],
+        "ncsu?": true,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": false,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          null
+        ],
+        "color": "#CC0000",
+        "size": 4
+      }
+    },
+    {
+      "source": "uid-lgbullar",
+      "target": "pberardinelle",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Chemical and Biomolecular Engineering --- unknown",
+        "colleges": "College of Engineering --- unknown",
+        "buildings": "Engineering Building I (EB1) --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          2003
+        ],
+        "year_recent": 2003,
+        "dois": [
+
+        ],
+        "ncsu?": null,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": false,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          null
+        ],
+        "color": "#000000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-lgbullar",
+      "target": "nkleid",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Chemical and Biomolecular Engineering --- unknown",
+        "colleges": "College of Engineering --- unknown",
+        "buildings": "Engineering Building I (EB1) --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          2003
+        ],
+        "year_recent": 2003,
+        "dois": [
+
+        ],
+        "ncsu?": null,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": false,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          null
+        ],
+        "color": "#000000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-lgbullar",
+      "target": "dkmeic",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Chemical and Biomolecular Engineering --- unknown",
+        "colleges": "College of Engineering --- unknown",
+        "buildings": "Engineering Building I (EB1) --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          2003
+        ],
+        "year_recent": 2003,
+        "dois": [
+
+        ],
+        "ncsu?": null,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": false,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          null
+        ],
+        "color": "#000000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-peretti",
+      "target": "pberardinelle",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Chemical and Biomolecular Engineering --- unknown",
+        "colleges": "College of Engineering --- unknown",
+        "buildings": "Engineering Building I (EB1) --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          2003
+        ],
+        "year_recent": 2003,
+        "dois": [
+
+        ],
+        "ncsu?": null,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": false,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          null
+        ],
+        "color": "#000000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-peretti",
+      "target": "nkleid",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Chemical and Biomolecular Engineering --- unknown",
+        "colleges": "College of Engineering --- unknown",
+        "buildings": "Engineering Building I (EB1) --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          2003
+        ],
+        "year_recent": 2003,
+        "dois": [
+
+        ],
+        "ncsu?": null,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": false,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          null
+        ],
+        "color": "#000000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-peretti",
+      "target": "dkmeic",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Chemical and Biomolecular Engineering --- unknown",
+        "colleges": "College of Engineering --- unknown",
+        "buildings": "Engineering Building I (EB1) --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          2003
+        ],
+        "year_recent": 2003,
+        "dois": [
+
+        ],
+        "ncsu?": null,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": false,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          null
+        ],
+        "color": "#000000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-mpc",
+      "target": "uid-jrust",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "English -- Textile Engineering, Chemistry & Science",
+        "colleges": "College of Humanities and Social Sciences -- Wilson College of Textiles",
+        "buildings": "Textiles Complex == Textiles Complex",
+        "roles": "faculty == faculty",
+        "years": [
+          2003
+        ],
+        "year_recent": 2003,
+        "dois": [
+
+        ],
+        "ncsu?": true,
+        "cross_college?": true,
+        "cross_department?": true,
+        "cross_unit?": true,
+        "cluster?": false,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          null
+        ],
+        "color": "#FAC800",
+        "size": 1
+      }
+    }
+  ]
+}

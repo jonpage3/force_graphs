@@ -1,0 +1,2019 @@
+{
+  "options": {
+    "type": "undirected",
+    "multi": false,
+    "allowSelfLoops": false
+  },
+  "attributes": {
+    "creator": "Citation Index",
+    "lastModifiedDate": "2023-01-15"
+  },
+  "nodes": [
+    {
+      "key": "uid-awmerck",
+      "attributes": {
+        "label": "A Merck",
+        "name": "Ashton Merck",
+        "known?": true,
+        "orcid?": false,
+        "ncsu?": true,
+        "affiliations": [
+          "North Carolina State University"
+        ],
+        "countries": [
+          "US"
+        ],
+        "uid": "awmerck",
+        "url": "https://ci.lib.ncsu.edu/profiles/awmerck",
+        "active?": true,
+        "department": "Genetic Engineering and Society",
+        "college": "NC State",
+        "ncsu_affiliations": [
+          "Genetic Engineering and Society"
+        ],
+        "cluster?": true,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "role": "staff",
+        "building": "David Clark Labs",
+        "count": 4,
+        "oa_count": 1,
+        "years": [
+          2022,
+          2021
+        ],
+        "year_recent": 2022,
+        "article_concepts": [
+          "Business",
+          "Computer science",
+          "Engineering",
+          "Knowledge management",
+          "Mechanical engineering",
+          "Operating system",
+          "Political science",
+          "Process (computing)",
+          "Public relations",
+          "Responsible Research and Innovation",
+          "Stakeholder",
+          "Stakeholder engagement",
+          "Telecommunications",
+          "Upstream (networking)",
+          "Work (physics)"
+        ],
+        "host_venues": [
+          "Enterprise and Society",
+          "Environmental Science & Policy",
+          "Isis",
+          "NanoImpact"
+        ],
+        "color": "#BD5383",
+        "size": 20
+      }
+    },
+    {
+      "key": "uid-kdgriege",
+      "attributes": {
+        "label": "K Grieger",
+        "name": "Khara Grieger",
+        "known?": true,
+        "orcid?": false,
+        "ncsu?": true,
+        "affiliations": [
+          "North Carolina State University"
+        ],
+        "countries": [
+          "US"
+        ],
+        "uid": "kdgriege",
+        "url": "https://ci.lib.ncsu.edu/profiles/kdgriege",
+        "active?": true,
+        "department": "Applied Ecology",
+        "college": "College of Agriculture and Life Sciences",
+        "ncsu_affiliations": [
+          "Applied Ecology",
+          "Genetic Engineering and Society",
+          "Center for Human Health and the Environment "
+        ],
+        "cluster?": true,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "role": "faculty",
+        "building": "Plant Sciences Building",
+        "count": 17,
+        "oa_count": 6,
+        "years": [
+          2022,
+          2021,
+          2020,
+          2019
+        ],
+        "year_recent": 2022,
+        "article_concepts": [
+          "Agriculture",
+          "Anticipation (artificial intelligence)",
+          "Applications of nanotechnology",
+          "Aqueous solution",
+          "Archaeology",
+          "Artificial intelligence",
+          "Biochemistry",
+          "Biology",
+          "Business",
+          "Chemistry",
+          "Community engagement",
+          "Competitor analysis",
+          "Computer network",
+          "Computer science",
+          "Context (archaeology)",
+          "Corporate governance",
+          "Data science",
+          "Decomposition",
+          "Ecology",
+          "Economics",
+          "Ecosystem",
+          "Emerging technologies",
+          "Engineering",
+          "Engineering ethics",
+          "Environmental chemistry",
+          "Environmental planning",
+          "Environmental resource management",
+          "Environmental science",
+          "Epistemology",
+          "Eutrophication",
+          "Finance",
+          "Geography",
+          "Geometry",
+          "Impact of nanotechnology",
+          "Inclusion (mineral)",
+          "Inorganic chemistry",
+          "Knowledge management",
+          "Lanthanum",
+          "Law",
+          "Litter",
+          "Management",
+          "Marketing",
+          "Materials science",
+          "Mathematics",
+          "Mechanical engineering",
+          "Nanotechnology",
+          "Natural organic matter",
+          "Neuroscience",
+          "Nutrient",
+          "Nutrient cycle",
+          "Operating system",
+          "Organic chemistry",
+          "Organic matter",
+          "Paleontology",
+          "Perception",
+          "Philosophy",
+          "Philosophy of science",
+          "Phosphate",
+          "Plant litter",
+          "Political science",
+          "Process (computing)",
+          "Process management",
+          "Product (mathematics)",
+          "Psychology",
+          "Public relations",
+          "Reflexivity",
+          "Reputation",
+          "Responsible Research and Innovation",
+          "Risk analysis (engineering)",
+          "Risk governance",
+          "Risk management",
+          "Risk perception",
+          "River ecosystem",
+          "STREAMS",
+          "Scholarship",
+          "Social science",
+          "Societal impact of nanotechnology",
+          "Sociology",
+          "Stakeholder",
+          "Stakeholder engagement",
+          "Sustainability",
+          "Telecommunications",
+          "Upstream (networking)",
+          "Urban stream",
+          "Water quality",
+          "Work (physics)"
+        ],
+        "host_venues": [
+          "ACS ES&T engineering",
+          "Ecological Indicators",
+          "Environment International",
+          "Environmental Science & Policy",
+          "Journal of Nanoparticle Research",
+          "NanoImpact",
+          "Nanoethics",
+          "Nanomaterials",
+          "Nature Nanotechnology",
+          "Reproductive Toxicology",
+          "Science",
+          "Science of The Total Environment",
+          "Sustainability",
+          "The CRISPR journal",
+          "Water Research"
+        ],
+        "color": "#6F7D1C",
+        "size": 10
+      }
+    },
+    {
+      "key": "uid-jkuzma",
+      "attributes": {
+        "label": "J Kuzma",
+        "name": "Jennifer Kuzma",
+        "known?": true,
+        "orcid?": true,
+        "ncsu?": true,
+        "affiliations": [
+          "North Carolina State University"
+        ],
+        "countries": [
+          "US"
+        ],
+        "uid": "jkuzma",
+        "url": "https://ci.lib.ncsu.edu/profiles/jkuzma",
+        "orcid": "0000-0003-4456-9613",
+        "active?": true,
+        "department": "Genetic Engineering and Society",
+        "college": "NC State",
+        "ncsu_affiliations": [
+          "Genetic Engineering and Society",
+          "Public and International Affairs",
+          "Genetics and Genomics Academy"
+        ],
+        "cluster?": true,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "role": "faculty",
+        "building": "James B Hunt Jr Centennial Cam",
+        "count": 156,
+        "oa_count": 25,
+        "years": [
+          2022,
+          2021,
+          2020,
+          2019,
+          2018,
+          2017,
+          2016,
+          2015,
+          2014,
+          2013,
+          2012,
+          2011,
+          2010,
+          2009,
+          2008,
+          2007,
+          2006,
+          2005,
+          2004,
+          2003,
+          2002,
+          2001,
+          2000,
+          1999,
+          1998,
+          1997,
+          1995,
+          1994
+        ],
+        "year_recent": 2022,
+        "article_concepts": [
+          "Agriculture",
+          "Agronomy",
+          "Anticipation (artificial intelligence)",
+          "Applications of nanotechnology",
+          "Archaeology",
+          "Artificial intelligence",
+          "Biochemical engineering",
+          "Biochemistry",
+          "Biofuel",
+          "Bioinformatics",
+          "Biology",
+          "Biotechnology",
+          "Botany",
+          "Business",
+          "CRISPR",
+          "Cartography",
+          "Chemistry",
+          "China",
+          "Commercialization",
+          "Community engagement",
+          "Competitor analysis",
+          "Composite material",
+          "Computational biology",
+          "Computer science",
+          "Computer security",
+          "Context (archaeology)",
+          "Copolymer",
+          "Corporate governance",
+          "Crop",
+          "Cross-site scripting",
+          "Data science",
+          "Delphi method",
+          "Dilemma",
+          "Ecology",
+          "Econometrics",
+          "Economics",
+          "Electrical engineering",
+          "Emerging technologies",
+          "Engineering",
+          "Engineering ethics",
+          "Environmental economics",
+          "Environmental ethics",
+          "Environmental planning",
+          "Environmental resource management",
+          "Enzyme",
+          "Epistemology",
+          "Evolutionary biology",
+          "Extinction (optical mineralogy)",
+          "Field (mathematics)",
+          "Finance",
+          "Focus group",
+          "Food industry",
+          "Food labeling",
+          "Food packaging",
+          "Food products",
+          "Food science",
+          "Frame (networking)",
+          "Gene",
+          "Gene drive",
+          "Genetically engineered",
+          "Genetically modified crops",
+          "Genetically modified food",
+          "Genetically modified organism",
+          "Genetics",
+          "Genome",
+          "Genome editing",
+          "Geography",
+          "Geometry",
+          "Government (linguistics)",
+          "Government regulation",
+          "Hydrocarbon",
+          "Impact of nanotechnology",
+          "Inclusion (mineral)",
+          "Interdependence",
+          "Internet privacy",
+          "Isoprene",
+          "Knowledge management",
+          "Latent class model",
+          "Law",
+          "Legitimacy",
+          "Limiting",
+          "Linguistics",
+          "Logistic regression",
+          "Logit",
+          "Machine learning",
+          "Management",
+          "Management science",
+          "Marketing",
+          "Materials science",
+          "Mathematics",
+          "Mechanical engineering",
+          "Medicine",
+          "Mixed logit",
+          "Multitude",
+          "Nano-",
+          "Nanotechnology",
+          "National security",
+          "Natural resource economics",
+          "Neuroscience",
+          "Operating system",
+          "Order (exchange)",
+          "Organic chemistry",
+          "Paleontology",
+          "Path (computing)",
+          "Perception",
+          "Pharmacy",
+          "Philosophy",
+          "Philosophy of science",
+          "Point (geometry)",
+          "Political science",
+          "Politics",
+          "Polymer",
+          "Process (computing)",
+          "Process management",
+          "Product (mathematics)",
+          "Programming language",
+          "Psychology",
+          "Public administration",
+          "Public policy",
+          "Public relations",
+          "Pure mathematics",
+          "Reboot",
+          "Reflexivity",
+          "Renewable energy",
+          "Reputation",
+          "Research council",
+          "Responsible Research and Innovation",
+          "Risk analysis (engineering)",
+          "Risk assessment",
+          "Risk governance",
+          "Scale (ratio)",
+          "Scholarship",
+          "Scope (computer science)",
+          "Scripting language",
+          "Social science",
+          "Societal impact of nanotechnology",
+          "Sociology",
+          "Software",
+          "Stakeholder",
+          "Stakeholder engagement",
+          "Statistics",
+          "Sustainability",
+          "Systems biology",
+          "Telecommunications",
+          "Terpenoid",
+          "Terrorism",
+          "The Internet",
+          "Transgene",
+          "Transparency (behavior)",
+          "Uncertainty",
+          "Upstream (networking)",
+          "Vulnerability (computing)",
+          "Waste management",
+          "Web application",
+          "Web application security",
+          "Web development",
+          "Work (physics)",
+          "World Wide Web"
+        ],
+        "host_venues": [
+          "Biological Invasions",
+          "Bulletin of Science, Technology & Society",
+          "Current Microbiology",
+          "EMBO Reports",
+          "Elementa",
+          "Encyclopedia of Nanoscience and Society",
+          "Encyclopedia of Science and Technology Communication",
+          "Energy Policy",
+          "Environment Systems and Decisions",
+          "Environmental Science & Policy",
+          "Frontiers in Bioengineering and Biotechnology",
+          "Informatics for Health & Social Care",
+          "Innovative Governance Models for Emerging Technologies",
+          "Journal of Agricultural Economics",
+          "Journal of Bioethical Inquiry",
+          "Journal of Consumer Policy",
+          "Journal of Law Medicine & Ethics",
+          "Journal of Nanoparticle Research",
+          "Journal of Responsible Innovation",
+          "Journal of Veterinary Medical Education",
+          "Livestock Science",
+          "Medicine Health Care and Philosophy",
+          "NanoImpact",
+          "Nanoethics",
+          "National Academies Press eBooks",
+          "Nature",
+          "Nature Nanotechnology",
+          "PLOS ONE",
+          "Plant Physiology",
+          "Policy and Society",
+          "Public Policy and Administration",
+          "Regulation & Governance",
+          "Review of Policy Research",
+          "Risk Analysis",
+          "Risk, systems and decisions",
+          "Science",
+          "Science & public policy",
+          "Science, Technology, & Human Values",
+          "Springer Netherlands eBooks",
+          "Sustainability",
+          "Technology Analysis & Strategic Management",
+          "Wiley-Blackwell eBooks",
+          "Women in engineering and science"
+        ],
+        "color": "#BD5383",
+        "size": 10
+      }
+    },
+    {
+      "key": "uid-mlrowlan",
+      "attributes": {
+        "label": "M Cuchiara",
+        "name": "Maude Cuchiara",
+        "known?": true,
+        "orcid?": false,
+        "ncsu?": true,
+        "affiliations": [
+          "North Carolina State University"
+        ],
+        "countries": [
+          "US"
+        ],
+        "uid": "mlrowlan",
+        "url": "https://ci.lib.ncsu.edu/profiles/mlrowlan",
+        "active?": true,
+        "department": null,
+        "college": null,
+        "ncsu_affiliations": [
+
+        ],
+        "cluster?": false,
+        "clusters": [
+
+        ],
+        "role": "faculty",
+        "building": "Partners Building II",
+        "count": 2,
+        "oa_count": 2,
+        "years": [
+          2021
+        ],
+        "year_recent": 2021,
+        "article_concepts": [
+          "Business",
+          "Computer science",
+          "Enforcement",
+          "Engineering",
+          "Environmental planning",
+          "Environmental science",
+          "Hazardous waste",
+          "Knowledge management",
+          "Law",
+          "Mechanical engineering",
+          "Operating system",
+          "Political science",
+          "Process (computing)",
+          "Public relations",
+          "Responsible Research and Innovation",
+          "Stakeholder",
+          "Stakeholder engagement",
+          "Telecommunications",
+          "Upstream (networking)",
+          "Waste management",
+          "Work (physics)"
+        ],
+        "host_venues": [
+          "Environmental Science & Technology",
+          "NanoImpact"
+        ],
+        "color": "#000000",
+        "size": 10
+      }
+    },
+    {
+      "key": "uid-arbinder",
+      "attributes": {
+        "label": "A Binder",
+        "name": "Andrew Binder",
+        "known?": true,
+        "orcid?": true,
+        "ncsu?": true,
+        "affiliations": [
+          "North Carolina State University"
+        ],
+        "countries": [
+          "US"
+        ],
+        "uid": "arbinder",
+        "url": "https://ci.lib.ncsu.edu/profiles/arbinder",
+        "orcid": "0000-0002-7080-7550",
+        "active?": true,
+        "department": "Communication",
+        "college": "College of Humanities and Social Sciences",
+        "ncsu_affiliations": [
+          "Communication",
+          "Genetic Engineering and Society",
+          "Communication Rhetoric and Digital Media",
+          "Center for Human Health and the Environment "
+        ],
+        "cluster?": true,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "role": "faculty",
+        "building": "Winston Hall",
+        "count": 25,
+        "oa_count": 6,
+        "years": [
+          2022,
+          2021,
+          2019,
+          2018,
+          2017,
+          2016,
+          2015,
+          2014,
+          2013,
+          2012,
+          2011,
+          2010,
+          2009
+        ],
+        "year_recent": 2022,
+        "article_concepts": [
+          "Advertising",
+          "Anthropology",
+          "Archaeology",
+          "Artificial intelligence",
+          "Biology",
+          "Business",
+          "Computer science",
+          "Context (archaeology)",
+          "Demography",
+          "Ecology",
+          "Economic shortage",
+          "Economics",
+          "Empirical research",
+          "Engineering",
+          "Environmental economics",
+          "Environmental health",
+          "Environmental justice",
+          "Environmental planning",
+          "Environmental science",
+          "Epistemology",
+          "Ethnic group",
+          "Feeling",
+          "Geography",
+          "Gerontology",
+          "Government (linguistics)",
+          "Health care",
+          "Health equity",
+          "Health literacy",
+          "Internal medicine",
+          "Irrigation",
+          "Knowledge management",
+          "Law",
+          "Linguistics",
+          "Literacy",
+          "Mechanical engineering",
+          "Medicine",
+          "Meta-analysis",
+          "Natural resource economics",
+          "Neuroscience",
+          "Nursing",
+          "Operating system",
+          "Pedagogy",
+          "Perception",
+          "Philosophy",
+          "Political science",
+          "Politics",
+          "Population",
+          "Process (computing)",
+          "Psychology",
+          "Public health",
+          "Public opinion",
+          "Public relations",
+          "Residence",
+          "Responsible Research and Innovation",
+          "Reuse",
+          "Risk perception",
+          "Sexual behavior",
+          "Social dynamics",
+          "Social psychology",
+          "Socioeconomic status",
+          "Sociology",
+          "Stakeholder",
+          "Stakeholder engagement",
+          "Telecommunications",
+          "Upstream (networking)",
+          "Waste management",
+          "Water conservation",
+          "Water resource management",
+          "Water resources",
+          "Water scarcity",
+          "Work (physics)"
+        ],
+        "host_venues": [
+          "Communication Research",
+          "Environmental Communication-a Journal of Nature and Culture",
+          "International Journal of Environmental Research and Public Health",
+          "JCOM, journal of science communication",
+          "Journal of Computer-Mediated Communication",
+          "Journal of Food Protection",
+          "Journal of Health Communication",
+          "Journal of Nanoparticle Research",
+          "Journal of Water Resources Planning and Management",
+          "Mass Communication and Society",
+          "NanoImpact",
+          "Negotiation and Conflict Management Research",
+          "Politics and the Life Sciences",
+          "Public Understanding of Science",
+          "Resources Conservation and Recycling",
+          "Risk Analysis",
+          "Science Communication",
+          "Sustainable Cities and Society",
+          "World Environmental and Water Resources Congress 2013",
+          "World Environmental and Water Resources Congress 2014",
+          "World Environmental and Water Resources Congress 2015"
+        ],
+        "color": "#FAC800",
+        "size": 10
+      }
+    },
+    {
+      "key": "uid-akokoto",
+      "attributes": {
+        "label": "A Kokotovich",
+        "name": "Adam Kokotovich",
+        "known?": true,
+        "orcid?": false,
+        "ncsu?": true,
+        "affiliations": [
+          "North Carolina State University"
+        ],
+        "countries": [
+          "US"
+        ],
+        "uid": "akokoto",
+        "url": "https://ci.lib.ncsu.edu/profiles/akokoto",
+        "active?": false,
+        "department": "Forestry & Environmental Resources",
+        "college": "College of Natural Resources",
+        "ncsu_affiliations": [
+          "Forestry & Environmental Resources"
+        ],
+        "cluster?": false,
+        "clusters": [
+
+        ],
+        "role": "staff",
+        "building": null,
+        "count": 16,
+        "oa_count": 6,
+        "years": [
+          2022,
+          2021,
+          2020,
+          2018,
+          2017,
+          2016,
+          2014,
+          2011,
+          2008
+        ],
+        "year_recent": 2022,
+        "article_concepts": [
+          "Agronomy",
+          "Anticipation (artificial intelligence)",
+          "Artificial intelligence",
+          "Biochemistry",
+          "Biology",
+          "Biotechnology",
+          "Business",
+          "CRISPR",
+          "Computer science",
+          "Computer security",
+          "Context (archaeology)",
+          "Corporate governance",
+          "Crop",
+          "Economic growth",
+          "Economics",
+          "Engineering",
+          "Engineering ethics",
+          "Epistemology",
+          "Finance",
+          "Gene",
+          "Gene drive",
+          "Genetically modified crops",
+          "Genetically modified organism",
+          "Genetics",
+          "Geometry",
+          "Immunology",
+          "Inclusion (mineral)",
+          "Knowledge management",
+          "Law",
+          "Malaria",
+          "Mathematics",
+          "Mechanical engineering",
+          "Medicine",
+          "Nursing",
+          "Operating system",
+          "Paleontology",
+          "Philosophy",
+          "Philosophy of science",
+          "Political science",
+          "Politics",
+          "Process (computing)",
+          "Product (mathematics)",
+          "Public health",
+          "Public relations",
+          "Publics",
+          "Qualitative research",
+          "Reflexivity",
+          "Reputation",
+          "Responsible Research and Innovation",
+          "Risk analysis (engineering)",
+          "Risk assessment",
+          "Risk governance",
+          "Scholarship",
+          "Social science",
+          "Sociology",
+          "Stakeholder",
+          "Stakeholder engagement",
+          "Telecommunications",
+          "Thematic analysis",
+          "Transgene",
+          "Upstream (networking)",
+          "Work (physics)"
+        ],
+        "host_venues": [
+          "Annals of The Entomological Society of America",
+          "Bulletin of Science, Technology & Society",
+          "EMBO Reports",
+          "Environmental Science & Policy",
+          "Journal of Environmental Management",
+          "Malaria Journal",
+          "NanoImpact",
+          "Nanoethics",
+          "Reviews in fisheries science & aquaculture",
+          "Risk Analysis",
+          "Urban Forestry & Urban Greening"
+        ],
+        "color": "#855735",
+        "size": 10
+      }
+    },
+    {
+      "key": "uid-clcummin",
+      "attributes": {
+        "label": "C Cummings",
+        "name": "Christopher Cummings",
+        "known?": true,
+        "orcid?": false,
+        "ncsu?": true,
+        "affiliations": [
+          "North Carolina State University"
+        ],
+        "countries": [
+          "US"
+        ],
+        "uid": "clcummin",
+        "url": "https://ci.lib.ncsu.edu/profiles/clcummin",
+        "active?": false,
+        "department": "Communication",
+        "college": "College of Humanities and Social Sciences",
+        "ncsu_affiliations": [
+          "Communication",
+          "Genetic Engineering and Society",
+          "Communication Rhetoric and Digital Media"
+        ],
+        "cluster?": true,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "role": "staff",
+        "building": "Fitts-Woolard Hall",
+        "count": 13,
+        "oa_count": 4,
+        "years": [
+          2022,
+          2021,
+          2020,
+          2013,
+          2011
+        ],
+        "year_recent": 2022,
+        "article_concepts": [
+          "2019-20 coronavirus outbreak",
+          "Betacoronavirus",
+          "Business",
+          "Comorbidity",
+          "Computer science",
+          "Coronavirus disease 2019 (COVID-19)",
+          "Data science",
+          "Disease",
+          "Engineering",
+          "Environmental health",
+          "Family medicine",
+          "Focus group",
+          "Gerontology",
+          "Grounded theory",
+          "Immunology",
+          "Infectious disease (medical specialty)",
+          "Influenza vaccine",
+          "Internal medicine",
+          "Knowledge management",
+          "Marketing",
+          "Mechanical engineering",
+          "Medicine",
+          "Neuroscience",
+          "Operating system",
+          "Outbreak",
+          "Pandemic",
+          "Pathology",
+          "Perception",
+          "Political science",
+          "Population",
+          "Process (computing)",
+          "Psychiatry",
+          "Psychology",
+          "Public relations",
+          "Qualitative research",
+          "Responsible Research and Innovation",
+          "Risk perception",
+          "Severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2)",
+          "Social science",
+          "Sociology",
+          "Stakeholder",
+          "Stakeholder engagement",
+          "Telecommunications",
+          "Upstream (networking)",
+          "Vaccination",
+          "Virology",
+          "Work (physics)",
+          "Young adult"
+        ],
+        "host_venues": [
+          "Environmental Communication-a Journal of Nature and Culture",
+          "Journal of Communication",
+          "Journal of Risk Research",
+          "NanoImpact",
+          "Nanotoxicology",
+          "PLOS ONE",
+          "Risk Analysis",
+          "Risk Management and Healthcare Policy",
+          "Risk, systems and decisions",
+          "Science, Technology, & Human Values"
+        ],
+        "color": "#FAC800",
+        "size": 10
+      }
+    }
+  ],
+  "edges": [
+    {
+      "source": "uid-awmerck",
+      "target": "uid-kdgriege",
+      "attributes": {
+        "label": 2,
+        "weight": 2,
+        "collaboration_count": 2,
+        "departments": "Applied Ecology -- Genetic Engineering and Society",
+        "colleges": "College of Agriculture and Life Sciences -- NC State",
+        "buildings": "David Clark Labs -- Plant Sciences Building",
+        "roles": "faculty -- staff",
+        "years": [
+          2022,
+          2021
+        ],
+        "year_recent": 2022,
+        "dois": [
+          "10.1016/j.envsci.2022.08.027",
+          "10.1016/j.impact.2021.100365"
+        ],
+        "ncsu?": true,
+        "cross_college?": true,
+        "cross_department?": true,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": true,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": true,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          "Environmental Science & Policy"
+        ],
+        "color": "#FAC800",
+        "size": 2
+      }
+    },
+    {
+      "source": "uid-awmerck",
+      "target": "uid-jkuzma",
+      "attributes": {
+        "label": 2,
+        "weight": 2,
+        "collaboration_count": 2,
+        "departments": "Genetic Engineering and Society == Genetic Engineering and Society",
+        "colleges": "NC State == NC State",
+        "buildings": "David Clark Labs -- James B Hunt Jr Centennial Cam",
+        "roles": "faculty -- staff",
+        "years": [
+          2022,
+          2021
+        ],
+        "year_recent": 2022,
+        "dois": [
+          "10.1016/j.envsci.2022.08.027",
+          "10.1016/j.impact.2021.100365"
+        ],
+        "ncsu?": true,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": true,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": true,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          "Environmental Science & Policy"
+        ],
+        "color": "#CC0000",
+        "size": 2
+      }
+    },
+    {
+      "source": "uid-awmerck",
+      "target": "uid-mlrowlan",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Genetic Engineering and Society --- unknown",
+        "colleges": "NC State --- unknown",
+        "buildings": "David Clark Labs -- Partners Building II",
+        "roles": "faculty -- staff",
+        "years": [
+          2021
+        ],
+        "year_recent": 2021,
+        "dois": [
+          "10.1016/j.impact.2021.100365"
+        ],
+        "ncsu?": true,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": true,
+        "concepts": [
+          "Stakeholder",
+          "Upstream (networking)",
+          "Stakeholder engagement",
+          "Business",
+          "Work (physics)",
+          "Responsible Research and Innovation",
+          "Process (computing)",
+          "Knowledge management",
+          "Public relations",
+          "Political science",
+          "Engineering",
+          "Computer science",
+          "Mechanical engineering",
+          "Telecommunications",
+          "Operating system"
+        ],
+        "host_venues": [
+          "NanoImpact"
+        ],
+        "color": "#CC0000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-awmerck",
+      "target": "uid-arbinder",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Communication -- Genetic Engineering and Society",
+        "colleges": "College of Humanities and Social Sciences -- NC State",
+        "buildings": "David Clark Labs -- Winston Hall",
+        "roles": "faculty -- staff",
+        "years": [
+          2021
+        ],
+        "year_recent": 2021,
+        "dois": [
+          "10.1016/j.impact.2021.100365"
+        ],
+        "ncsu?": true,
+        "cross_college?": true,
+        "cross_department?": true,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": true,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": true,
+        "concepts": [
+          "Stakeholder",
+          "Upstream (networking)",
+          "Stakeholder engagement",
+          "Business",
+          "Work (physics)",
+          "Responsible Research and Innovation",
+          "Process (computing)",
+          "Knowledge management",
+          "Public relations",
+          "Political science",
+          "Engineering",
+          "Computer science",
+          "Mechanical engineering",
+          "Telecommunications",
+          "Operating system"
+        ],
+        "host_venues": [
+          "NanoImpact"
+        ],
+        "color": "#FAC800",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-awmerck",
+      "target": "uid-akokoto",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Forestry & Environmental Resources -- Genetic Engineering and Society",
+        "colleges": "College of Natural Resources -- NC State",
+        "buildings": "David Clark Labs --- unknown",
+        "roles": "staff == staff",
+        "years": [
+          2021
+        ],
+        "year_recent": 2021,
+        "dois": [
+          "10.1016/j.impact.2021.100365"
+        ],
+        "ncsu?": true,
+        "cross_college?": true,
+        "cross_department?": true,
+        "cross_unit?": true,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          "Stakeholder",
+          "Upstream (networking)",
+          "Stakeholder engagement",
+          "Business",
+          "Work (physics)",
+          "Responsible Research and Innovation",
+          "Process (computing)",
+          "Knowledge management",
+          "Public relations",
+          "Political science",
+          "Engineering",
+          "Computer science",
+          "Mechanical engineering",
+          "Telecommunications",
+          "Operating system"
+        ],
+        "host_venues": [
+          "NanoImpact"
+        ],
+        "color": "#FAC800",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-awmerck",
+      "target": "uid-clcummin",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Communication -- Genetic Engineering and Society",
+        "colleges": "College of Humanities and Social Sciences -- NC State",
+        "buildings": "David Clark Labs -- Fitts-Woolard Hall",
+        "roles": "staff == staff",
+        "years": [
+          2021
+        ],
+        "year_recent": 2021,
+        "dois": [
+          "10.1016/j.impact.2021.100365"
+        ],
+        "ncsu?": true,
+        "cross_college?": true,
+        "cross_department?": true,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": true,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": true,
+        "concepts": [
+          "Stakeholder",
+          "Upstream (networking)",
+          "Stakeholder engagement",
+          "Business",
+          "Work (physics)",
+          "Responsible Research and Innovation",
+          "Process (computing)",
+          "Knowledge management",
+          "Public relations",
+          "Political science",
+          "Engineering",
+          "Computer science",
+          "Mechanical engineering",
+          "Telecommunications",
+          "Operating system"
+        ],
+        "host_venues": [
+          "NanoImpact"
+        ],
+        "color": "#FAC800",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-kdgriege",
+      "target": "uid-jkuzma",
+      "attributes": {
+        "label": 7,
+        "weight": 7,
+        "collaboration_count": 7,
+        "departments": "Applied Ecology -- Genetic Engineering and Society",
+        "colleges": "College of Agriculture and Life Sciences -- NC State",
+        "buildings": "James B Hunt Jr Centennial Cam -- Plant Sciences Building",
+        "roles": "faculty == faculty",
+        "years": [
+          2022,
+          2022,
+          2021,
+          2021,
+          2021,
+          2020,
+          2019
+        ],
+        "year_recent": 2022,
+        "dois": [
+          "10.3390/su14042274",
+          "10.1016/j.envsci.2022.08.027",
+          "10.1016/j.impact.2021.100326",
+          "10.1007/s11569-021-00404-9",
+          "10.1016/j.impact.2021.100365",
+          "10.1126/science.abd1512",
+          "10.1038/s41565-019-0572-1"
+        ],
+        "ncsu?": true,
+        "cross_college?": true,
+        "cross_department?": true,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": true,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": true,
+        "concepts": [
+          "Sustainability",
+          "Stakeholder",
+          "Competitor analysis",
+          "Context (archaeology)",
+          "Stakeholder engagement",
+          "Business",
+          "Work (physics)",
+          "Marketing",
+          "Community engagement",
+          "Environmental resource management",
+          "Agriculture",
+          "Knowledge management",
+          "Environmental planning",
+          "Public relations",
+          "Geography",
+          "Political science",
+          "Engineering",
+          "Computer science",
+          "Economics",
+          "Mechanical engineering",
+          "Ecology",
+          "Archaeology",
+          "Biology"
+        ],
+        "host_venues": [
+          "Sustainability"
+        ],
+        "color": "#FAC800",
+        "size": 7
+      }
+    },
+    {
+      "source": "uid-kdgriege",
+      "target": "uid-clcummin",
+      "attributes": {
+        "label": 2,
+        "weight": 2,
+        "collaboration_count": 2,
+        "departments": "Applied Ecology -- Communication",
+        "colleges": "College of Agriculture and Life Sciences -- College of Humanities and Social Sciences",
+        "buildings": "Fitts-Woolard Hall -- Plant Sciences Building",
+        "roles": "faculty -- staff",
+        "years": [
+          2021,
+          2021
+        ],
+        "year_recent": 2021,
+        "dois": [
+          "10.1016/j.impact.2021.100326",
+          "10.1016/j.impact.2021.100365"
+        ],
+        "ncsu?": true,
+        "cross_college?": true,
+        "cross_department?": true,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": true,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": true,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          "NanoImpact"
+        ],
+        "color": "#FAC800",
+        "size": 2
+      }
+    },
+    {
+      "source": "uid-kdgriege",
+      "target": "uid-akokoto",
+      "attributes": {
+        "label": 3,
+        "weight": 3,
+        "collaboration_count": 3,
+        "departments": "Applied Ecology -- Forestry & Environmental Resources",
+        "colleges": "College of Agriculture and Life Sciences -- College of Natural Resources",
+        "buildings": "Plant Sciences Building --- unknown",
+        "roles": "faculty -- staff",
+        "years": [
+          2021,
+          2021,
+          2021
+        ],
+        "year_recent": 2021,
+        "dois": [
+          "10.1016/j.impact.2021.100326",
+          "10.1007/s11569-021-00404-9",
+          "10.1016/j.impact.2021.100365"
+        ],
+        "ncsu?": true,
+        "cross_college?": true,
+        "cross_department?": true,
+        "cross_unit?": true,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          "NanoImpact"
+        ],
+        "color": "#FAC800",
+        "size": 3
+      }
+    },
+    {
+      "source": "uid-kdgriege",
+      "target": "uid-mlrowlan",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Applied Ecology --- unknown",
+        "colleges": "College of Agriculture and Life Sciences --- unknown",
+        "buildings": "Partners Building II -- Plant Sciences Building",
+        "roles": "faculty == faculty",
+        "years": [
+          2021
+        ],
+        "year_recent": 2021,
+        "dois": [
+          "10.1016/j.impact.2021.100365"
+        ],
+        "ncsu?": true,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": true,
+        "concepts": [
+          "Stakeholder",
+          "Upstream (networking)",
+          "Stakeholder engagement",
+          "Business",
+          "Work (physics)",
+          "Responsible Research and Innovation",
+          "Process (computing)",
+          "Knowledge management",
+          "Public relations",
+          "Political science",
+          "Engineering",
+          "Computer science",
+          "Mechanical engineering",
+          "Telecommunications",
+          "Operating system"
+        ],
+        "host_venues": [
+          "NanoImpact"
+        ],
+        "color": "#CC0000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-kdgriege",
+      "target": "uid-arbinder",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Applied Ecology -- Communication",
+        "colleges": "College of Agriculture and Life Sciences -- College of Humanities and Social Sciences",
+        "buildings": "Plant Sciences Building -- Winston Hall",
+        "roles": "faculty == faculty",
+        "years": [
+          2021
+        ],
+        "year_recent": 2021,
+        "dois": [
+          "10.1016/j.impact.2021.100365"
+        ],
+        "ncsu?": true,
+        "cross_college?": true,
+        "cross_department?": true,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": true,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": true,
+        "concepts": [
+          "Stakeholder",
+          "Upstream (networking)",
+          "Stakeholder engagement",
+          "Business",
+          "Work (physics)",
+          "Responsible Research and Innovation",
+          "Process (computing)",
+          "Knowledge management",
+          "Public relations",
+          "Political science",
+          "Engineering",
+          "Computer science",
+          "Mechanical engineering",
+          "Telecommunications",
+          "Operating system"
+        ],
+        "host_venues": [
+          "NanoImpact"
+        ],
+        "color": "#FAC800",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-jkuzma",
+      "target": "uid-clcummin",
+      "attributes": {
+        "label": 9,
+        "weight": 9,
+        "collaboration_count": 9,
+        "departments": "Communication -- Genetic Engineering and Society",
+        "colleges": "College of Humanities and Social Sciences -- NC State",
+        "buildings": "Fitts-Woolard Hall -- James B Hunt Jr Centennial Cam",
+        "roles": "faculty -- staff",
+        "years": [
+          2021,
+          2021,
+          2020,
+          2020,
+          2019,
+          2018,
+          2018,
+          2017,
+          2015
+        ],
+        "year_recent": 2021,
+        "dois": [
+          "10.1016/j.impact.2021.100326",
+          "10.1016/j.impact.2021.100365",
+          "10.1007/978-3-030-27264-7_1",
+          "10.1007/978-3-030-27264-7_15",
+          "10.1080/23299460.2019.1591145",
+          "10.1111/rego.12142",
+          "10.1007/s10669-018-9686-5",
+          "10.1371/journal.pone.0168564",
+          "10.1007/s11051-015-3084-4"
+        ],
+        "ncsu?": true,
+        "cross_college?": true,
+        "cross_department?": true,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": true,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": true,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          "NanoImpact"
+        ],
+        "color": "#FAC800",
+        "size": 9
+      }
+    },
+    {
+      "source": "uid-jkuzma",
+      "target": "uid-akokoto",
+      "attributes": {
+        "label": 7,
+        "weight": 7,
+        "collaboration_count": 7,
+        "departments": "Forestry & Environmental Resources -- Genetic Engineering and Society",
+        "colleges": "College of Natural Resources -- NC State",
+        "buildings": "James B Hunt Jr Centennial Cam --- unknown",
+        "roles": "faculty -- staff",
+        "years": [
+          2021,
+          2021,
+          2021,
+          2014,
+          2011,
+          2008,
+          2008
+        ],
+        "year_recent": 2021,
+        "dois": [
+          "10.1016/j.impact.2021.100326",
+          "10.1007/s11569-021-00404-9",
+          "10.1016/j.impact.2021.100365",
+          "10.1177/0270467614565695",
+          "10.1038/embor.2011.160",
+          "10.1111/j.1539-6924.2008.01086.x",
+          "10.1111/j.1539-6924.2008.01071.x"
+        ],
+        "ncsu?": true,
+        "cross_college?": true,
+        "cross_department?": true,
+        "cross_unit?": true,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          "NanoImpact"
+        ],
+        "color": "#FAC800",
+        "size": 7
+      }
+    },
+    {
+      "source": "uid-jkuzma",
+      "target": "uid-mlrowlan",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Genetic Engineering and Society --- unknown",
+        "colleges": "NC State --- unknown",
+        "buildings": "James B Hunt Jr Centennial Cam -- Partners Building II",
+        "roles": "faculty == faculty",
+        "years": [
+          2021
+        ],
+        "year_recent": 2021,
+        "dois": [
+          "10.1016/j.impact.2021.100365"
+        ],
+        "ncsu?": true,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": true,
+        "concepts": [
+          "Stakeholder",
+          "Upstream (networking)",
+          "Stakeholder engagement",
+          "Business",
+          "Work (physics)",
+          "Responsible Research and Innovation",
+          "Process (computing)",
+          "Knowledge management",
+          "Public relations",
+          "Political science",
+          "Engineering",
+          "Computer science",
+          "Mechanical engineering",
+          "Telecommunications",
+          "Operating system"
+        ],
+        "host_venues": [
+          "NanoImpact"
+        ],
+        "color": "#CC0000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-jkuzma",
+      "target": "uid-arbinder",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Communication -- Genetic Engineering and Society",
+        "colleges": "College of Humanities and Social Sciences -- NC State",
+        "buildings": "James B Hunt Jr Centennial Cam -- Winston Hall",
+        "roles": "faculty == faculty",
+        "years": [
+          2021
+        ],
+        "year_recent": 2021,
+        "dois": [
+          "10.1016/j.impact.2021.100365"
+        ],
+        "ncsu?": true,
+        "cross_college?": true,
+        "cross_department?": true,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": true,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": true,
+        "concepts": [
+          "Stakeholder",
+          "Upstream (networking)",
+          "Stakeholder engagement",
+          "Business",
+          "Work (physics)",
+          "Responsible Research and Innovation",
+          "Process (computing)",
+          "Knowledge management",
+          "Public relations",
+          "Political science",
+          "Engineering",
+          "Computer science",
+          "Mechanical engineering",
+          "Telecommunications",
+          "Operating system"
+        ],
+        "host_venues": [
+          "NanoImpact"
+        ],
+        "color": "#FAC800",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-mlrowlan",
+      "target": "uid-arbinder",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Communication --- unknown",
+        "colleges": "College of Humanities and Social Sciences --- unknown",
+        "buildings": "Partners Building II -- Winston Hall",
+        "roles": "faculty == faculty",
+        "years": [
+          2021
+        ],
+        "year_recent": 2021,
+        "dois": [
+          "10.1016/j.impact.2021.100365"
+        ],
+        "ncsu?": true,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": true,
+        "concepts": [
+          "Stakeholder",
+          "Upstream (networking)",
+          "Stakeholder engagement",
+          "Business",
+          "Work (physics)",
+          "Responsible Research and Innovation",
+          "Process (computing)",
+          "Knowledge management",
+          "Public relations",
+          "Political science",
+          "Engineering",
+          "Computer science",
+          "Mechanical engineering",
+          "Telecommunications",
+          "Operating system"
+        ],
+        "host_venues": [
+          "NanoImpact"
+        ],
+        "color": "#CC0000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-mlrowlan",
+      "target": "uid-akokoto",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Forestry & Environmental Resources --- unknown",
+        "colleges": "College of Natural Resources --- unknown",
+        "buildings": "Partners Building II --- unknown",
+        "roles": "faculty -- staff",
+        "years": [
+          2021
+        ],
+        "year_recent": 2021,
+        "dois": [
+          "10.1016/j.impact.2021.100365"
+        ],
+        "ncsu?": true,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": false,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+
+        ],
+        "cross_building?": false,
+        "concepts": [
+          "Stakeholder",
+          "Upstream (networking)",
+          "Stakeholder engagement",
+          "Business",
+          "Work (physics)",
+          "Responsible Research and Innovation",
+          "Process (computing)",
+          "Knowledge management",
+          "Public relations",
+          "Political science",
+          "Engineering",
+          "Computer science",
+          "Mechanical engineering",
+          "Telecommunications",
+          "Operating system"
+        ],
+        "host_venues": [
+          "NanoImpact"
+        ],
+        "color": "#CC0000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-mlrowlan",
+      "target": "uid-clcummin",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Communication --- unknown",
+        "colleges": "College of Humanities and Social Sciences --- unknown",
+        "buildings": "Fitts-Woolard Hall -- Partners Building II",
+        "roles": "faculty -- staff",
+        "years": [
+          2021
+        ],
+        "year_recent": 2021,
+        "dois": [
+          "10.1016/j.impact.2021.100365"
+        ],
+        "ncsu?": true,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": true,
+        "concepts": [
+          "Stakeholder",
+          "Upstream (networking)",
+          "Stakeholder engagement",
+          "Business",
+          "Work (physics)",
+          "Responsible Research and Innovation",
+          "Process (computing)",
+          "Knowledge management",
+          "Public relations",
+          "Political science",
+          "Engineering",
+          "Computer science",
+          "Mechanical engineering",
+          "Telecommunications",
+          "Operating system"
+        ],
+        "host_venues": [
+          "NanoImpact"
+        ],
+        "color": "#CC0000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-arbinder",
+      "target": "uid-akokoto",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Communication -- Forestry & Environmental Resources",
+        "colleges": "College of Humanities and Social Sciences -- College of Natural Resources",
+        "buildings": "Winston Hall --- unknown",
+        "roles": "faculty -- staff",
+        "years": [
+          2021
+        ],
+        "year_recent": 2021,
+        "dois": [
+          "10.1016/j.impact.2021.100365"
+        ],
+        "ncsu?": true,
+        "cross_college?": true,
+        "cross_department?": true,
+        "cross_unit?": true,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          "Stakeholder",
+          "Upstream (networking)",
+          "Stakeholder engagement",
+          "Business",
+          "Work (physics)",
+          "Responsible Research and Innovation",
+          "Process (computing)",
+          "Knowledge management",
+          "Public relations",
+          "Political science",
+          "Engineering",
+          "Computer science",
+          "Mechanical engineering",
+          "Telecommunications",
+          "Operating system"
+        ],
+        "host_venues": [
+          "NanoImpact"
+        ],
+        "color": "#FAC800",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-arbinder",
+      "target": "uid-clcummin",
+      "attributes": {
+        "label": 2,
+        "weight": 2,
+        "collaboration_count": 2,
+        "departments": "Communication == Communication",
+        "colleges": "College of Humanities and Social Sciences == College of Humanities and Social Sciences",
+        "buildings": "Fitts-Woolard Hall -- Winston Hall",
+        "roles": "faculty -- staff",
+        "years": [
+          2021,
+          2011
+        ],
+        "year_recent": 2021,
+        "dois": [
+          "10.1016/j.impact.2021.100365",
+          "10.1007/S11051-011-0325-Z"
+        ],
+        "ncsu?": true,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": true,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": true,
+        "concepts": [
+          "Stakeholder",
+          "Upstream (networking)",
+          "Stakeholder engagement",
+          "Business",
+          "Work (physics)",
+          "Responsible Research and Innovation",
+          "Process (computing)",
+          "Knowledge management",
+          "Public relations",
+          "Political science",
+          "Engineering",
+          "Computer science",
+          "Mechanical engineering",
+          "Telecommunications",
+          "Operating system"
+        ],
+        "host_venues": [
+          "NanoImpact"
+        ],
+        "color": "#CC0000",
+        "size": 2
+      }
+    },
+    {
+      "source": "uid-akokoto",
+      "target": "uid-clcummin",
+      "attributes": {
+        "label": 2,
+        "weight": 2,
+        "collaboration_count": 2,
+        "departments": "Communication -- Forestry & Environmental Resources",
+        "colleges": "College of Humanities and Social Sciences -- College of Natural Resources",
+        "buildings": "Fitts-Woolard Hall --- unknown",
+        "roles": "staff == staff",
+        "years": [
+          2021,
+          2021
+        ],
+        "year_recent": 2021,
+        "dois": [
+          "10.1016/j.impact.2021.100326",
+          "10.1016/j.impact.2021.100365"
+        ],
+        "ncsu?": true,
+        "cross_college?": true,
+        "cross_department?": true,
+        "cross_unit?": true,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          "NanoImpact"
+        ],
+        "color": "#FAC800",
+        "size": 2
+      }
+    }
+  ]
+}

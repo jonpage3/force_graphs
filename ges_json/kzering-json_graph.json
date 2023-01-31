@@ -1,0 +1,3985 @@
+{
+  "options": {
+    "type": "undirected",
+    "multi": false,
+    "allowSelfLoops": false
+  },
+  "attributes": {
+    "creator": "Citation Index",
+    "lastModifiedDate": "2023-01-14"
+  },
+  "nodes": [
+    {
+      "key": "uid-kzering",
+      "attributes": {
+        "label": "K Zering",
+        "name": "Kelly Zering",
+        "known?": true,
+        "orcid?": true,
+        "ncsu?": true,
+        "affiliations": [
+          "North Carolina State University"
+        ],
+        "countries": [
+          "US"
+        ],
+        "uid": "kzering",
+        "url": "https://ci.lib.ncsu.edu/profiles/kzering",
+        "orcid": "0000-0001-6822-6733",
+        "active?": true,
+        "department": "Agricultural & Resource Economics",
+        "college": "College of Agriculture and Life Sciences",
+        "ncsu_affiliations": [
+          "Agricultural & Resource Economics",
+          "Energy Collaborative",
+          "Genetic Engineering and Society"
+        ],
+        "cluster?": true,
+        "clusters": [
+          "Energy Collaborative",
+          "Genetic Engineering and Society"
+        ],
+        "role": "faculty",
+        "building": "Nelson Hall",
+        "count": 12,
+        "oa_count": 5,
+        "years": [
+          2017,
+          2015,
+          2014,
+          2011,
+          2010,
+          2008,
+          2002,
+          2000,
+          1989
+        ],
+        "year_recent": 2017,
+        "article_concepts": [
+          "Agricultural economics",
+          "Agriculture",
+          "Agronomy",
+          "Archaeology",
+          "Aviation biofuel",
+          "Bioenergy",
+          "Biofuel",
+          "Biology",
+          "Biomass (ecology)",
+          "Business",
+          "Camelina",
+          "Camelina sativa",
+          "Catalysis",
+          "Chemistry",
+          "Computer science",
+          "Crop",
+          "Decarboxylation",
+          "Economics",
+          "Engineering",
+          "Environmental science",
+          "Food science",
+          "Geography",
+          "Hydrodeoxygenation",
+          "Hydrolysis",
+          "Jet fuel",
+          "Natural resource economics",
+          "Organic chemistry",
+          "Pulp and paper industry",
+          "Risk analysis (engineering)",
+          "Selectivity",
+          "Waste management"
+        ],
+        "host_venues": [
+          "AIMS agriculture and food",
+          "Applied Engineering in Agriculture",
+          "Biomass & Bioenergy",
+          "Javma-journal of The American Veterinary Medical Association",
+          "The Engineering Economist"
+        ],
+        "color": "#6F7D1C",
+        "size": 20
+      }
+    },
+    {
+      "key": "uid-elkick",
+      "attributes": {
+        "label": "E Kick",
+        "name": "Edward Kick",
+        "known?": true,
+        "orcid?": false,
+        "ncsu?": true,
+        "affiliations": [
+          "North Carolina State University"
+        ],
+        "countries": [
+          "US"
+        ],
+        "uid": "elkick",
+        "url": "https://ci.lib.ncsu.edu/profiles/elkick",
+        "active?": true,
+        "department": "Sociology & Anthropology",
+        "college": "College of Humanities and Social Sciences",
+        "ncsu_affiliations": [
+          "Sociology & Anthropology",
+          "Agricultural & Resource Economics"
+        ],
+        "cluster?": false,
+        "clusters": [
+
+        ],
+        "role": "faculty",
+        "building": "Nelson Hall",
+        "count": 14,
+        "oa_count": 2,
+        "years": [
+          2019,
+          2017,
+          2015,
+          2014,
+          2012,
+          2011,
+          2009,
+          2007,
+          2006
+        ],
+        "year_recent": 2019,
+        "article_concepts": [
+          "Agricultural economics",
+          "Agriculture",
+          "Archaeology",
+          "Biology",
+          "Business",
+          "Capitalism",
+          "Computer science",
+          "Distribution (mathematics)",
+          "Division of labour",
+          "Ecology",
+          "Economic geography",
+          "Economic history",
+          "Economics",
+          "Economy",
+          "Engineering",
+          "Garbage",
+          "Geography",
+          "Globalization",
+          "Inequality",
+          "Law",
+          "Machine learning",
+          "Market economy",
+          "Mathematical analysis",
+          "Mathematics",
+          "Meteorology",
+          "Natural (archaeology)",
+          "Natural disaster",
+          "Natural resource economics",
+          "Political science",
+          "Politics",
+          "Risk analysis (engineering)",
+          "Surplus value",
+          "Value (mathematics)",
+          "Waste management"
+        ],
+        "host_venues": [
+          "AIMS agriculture and food",
+          "American Journal of Sociology",
+          "Comparative Sociology",
+          "Disasters",
+          "Economic & Industrial Democracy",
+          "Environment and Planning A",
+          "Human Ecology Review",
+          "International Journal of Comparative Sociology",
+          "Journal of World-Systems Research",
+          "Social Science Research",
+          "Sociological Perspectives",
+          "Urban Studies"
+        ],
+        "color": "#FAC800",
+        "size": 10
+      }
+    },
+    {
+      "key": "uid-classen",
+      "attributes": {
+        "label": "J Classen",
+        "name": "John Classen",
+        "known?": true,
+        "orcid?": true,
+        "ncsu?": true,
+        "affiliations": [
+          "North Carolina State University"
+        ],
+        "countries": [
+          "US"
+        ],
+        "uid": "classen",
+        "url": "https://ci.lib.ncsu.edu/profiles/classen",
+        "orcid": "0000-0001-7006-8375",
+        "active?": true,
+        "department": "Biological & Agricultural Engineering",
+        "college": "College of Engineering",
+        "ncsu_affiliations": [
+          "Biological & Agricultural Engineering",
+          "Biological & Agricultural Engineering",
+          "Genetic Engineering and Society"
+        ],
+        "cluster?": true,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "role": "faculty",
+        "building": "Weaver Administration Bldg",
+        "count": 48,
+        "oa_count": 12,
+        "years": [
+          2022,
+          2021,
+          2020,
+          2019,
+          2018,
+          2017,
+          2016,
+          2015,
+          2014,
+          2013,
+          2011,
+          2010,
+          2007,
+          2005,
+          2003,
+          2002,
+          2001,
+          2000,
+          1999,
+          1996
+        ],
+        "year_recent": 2022,
+        "article_concepts": [
+          "Adsorption",
+          "Aerosol",
+          "Agency (philosophy)",
+          "Agricultural economics",
+          "Agricultural engineering",
+          "Agricultural science",
+          "Agriculture",
+          "Agronomy",
+          "Air temperature",
+          "Air velocity",
+          "Ammonia",
+          "Animal science",
+          "Animal welfare",
+          "Apparent temperature",
+          "Archaeology",
+          "Astronomy",
+          "Atmospheric sciences",
+          "Baseline (sea)",
+          "Beef cattle",
+          "Biochemical engineering",
+          "Biochemistry",
+          "Biology",
+          "Botany",
+          "Broiler",
+          "Business",
+          "Butyric acid",
+          "Carbonization",
+          "Center (category theory)",
+          "Chemistry",
+          "Chicken manure",
+          "Coal",
+          "Combustion",
+          "Computer network",
+          "Computer science",
+          "Context (archaeology)",
+          "Corporate governance",
+          "Crystallography",
+          "Daytime",
+          "Diurnal temperature variation",
+          "Dominance (genetics)",
+          "Ecology",
+          "Economics",
+          "Embedded system",
+          "Engineering",
+          "Environmental chemistry",
+          "Environmental engineering",
+          "Environmental planning",
+          "Environmental resource management",
+          "Environmental science",
+          "Evening",
+          "Finance",
+          "Fishery",
+          "Flock",
+          "Food energy",
+          "Food security",
+          "Forestry",
+          "Gene",
+          "Geography",
+          "Geology",
+          "Government (linguistics)",
+          "Heat index",
+          "Heat stress",
+          "Humidity",
+          "Hydrothermal carbonization",
+          "Identification (biology)",
+          "Inorganic chemistry",
+          "Law",
+          "Leverage (statistics)",
+          "Linguistics",
+          "Livelihood",
+          "Livestock",
+          "Machine learning",
+          "Management",
+          "Manure",
+          "Manure management",
+          "Materials science",
+          "Mechanics",
+          "Medical education",
+          "Medicine",
+          "Metallurgy",
+          "Meteorology",
+          "Morning",
+          "Natural resource economics",
+          "Nexus (standard)",
+          "Nitric acid",
+          "Noon",
+          "Nutrient",
+          "Nutrient cycle",
+          "Nutrient management",
+          "Organic chemistry",
+          "Particulates",
+          "Pathology",
+          "Pedagogy",
+          "Philosophy",
+          "Physics",
+          "Political science",
+          "Pollutant",
+          "Psychology",
+          "Public relations",
+          "Pulp and paper industry",
+          "Raw material",
+          "Relative humidity",
+          "Resource (disambiguation)",
+          "Risk analysis (engineering)",
+          "Sitting",
+          "Slurry",
+          "Social science",
+          "Sociology",
+          "Stakeholder",
+          "Stakeholder analysis",
+          "Stakeholder engagement",
+          "Sulfuric acid",
+          "Sustainability",
+          "Training (meteorology)",
+          "Waste management",
+          "Water energy",
+          "Water resource management",
+          "Welfare",
+          "Wicked problem",
+          "Wind speed",
+          "Yield (engineering)"
+        ],
+        "host_venues": [
+          "2001 Sacramento, CA July 29-August 1,2001",
+          "AIMS agriculture and food",
+          "Advances in Environmental Research",
+          "Animals",
+          "Applied Biochemistry and Biotechnology",
+          "Applied Engineering in Agriculture",
+          "Aquacultural Engineering",
+          "Atmosphere",
+          "Atmospheric Research",
+          "Bioresource Technology",
+          "Compost Science & Utilization",
+          "Data in Brief",
+          "Elementa",
+          "Environmental Engineering Science",
+          "Environmental progress & sustainable energy",
+          "Frontiers in Environmental Science",
+          "Industrial Crops and Products",
+          "International Journal of Environmental Research",
+          "Journal Of Environmental Science And Health, Part A",
+          "Journal of Environmental Engineering",
+          "Journal of the ASABE",
+          "Processes",
+          "Sustainability",
+          "Transactions of the ASABE",
+          "Transactions of the ASAE",
+          "Waste and Biomass Valorization",
+          "Water Air and Soil Pollution"
+        ],
+        "color": "#990000",
+        "size": 10
+      }
+    },
+    {
+      "key": "https://orcid.org/0000-0001-9430-0386",
+      "attributes": {
+        "label": "R Natelson",
+        "name": "Robert H. Natelson",
+        "known?": false,
+        "orcid?": null,
+        "ncsu?": true,
+        "affiliations": [
+          "North Carolina State University"
+        ],
+        "countries": [
+          "US"
+        ],
+        "color": "#000000",
+        "size": 10
+      }
+    },
+    {
+      "key": "https://orcid.org/0000-0002-7277-3702",
+      "attributes": {
+        "label": "W Wang",
+        "name": "Wei Cheng Wang",
+        "known?": false,
+        "orcid?": null,
+        "ncsu?": false,
+        "affiliations": [
+          "National Cheng Kung University"
+        ],
+        "countries": [
+          "TW"
+        ],
+        "color": "#BFBFBD",
+        "size": 10
+      }
+    },
+    {
+      "key": "https://orcid.org/0000-0003-1999-2831",
+      "attributes": {
+        "label": "W Roberts",
+        "name": "William L. Roberts",
+        "known?": false,
+        "orcid?": null,
+        "ncsu?": false,
+        "affiliations": [
+          "King Abdullah University of Science and Technology"
+        ],
+        "countries": [
+          "SA"
+        ],
+        "color": "#BFBFBD",
+        "size": 10
+      }
+    },
+    {
+      "key": "uid-csf",
+      "attributes": {
+        "label": "C Furiness",
+        "name": "Cari Furiness",
+        "known?": true,
+        "orcid?": false,
+        "ncsu?": true,
+        "affiliations": [
+          "North Carolina State University"
+        ],
+        "countries": [
+          "US"
+        ],
+        "uid": "csf",
+        "url": "https://ci.lib.ncsu.edu/profiles/csf",
+        "active?": true,
+        "department": "Forestry & Environmental Resources",
+        "college": "College of Natural Resources",
+        "ncsu_affiliations": [
+          "Forestry & Environmental Resources",
+          "Applied Ecology"
+        ],
+        "cluster?": false,
+        "clusters": [
+
+        ],
+        "role": "staff",
+        "building": "David Clark Labs",
+        "count": 11,
+        "oa_count": 5,
+        "years": [
+          2022,
+          2016,
+          2015,
+          2011,
+          2008,
+          2006,
+          2001,
+          2000,
+          1998
+        ],
+        "year_recent": 2022,
+        "article_concepts": [
+          "Adaptation (eye)",
+          "Archaeology",
+          "Biology",
+          "Business",
+          "Climate change",
+          "Climate change adaptation",
+          "Computer science",
+          "Consumption (sociology)",
+          "Ecology",
+          "Economics",
+          "Energy (signal processing)",
+          "Engineering",
+          "Engineering ethics",
+          "Environmental economics",
+          "Environmental planning",
+          "Environmental resource management",
+          "Environmental science",
+          "Food processing",
+          "Geography",
+          "Globe",
+          "Knowledge management",
+          "Law",
+          "Macroeconomics",
+          "Marketing",
+          "Mathematics",
+          "Natural resource economics",
+          "Neuroscience",
+          "Plan (archaeology)",
+          "Political science",
+          "Politics",
+          "Production (economics)",
+          "Psychology",
+          "Public relations",
+          "Social science",
+          "Sociology",
+          "Stakeholder",
+          "Stakeholder engagement",
+          "Statistics",
+          "Uncertainty"
+        ],
+        "host_venues": [
+          "Atmospheric Environment",
+          "Conservation Letters",
+          "Environmental Pollution",
+          "The Scientific World Journal"
+        ],
+        "color": "#855735",
+        "size": 10
+      }
+    },
+    {
+      "key": "allencowlinge",
+      "attributes": {
+        "label": "A Cowling. E.",
+        "name": "Allen Cowling. E.",
+        "known?": false,
+        "orcid?": null,
+        "ncsu?": null,
+        "affiliations": null,
+        "countries": null,
+        "color": "#BFBFBD",
+        "size": 10
+      }
+    },
+    {
+      "key": "abtl",
+      "attributes": {
+        "label": "A L.",
+        "name": "Abt L.",
+        "known?": false,
+        "orcid?": null,
+        "ncsu?": null,
+        "affiliations": null,
+        "countries": null,
+        "color": "#BFBFBD",
+        "size": 10
+      }
+    },
+    {
+      "key": "frederickr",
+      "attributes": {
+        "label": "F R.",
+        "name": "Frederick R.",
+        "known?": false,
+        "orcid?": null,
+        "ncsu?": null,
+        "affiliations": null,
+        "countries": null,
+        "color": "#BFBFBD",
+        "size": 10
+      }
+    },
+    {
+      "key": "zeringd",
+      "attributes": {
+        "label": "Z D.",
+        "name": "Zering D.",
+        "known?": false,
+        "orcid?": null,
+        "ncsu?": null,
+        "affiliations": null,
+        "countries": null,
+        "color": "#BFBFBD",
+        "size": 10
+      }
+    },
+    {
+      "key": "k",
+      "attributes": {
+        "label": " K.",
+        "name": " K.",
+        "known?": false,
+        "orcid?": null,
+        "ncsu?": null,
+        "affiliations": null,
+        "countries": null,
+        "color": "#BFBFBD",
+        "size": 10
+      }
+    },
+    {
+      "key": "u-2167",
+      "attributes": {
+        "label": "R Campbell",
+        "name": "Robert G. Campbell",
+        "known?": true,
+        "orcid?": false,
+        "ncsu?": true,
+        "affiliations": [
+          "North Carolina State University"
+        ],
+        "countries": [
+          "US"
+        ],
+        "url": "https://ci.lib.ncsu.edu/profiles/2167",
+        "active?": false,
+        "department": "Forestry & Environmental Resources",
+        "college": "College of Natural Resources",
+        "ncsu_affiliations": [
+          "Forestry & Environmental Resources"
+        ],
+        "cluster?": false,
+        "clusters": [
+
+        ],
+        "role": null,
+        "building": null,
+        "count": 4,
+        "oa_count": 2,
+        "years": [
+          2011,
+          2007,
+          1999,
+          1998
+        ],
+        "year_recent": 2011,
+        "article_concepts": [
+
+        ],
+        "host_venues": [
+          "Cardiology in The Young",
+          "Journal of Environmental Quality"
+        ],
+        "color": "#855735",
+        "size": 10
+      }
+    },
+    {
+      "key": "rcampbell",
+      "attributes": {
+        "label": "R Campbell",
+        "name": "R. Campbell",
+        "known?": false,
+        "orcid?": null,
+        "ncsu?": null,
+        "affiliations": null,
+        "countries": null,
+        "color": "#BFBFBD",
+        "size": 10
+      }
+    },
+    {
+      "key": "uid-ebcfor",
+      "attributes": {
+        "label": "E Cowling",
+        "name": "Ellis Cowling",
+        "known?": true,
+        "orcid?": false,
+        "ncsu?": true,
+        "affiliations": [
+          "North Carolina State University"
+        ],
+        "countries": [
+          "US"
+        ],
+        "uid": "ebcfor",
+        "url": "https://ci.lib.ncsu.edu/profiles/ebcfor",
+        "active?": true,
+        "department": "Forestry & Environmental Resources",
+        "college": "College of Natural Resources",
+        "ncsu_affiliations": [
+          "Forestry & Environmental Resources"
+        ],
+        "cluster?": false,
+        "clusters": [
+
+        ],
+        "role": "other",
+        "building": null,
+        "count": 37,
+        "oa_count": 17,
+        "years": [
+          2021,
+          2020,
+          2015,
+          2013,
+          2011,
+          2010,
+          2008,
+          2006,
+          2003,
+          2002,
+          2001,
+          2000,
+          1999,
+          1998,
+          1997,
+          1995,
+          1989,
+          1987,
+          1982
+        ],
+        "year_recent": 2021,
+        "article_concepts": [
+          "Acid rain",
+          "Advertising",
+          "Agency (philosophy)",
+          "Agroforestry",
+          "Agronomy",
+          "Air pollution",
+          "Air quality index",
+          "Archaeology",
+          "Atlanta",
+          "Biology",
+          "Botany",
+          "Business",
+          "Cartography",
+          "Chemistry",
+          "Chromatography",
+          "Climatology",
+          "Computer science",
+          "Consumption (sociology)",
+          "Context (archaeology)",
+          "Convention",
+          "Ecology",
+          "Economics",
+          "Energy (signal processing)",
+          "Engineering",
+          "Engineering ethics",
+          "Engineering physics",
+          "Environmental economics",
+          "Environmental planning",
+          "Environmental protection",
+          "Environmental resource management",
+          "Environmental science",
+          "Epistemology",
+          "Finance",
+          "Food processing",
+          "Forestry",
+          "General partnership",
+          "Geography",
+          "Geology",
+          "History",
+          "Law",
+          "Library science",
+          "Loblolly pine",
+          "Macroeconomics",
+          "Marketing",
+          "Mathematics",
+          "Meteorology",
+          "Metropolitan area",
+          "National Ambient Air Quality Standards",
+          "National standard",
+          "Natural resource economics",
+          "Nitrogen",
+          "Operating system",
+          "Organic chemistry",
+          "Ozone",
+          "Philosophy",
+          "Physics",
+          "Pinus <genus>",
+          "Political science",
+          "Politics",
+          "Pollution",
+          "Production (economics)",
+          "Programming language",
+          "Public relations",
+          "Pulp and paper industry",
+          "Quality standard",
+          "Resistance (ecology)",
+          "Rural area",
+          "Rust (programming language)",
+          "Scale (ratio)",
+          "Section (typography)",
+          "Service (business)",
+          "Slash (logging)",
+          "Slash Pine",
+          "Social science",
+          "Sociology",
+          "Special section",
+          "Statistics",
+          "Sustainable development",
+          "Tree breeding",
+          "Uncertainty",
+          "Woody plant"
+        ],
+        "host_venues": [
+          "AMBIO: A Journal of the Human Environment",
+          "Annual Review of Phytopathology",
+          "Atmospheric Environment",
+          "BioScience",
+          "Change: The Magazine of Higher Learning",
+          "Environment International",
+          "Environmental Pollution",
+          "Forests",
+          "Journal of Forestry",
+          "Journal of Geophysical Research",
+          "Science",
+          "The Scientific World Journal",
+          "Water Air and Soil Pollution"
+        ],
+        "color": "#855735",
+        "size": 10
+      }
+    },
+    {
+      "key": "labtallen",
+      "attributes": {
+        "label": "L Allen",
+        "name": "L. Abt Allen",
+        "known?": false,
+        "orcid?": null,
+        "ncsu?": null,
+        "affiliations": null,
+        "countries": null,
+        "color": "#BFBFBD",
+        "size": 10
+      }
+    },
+    {
+      "key": "drfrederick",
+      "attributes": {
+        "label": "D R. Frederick",
+        "name": "D. R. Frederick",
+        "known?": false,
+        "orcid?": null,
+        "ncsu?": null,
+        "affiliations": null,
+        "countries": null,
+        "color": "#BFBFBD",
+        "size": 10
+      }
+    },
+    {
+      "key": "uid-westerma",
+      "attributes": {
+        "label": "P Westerman",
+        "name": "Phil Westerman",
+        "known?": true,
+        "orcid?": false,
+        "ncsu?": true,
+        "affiliations": [
+          "North Carolina State University"
+        ],
+        "countries": [
+          "US"
+        ],
+        "uid": "westerma",
+        "url": "https://ci.lib.ncsu.edu/profiles/westerma",
+        "active?": true,
+        "department": "Biological & Agricultural Engineering",
+        "college": "College of Engineering",
+        "ncsu_affiliations": [
+          "Biological & Agricultural Engineering",
+          "Biological & Agricultural Engineering"
+        ],
+        "cluster?": false,
+        "clusters": [
+
+        ],
+        "role": "faculty",
+        "building": null,
+        "count": 39,
+        "oa_count": 5,
+        "years": [
+          2014,
+          2013,
+          2011,
+          2010,
+          2009,
+          2008,
+          2007,
+          2006,
+          2005,
+          2003,
+          2002,
+          2000,
+          1999,
+          1997,
+          1996,
+          1995,
+          1985,
+          1983,
+          1981
+        ],
+        "year_recent": 2014,
+        "article_concepts": [
+          "Agronomy",
+          "Airflow",
+          "Ammonia",
+          "Anaerobic exercise",
+          "Animal science",
+          "Atmospheric sciences",
+          "Biochemistry",
+          "Biology",
+          "Broiler",
+          "Brood",
+          "Chemistry",
+          "Ecology",
+          "Electrical engineering",
+          "Electricity",
+          "Engineering",
+          "Environmental chemistry",
+          "Environmental engineering",
+          "Environmental science",
+          "Flock",
+          "Flux (metallurgy)",
+          "Food science",
+          "Geology",
+          "Litter",
+          "Mechanical engineering",
+          "Mechanics",
+          "Medicine",
+          "Meteorology",
+          "Nitrogen",
+          "Organic chemistry",
+          "Physics",
+          "Physiology",
+          "Propane",
+          "Pulp and paper industry",
+          "Scrubber",
+          "Toxicology",
+          "Veterinary medicine",
+          "Waste management",
+          "Wind direction",
+          "Wind speed",
+          "Wind tunnel"
+        ],
+        "host_venues": [
+          "Applied Engineering in Agriculture",
+          "Aquacultural Engineering",
+          "Atmospheric Environment",
+          "Bioresource Technology",
+          "Biosystems Engineering",
+          "Journal of Applied Meteorology",
+          "Journal of Environmental Quality",
+          "Journal of the Air & Waste Management Association",
+          "The Journal of applied poultry research",
+          "Transactions of the ASABE",
+          "Transactions of the ASAE",
+          "Water Environment Research"
+        ],
+        "color": "#990000",
+        "size": 10
+      }
+    },
+    {
+      "key": "keithebowers",
+      "attributes": {
+        "label": "K Bowers",
+        "name": "Keith E. Bowers",
+        "known?": false,
+        "orcid?": null,
+        "ncsu?": false,
+        "affiliations": [
+
+        ],
+        "countries": [
+
+        ],
+        "color": "#BFBFBD",
+        "size": 10
+      }
+    },
+    {
+      "key": "yuangsungalchen",
+      "attributes": {
+        "label": "Y Chen",
+        "name": "Yuang-Sung Al Chen",
+        "known?": false,
+        "orcid?": null,
+        "ncsu?": true,
+        "affiliations": [
+          "North Carolina State University"
+        ],
+        "countries": [
+          "US"
+        ],
+        "color": "#000000",
+        "size": 10
+      }
+    },
+    {
+      "key": "gilroyjzuckerman",
+      "attributes": {
+        "label": "G Zuckerman",
+        "name": "Gilroy J. Zuckerman",
+        "known?": false,
+        "orcid?": null,
+        "ncsu?": true,
+        "affiliations": [
+          "North Carolina State University"
+        ],
+        "countries": [
+          "US"
+        ],
+        "color": "#000000",
+        "size": 10
+      }
+    },
+    {
+      "key": "uid-joan",
+      "attributes": {
+        "label": "J Eisemann",
+        "name": "Joan Eisemann",
+        "known?": true,
+        "orcid?": false,
+        "ncsu?": true,
+        "affiliations": [
+          "North Carolina State University"
+        ],
+        "countries": [
+          "US"
+        ],
+        "uid": "joan",
+        "url": "https://ci.lib.ncsu.edu/profiles/joan",
+        "active?": true,
+        "department": "Animal Science",
+        "college": "College of Agriculture and Life Sciences",
+        "ncsu_affiliations": [
+          "Animal Science"
+        ],
+        "cluster?": false,
+        "clusters": [
+
+        ],
+        "role": "faculty",
+        "building": "Polk Hall",
+        "count": 30,
+        "oa_count": 8,
+        "years": [
+          2022,
+          2020,
+          2019,
+          2016,
+          2014,
+          2013,
+          2007,
+          2004,
+          2002,
+          2001,
+          2000,
+          1999,
+          1998,
+          1997,
+          1994
+        ],
+        "year_recent": 2022,
+        "article_concepts": [
+          "Acclimatization",
+          "Agronomy",
+          "Amino acid",
+          "Animal science",
+          "Beef cattle",
+          "Beet pulp",
+          "Biochemistry",
+          "Biology",
+          "Biotechnology",
+          "Body weight",
+          "Botany",
+          "Carbohydrate metabolism",
+          "Chemistry",
+          "Chromatography",
+          "Chromium",
+          "Digestion (alchemy)",
+          "Dry matter",
+          "Ecology",
+          "Endocrinology",
+          "Endophyte",
+          "Environmental health",
+          "Estrous cycle",
+          "Fatty acid",
+          "Feces",
+          "Fermentation",
+          "Fertility",
+          "Festuca arundinacea",
+          "Food science",
+          "Gene",
+          "Genetics",
+          "Genotype",
+          "Glucose uptake",
+          "Grazing",
+          "Growth factor",
+          "Hair follicle",
+          "Hindlimb",
+          "Horse",
+          "Insulin",
+          "Insulin-like growth factor",
+          "Insulin-like growth factor-binding protein",
+          "Internal medicine",
+          "Laminitis",
+          "Latin square",
+          "Lemur",
+          "Meal",
+          "Medicine",
+          "Metabolism",
+          "Metabolite",
+          "Monogastric",
+          "NEFA",
+          "Neutral Detergent Fiber",
+          "Nicotinic agonist",
+          "Nutrient",
+          "Orange (colour)",
+          "Organic chemistry",
+          "Paleontology",
+          "Pasture",
+          "Pathology",
+          "Pectin",
+          "Phenotype",
+          "Poaceae",
+          "Population",
+          "Postprandial",
+          "Primate",
+          "Propionate",
+          "Protein biosynthesis",
+          "Protein degradation",
+          "Protein metabolism",
+          "Pulp (tooth)",
+          "Ractopamine",
+          "Receptor",
+          "Rumen",
+          "Ruminant",
+          "Transgene",
+          "Urea",
+          "Withers"
+        ],
+        "host_venues": [
+          "American Journal of Primatology",
+          "American Journal of Veterinary Research",
+          "Animal Production Science",
+          "Javma-journal of The American Veterinary Medical Association",
+          "Journal of Animal Science",
+          "Journal of Dairy Science",
+          "Journal of Nutrition",
+          "Proceedings of the National Academy of Sciences of the United States of America",
+          "The Journal of Agricultural Science",
+          "Zoo Biology"
+        ],
+        "color": "#6F7D1C",
+        "size": 10
+      }
+    },
+    {
+      "key": "wemorganmorrow",
+      "attributes": {
+        "label": "W Morrow",
+        "name": "W. E. Morgan Morrow",
+        "known?": false,
+        "orcid?": null,
+        "ncsu?": true,
+        "affiliations": [
+          "North Carolina State University"
+        ],
+        "countries": [
+          "US"
+        ],
+        "color": "#000000",
+        "size": 10
+      }
+    },
+    {
+      "key": "mtoddsee",
+      "attributes": {
+        "label": "M See",
+        "name": "M. Todd See",
+        "known?": false,
+        "orcid?": null,
+        "ncsu?": true,
+        "affiliations": [
+          "North Carolina State University"
+        ],
+        "countries": [
+          "US"
+        ],
+        "color": "#000000",
+        "size": 10
+      }
+    },
+    {
+      "key": "u-102",
+      "attributes": {
+        "label": "P Davies",
+        "name": "Peter Robert Davies",
+        "known?": true,
+        "orcid?": false,
+        "ncsu?": true,
+        "affiliations": [
+          "North Carolina State University"
+        ],
+        "countries": [
+          "US"
+        ],
+        "url": "https://ci.lib.ncsu.edu/profiles/102",
+        "active?": false,
+        "department": "Population Health and Pathobiology",
+        "college": "College of Veterinary Medicine",
+        "ncsu_affiliations": [
+          "Population Health and Pathobiology"
+        ],
+        "cluster?": false,
+        "clusters": [
+
+        ],
+        "role": null,
+        "building": null,
+        "count": 26,
+        "oa_count": 3,
+        "years": [
+          2004,
+          2002,
+          2001,
+          2000,
+          1999,
+          1998,
+          1997,
+          1996
+        ],
+        "year_recent": 2004,
+        "article_concepts": [
+          "Amp resistance",
+          "Ampicillin",
+          "Animal science",
+          "Antibiotic resistance",
+          "Antibiotics",
+          "Antimicrobial",
+          "Bacteria",
+          "Biochemistry",
+          "Biology",
+          "Chloramphenicol",
+          "Drug resistance",
+          "Enrichment culture",
+          "Enterobacteriaceae",
+          "Escherichia coli",
+          "Feces",
+          "Food science",
+          "Gene",
+          "Genetics",
+          "Herd",
+          "Integron",
+          "Kanamycin",
+          "Medicine",
+          "Microbiology",
+          "Multiple drug resistance",
+          "Phage typing",
+          "Philosophy",
+          "Rappaport",
+          "Salmonella",
+          "Salmonella enterica",
+          "Serotype",
+          "Streptomycin",
+          "Tetracycline",
+          "Tetrathionate",
+          "Theology",
+          "Veterinary medicine",
+          "Virology"
+        ],
+        "host_venues": [
+          "Epidemiology and Infection",
+          "Javma-journal of The American Veterinary Medical Association",
+          "Journal of Antimicrobial Chemotherapy",
+          "Journal of Applied Microbiology",
+          "Journal of Food Protection",
+          "Journal of Veterinary Diagnostic Investigation",
+          "Preventive Veterinary Medicine",
+          "Veterinary Microbiology",
+          "Veterinary Parasitology"
+        ],
+        "color": "#509CFE",
+        "size": 10
+      }
+    },
+    {
+      "key": "pacechengj",
+      "attributes": {
+        "label": "P Cheng J.",
+        "name": "Pace Cheng J.",
+        "known?": false,
+        "orcid?": null,
+        "ncsu?": null,
+        "affiliations": null,
+        "countries": null,
+        "color": "#BFBFBD",
+        "size": 10
+      }
+    },
+    {
+      "key": "zeringj",
+      "attributes": {
+        "label": "Z J.",
+        "name": "Zering J.",
+        "known?": false,
+        "orcid?": null,
+        "ncsu?": null,
+        "affiliations": null,
+        "countries": null,
+        "color": "#BFBFBD",
+        "size": 10
+      }
+    },
+    {
+      "key": "barkerkd",
+      "attributes": {
+        "label": "B K. D.",
+        "name": "Barker K. D.",
+        "known?": false,
+        "orcid?": null,
+        "ncsu?": null,
+        "affiliations": null,
+        "countries": null,
+        "color": "#BFBFBD",
+        "size": 10
+      }
+    },
+    {
+      "key": "roosjc",
+      "attributes": {
+        "label": "R J. C.",
+        "name": "Roos J. C.",
+        "known?": false,
+        "orcid?": null,
+        "ncsu?": null,
+        "affiliations": null,
+        "countries": null,
+        "color": "#BFBFBD",
+        "size": 10
+      }
+    },
+    {
+      "key": "kf",
+      "attributes": {
+        "label": " K. F.",
+        "name": " K. F.",
+        "known?": false,
+        "orcid?": null,
+        "ncsu?": null,
+        "affiliations": null,
+        "countries": null,
+        "color": "#BFBFBD",
+        "size": 10
+      }
+    },
+    {
+      "key": "lmsaele",
+      "attributes": {
+        "label": "L Saele",
+        "name": "L. M. Saele",
+        "known?": false,
+        "orcid?": null,
+        "ncsu?": null,
+        "affiliations": null,
+        "countries": null,
+        "color": "#BFBFBD",
+        "size": 10
+      }
+    }
+  ],
+  "edges": [
+    {
+      "source": "uid-kzering",
+      "target": "uid-elkick",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Agricultural & Resource Economics -- Sociology & Anthropology",
+        "colleges": "College of Agriculture and Life Sciences -- College of Humanities and Social Sciences",
+        "buildings": "Nelson Hall == Nelson Hall",
+        "roles": "faculty == faculty",
+        "years": [
+          2017
+        ],
+        "year_recent": 2017,
+        "dois": [
+          "10.3934/agrfood.2017.4.370"
+        ],
+        "ncsu?": true,
+        "cross_college?": true,
+        "cross_department?": true,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Energy Collaborative",
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          "Agriculture",
+          "Business",
+          "Natural resource economics",
+          "Risk analysis (engineering)",
+          "Agricultural economics",
+          "Computer science",
+          "Economics",
+          "Geography",
+          "Archaeology"
+        ],
+        "host_venues": [
+          "AIMS agriculture and food"
+        ],
+        "color": "#FAC800",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-kzering",
+      "target": "uid-classen",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Agricultural & Resource Economics -- Biological & Agricultural Engineering",
+        "colleges": "College of Agriculture and Life Sciences -- College of Engineering",
+        "buildings": "Nelson Hall -- Weaver Administration Bldg",
+        "roles": "faculty == faculty",
+        "years": [
+          2017
+        ],
+        "year_recent": 2017,
+        "dois": [
+          "10.3934/agrfood.2017.4.370"
+        ],
+        "ncsu?": true,
+        "cross_college?": true,
+        "cross_department?": true,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": true,
+        "cross_cluster?": false,
+        "clusters": [
+          "Energy Collaborative",
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": true,
+        "concepts": [
+          "Agriculture",
+          "Business",
+          "Natural resource economics",
+          "Risk analysis (engineering)",
+          "Agricultural economics",
+          "Computer science",
+          "Economics",
+          "Geography",
+          "Archaeology"
+        ],
+        "host_venues": [
+          "AIMS agriculture and food"
+        ],
+        "color": "#FAC800",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-kzering",
+      "target": "https://orcid.org/0000-0001-9430-0386",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Agricultural & Resource Economics --- unknown",
+        "colleges": "College of Agriculture and Life Sciences --- unknown",
+        "buildings": "Nelson Hall --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          2015
+        ],
+        "year_recent": 2015,
+        "dois": [
+          "10.1016/J.BIOMBIOE.2015.02.001"
+        ],
+        "ncsu?": true,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Energy Collaborative",
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          "Camelina",
+          "Jet fuel",
+          "Biofuel",
+          "Hydrodeoxygenation",
+          "Aviation biofuel",
+          "Decarboxylation",
+          "Bioenergy",
+          "Chemistry",
+          "Camelina sativa",
+          "Pulp and paper industry",
+          "Biomass (ecology)",
+          "Hydrolysis",
+          "Environmental science",
+          "Waste management",
+          "Agronomy",
+          "Organic chemistry",
+          "Food science",
+          "Catalysis",
+          "Biology",
+          "Crop",
+          "Engineering",
+          "Selectivity"
+        ],
+        "host_venues": [
+          "Biomass & Bioenergy"
+        ],
+        "color": "#CC0000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-kzering",
+      "target": "https://orcid.org/0000-0002-7277-3702",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Agricultural & Resource Economics --- unknown",
+        "colleges": "College of Agriculture and Life Sciences --- unknown",
+        "buildings": "Nelson Hall --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          2015
+        ],
+        "year_recent": 2015,
+        "dois": [
+          "10.1016/J.BIOMBIOE.2015.02.001"
+        ],
+        "ncsu?": false,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Energy Collaborative",
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          "Camelina",
+          "Jet fuel",
+          "Biofuel",
+          "Hydrodeoxygenation",
+          "Aviation biofuel",
+          "Decarboxylation",
+          "Bioenergy",
+          "Chemistry",
+          "Camelina sativa",
+          "Pulp and paper industry",
+          "Biomass (ecology)",
+          "Hydrolysis",
+          "Environmental science",
+          "Waste management",
+          "Agronomy",
+          "Organic chemistry",
+          "Food science",
+          "Catalysis",
+          "Biology",
+          "Crop",
+          "Engineering",
+          "Selectivity"
+        ],
+        "host_venues": [
+          "Biomass & Bioenergy"
+        ],
+        "color": "#000000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-kzering",
+      "target": "https://orcid.org/0000-0003-1999-2831",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Agricultural & Resource Economics --- unknown",
+        "colleges": "College of Agriculture and Life Sciences --- unknown",
+        "buildings": "Nelson Hall --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          2015
+        ],
+        "year_recent": 2015,
+        "dois": [
+          "10.1016/J.BIOMBIOE.2015.02.001"
+        ],
+        "ncsu?": false,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Energy Collaborative",
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          "Camelina",
+          "Jet fuel",
+          "Biofuel",
+          "Hydrodeoxygenation",
+          "Aviation biofuel",
+          "Decarboxylation",
+          "Bioenergy",
+          "Chemistry",
+          "Camelina sativa",
+          "Pulp and paper industry",
+          "Biomass (ecology)",
+          "Hydrolysis",
+          "Environmental science",
+          "Waste management",
+          "Agronomy",
+          "Organic chemistry",
+          "Food science",
+          "Catalysis",
+          "Biology",
+          "Crop",
+          "Engineering",
+          "Selectivity"
+        ],
+        "host_venues": [
+          "Biomass & Bioenergy"
+        ],
+        "color": "#000000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-kzering",
+      "target": "uid-csf",
+      "attributes": {
+        "label": 3,
+        "weight": 3,
+        "collaboration_count": 3,
+        "departments": "Agricultural & Resource Economics -- Forestry & Environmental Resources",
+        "colleges": "College of Agriculture and Life Sciences -- College of Natural Resources",
+        "buildings": "David Clark Labs -- Nelson Hall",
+        "roles": "faculty -- staff",
+        "years": [
+          2011,
+          2011,
+          2011
+        ],
+        "year_recent": 2011,
+        "dois": [
+
+        ],
+        "ncsu?": true,
+        "cross_college?": true,
+        "cross_department?": true,
+        "cross_unit?": true,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Energy Collaborative",
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": true,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          null
+        ],
+        "color": "#FAC800",
+        "size": 3
+      }
+    },
+    {
+      "source": "uid-kzering",
+      "target": "allencowlinge",
+      "attributes": {
+        "label": 2,
+        "weight": 2,
+        "collaboration_count": 2,
+        "departments": "Agricultural & Resource Economics --- unknown",
+        "colleges": "College of Agriculture and Life Sciences --- unknown",
+        "buildings": "Nelson Hall --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          2011,
+          2011
+        ],
+        "year_recent": 2011,
+        "dois": [
+
+        ],
+        "ncsu?": null,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Energy Collaborative",
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          null
+        ],
+        "color": "#000000",
+        "size": 2
+      }
+    },
+    {
+      "source": "uid-kzering",
+      "target": "abtl",
+      "attributes": {
+        "label": 2,
+        "weight": 2,
+        "collaboration_count": 2,
+        "departments": "Agricultural & Resource Economics --- unknown",
+        "colleges": "College of Agriculture and Life Sciences --- unknown",
+        "buildings": "Nelson Hall --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          2011,
+          2011
+        ],
+        "year_recent": 2011,
+        "dois": [
+
+        ],
+        "ncsu?": null,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Energy Collaborative",
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          null
+        ],
+        "color": "#000000",
+        "size": 2
+      }
+    },
+    {
+      "source": "uid-kzering",
+      "target": "frederickr",
+      "attributes": {
+        "label": 2,
+        "weight": 2,
+        "collaboration_count": 2,
+        "departments": "Agricultural & Resource Economics --- unknown",
+        "colleges": "College of Agriculture and Life Sciences --- unknown",
+        "buildings": "Nelson Hall --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          2011,
+          2011
+        ],
+        "year_recent": 2011,
+        "dois": [
+
+        ],
+        "ncsu?": null,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Energy Collaborative",
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          null
+        ],
+        "color": "#000000",
+        "size": 2
+      }
+    },
+    {
+      "source": "uid-kzering",
+      "target": "zeringd",
+      "attributes": {
+        "label": 2,
+        "weight": 2,
+        "collaboration_count": 2,
+        "departments": "Agricultural & Resource Economics --- unknown",
+        "colleges": "College of Agriculture and Life Sciences --- unknown",
+        "buildings": "Nelson Hall --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          2011,
+          2011
+        ],
+        "year_recent": 2011,
+        "dois": [
+
+        ],
+        "ncsu?": null,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Energy Collaborative",
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          null
+        ],
+        "color": "#000000",
+        "size": 2
+      }
+    },
+    {
+      "source": "uid-kzering",
+      "target": "k",
+      "attributes": {
+        "label": 2,
+        "weight": 2,
+        "collaboration_count": 2,
+        "departments": "Agricultural & Resource Economics --- unknown",
+        "colleges": "College of Agriculture and Life Sciences --- unknown",
+        "buildings": "Nelson Hall --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          2011,
+          2011
+        ],
+        "year_recent": 2011,
+        "dois": [
+
+        ],
+        "ncsu?": null,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Energy Collaborative",
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          null
+        ],
+        "color": "#000000",
+        "size": 2
+      }
+    },
+    {
+      "source": "uid-kzering",
+      "target": "u-2167",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Agricultural & Resource Economics -- Forestry & Environmental Resources",
+        "colleges": "College of Agriculture and Life Sciences -- College of Natural Resources",
+        "buildings": "Nelson Hall --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          2011
+        ],
+        "year_recent": 2011,
+        "dois": [
+
+        ],
+        "ncsu?": true,
+        "cross_college?": true,
+        "cross_department?": true,
+        "cross_unit?": true,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Energy Collaborative",
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          null
+        ],
+        "color": "#FAC800",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-kzering",
+      "target": "rcampbell",
+      "attributes": {
+        "label": 2,
+        "weight": 2,
+        "collaboration_count": 2,
+        "departments": "Agricultural & Resource Economics --- unknown",
+        "colleges": "College of Agriculture and Life Sciences --- unknown",
+        "buildings": "Nelson Hall --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          2011,
+          2011
+        ],
+        "year_recent": 2011,
+        "dois": [
+
+        ],
+        "ncsu?": null,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Energy Collaborative",
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          null
+        ],
+        "color": "#000000",
+        "size": 2
+      }
+    },
+    {
+      "source": "uid-kzering",
+      "target": "uid-ebcfor",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Agricultural & Resource Economics -- Forestry & Environmental Resources",
+        "colleges": "College of Agriculture and Life Sciences -- College of Natural Resources",
+        "buildings": "Nelson Hall --- unknown",
+        "roles": "faculty -- other",
+        "years": [
+          2011
+        ],
+        "year_recent": 2011,
+        "dois": [
+
+        ],
+        "ncsu?": true,
+        "cross_college?": true,
+        "cross_department?": true,
+        "cross_unit?": true,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Energy Collaborative",
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          null
+        ],
+        "color": "#FAC800",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-kzering",
+      "target": "labtallen",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Agricultural & Resource Economics --- unknown",
+        "colleges": "College of Agriculture and Life Sciences --- unknown",
+        "buildings": "Nelson Hall --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          2011
+        ],
+        "year_recent": 2011,
+        "dois": [
+
+        ],
+        "ncsu?": null,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Energy Collaborative",
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          null
+        ],
+        "color": "#000000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-kzering",
+      "target": "drfrederick",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Agricultural & Resource Economics --- unknown",
+        "colleges": "College of Agriculture and Life Sciences --- unknown",
+        "buildings": "Nelson Hall --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          2011
+        ],
+        "year_recent": 2011,
+        "dois": [
+
+        ],
+        "ncsu?": null,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Energy Collaborative",
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          null
+        ],
+        "color": "#000000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-kzering",
+      "target": "uid-westerma",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Agricultural & Resource Economics -- Biological & Agricultural Engineering",
+        "colleges": "College of Agriculture and Life Sciences -- College of Engineering",
+        "buildings": "Nelson Hall --- unknown",
+        "roles": "faculty == faculty",
+        "years": [
+          2010
+        ],
+        "year_recent": 2010,
+        "dois": [
+          "10.13031/2013.29471"
+        ],
+        "ncsu?": true,
+        "cross_college?": true,
+        "cross_department?": true,
+        "cross_unit?": true,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Energy Collaborative",
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          "Applied Engineering in Agriculture"
+        ],
+        "color": "#FAC800",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-kzering",
+      "target": "keithebowers",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Agricultural & Resource Economics --- unknown",
+        "colleges": "College of Agriculture and Life Sciences --- unknown",
+        "buildings": "Nelson Hall --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          2010
+        ],
+        "year_recent": 2010,
+        "dois": [
+          "10.13031/2013.29471"
+        ],
+        "ncsu?": false,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Energy Collaborative",
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          "Applied Engineering in Agriculture"
+        ],
+        "color": "#000000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-kzering",
+      "target": "yuangsungalchen",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Agricultural & Resource Economics --- unknown",
+        "colleges": "College of Agriculture and Life Sciences --- unknown",
+        "buildings": "Nelson Hall --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          2008
+        ],
+        "year_recent": 2008,
+        "dois": [
+          "10.1080/00137910802071866"
+        ],
+        "ncsu?": true,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Energy Collaborative",
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          "The Engineering Economist"
+        ],
+        "color": "#CC0000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-kzering",
+      "target": "gilroyjzuckerman",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Agricultural & Resource Economics --- unknown",
+        "colleges": "College of Agriculture and Life Sciences --- unknown",
+        "buildings": "Nelson Hall --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          2008
+        ],
+        "year_recent": 2008,
+        "dois": [
+          "10.1080/00137910802071866"
+        ],
+        "ncsu?": true,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Energy Collaborative",
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          "The Engineering Economist"
+        ],
+        "color": "#CC0000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-kzering",
+      "target": "uid-joan",
+      "attributes": {
+        "label": 2,
+        "weight": 2,
+        "collaboration_count": 2,
+        "departments": "Agricultural & Resource Economics -- Animal Science",
+        "colleges": "College of Agriculture and Life Sciences == College of Agriculture and Life Sciences",
+        "buildings": "Nelson Hall -- Polk Hall",
+        "roles": "faculty == faculty",
+        "years": [
+          2002,
+          2002
+        ],
+        "year_recent": 2002,
+        "dois": [
+          "10.2460/javma.2002.220.503",
+          "10.2460/javma.2002.220.497"
+        ],
+        "ncsu?": true,
+        "cross_college?": false,
+        "cross_department?": true,
+        "cross_unit?": true,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Energy Collaborative",
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": true,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          "Javma-journal of The American Veterinary Medical Association"
+        ],
+        "color": "#CC0000",
+        "size": 2
+      }
+    },
+    {
+      "source": "uid-kzering",
+      "target": "wemorganmorrow",
+      "attributes": {
+        "label": 2,
+        "weight": 2,
+        "collaboration_count": 2,
+        "departments": "Agricultural & Resource Economics --- unknown",
+        "colleges": "College of Agriculture and Life Sciences --- unknown",
+        "buildings": "Nelson Hall --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          2002,
+          2002
+        ],
+        "year_recent": 2002,
+        "dois": [
+          "10.2460/javma.2002.220.503",
+          "10.2460/javma.2002.220.497"
+        ],
+        "ncsu?": true,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Energy Collaborative",
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          "Javma-journal of The American Veterinary Medical Association"
+        ],
+        "color": "#CC0000",
+        "size": 2
+      }
+    },
+    {
+      "source": "uid-kzering",
+      "target": "mtoddsee",
+      "attributes": {
+        "label": 2,
+        "weight": 2,
+        "collaboration_count": 2,
+        "departments": "Agricultural & Resource Economics --- unknown",
+        "colleges": "College of Agriculture and Life Sciences --- unknown",
+        "buildings": "Nelson Hall --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          2002,
+          2002
+        ],
+        "year_recent": 2002,
+        "dois": [
+          "10.2460/javma.2002.220.503",
+          "10.2460/javma.2002.220.497"
+        ],
+        "ncsu?": true,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Energy Collaborative",
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          "Javma-journal of The American Veterinary Medical Association"
+        ],
+        "color": "#CC0000",
+        "size": 2
+      }
+    },
+    {
+      "source": "uid-kzering",
+      "target": "u-102",
+      "attributes": {
+        "label": 2,
+        "weight": 2,
+        "collaboration_count": 2,
+        "departments": "Agricultural & Resource Economics -- Population Health and Pathobiology",
+        "colleges": "College of Agriculture and Life Sciences -- College of Veterinary Medicine",
+        "buildings": "Nelson Hall --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          2002,
+          2002
+        ],
+        "year_recent": 2002,
+        "dois": [
+          "10.2460/javma.2002.220.503",
+          "10.2460/javma.2002.220.497"
+        ],
+        "ncsu?": true,
+        "cross_college?": true,
+        "cross_department?": true,
+        "cross_unit?": true,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Energy Collaborative",
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          "Javma-journal of The American Veterinary Medical Association"
+        ],
+        "color": "#FAC800",
+        "size": 2
+      }
+    },
+    {
+      "source": "uid-kzering",
+      "target": "pacechengj",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Agricultural & Resource Economics --- unknown",
+        "colleges": "College of Agriculture and Life Sciences --- unknown",
+        "buildings": "Nelson Hall --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          2000
+        ],
+        "year_recent": 2000,
+        "dois": [
+
+        ],
+        "ncsu?": null,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Energy Collaborative",
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          null
+        ],
+        "color": "#000000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-kzering",
+      "target": "zeringj",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Agricultural & Resource Economics --- unknown",
+        "colleges": "College of Agriculture and Life Sciences --- unknown",
+        "buildings": "Nelson Hall --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          2000
+        ],
+        "year_recent": 2000,
+        "dois": [
+
+        ],
+        "ncsu?": null,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Energy Collaborative",
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          null
+        ],
+        "color": "#000000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-kzering",
+      "target": "barkerkd",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Agricultural & Resource Economics --- unknown",
+        "colleges": "College of Agriculture and Life Sciences --- unknown",
+        "buildings": "Nelson Hall --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          2000
+        ],
+        "year_recent": 2000,
+        "dois": [
+
+        ],
+        "ncsu?": null,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Energy Collaborative",
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          null
+        ],
+        "color": "#000000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-kzering",
+      "target": "roosjc",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Agricultural & Resource Economics --- unknown",
+        "colleges": "College of Agriculture and Life Sciences --- unknown",
+        "buildings": "Nelson Hall --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          2000
+        ],
+        "year_recent": 2000,
+        "dois": [
+
+        ],
+        "ncsu?": null,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Energy Collaborative",
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          null
+        ],
+        "color": "#000000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-kzering",
+      "target": "kf",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Agricultural & Resource Economics --- unknown",
+        "colleges": "College of Agriculture and Life Sciences --- unknown",
+        "buildings": "Nelson Hall --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          2000
+        ],
+        "year_recent": 2000,
+        "dois": [
+
+        ],
+        "ncsu?": null,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Energy Collaborative",
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          null
+        ],
+        "color": "#000000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-kzering",
+      "target": "lmsaele",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Agricultural & Resource Economics --- unknown",
+        "colleges": "College of Agriculture and Life Sciences --- unknown",
+        "buildings": "Nelson Hall --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          2000
+        ],
+        "year_recent": 2000,
+        "dois": [
+
+        ],
+        "ncsu?": null,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Energy Collaborative",
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          null
+        ],
+        "color": "#000000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-elkick",
+      "target": "uid-classen",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Biological & Agricultural Engineering -- Sociology & Anthropology",
+        "colleges": "College of Engineering -- College of Humanities and Social Sciences",
+        "buildings": "Nelson Hall -- Weaver Administration Bldg",
+        "roles": "faculty == faculty",
+        "years": [
+          2017
+        ],
+        "year_recent": 2017,
+        "dois": [
+          "10.3934/agrfood.2017.4.370"
+        ],
+        "ncsu?": true,
+        "cross_college?": true,
+        "cross_department?": true,
+        "cross_unit?": true,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": true,
+        "concepts": [
+          "Agriculture",
+          "Business",
+          "Natural resource economics",
+          "Risk analysis (engineering)",
+          "Agricultural economics",
+          "Computer science",
+          "Economics",
+          "Geography",
+          "Archaeology"
+        ],
+        "host_venues": [
+          "AIMS agriculture and food"
+        ],
+        "color": "#FAC800",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-classen",
+      "target": "uid-westerma",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Biological & Agricultural Engineering == Biological & Agricultural Engineering",
+        "colleges": "College of Engineering == College of Engineering",
+        "buildings": "Weaver Administration Bldg --- unknown",
+        "roles": "faculty == faculty",
+        "years": [
+          2000
+        ],
+        "year_recent": 2000,
+        "dois": [
+          "10.13031/2013.2675"
+        ],
+        "ncsu?": true,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          "Transactions of the ASAE"
+        ],
+        "color": "#CC0000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-csf",
+      "target": "allencowlinge",
+      "attributes": {
+        "label": 2,
+        "weight": 2,
+        "collaboration_count": 2,
+        "departments": "Forestry & Environmental Resources --- unknown",
+        "colleges": "College of Natural Resources --- unknown",
+        "buildings": "David Clark Labs --- unknown",
+        "roles": "staff --- unknown",
+        "years": [
+          2011,
+          2011
+        ],
+        "year_recent": 2011,
+        "dois": [
+
+        ],
+        "ncsu?": null,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": false,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          null
+        ],
+        "color": "#000000",
+        "size": 2
+      }
+    },
+    {
+      "source": "uid-csf",
+      "target": "abtl",
+      "attributes": {
+        "label": 2,
+        "weight": 2,
+        "collaboration_count": 2,
+        "departments": "Forestry & Environmental Resources --- unknown",
+        "colleges": "College of Natural Resources --- unknown",
+        "buildings": "David Clark Labs --- unknown",
+        "roles": "staff --- unknown",
+        "years": [
+          2011,
+          2011
+        ],
+        "year_recent": 2011,
+        "dois": [
+
+        ],
+        "ncsu?": null,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": false,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          null
+        ],
+        "color": "#000000",
+        "size": 2
+      }
+    },
+    {
+      "source": "uid-csf",
+      "target": "frederickr",
+      "attributes": {
+        "label": 2,
+        "weight": 2,
+        "collaboration_count": 2,
+        "departments": "Forestry & Environmental Resources --- unknown",
+        "colleges": "College of Natural Resources --- unknown",
+        "buildings": "David Clark Labs --- unknown",
+        "roles": "staff --- unknown",
+        "years": [
+          2011,
+          2011
+        ],
+        "year_recent": 2011,
+        "dois": [
+
+        ],
+        "ncsu?": null,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": false,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          null
+        ],
+        "color": "#000000",
+        "size": 2
+      }
+    },
+    {
+      "source": "uid-csf",
+      "target": "zeringd",
+      "attributes": {
+        "label": 2,
+        "weight": 2,
+        "collaboration_count": 2,
+        "departments": "Forestry & Environmental Resources --- unknown",
+        "colleges": "College of Natural Resources --- unknown",
+        "buildings": "David Clark Labs --- unknown",
+        "roles": "staff --- unknown",
+        "years": [
+          2011,
+          2011
+        ],
+        "year_recent": 2011,
+        "dois": [
+
+        ],
+        "ncsu?": null,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": false,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          null
+        ],
+        "color": "#000000",
+        "size": 2
+      }
+    },
+    {
+      "source": "uid-csf",
+      "target": "k",
+      "attributes": {
+        "label": 2,
+        "weight": 2,
+        "collaboration_count": 2,
+        "departments": "Forestry & Environmental Resources --- unknown",
+        "colleges": "College of Natural Resources --- unknown",
+        "buildings": "David Clark Labs --- unknown",
+        "roles": "staff --- unknown",
+        "years": [
+          2011,
+          2011
+        ],
+        "year_recent": 2011,
+        "dois": [
+
+        ],
+        "ncsu?": null,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": false,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          null
+        ],
+        "color": "#000000",
+        "size": 2
+      }
+    },
+    {
+      "source": "uid-csf",
+      "target": "u-2167",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Forestry & Environmental Resources == Forestry & Environmental Resources",
+        "colleges": "College of Natural Resources == College of Natural Resources",
+        "buildings": "David Clark Labs --- unknown",
+        "roles": "staff --- unknown",
+        "years": [
+          2011
+        ],
+        "year_recent": 2011,
+        "dois": [
+
+        ],
+        "ncsu?": true,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": false,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          null
+        ],
+        "color": "#CC0000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-csf",
+      "target": "rcampbell",
+      "attributes": {
+        "label": 2,
+        "weight": 2,
+        "collaboration_count": 2,
+        "departments": "Forestry & Environmental Resources --- unknown",
+        "colleges": "College of Natural Resources --- unknown",
+        "buildings": "David Clark Labs --- unknown",
+        "roles": "staff --- unknown",
+        "years": [
+          2011,
+          2011
+        ],
+        "year_recent": 2011,
+        "dois": [
+
+        ],
+        "ncsu?": null,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": false,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          null
+        ],
+        "color": "#000000",
+        "size": 2
+      }
+    },
+    {
+      "source": "uid-csf",
+      "target": "uid-ebcfor",
+      "attributes": {
+        "label": 5,
+        "weight": 5,
+        "collaboration_count": 5,
+        "departments": "Forestry & Environmental Resources == Forestry & Environmental Resources",
+        "colleges": "College of Natural Resources == College of Natural Resources",
+        "buildings": "David Clark Labs --- unknown",
+        "roles": "other -- staff",
+        "years": [
+          2011,
+          2006,
+          2001,
+          2000,
+          1998
+        ],
+        "year_recent": 2011,
+        "dois": [
+          "10.1360/062005-263",
+          "10.1100/tsw.2001.481",
+          "10.1016/S1352-2310(99)00453-7",
+          "10.1016/S0269-7491(98)80049-3"
+        ],
+        "ncsu?": true,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": false,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          null
+        ],
+        "color": "#CC0000",
+        "size": 5
+      }
+    },
+    {
+      "source": "uid-csf",
+      "target": "labtallen",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Forestry & Environmental Resources --- unknown",
+        "colleges": "College of Natural Resources --- unknown",
+        "buildings": "David Clark Labs --- unknown",
+        "roles": "staff --- unknown",
+        "years": [
+          2011
+        ],
+        "year_recent": 2011,
+        "dois": [
+
+        ],
+        "ncsu?": null,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": false,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          null
+        ],
+        "color": "#000000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-csf",
+      "target": "drfrederick",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Forestry & Environmental Resources --- unknown",
+        "colleges": "College of Natural Resources --- unknown",
+        "buildings": "David Clark Labs --- unknown",
+        "roles": "staff --- unknown",
+        "years": [
+          2011
+        ],
+        "year_recent": 2011,
+        "dois": [
+
+        ],
+        "ncsu?": null,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": false,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          null
+        ],
+        "color": "#000000",
+        "size": 1
+      }
+    },
+    {
+      "source": "u-2167",
+      "target": "allencowlinge",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Forestry & Environmental Resources --- unknown",
+        "colleges": "College of Natural Resources --- unknown",
+        "buildings": "unknown --- unknown",
+        "roles": "unknown == unknown",
+        "years": [
+          2011
+        ],
+        "year_recent": 2011,
+        "dois": [
+
+        ],
+        "ncsu?": null,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": false,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          null
+        ],
+        "color": "#000000",
+        "size": 1
+      }
+    },
+    {
+      "source": "u-2167",
+      "target": "abtl",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Forestry & Environmental Resources --- unknown",
+        "colleges": "College of Natural Resources --- unknown",
+        "buildings": "unknown --- unknown",
+        "roles": "unknown == unknown",
+        "years": [
+          2011
+        ],
+        "year_recent": 2011,
+        "dois": [
+
+        ],
+        "ncsu?": null,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": false,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          null
+        ],
+        "color": "#000000",
+        "size": 1
+      }
+    },
+    {
+      "source": "u-2167",
+      "target": "frederickr",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Forestry & Environmental Resources --- unknown",
+        "colleges": "College of Natural Resources --- unknown",
+        "buildings": "unknown --- unknown",
+        "roles": "unknown == unknown",
+        "years": [
+          2011
+        ],
+        "year_recent": 2011,
+        "dois": [
+
+        ],
+        "ncsu?": null,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": false,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          null
+        ],
+        "color": "#000000",
+        "size": 1
+      }
+    },
+    {
+      "source": "u-2167",
+      "target": "zeringd",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Forestry & Environmental Resources --- unknown",
+        "colleges": "College of Natural Resources --- unknown",
+        "buildings": "unknown --- unknown",
+        "roles": "unknown == unknown",
+        "years": [
+          2011
+        ],
+        "year_recent": 2011,
+        "dois": [
+
+        ],
+        "ncsu?": null,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": false,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          null
+        ],
+        "color": "#000000",
+        "size": 1
+      }
+    },
+    {
+      "source": "u-2167",
+      "target": "k",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Forestry & Environmental Resources --- unknown",
+        "colleges": "College of Natural Resources --- unknown",
+        "buildings": "unknown --- unknown",
+        "roles": "unknown == unknown",
+        "years": [
+          2011
+        ],
+        "year_recent": 2011,
+        "dois": [
+
+        ],
+        "ncsu?": null,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": false,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          null
+        ],
+        "color": "#000000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-ebcfor",
+      "target": "allencowlinge",
+      "attributes": {
+        "label": 2,
+        "weight": 2,
+        "collaboration_count": 2,
+        "departments": "Forestry & Environmental Resources --- unknown",
+        "colleges": "College of Natural Resources --- unknown",
+        "buildings": "unknown --- unknown",
+        "roles": "other --- unknown",
+        "years": [
+          2011,
+          2011
+        ],
+        "year_recent": 2011,
+        "dois": [
+
+        ],
+        "ncsu?": null,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": false,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          null
+        ],
+        "color": "#000000",
+        "size": 2
+      }
+    },
+    {
+      "source": "uid-ebcfor",
+      "target": "abtl",
+      "attributes": {
+        "label": 2,
+        "weight": 2,
+        "collaboration_count": 2,
+        "departments": "Forestry & Environmental Resources --- unknown",
+        "colleges": "College of Natural Resources --- unknown",
+        "buildings": "unknown --- unknown",
+        "roles": "other --- unknown",
+        "years": [
+          2011,
+          2011
+        ],
+        "year_recent": 2011,
+        "dois": [
+
+        ],
+        "ncsu?": null,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": false,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          null
+        ],
+        "color": "#000000",
+        "size": 2
+      }
+    },
+    {
+      "source": "uid-ebcfor",
+      "target": "frederickr",
+      "attributes": {
+        "label": 2,
+        "weight": 2,
+        "collaboration_count": 2,
+        "departments": "Forestry & Environmental Resources --- unknown",
+        "colleges": "College of Natural Resources --- unknown",
+        "buildings": "unknown --- unknown",
+        "roles": "other --- unknown",
+        "years": [
+          2011,
+          2011
+        ],
+        "year_recent": 2011,
+        "dois": [
+
+        ],
+        "ncsu?": null,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": false,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          null
+        ],
+        "color": "#000000",
+        "size": 2
+      }
+    },
+    {
+      "source": "uid-ebcfor",
+      "target": "zeringd",
+      "attributes": {
+        "label": 2,
+        "weight": 2,
+        "collaboration_count": 2,
+        "departments": "Forestry & Environmental Resources --- unknown",
+        "colleges": "College of Natural Resources --- unknown",
+        "buildings": "unknown --- unknown",
+        "roles": "other --- unknown",
+        "years": [
+          2011,
+          2011
+        ],
+        "year_recent": 2011,
+        "dois": [
+
+        ],
+        "ncsu?": null,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": false,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          null
+        ],
+        "color": "#000000",
+        "size": 2
+      }
+    },
+    {
+      "source": "uid-ebcfor",
+      "target": "k",
+      "attributes": {
+        "label": 2,
+        "weight": 2,
+        "collaboration_count": 2,
+        "departments": "Forestry & Environmental Resources --- unknown",
+        "colleges": "College of Natural Resources --- unknown",
+        "buildings": "unknown --- unknown",
+        "roles": "other --- unknown",
+        "years": [
+          2011,
+          2011
+        ],
+        "year_recent": 2011,
+        "dois": [
+
+        ],
+        "ncsu?": null,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": false,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          null
+        ],
+        "color": "#000000",
+        "size": 2
+      }
+    },
+    {
+      "source": "uid-ebcfor",
+      "target": "u-2167",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Forestry & Environmental Resources == Forestry & Environmental Resources",
+        "colleges": "College of Natural Resources == College of Natural Resources",
+        "buildings": "unknown --- unknown",
+        "roles": "other --- unknown",
+        "years": [
+          2011
+        ],
+        "year_recent": 2011,
+        "dois": [
+
+        ],
+        "ncsu?": true,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": false,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          null
+        ],
+        "color": "#CC0000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-ebcfor",
+      "target": "rcampbell",
+      "attributes": {
+        "label": 2,
+        "weight": 2,
+        "collaboration_count": 2,
+        "departments": "Forestry & Environmental Resources --- unknown",
+        "colleges": "College of Natural Resources --- unknown",
+        "buildings": "unknown --- unknown",
+        "roles": "other --- unknown",
+        "years": [
+          2011,
+          2011
+        ],
+        "year_recent": 2011,
+        "dois": [
+
+        ],
+        "ncsu?": null,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": false,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          null
+        ],
+        "color": "#000000",
+        "size": 2
+      }
+    },
+    {
+      "source": "uid-ebcfor",
+      "target": "labtallen",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Forestry & Environmental Resources --- unknown",
+        "colleges": "College of Natural Resources --- unknown",
+        "buildings": "unknown --- unknown",
+        "roles": "other --- unknown",
+        "years": [
+          2011
+        ],
+        "year_recent": 2011,
+        "dois": [
+
+        ],
+        "ncsu?": null,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": false,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          null
+        ],
+        "color": "#000000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-ebcfor",
+      "target": "drfrederick",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Forestry & Environmental Resources --- unknown",
+        "colleges": "College of Natural Resources --- unknown",
+        "buildings": "unknown --- unknown",
+        "roles": "other --- unknown",
+        "years": [
+          2011
+        ],
+        "year_recent": 2011,
+        "dois": [
+
+        ],
+        "ncsu?": null,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": false,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          null
+        ],
+        "color": "#000000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-westerma",
+      "target": "keithebowers",
+      "attributes": {
+        "label": 3,
+        "weight": 3,
+        "collaboration_count": 3,
+        "departments": "Biological & Agricultural Engineering --- unknown",
+        "colleges": "College of Engineering --- unknown",
+        "buildings": "unknown --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          2010,
+          2005,
+          2005
+        ],
+        "year_recent": 2010,
+        "dois": [
+          "10.13031/2013.29471",
+          "10.13031/2013.18504",
+          "10.13031/2013.18523"
+        ],
+        "ncsu?": false,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": false,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          "Applied Engineering in Agriculture"
+        ],
+        "color": "#000000",
+        "size": 3
+      }
+    },
+    {
+      "source": "uid-joan",
+      "target": "wemorganmorrow",
+      "attributes": {
+        "label": 2,
+        "weight": 2,
+        "collaboration_count": 2,
+        "departments": "Animal Science --- unknown",
+        "colleges": "College of Agriculture and Life Sciences --- unknown",
+        "buildings": "Polk Hall --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          2002,
+          2002
+        ],
+        "year_recent": 2002,
+        "dois": [
+          "10.2460/javma.2002.220.503",
+          "10.2460/javma.2002.220.497"
+        ],
+        "ncsu?": true,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": false,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          "Javma-journal of The American Veterinary Medical Association"
+        ],
+        "color": "#CC0000",
+        "size": 2
+      }
+    },
+    {
+      "source": "uid-joan",
+      "target": "mtoddsee",
+      "attributes": {
+        "label": 2,
+        "weight": 2,
+        "collaboration_count": 2,
+        "departments": "Animal Science --- unknown",
+        "colleges": "College of Agriculture and Life Sciences --- unknown",
+        "buildings": "Polk Hall --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          2002,
+          2002
+        ],
+        "year_recent": 2002,
+        "dois": [
+          "10.2460/javma.2002.220.503",
+          "10.2460/javma.2002.220.497"
+        ],
+        "ncsu?": true,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": false,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          "Javma-journal of The American Veterinary Medical Association"
+        ],
+        "color": "#CC0000",
+        "size": 2
+      }
+    },
+    {
+      "source": "uid-joan",
+      "target": "u-102",
+      "attributes": {
+        "label": 2,
+        "weight": 2,
+        "collaboration_count": 2,
+        "departments": "Animal Science -- Population Health and Pathobiology",
+        "colleges": "College of Agriculture and Life Sciences -- College of Veterinary Medicine",
+        "buildings": "Polk Hall --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          2002,
+          2002
+        ],
+        "year_recent": 2002,
+        "dois": [
+          "10.2460/javma.2002.220.503",
+          "10.2460/javma.2002.220.497"
+        ],
+        "ncsu?": true,
+        "cross_college?": true,
+        "cross_department?": true,
+        "cross_unit?": true,
+        "cluster?": false,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          "Javma-journal of The American Veterinary Medical Association"
+        ],
+        "color": "#FAC800",
+        "size": 2
+      }
+    },
+    {
+      "source": "u-102",
+      "target": "wemorganmorrow",
+      "attributes": {
+        "label": 4,
+        "weight": 4,
+        "collaboration_count": 4,
+        "departments": "Population Health and Pathobiology --- unknown",
+        "colleges": "College of Veterinary Medicine --- unknown",
+        "buildings": "unknown --- unknown",
+        "roles": "unknown == unknown",
+        "years": [
+          2004,
+          2004,
+          2002,
+          2002
+        ],
+        "year_recent": 2004,
+        "dois": [
+          "10.4315/0362-028X-67.4.698",
+          "10.4315/0362-028X-67.4.691",
+          "10.2460/javma.2002.220.503",
+          "10.2460/javma.2002.220.497"
+        ],
+        "ncsu?": true,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": false,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          "Journal of Food Protection"
+        ],
+        "color": "#CC0000",
+        "size": 4
+      }
+    },
+    {
+      "source": "u-102",
+      "target": "mtoddsee",
+      "attributes": {
+        "label": 2,
+        "weight": 2,
+        "collaboration_count": 2,
+        "departments": "Population Health and Pathobiology --- unknown",
+        "colleges": "College of Veterinary Medicine --- unknown",
+        "buildings": "unknown --- unknown",
+        "roles": "unknown == unknown",
+        "years": [
+          2002,
+          2002
+        ],
+        "year_recent": 2002,
+        "dois": [
+          "10.2460/javma.2002.220.503",
+          "10.2460/javma.2002.220.497"
+        ],
+        "ncsu?": true,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": false,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          "Javma-journal of The American Veterinary Medical Association"
+        ],
+        "color": "#CC0000",
+        "size": 2
+      }
+    }
+  ]
+}

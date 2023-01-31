@@ -1,0 +1,2628 @@
+{
+  "options": {
+    "type": "undirected",
+    "multi": false,
+    "allowSelfLoops": false
+  },
+  "attributes": {
+    "creator": "Citation Index",
+    "lastModifiedDate": "2023-01-15"
+  },
+  "nodes": [
+    {
+      "key": "uid-meserr",
+      "attributes": {
+        "label": "M Serr",
+        "name": "Megan Serr",
+        "known?": true,
+        "orcid?": false,
+        "ncsu?": true,
+        "affiliations": [
+          "North Carolina State University"
+        ],
+        "countries": [
+          "US"
+        ],
+        "uid": "meserr",
+        "url": "https://ci.lib.ncsu.edu/profiles/meserr",
+        "active?": true,
+        "department": "Biological Sciences",
+        "college": "College of Sciences",
+        "ncsu_affiliations": [
+          "Biological Sciences",
+          "Genetic Engineering and Society"
+        ],
+        "cluster?": true,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "role": "faculty",
+        "building": "Remote",
+        "count": 4,
+        "oa_count": 2,
+        "years": [
+          2019,
+          2017
+        ],
+        "year_recent": 2019,
+        "article_concepts": [
+          "Biochemistry",
+          "Biodiversity",
+          "Biology",
+          "Biosecurity",
+          "Botany",
+          "Business",
+          "CRISPR",
+          "Corporate governance",
+          "Deliberation",
+          "Demography",
+          "Ecology",
+          "Economics",
+          "Environmental planning",
+          "Environmental resource management",
+          "Evolutionary biology",
+          "Finance",
+          "Gene",
+          "Gene drive",
+          "Genetics",
+          "Geography",
+          "Law",
+          "PEST analysis",
+          "Pest control",
+          "Political science",
+          "Politics",
+          "Population",
+          "Sociology",
+          "Sustainability",
+          "Testis determining factor",
+          "Y chromosome"
+        ],
+        "host_venues": [
+          "Journal of Responsible Innovation",
+          "Proceedings of The Royal Society B: Biological Sciences",
+          "Sustainability",
+          "Trends in Ecology and Evolution"
+        ],
+        "color": "#4156A1",
+        "size": 20
+      }
+    },
+    {
+      "key": "https://orcid.org/0000-0002-4296-7434",
+      "attributes": {
+        "label": "A Manser",
+        "name": "Andri Manser",
+        "known?": false,
+        "orcid?": null,
+        "ncsu?": false,
+        "affiliations": [
+          "University of Liverpool"
+        ],
+        "countries": [
+          "GB"
+        ],
+        "color": "#BFBFBD",
+        "size": 10
+      }
+    },
+    {
+      "key": "https://orcid.org/0000-0001-6026-5236",
+      "attributes": {
+        "label": "S Cornell",
+        "name": "Stephen J. Cornell",
+        "known?": false,
+        "orcid?": null,
+        "ncsu?": false,
+        "affiliations": [
+          "University of Liverpool"
+        ],
+        "countries": [
+          "GB"
+        ],
+        "color": "#BFBFBD",
+        "size": 10
+      }
+    },
+    {
+      "key": "https://orcid.org/0000-0002-7764-3456",
+      "attributes": {
+        "label": "A Sutter",
+        "name": "Andreas Sutter",
+        "known?": false,
+        "orcid?": null,
+        "ncsu?": false,
+        "affiliations": [
+          "University of East Anglia"
+        ],
+        "countries": [
+          "GB"
+        ],
+        "color": "#BFBFBD",
+        "size": 10
+      }
+    },
+    {
+      "key": "uid-dvblonde",
+      "attributes": {
+        "label": "D Blondel",
+        "name": "Dimitri Blondel",
+        "known?": true,
+        "orcid?": false,
+        "ncsu?": true,
+        "affiliations": [
+          "North Carolina State University"
+        ],
+        "countries": [
+          "US"
+        ],
+        "uid": "dvblonde",
+        "url": "https://ci.lib.ncsu.edu/profiles/dvblonde",
+        "active?": true,
+        "department": "Biological Sciences",
+        "college": "College of Sciences",
+        "ncsu_affiliations": [
+          "Biological Sciences"
+        ],
+        "cluster?": false,
+        "clusters": [
+
+        ],
+        "role": "staff",
+        "building": "David Clark Labs",
+        "count": 5,
+        "oa_count": 4,
+        "years": [
+          2021,
+          2019
+        ],
+        "year_recent": 2021,
+        "article_concepts": [
+          "Allele",
+          "Artificial intelligence",
+          "Biochemistry",
+          "Biodiversity",
+          "Biology",
+          "Biosecurity",
+          "Botany",
+          "Business",
+          "CRISPR",
+          "Cas9",
+          "Class (philosophy)",
+          "Colonization",
+          "Computational biology",
+          "Computer network",
+          "Computer science",
+          "Corporate governance",
+          "Deliberation",
+          "Demography",
+          "Ecology",
+          "Economics",
+          "Environmental health",
+          "Environmental planning",
+          "Environmental resource management",
+          "Evolutionary biology",
+          "Finance",
+          "Gene",
+          "Gene drive",
+          "Genetics",
+          "Genome",
+          "Genomics",
+          "Geography",
+          "Law",
+          "Mathematics education",
+          "Medicine",
+          "Multimedia",
+          "PEST analysis",
+          "Pest control",
+          "Political science",
+          "Politics",
+          "Population",
+          "Population genetics",
+          "Population genomics",
+          "Psychology",
+          "Resource (disambiguation)",
+          "Sociology",
+          "Sustainability",
+          "Test (biology)",
+          "Testis determining factor",
+          "Variety (cybernetics)",
+          "Y chromosome"
+        ],
+        "host_venues": [
+          "Evolutionary Applications",
+          "Journal of formative design in learning",
+          "Proceedings of The Royal Society B: Biological Sciences",
+          "Scientific Reports",
+          "Sustainability"
+        ],
+        "color": "#4156A1",
+        "size": 10
+      }
+    },
+    {
+      "key": "uid-godwin",
+      "attributes": {
+        "label": "J Godwin",
+        "name": "John Godwin",
+        "known?": true,
+        "orcid?": true,
+        "ncsu?": true,
+        "affiliations": [
+          "North Carolina State University"
+        ],
+        "countries": [
+          "US"
+        ],
+        "uid": "godwin",
+        "url": "https://ci.lib.ncsu.edu/profiles/godwin",
+        "orcid": "0000-0002-0928-501X",
+        "active?": true,
+        "department": "Biological Sciences",
+        "college": "College of Sciences",
+        "ncsu_affiliations": [
+          "Biological Sciences",
+          "Genetic Engineering and Society",
+          "Genetics and Genomics Academy"
+        ],
+        "cluster?": true,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "role": "faculty",
+        "building": "David Clark Labs",
+        "count": 80,
+        "oa_count": 32,
+        "years": [
+          2022,
+          2021,
+          2020,
+          2019,
+          2017,
+          2016,
+          2015,
+          2014,
+          2013,
+          2012,
+          2011,
+          2010,
+          2009,
+          2007,
+          2006,
+          2005,
+          2004,
+          2003,
+          2002,
+          2001,
+          2000,
+          1997,
+          1996,
+          1995,
+          1994,
+          1993,
+          1992,
+          1989
+        ],
+        "year_recent": 2022,
+        "article_concepts": [
+          "Aerospace engineering",
+          "Agriculture",
+          "Allele",
+          "Androgen",
+          "Androgen receptor",
+          "Animal science",
+          "Anxiety",
+          "Aromatase",
+          "Artificial intelligence",
+          "Behavioral syndrome",
+          "Big Five personality traits",
+          "Biochemistry",
+          "Biodiversity",
+          "Bioinformatics",
+          "Biology",
+          "Biosecurity",
+          "Boldness",
+          "Botany",
+          "Breast cancer",
+          "Business",
+          "CRISPR",
+          "Cancer",
+          "Cas9",
+          "Central nervous system",
+          "Cerebellum",
+          "Clinical psychology",
+          "Colonization",
+          "Computational biology",
+          "Computer science",
+          "Context (archaeology)",
+          "Coping (psychology)",
+          "Corporate governance",
+          "Courtship",
+          "Courtship display",
+          "DNA microarray",
+          "Danio",
+          "Deliberation",
+          "Demography",
+          "Development of the gonads",
+          "Dihydrotestosterone",
+          "Disorders of sex development",
+          "Dopamine",
+          "Ecology",
+          "Economics",
+          "Electrical engineering",
+          "Endocrinology",
+          "Engineering",
+          "Environmental health",
+          "Environmental planning",
+          "Environmental resource management",
+          "Environmental science",
+          "Epigenetics",
+          "Estrogen",
+          "Estrogen receptor",
+          "Evolutionary biology",
+          "Feces",
+          "Finance",
+          "Fish <Actinopterygii>",
+          "Fishery",
+          "Flatfish",
+          "Flounder",
+          "Fluoxetine",
+          "Food security",
+          "Forebrain",
+          "Gene",
+          "Gene drive",
+          "Gene expression",
+          "Gene expression profiling",
+          "Gene regulatory network",
+          "Genetics",
+          "Genome",
+          "Genomics",
+          "Geography",
+          "Gonad",
+          "Haplotype",
+          "Heterochrony",
+          "Hormone",
+          "Hypothalamus",
+          "In silico",
+          "In situ hybridization",
+          "Internal medicine",
+          "Juvenile",
+          "Law",
+          "Linkage disequilibrium",
+          "Medicine",
+          "Meiosis",
+          "Meiotic drive",
+          "Mendelian inheritance",
+          "Messenger RNA",
+          "Microarray",
+          "Mimicry",
+          "Model organism",
+          "Multidisciplinary approach",
+          "Natural (archaeology)",
+          "Natural selection",
+          "Neuropeptide",
+          "Neuroscience",
+          "Nucleus",
+          "Olive flounder",
+          "Ontogeny",
+          "Organism",
+          "Ovariectomized rat",
+          "PEST analysis",
+          "Paleontology",
+          "Paralichthys",
+          "Parvocellular cell",
+          "Personality",
+          "Pest control",
+          "Pharmacology",
+          "Phenotype",
+          "Phenotypic plasticity",
+          "Pleiotropy",
+          "Political science",
+          "Politics",
+          "Population",
+          "Population genetics",
+          "Population genomics",
+          "Preoptic area",
+          "Progesterone receptor",
+          "Programming language",
+          "Prostate cancer",
+          "Psychiatry",
+          "Psychology",
+          "Public relations",
+          "RNA",
+          "RNA-Seq",
+          "Range (aeronautics)",
+          "Receptor",
+          "Reproductive success",
+          "Reprogramming",
+          "Resistance (ecology)",
+          "Riboprobe",
+          "Risk analysis (engineering)",
+          "Selection (genetic algorithm)",
+          "Serotonergic",
+          "Serotonin",
+          "Sex change",
+          "Sex characteristics",
+          "Sex ratio",
+          "Sex reversal",
+          "Sex steroid",
+          "Sexual differentiation",
+          "Sexual dimorphism",
+          "Sexual selection",
+          "Social psychology",
+          "Sociology",
+          "Stakeholder",
+          "Steroid",
+          "Stressor",
+          "Sustainability",
+          "Testis determining factor",
+          "Testosterone (patch)",
+          "Trait",
+          "Transcriptome",
+          "Transmission (telecommunications)",
+          "Tyrosine hydroxylase",
+          "Variety (cybernetics)",
+          "Vasopressin",
+          "Vasotocin",
+          "Vertebrate",
+          "Wrasse",
+          "Y chromosome",
+          "Zebrafish",
+          "Zoology"
+        ],
+        "host_venues": [
+          "Animal Behaviour",
+          "Animal Welfare",
+          "Aquaculture",
+          "BMC Genomics",
+          "Behaviour",
+          "Behavioural Brain Research",
+          "Biological Conservation",
+          "Biology of Sex Differences",
+          "Brain Behavior and Evolution",
+          "Brain Research",
+          "Cellular and Molecular Neurobiology",
+          "Comparative Biochemistry and Physiology A-molecular & Integrative Physiology",
+          "Copeia",
+          "Elsevier eBooks",
+          "Evolution & Development",
+          "Evolutionary Applications",
+          "Frontiers in Neuroendocrinology",
+          "General and Comparative Endocrinology",
+          "Genomics data",
+          "Hormones and Behavior",
+          "Integrative and Comparative Biology",
+          "Journal of Chemical Neuroanatomy",
+          "Journal of Evolutionary Biology",
+          "Journal of Experimental Zoology Part A: Comparative Experimental Biology",
+          "Journal of Experimental Zoology Part A: Ecological and Integrative Physiology",
+          "Journal of Mammalogy",
+          "Journal of Neurobiology",
+          "Journal of Neuroendocrinology",
+          "Journal of Responsible Innovation",
+          "Journal of Zoology",
+          "Journal of the World Aquaculture Society",
+          "Molecular Biology and Evolution",
+          "Molecular Reproduction and Development",
+          "Neuroendocrinology",
+          "Neuromethods",
+          "Neurotoxicology and Teratology",
+          "PLOS ONE",
+          "PeerJ",
+          "Physiology & Behavior",
+          "Proceedings of The Royal Society B: Biological Sciences",
+          "Proceedings of the National Academy of Sciences of the United States of America",
+          "Science Advances",
+          "Scientific Reports",
+          "Seminars in Cell & Developmental Biology",
+          "Sustainability",
+          "The Journal of Neuroscience",
+          "The Journal of Steroid Biochemistry and Molecular Biology",
+          "Transactions of The American Fisheries Society",
+          "University of California Press eBooks",
+          "Wiley-Blackwell eBooks",
+          "bioRxiv"
+        ],
+        "color": "#4156A1",
+        "size": 10
+      }
+    },
+    {
+      "key": "https://orcid.org/0000-0002-2716-1475",
+      "attributes": {
+        "label": "T Price",
+        "name": "Tom A. R. Price",
+        "known?": false,
+        "orcid?": null,
+        "ncsu?": false,
+        "affiliations": [
+          "University of Liverpool"
+        ],
+        "countries": [
+          "GB"
+        ],
+        "color": "#BFBFBD",
+        "size": 10
+      }
+    },
+    {
+      "key": "https://orcid.org/0000-0003-3442-738X",
+      "attributes": {
+        "label": "S Barnhill-Dilling",
+        "name": "S. Kathleen Barnhill-Dilling",
+        "known?": false,
+        "orcid?": null,
+        "ncsu?": false,
+        "affiliations": [
+
+        ],
+        "countries": [
+
+        ],
+        "color": "#BFBFBD",
+        "size": 10
+      }
+    },
+    {
+      "key": "uid-cleitsc",
+      "attributes": {
+        "label": "C Leitschuh",
+        "name": "Caroline Leitschuh",
+        "known?": true,
+        "orcid?": false,
+        "ncsu?": true,
+        "affiliations": [
+          "North Carolina State University"
+        ],
+        "countries": [
+          "US"
+        ],
+        "uid": "cleitsc",
+        "url": "https://ci.lib.ncsu.edu/profiles/cleitsc",
+        "active?": false,
+        "department": "Biological Sciences",
+        "college": "College of Sciences",
+        "ncsu_affiliations": [
+          "Biological Sciences",
+          "Genetic Engineering and Society"
+        ],
+        "cluster?": true,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "role": "student",
+        "building": null,
+        "count": 3,
+        "oa_count": 2,
+        "years": [
+          2018,
+          2017
+        ],
+        "year_recent": 2018,
+        "article_concepts": [
+          "Biology",
+          "Business",
+          "CRISPR",
+          "Computer science",
+          "Context (archaeology)",
+          "Corporate governance",
+          "Economics",
+          "Engineering",
+          "Engineering ethics",
+          "Finance",
+          "Frame (networking)",
+          "Gene",
+          "Gene drive",
+          "Genetics",
+          "Management",
+          "Paleontology",
+          "Political science",
+          "Process management",
+          "Public administration",
+          "Public relations",
+          "Responsible Research and Innovation",
+          "Sociology",
+          "Telecommunications"
+        ],
+        "host_venues": [
+          "Journal of Responsible Innovation"
+        ],
+        "color": "#4156A1",
+        "size": 10
+      }
+    },
+    {
+      "key": "https://orcid.org/0000-0003-4770-485X",
+      "attributes": {
+        "label": "D Kanavy",
+        "name": "Dona Kanavy",
+        "known?": false,
+        "orcid?": null,
+        "ncsu?": true,
+        "affiliations": [
+          "North Carolina State University"
+        ],
+        "countries": [
+          "US"
+        ],
+        "color": "#000000",
+        "size": 10
+      }
+    },
+    {
+      "key": "https://orcid.org/0000-0003-3695-8168",
+      "attributes": {
+        "label": "G Backus",
+        "name": "Gregory A. Backus",
+        "known?": false,
+        "orcid?": null,
+        "ncsu?": true,
+        "affiliations": [
+          "North Carolina State University"
+        ],
+        "countries": [
+          "US"
+        ],
+        "color": "#000000",
+        "size": 10
+      }
+    },
+    {
+      "key": "uid-rxvaldez",
+      "attributes": {
+        "label": "R Valdez",
+        "name": "Rene X. Valdez",
+        "known?": true,
+        "orcid?": false,
+        "ncsu?": true,
+        "affiliations": [
+          "North Carolina State University"
+        ],
+        "countries": [
+          "US"
+        ],
+        "uid": "rxvaldez",
+        "url": "https://ci.lib.ncsu.edu/profiles/rxvaldez",
+        "active?": false,
+        "department": "Fisheries, Wildlife, & Conservation Biology",
+        "college": "College of Natural Resources",
+        "ncsu_affiliations": [
+          "Fisheries, Wildlife, & Conservation Biology",
+          "Forestry & Environmental Resources",
+          "Genetic Engineering and Society"
+        ],
+        "cluster?": true,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "role": null,
+        "building": null,
+        "count": 5,
+        "oa_count": 1,
+        "years": [
+          2019,
+          2018,
+          2017
+        ],
+        "year_recent": 2019,
+        "article_concepts": [
+          "Biology",
+          "CRISPR",
+          "Ecology",
+          "Fishery",
+          "Gene",
+          "Gene drive",
+          "Genetics",
+          "Geography",
+          "Habitat"
+        ],
+        "host_venues": [
+          "Environmental Conservation",
+          "Fisheries",
+          "Journal of Responsible Innovation",
+          "Urban Ecosystems",
+          "Wildlife Society Bulletin"
+        ],
+        "color": "#855735",
+        "size": 10
+      }
+    },
+    {
+      "key": "elizabethapitts",
+      "attributes": {
+        "label": "E Pitts",
+        "name": "Elizabeth A. Pitts",
+        "known?": false,
+        "orcid?": null,
+        "ncsu?": false,
+        "affiliations": [
+          "University of Pittsburgh"
+        ],
+        "countries": [
+          "US"
+        ],
+        "color": "#BFBFBD",
+        "size": 10
+      }
+    },
+    {
+      "key": "https://orcid.org/0000-0003-3538-1635",
+      "attributes": {
+        "label": "D Threadgill",
+        "name": "David W. Threadgill",
+        "known?": false,
+        "orcid?": null,
+        "ncsu?": false,
+        "affiliations": [
+          "Texas A&M University"
+        ],
+        "countries": [
+          "US"
+        ],
+        "color": "#BFBFBD",
+        "size": 10
+      }
+    }
+  ],
+  "edges": [
+    {
+      "source": "uid-meserr",
+      "target": "https://orcid.org/0000-0002-4296-7434",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Biological Sciences --- unknown",
+        "colleges": "College of Sciences --- unknown",
+        "buildings": "Remote --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          2019
+        ],
+        "year_recent": 2019,
+        "dois": [
+          "10.1098/rspb.2019.0852"
+        ],
+        "ncsu?": false,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          "Gene drive",
+          "Biology",
+          "Testis determining factor",
+          "Population",
+          "Biodiversity",
+          "Ecology",
+          "PEST analysis",
+          "Pest control",
+          "Evolutionary biology",
+          "Genetics",
+          "Gene",
+          "Y chromosome",
+          "Sociology",
+          "CRISPR",
+          "Demography",
+          "Botany"
+        ],
+        "host_venues": [
+          "Proceedings of The Royal Society B: Biological Sciences"
+        ],
+        "color": "#000000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-meserr",
+      "target": "https://orcid.org/0000-0001-6026-5236",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Biological Sciences --- unknown",
+        "colleges": "College of Sciences --- unknown",
+        "buildings": "Remote --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          2019
+        ],
+        "year_recent": 2019,
+        "dois": [
+          "10.1098/rspb.2019.0852"
+        ],
+        "ncsu?": false,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          "Gene drive",
+          "Biology",
+          "Testis determining factor",
+          "Population",
+          "Biodiversity",
+          "Ecology",
+          "PEST analysis",
+          "Pest control",
+          "Evolutionary biology",
+          "Genetics",
+          "Gene",
+          "Y chromosome",
+          "Sociology",
+          "CRISPR",
+          "Demography",
+          "Botany"
+        ],
+        "host_venues": [
+          "Proceedings of The Royal Society B: Biological Sciences"
+        ],
+        "color": "#000000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-meserr",
+      "target": "https://orcid.org/0000-0002-7764-3456",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Biological Sciences --- unknown",
+        "colleges": "College of Sciences --- unknown",
+        "buildings": "Remote --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          2019
+        ],
+        "year_recent": 2019,
+        "dois": [
+          "10.1098/rspb.2019.0852"
+        ],
+        "ncsu?": false,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          "Gene drive",
+          "Biology",
+          "Testis determining factor",
+          "Population",
+          "Biodiversity",
+          "Ecology",
+          "PEST analysis",
+          "Pest control",
+          "Evolutionary biology",
+          "Genetics",
+          "Gene",
+          "Y chromosome",
+          "Sociology",
+          "CRISPR",
+          "Demography",
+          "Botany"
+        ],
+        "host_venues": [
+          "Proceedings of The Royal Society B: Biological Sciences"
+        ],
+        "color": "#000000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-meserr",
+      "target": "uid-dvblonde",
+      "attributes": {
+        "label": 2,
+        "weight": 2,
+        "collaboration_count": 2,
+        "departments": "Biological Sciences == Biological Sciences",
+        "colleges": "College of Sciences == College of Sciences",
+        "buildings": "David Clark Labs -- Remote",
+        "roles": "faculty -- staff",
+        "years": [
+          2019,
+          2019
+        ],
+        "year_recent": 2019,
+        "dois": [
+          "10.1098/rspb.2019.0852",
+          "10.3390/su11051334"
+        ],
+        "ncsu?": true,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": true,
+        "concepts": [
+          "Gene drive",
+          "Biology",
+          "Testis determining factor",
+          "Population",
+          "Biodiversity",
+          "Ecology",
+          "PEST analysis",
+          "Pest control",
+          "Evolutionary biology",
+          "Genetics",
+          "Gene",
+          "Y chromosome",
+          "Sociology",
+          "CRISPR",
+          "Demography",
+          "Botany"
+        ],
+        "host_venues": [
+          "Proceedings of The Royal Society B: Biological Sciences"
+        ],
+        "color": "#CC0000",
+        "size": 2
+      }
+    },
+    {
+      "source": "uid-meserr",
+      "target": "uid-godwin",
+      "attributes": {
+        "label": 3,
+        "weight": 3,
+        "collaboration_count": 3,
+        "departments": "Biological Sciences == Biological Sciences",
+        "colleges": "College of Sciences == College of Sciences",
+        "buildings": "David Clark Labs -- Remote",
+        "roles": "faculty == faculty",
+        "years": [
+          2019,
+          2019,
+          2017
+        ],
+        "year_recent": 2019,
+        "dois": [
+          "10.1098/rspb.2019.0852",
+          "10.3390/su11051334",
+          "10.1080/23299460.2017.1365232"
+        ],
+        "ncsu?": true,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": true,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": true,
+        "concepts": [
+          "Gene drive",
+          "Biology",
+          "Testis determining factor",
+          "Population",
+          "Biodiversity",
+          "Ecology",
+          "PEST analysis",
+          "Pest control",
+          "Evolutionary biology",
+          "Genetics",
+          "Gene",
+          "Y chromosome",
+          "Sociology",
+          "CRISPR",
+          "Demography",
+          "Botany"
+        ],
+        "host_venues": [
+          "Proceedings of The Royal Society B: Biological Sciences"
+        ],
+        "color": "#CC0000",
+        "size": 3
+      }
+    },
+    {
+      "source": "uid-meserr",
+      "target": "https://orcid.org/0000-0002-2716-1475",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Biological Sciences --- unknown",
+        "colleges": "College of Sciences --- unknown",
+        "buildings": "Remote --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          2019
+        ],
+        "year_recent": 2019,
+        "dois": [
+          "10.1098/rspb.2019.0852"
+        ],
+        "ncsu?": false,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          "Gene drive",
+          "Biology",
+          "Testis determining factor",
+          "Population",
+          "Biodiversity",
+          "Ecology",
+          "PEST analysis",
+          "Pest control",
+          "Evolutionary biology",
+          "Genetics",
+          "Gene",
+          "Y chromosome",
+          "Sociology",
+          "CRISPR",
+          "Demography",
+          "Botany"
+        ],
+        "host_venues": [
+          "Proceedings of The Royal Society B: Biological Sciences"
+        ],
+        "color": "#000000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-meserr",
+      "target": "https://orcid.org/0000-0003-3442-738X",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Biological Sciences --- unknown",
+        "colleges": "College of Sciences --- unknown",
+        "buildings": "Remote --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          2019
+        ],
+        "year_recent": 2019,
+        "dois": [
+          "10.3390/su11051334"
+        ],
+        "ncsu?": false,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          "Sustainability",
+          "Gene drive",
+          "Corporate governance",
+          "Biosecurity",
+          "Biodiversity",
+          "Deliberation",
+          "Environmental planning",
+          "Environmental resource management",
+          "Biology",
+          "Business",
+          "Ecology",
+          "CRISPR",
+          "Gene",
+          "Geography",
+          "Politics",
+          "Political science",
+          "Economics",
+          "Finance",
+          "Law",
+          "Biochemistry"
+        ],
+        "host_venues": [
+          "Sustainability"
+        ],
+        "color": "#000000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-meserr",
+      "target": "uid-cleitsc",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Biological Sciences == Biological Sciences",
+        "colleges": "College of Sciences == College of Sciences",
+        "buildings": "Remote --- unknown",
+        "roles": "faculty -- student",
+        "years": [
+          2017
+        ],
+        "year_recent": 2017,
+        "dois": [
+          "10.1080/23299460.2017.1365232"
+        ],
+        "ncsu?": true,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": true,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          "Gene drive",
+          "Biology",
+          "Gene",
+          "Genetics",
+          "CRISPR"
+        ],
+        "host_venues": [
+          "Journal of Responsible Innovation"
+        ],
+        "color": "#CC0000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-meserr",
+      "target": "https://orcid.org/0000-0003-4770-485X",
+      "attributes": {
+        "label": 2,
+        "weight": 2,
+        "collaboration_count": 2,
+        "departments": "Biological Sciences --- unknown",
+        "colleges": "College of Sciences --- unknown",
+        "buildings": "Remote --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          2017,
+          2017
+        ],
+        "year_recent": 2017,
+        "dois": [
+          "10.1080/23299460.2017.1365232",
+          "10.1016/j.tree.2017.03.006"
+        ],
+        "ncsu?": true,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          "Gene drive",
+          "Biology",
+          "Gene",
+          "Genetics",
+          "CRISPR"
+        ],
+        "host_venues": [
+          "Journal of Responsible Innovation"
+        ],
+        "color": "#CC0000",
+        "size": 2
+      }
+    },
+    {
+      "source": "uid-meserr",
+      "target": "https://orcid.org/0000-0003-3695-8168",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Biological Sciences --- unknown",
+        "colleges": "College of Sciences --- unknown",
+        "buildings": "Remote --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          2017
+        ],
+        "year_recent": 2017,
+        "dois": [
+          "10.1080/23299460.2017.1365232"
+        ],
+        "ncsu?": true,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          "Gene drive",
+          "Biology",
+          "Gene",
+          "Genetics",
+          "CRISPR"
+        ],
+        "host_venues": [
+          "Journal of Responsible Innovation"
+        ],
+        "color": "#CC0000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-meserr",
+      "target": "uid-rxvaldez",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Biological Sciences -- Fisheries, Wildlife, & Conservation Biology",
+        "colleges": "College of Natural Resources -- College of Sciences",
+        "buildings": "Remote --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          2017
+        ],
+        "year_recent": 2017,
+        "dois": [
+          "10.1080/23299460.2017.1365232"
+        ],
+        "ncsu?": true,
+        "cross_college?": true,
+        "cross_department?": true,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": true,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          "Gene drive",
+          "Biology",
+          "Gene",
+          "Genetics",
+          "CRISPR"
+        ],
+        "host_venues": [
+          "Journal of Responsible Innovation"
+        ],
+        "color": "#FAC800",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-meserr",
+      "target": "elizabethapitts",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Biological Sciences --- unknown",
+        "colleges": "College of Sciences --- unknown",
+        "buildings": "Remote --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          2017
+        ],
+        "year_recent": 2017,
+        "dois": [
+          "10.1080/23299460.2017.1365232"
+        ],
+        "ncsu?": false,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          "Gene drive",
+          "Biology",
+          "Gene",
+          "Genetics",
+          "CRISPR"
+        ],
+        "host_venues": [
+          "Journal of Responsible Innovation"
+        ],
+        "color": "#000000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-meserr",
+      "target": "https://orcid.org/0000-0003-3538-1635",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Biological Sciences --- unknown",
+        "colleges": "College of Sciences --- unknown",
+        "buildings": "Remote --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          2017
+        ],
+        "year_recent": 2017,
+        "dois": [
+          "10.1080/23299460.2017.1365232"
+        ],
+        "ncsu?": false,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          "Gene drive",
+          "Biology",
+          "Gene",
+          "Genetics",
+          "CRISPR"
+        ],
+        "host_venues": [
+          "Journal of Responsible Innovation"
+        ],
+        "color": "#000000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-dvblonde",
+      "target": "uid-godwin",
+      "attributes": {
+        "label": 4,
+        "weight": 4,
+        "collaboration_count": 4,
+        "departments": "Biological Sciences == Biological Sciences",
+        "colleges": "College of Sciences == College of Sciences",
+        "buildings": "David Clark Labs == David Clark Labs",
+        "roles": "faculty -- staff",
+        "years": [
+          2021,
+          2019,
+          2019,
+          2019
+        ],
+        "year_recent": 2021,
+        "dois": [
+          "10.1111/eva.13210",
+          "10.1098/rspb.2019.0852",
+          "10.1038/s41598-019-51994-0",
+          "10.3390/su11051334"
+        ],
+        "ncsu?": true,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          "Biology",
+          "Colonization",
+          "Genomics",
+          "Population genomics",
+          "Population",
+          "Gene",
+          "Genetics",
+          "Evolutionary biology",
+          "Genome",
+          "Gene drive",
+          "Population genetics",
+          "Computational biology",
+          "Ecology",
+          "CRISPR",
+          "Demography",
+          "Sociology"
+        ],
+        "host_venues": [
+          "Evolutionary Applications"
+        ],
+        "color": "#CC0000",
+        "size": 4
+      }
+    },
+    {
+      "source": "uid-dvblonde",
+      "target": "https://orcid.org/0000-0002-4296-7434",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Biological Sciences --- unknown",
+        "colleges": "College of Sciences --- unknown",
+        "buildings": "David Clark Labs --- unknown",
+        "roles": "staff --- unknown",
+        "years": [
+          2019
+        ],
+        "year_recent": 2019,
+        "dois": [
+          "10.1098/rspb.2019.0852"
+        ],
+        "ncsu?": false,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": false,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+
+        ],
+        "cross_building?": false,
+        "concepts": [
+          "Gene drive",
+          "Biology",
+          "Testis determining factor",
+          "Population",
+          "Biodiversity",
+          "Ecology",
+          "PEST analysis",
+          "Pest control",
+          "Evolutionary biology",
+          "Genetics",
+          "Gene",
+          "Y chromosome",
+          "Sociology",
+          "CRISPR",
+          "Demography",
+          "Botany"
+        ],
+        "host_venues": [
+          "Proceedings of The Royal Society B: Biological Sciences"
+        ],
+        "color": "#000000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-dvblonde",
+      "target": "https://orcid.org/0000-0001-6026-5236",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Biological Sciences --- unknown",
+        "colleges": "College of Sciences --- unknown",
+        "buildings": "David Clark Labs --- unknown",
+        "roles": "staff --- unknown",
+        "years": [
+          2019
+        ],
+        "year_recent": 2019,
+        "dois": [
+          "10.1098/rspb.2019.0852"
+        ],
+        "ncsu?": false,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": false,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+
+        ],
+        "cross_building?": false,
+        "concepts": [
+          "Gene drive",
+          "Biology",
+          "Testis determining factor",
+          "Population",
+          "Biodiversity",
+          "Ecology",
+          "PEST analysis",
+          "Pest control",
+          "Evolutionary biology",
+          "Genetics",
+          "Gene",
+          "Y chromosome",
+          "Sociology",
+          "CRISPR",
+          "Demography",
+          "Botany"
+        ],
+        "host_venues": [
+          "Proceedings of The Royal Society B: Biological Sciences"
+        ],
+        "color": "#000000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-dvblonde",
+      "target": "https://orcid.org/0000-0002-7764-3456",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Biological Sciences --- unknown",
+        "colleges": "College of Sciences --- unknown",
+        "buildings": "David Clark Labs --- unknown",
+        "roles": "staff --- unknown",
+        "years": [
+          2019
+        ],
+        "year_recent": 2019,
+        "dois": [
+          "10.1098/rspb.2019.0852"
+        ],
+        "ncsu?": false,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": false,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+
+        ],
+        "cross_building?": false,
+        "concepts": [
+          "Gene drive",
+          "Biology",
+          "Testis determining factor",
+          "Population",
+          "Biodiversity",
+          "Ecology",
+          "PEST analysis",
+          "Pest control",
+          "Evolutionary biology",
+          "Genetics",
+          "Gene",
+          "Y chromosome",
+          "Sociology",
+          "CRISPR",
+          "Demography",
+          "Botany"
+        ],
+        "host_venues": [
+          "Proceedings of The Royal Society B: Biological Sciences"
+        ],
+        "color": "#000000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-dvblonde",
+      "target": "https://orcid.org/0000-0002-2716-1475",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Biological Sciences --- unknown",
+        "colleges": "College of Sciences --- unknown",
+        "buildings": "David Clark Labs --- unknown",
+        "roles": "staff --- unknown",
+        "years": [
+          2019
+        ],
+        "year_recent": 2019,
+        "dois": [
+          "10.1098/rspb.2019.0852"
+        ],
+        "ncsu?": false,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": false,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+
+        ],
+        "cross_building?": false,
+        "concepts": [
+          "Gene drive",
+          "Biology",
+          "Testis determining factor",
+          "Population",
+          "Biodiversity",
+          "Ecology",
+          "PEST analysis",
+          "Pest control",
+          "Evolutionary biology",
+          "Genetics",
+          "Gene",
+          "Y chromosome",
+          "Sociology",
+          "CRISPR",
+          "Demography",
+          "Botany"
+        ],
+        "host_venues": [
+          "Proceedings of The Royal Society B: Biological Sciences"
+        ],
+        "color": "#000000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-dvblonde",
+      "target": "https://orcid.org/0000-0003-3442-738X",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Biological Sciences --- unknown",
+        "colleges": "College of Sciences --- unknown",
+        "buildings": "David Clark Labs --- unknown",
+        "roles": "staff --- unknown",
+        "years": [
+          2019
+        ],
+        "year_recent": 2019,
+        "dois": [
+          "10.3390/su11051334"
+        ],
+        "ncsu?": false,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": false,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+
+        ],
+        "cross_building?": false,
+        "concepts": [
+          "Sustainability",
+          "Gene drive",
+          "Corporate governance",
+          "Biosecurity",
+          "Biodiversity",
+          "Deliberation",
+          "Environmental planning",
+          "Environmental resource management",
+          "Biology",
+          "Business",
+          "Ecology",
+          "CRISPR",
+          "Gene",
+          "Geography",
+          "Politics",
+          "Political science",
+          "Economics",
+          "Finance",
+          "Law",
+          "Biochemistry"
+        ],
+        "host_venues": [
+          "Sustainability"
+        ],
+        "color": "#000000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-godwin",
+      "target": "https://orcid.org/0000-0002-2716-1475",
+      "attributes": {
+        "label": 2,
+        "weight": 2,
+        "collaboration_count": 2,
+        "departments": "Biological Sciences --- unknown",
+        "colleges": "College of Sciences --- unknown",
+        "buildings": "David Clark Labs --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          2020,
+          2019
+        ],
+        "year_recent": 2020,
+        "dois": [
+          "10.1111/jeb.13693",
+          "10.1098/rspb.2019.0852"
+        ],
+        "ncsu?": false,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          "Biology",
+          "Natural (archaeology)",
+          "Resistance (ecology)",
+          "Gene",
+          "Genetics",
+          "Natural selection",
+          "Computational biology",
+          "Evolutionary biology",
+          "Ecology",
+          "Selection (genetic algorithm)",
+          "Paleontology",
+          "Artificial intelligence",
+          "Computer science"
+        ],
+        "host_venues": [
+          "Journal of Evolutionary Biology"
+        ],
+        "color": "#000000",
+        "size": 2
+      }
+    },
+    {
+      "source": "uid-godwin",
+      "target": "https://orcid.org/0000-0002-7764-3456",
+      "attributes": {
+        "label": 2,
+        "weight": 2,
+        "collaboration_count": 2,
+        "departments": "Biological Sciences --- unknown",
+        "colleges": "College of Sciences --- unknown",
+        "buildings": "David Clark Labs --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          2020,
+          2019
+        ],
+        "year_recent": 2020,
+        "dois": [
+          "10.1111/jeb.13693",
+          "10.1098/rspb.2019.0852"
+        ],
+        "ncsu?": false,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          "Biology",
+          "Natural (archaeology)",
+          "Resistance (ecology)",
+          "Gene",
+          "Genetics",
+          "Natural selection",
+          "Computational biology",
+          "Evolutionary biology",
+          "Ecology",
+          "Selection (genetic algorithm)",
+          "Paleontology",
+          "Artificial intelligence",
+          "Computer science"
+        ],
+        "host_venues": [
+          "Journal of Evolutionary Biology"
+        ],
+        "color": "#000000",
+        "size": 2
+      }
+    },
+    {
+      "source": "uid-godwin",
+      "target": "https://orcid.org/0000-0002-4296-7434",
+      "attributes": {
+        "label": 2,
+        "weight": 2,
+        "collaboration_count": 2,
+        "departments": "Biological Sciences --- unknown",
+        "colleges": "College of Sciences --- unknown",
+        "buildings": "David Clark Labs --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          2020,
+          2019
+        ],
+        "year_recent": 2020,
+        "dois": [
+          "10.1111/jeb.13693",
+          "10.1098/rspb.2019.0852"
+        ],
+        "ncsu?": false,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          "Biology",
+          "Natural (archaeology)",
+          "Resistance (ecology)",
+          "Gene",
+          "Genetics",
+          "Natural selection",
+          "Computational biology",
+          "Evolutionary biology",
+          "Ecology",
+          "Selection (genetic algorithm)",
+          "Paleontology",
+          "Artificial intelligence",
+          "Computer science"
+        ],
+        "host_venues": [
+          "Journal of Evolutionary Biology"
+        ],
+        "color": "#000000",
+        "size": 2
+      }
+    },
+    {
+      "source": "uid-godwin",
+      "target": "https://orcid.org/0000-0001-6026-5236",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Biological Sciences --- unknown",
+        "colleges": "College of Sciences --- unknown",
+        "buildings": "David Clark Labs --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          2019
+        ],
+        "year_recent": 2019,
+        "dois": [
+          "10.1098/rspb.2019.0852"
+        ],
+        "ncsu?": false,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          "Gene drive",
+          "Biology",
+          "Testis determining factor",
+          "Population",
+          "Biodiversity",
+          "Ecology",
+          "PEST analysis",
+          "Pest control",
+          "Evolutionary biology",
+          "Genetics",
+          "Gene",
+          "Y chromosome",
+          "Sociology",
+          "CRISPR",
+          "Demography",
+          "Botany"
+        ],
+        "host_venues": [
+          "Proceedings of The Royal Society B: Biological Sciences"
+        ],
+        "color": "#000000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-godwin",
+      "target": "https://orcid.org/0000-0003-3442-738X",
+      "attributes": {
+        "label": 2,
+        "weight": 2,
+        "collaboration_count": 2,
+        "departments": "Biological Sciences --- unknown",
+        "colleges": "College of Sciences --- unknown",
+        "buildings": "David Clark Labs --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          2019,
+          2019
+        ],
+        "year_recent": 2019,
+        "dois": [
+          "10.1098/rspb.2019.1606",
+          "10.3390/su11051334"
+        ],
+        "ncsu?": true,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          "Biodiversity",
+          "Gene drive",
+          "Variety (cybernetics)",
+          "Multidisciplinary approach",
+          "Environmental planning",
+          "Biology",
+          "Food security",
+          "Stakeholder",
+          "Environmental resource management",
+          "Business",
+          "Risk analysis (engineering)",
+          "Ecology",
+          "Geography",
+          "Gene",
+          "Political science",
+          "Computer science",
+          "Agriculture",
+          "Genetics",
+          "Public relations",
+          "Environmental science",
+          "Artificial intelligence",
+          "Law",
+          "CRISPR"
+        ],
+        "host_venues": [
+          "Proceedings of The Royal Society B: Biological Sciences"
+        ],
+        "color": "#CC0000",
+        "size": 2
+      }
+    },
+    {
+      "source": "uid-godwin",
+      "target": "uid-cleitsc",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Biological Sciences == Biological Sciences",
+        "colleges": "College of Sciences == College of Sciences",
+        "buildings": "David Clark Labs --- unknown",
+        "roles": "faculty -- student",
+        "years": [
+          2017
+        ],
+        "year_recent": 2017,
+        "dois": [
+          "10.1080/23299460.2017.1365232"
+        ],
+        "ncsu?": true,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": true,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          "Gene drive",
+          "Biology",
+          "Gene",
+          "Genetics",
+          "CRISPR"
+        ],
+        "host_venues": [
+          "Journal of Responsible Innovation"
+        ],
+        "color": "#CC0000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-godwin",
+      "target": "https://orcid.org/0000-0003-4770-485X",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Biological Sciences --- unknown",
+        "colleges": "College of Sciences --- unknown",
+        "buildings": "David Clark Labs --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          2017
+        ],
+        "year_recent": 2017,
+        "dois": [
+          "10.1080/23299460.2017.1365232"
+        ],
+        "ncsu?": true,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          "Gene drive",
+          "Biology",
+          "Gene",
+          "Genetics",
+          "CRISPR"
+        ],
+        "host_venues": [
+          "Journal of Responsible Innovation"
+        ],
+        "color": "#CC0000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-godwin",
+      "target": "https://orcid.org/0000-0003-3695-8168",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Biological Sciences --- unknown",
+        "colleges": "College of Sciences --- unknown",
+        "buildings": "David Clark Labs --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          2017
+        ],
+        "year_recent": 2017,
+        "dois": [
+          "10.1080/23299460.2017.1365232"
+        ],
+        "ncsu?": true,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          "Gene drive",
+          "Biology",
+          "Gene",
+          "Genetics",
+          "CRISPR"
+        ],
+        "host_venues": [
+          "Journal of Responsible Innovation"
+        ],
+        "color": "#CC0000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-godwin",
+      "target": "uid-rxvaldez",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Biological Sciences -- Fisheries, Wildlife, & Conservation Biology",
+        "colleges": "College of Natural Resources -- College of Sciences",
+        "buildings": "David Clark Labs --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          2017
+        ],
+        "year_recent": 2017,
+        "dois": [
+          "10.1080/23299460.2017.1365232"
+        ],
+        "ncsu?": true,
+        "cross_college?": true,
+        "cross_department?": true,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": true,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          "Gene drive",
+          "Biology",
+          "Gene",
+          "Genetics",
+          "CRISPR"
+        ],
+        "host_venues": [
+          "Journal of Responsible Innovation"
+        ],
+        "color": "#FAC800",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-godwin",
+      "target": "elizabethapitts",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Biological Sciences --- unknown",
+        "colleges": "College of Sciences --- unknown",
+        "buildings": "David Clark Labs --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          2017
+        ],
+        "year_recent": 2017,
+        "dois": [
+          "10.1080/23299460.2017.1365232"
+        ],
+        "ncsu?": false,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          "Gene drive",
+          "Biology",
+          "Gene",
+          "Genetics",
+          "CRISPR"
+        ],
+        "host_venues": [
+          "Journal of Responsible Innovation"
+        ],
+        "color": "#000000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-cleitsc",
+      "target": "https://orcid.org/0000-0003-4770-485X",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Biological Sciences --- unknown",
+        "colleges": "College of Sciences --- unknown",
+        "buildings": "unknown --- unknown",
+        "roles": "student --- unknown",
+        "years": [
+          2017
+        ],
+        "year_recent": 2017,
+        "dois": [
+          "10.1080/23299460.2017.1365232"
+        ],
+        "ncsu?": true,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          "Gene drive",
+          "Biology",
+          "Gene",
+          "Genetics",
+          "CRISPR"
+        ],
+        "host_venues": [
+          "Journal of Responsible Innovation"
+        ],
+        "color": "#CC0000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-cleitsc",
+      "target": "https://orcid.org/0000-0003-3695-8168",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Biological Sciences --- unknown",
+        "colleges": "College of Sciences --- unknown",
+        "buildings": "unknown --- unknown",
+        "roles": "student --- unknown",
+        "years": [
+          2017
+        ],
+        "year_recent": 2017,
+        "dois": [
+          "10.1080/23299460.2017.1365232"
+        ],
+        "ncsu?": true,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          "Gene drive",
+          "Biology",
+          "Gene",
+          "Genetics",
+          "CRISPR"
+        ],
+        "host_venues": [
+          "Journal of Responsible Innovation"
+        ],
+        "color": "#CC0000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-cleitsc",
+      "target": "uid-rxvaldez",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Biological Sciences -- Fisheries, Wildlife, & Conservation Biology",
+        "colleges": "College of Natural Resources -- College of Sciences",
+        "buildings": "unknown --- unknown",
+        "roles": "student --- unknown",
+        "years": [
+          2017
+        ],
+        "year_recent": 2017,
+        "dois": [
+          "10.1080/23299460.2017.1365232"
+        ],
+        "ncsu?": true,
+        "cross_college?": true,
+        "cross_department?": true,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": true,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          "Gene drive",
+          "Biology",
+          "Gene",
+          "Genetics",
+          "CRISPR"
+        ],
+        "host_venues": [
+          "Journal of Responsible Innovation"
+        ],
+        "color": "#FAC800",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-cleitsc",
+      "target": "elizabethapitts",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Biological Sciences --- unknown",
+        "colleges": "College of Sciences --- unknown",
+        "buildings": "unknown --- unknown",
+        "roles": "student --- unknown",
+        "years": [
+          2017
+        ],
+        "year_recent": 2017,
+        "dois": [
+          "10.1080/23299460.2017.1365232"
+        ],
+        "ncsu?": false,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          "Gene drive",
+          "Biology",
+          "Gene",
+          "Genetics",
+          "CRISPR"
+        ],
+        "host_venues": [
+          "Journal of Responsible Innovation"
+        ],
+        "color": "#000000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-cleitsc",
+      "target": "https://orcid.org/0000-0003-3538-1635",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Biological Sciences --- unknown",
+        "colleges": "College of Sciences --- unknown",
+        "buildings": "unknown --- unknown",
+        "roles": "student --- unknown",
+        "years": [
+          2017
+        ],
+        "year_recent": 2017,
+        "dois": [
+          "10.1080/23299460.2017.1365232"
+        ],
+        "ncsu?": false,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          "Gene drive",
+          "Biology",
+          "Gene",
+          "Genetics",
+          "CRISPR"
+        ],
+        "host_venues": [
+          "Journal of Responsible Innovation"
+        ],
+        "color": "#000000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-rxvaldez",
+      "target": "https://orcid.org/0000-0003-4770-485X",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Fisheries, Wildlife, & Conservation Biology --- unknown",
+        "colleges": "College of Natural Resources --- unknown",
+        "buildings": "unknown --- unknown",
+        "roles": "unknown == unknown",
+        "years": [
+          2017
+        ],
+        "year_recent": 2017,
+        "dois": [
+          "10.1080/23299460.2017.1365232"
+        ],
+        "ncsu?": true,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          "Gene drive",
+          "Biology",
+          "Gene",
+          "Genetics",
+          "CRISPR"
+        ],
+        "host_venues": [
+          "Journal of Responsible Innovation"
+        ],
+        "color": "#CC0000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-rxvaldez",
+      "target": "https://orcid.org/0000-0003-3695-8168",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Fisheries, Wildlife, & Conservation Biology --- unknown",
+        "colleges": "College of Natural Resources --- unknown",
+        "buildings": "unknown --- unknown",
+        "roles": "unknown == unknown",
+        "years": [
+          2017
+        ],
+        "year_recent": 2017,
+        "dois": [
+          "10.1080/23299460.2017.1365232"
+        ],
+        "ncsu?": true,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          "Gene drive",
+          "Biology",
+          "Gene",
+          "Genetics",
+          "CRISPR"
+        ],
+        "host_venues": [
+          "Journal of Responsible Innovation"
+        ],
+        "color": "#CC0000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-rxvaldez",
+      "target": "elizabethapitts",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Fisheries, Wildlife, & Conservation Biology --- unknown",
+        "colleges": "College of Natural Resources --- unknown",
+        "buildings": "unknown --- unknown",
+        "roles": "unknown == unknown",
+        "years": [
+          2017
+        ],
+        "year_recent": 2017,
+        "dois": [
+          "10.1080/23299460.2017.1365232"
+        ],
+        "ncsu?": false,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          "Gene drive",
+          "Biology",
+          "Gene",
+          "Genetics",
+          "CRISPR"
+        ],
+        "host_venues": [
+          "Journal of Responsible Innovation"
+        ],
+        "color": "#000000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-rxvaldez",
+      "target": "https://orcid.org/0000-0003-3538-1635",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Fisheries, Wildlife, & Conservation Biology --- unknown",
+        "colleges": "College of Natural Resources --- unknown",
+        "buildings": "unknown --- unknown",
+        "roles": "unknown == unknown",
+        "years": [
+          2017
+        ],
+        "year_recent": 2017,
+        "dois": [
+          "10.1080/23299460.2017.1365232"
+        ],
+        "ncsu?": false,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          "Gene drive",
+          "Biology",
+          "Gene",
+          "Genetics",
+          "CRISPR"
+        ],
+        "host_venues": [
+          "Journal of Responsible Innovation"
+        ],
+        "color": "#000000",
+        "size": 1
+      }
+    }
+  ]
+}

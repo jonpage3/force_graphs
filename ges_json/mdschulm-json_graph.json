@@ -1,0 +1,5117 @@
+{
+  "options": {
+    "type": "undirected",
+    "multi": false,
+    "allowSelfLoops": false
+  },
+  "attributes": {
+    "creator": "Citation Index",
+    "lastModifiedDate": "2023-01-13"
+  },
+  "nodes": [
+    {
+      "key": "uid-mdschulm",
+      "attributes": {
+        "label": "M Schulman",
+        "name": "Michael Schulman",
+        "known?": true,
+        "orcid?": true,
+        "ncsu?": true,
+        "affiliations": [
+          "North Carolina State University"
+        ],
+        "countries": [
+          "US"
+        ],
+        "uid": "mdschulm",
+        "url": "https://ci.lib.ncsu.edu/profiles/mdschulm",
+        "orcid": "0000-0002-7652-9790",
+        "active?": true,
+        "department": "Sociology & Anthropology",
+        "college": "College of Humanities and Social Sciences",
+        "ncsu_affiliations": [
+          "Sociology & Anthropology",
+          "Agricultural & Human Sciences",
+          "Genetic Engineering and Society"
+        ],
+        "cluster?": true,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "role": "faculty",
+        "building": "4101 Beryl Road",
+        "count": 81,
+        "oa_count": 8,
+        "years": [
+          2018,
+          2017,
+          2016,
+          2014,
+          2012,
+          2011,
+          2010,
+          2009,
+          2008,
+          2007,
+          2006,
+          2005,
+          2004,
+          2003,
+          2001,
+          2000,
+          1999,
+          1998,
+          1997,
+          1996,
+          1994,
+          1993,
+          1991,
+          1990,
+          1989,
+          1988,
+          1986,
+          1985,
+          1984,
+          1981,
+          1978,
+          1977,
+          1976
+        ],
+        "year_recent": 2018,
+        "article_concepts": [
+          "Agriculture",
+          "Anatomy",
+          "Archaeology",
+          "Biology",
+          "Business",
+          "Chemistry",
+          "Chromatography",
+          "Club",
+          "Computer science",
+          "Crash",
+          "Demographic economics",
+          "Demography",
+          "Ecology",
+          "Economic growth",
+          "Economics",
+          "Enforcement",
+          "Engineering",
+          "Environmental health",
+          "Food insecurity",
+          "Food security",
+          "Forensic engineering",
+          "Geography",
+          "Hazard",
+          "Human factors and ergonomics",
+          "Inequality",
+          "Injury prevention",
+          "Labour economics",
+          "Law",
+          "Law enforcement",
+          "Marketing",
+          "Mathematical analysis",
+          "Mathematics",
+          "Mechanical engineering",
+          "Medicine",
+          "Metropolitan area",
+          "Occupational injury",
+          "Occupational safety and health",
+          "Pathology",
+          "Poison control",
+          "Poisson regression",
+          "Political science",
+          "Politics",
+          "Population",
+          "Programming language",
+          "Psychiatry",
+          "Psychological intervention",
+          "Psychology",
+          "Sample (material)",
+          "Service (business)",
+          "Socioeconomics",
+          "Sociology",
+          "Suicide prevention",
+          "Transport engineering",
+          "Unemployment",
+          "Work (physics)",
+          "Work hours",
+          "Workforce",
+          "Working hours"
+        ],
+        "host_venues": [
+          "Accident Analysis & Prevention",
+          "Agriculture and Human Values",
+          "American Journal of Community Psychology",
+          "American Journal of Industrial Medicine",
+          "American Journal of Public Health",
+          "Applied Behavioral Science Review",
+          "Archives of pediatrics & adolescent medicine",
+          "Clinics in Occupational and Environmental Medicine",
+          "Community Development",
+          "Contemporary Sociology",
+          "Contexts",
+          "Growth and Change",
+          "Injury Prevention",
+          "Journal of Adolescence",
+          "Journal of Adolescent Health",
+          "Journal of Nutrition Education and Behavior",
+          "Journal of Occupational and Environmental Medicine",
+          "Journal of Rural Health",
+          "Journal of School Health",
+          "Journal of agricultural safety and health",
+          "Pediatrics",
+          "Rural Sociology",
+          "Social Forces",
+          "Social Problems",
+          "Sociologia Ruralis",
+          "Sociological Quarterly",
+          "Sociological Spectrum",
+          "Sociology of race & ethnicity",
+          "Teaching Sociology",
+          "The Journal of Peasant Studies"
+        ],
+        "color": "#FAC800",
+        "size": 20
+      }
+    },
+    {
+      "key": "jdarabloom",
+      "attributes": {
+        "label": "J Bloom",
+        "name": "J. Dara Bloom",
+        "known?": false,
+        "orcid?": null,
+        "ncsu?": true,
+        "affiliations": [
+          "North Carolina State University"
+        ],
+        "countries": [
+          "US"
+        ],
+        "color": "#000000",
+        "size": 10
+      }
+    },
+    {
+      "key": "uid-amhardis",
+      "attributes": {
+        "label": "A Hardison-Moody",
+        "name": "Annie Hardison-Moody",
+        "known?": true,
+        "orcid?": true,
+        "ncsu?": true,
+        "affiliations": [
+          "North Carolina State University"
+        ],
+        "countries": [
+          "US"
+        ],
+        "uid": "amhardis",
+        "url": "https://ci.lib.ncsu.edu/profiles/amhardis",
+        "orcid": "0000-0001-5776-7964",
+        "active?": true,
+        "department": "Agricultural & Human Sciences",
+        "college": "College of Agriculture and Life Sciences",
+        "ncsu_affiliations": [
+          "Agricultural & Human Sciences"
+        ],
+        "cluster?": false,
+        "clusters": [
+
+        ],
+        "role": "faculty",
+        "building": "4101 Beryl Road",
+        "count": 40,
+        "oa_count": 10,
+        "years": [
+          2022,
+          2021,
+          2020,
+          2019,
+          2018,
+          2017,
+          2016,
+          2015,
+          2014,
+          2013,
+          2012,
+          2011,
+          2010,
+          2006
+        ],
+        "year_recent": 2022,
+        "article_concepts": [
+          "2019-20 coronavirus outbreak",
+          "Agency (philosophy)",
+          "Agriculture",
+          "Algorithm",
+          "Alternative medicine",
+          "Anthropology",
+          "Archaeology",
+          "Autonomy",
+          "Behavioral Risk Factor Surveillance System",
+          "Biology",
+          "Blessing",
+          "Business",
+          "Cartography",
+          "Chemistry",
+          "Childhood obesity",
+          "Chromatography",
+          "Clinical psychology",
+          "Community organizing",
+          "Computer graphics (images)",
+          "Computer science",
+          "Confirmatory factor analysis",
+          "Context (archaeology)",
+          "Coronavirus disease 2019 (COVID-19)",
+          "Cronbach's alpha",
+          "Demography",
+          "Disease",
+          "Ecology",
+          "Economic growth",
+          "Economics",
+          "Engineering",
+          "Environmental health",
+          "Ethnic group",
+          "Ethos",
+          "Faith",
+          "Faith-Based Organizations",
+          "Food group",
+          "Food insecurity",
+          "Food intake",
+          "Food science",
+          "Food security",
+          "Food systems",
+          "Foodways",
+          "Gender studies",
+          "General partnership",
+          "Generosity",
+          "Geography",
+          "Gerontology",
+          "Health promotion",
+          "Infectious disease (medical specialty)",
+          "Internal medicine",
+          "Intervention (counseling)",
+          "Law",
+          "Life course approach",
+          "Linguistics",
+          "Logistic regression",
+          "Low income",
+          "Marketing",
+          "Mathematics",
+          "Mechanical engineering",
+          "Medical education",
+          "Medicine",
+          "Mental distress",
+          "Mental health",
+          "Moral agency",
+          "Narrative",
+          "Nursing",
+          "Nutrition Education",
+          "Obesity",
+          "Outbreak",
+          "Overweight",
+          "Pandemic",
+          "Pathology",
+          "Philosophy",
+          "Physics",
+          "Political science",
+          "Politics",
+          "Population",
+          "Power (physics)",
+          "Promotion (chess)",
+          "Protocol (science)",
+          "Psychiatry",
+          "Psychoanalysis",
+          "Psychology",
+          "Psychometrics",
+          "Public health",
+          "Public relations",
+          "Qualitative research",
+          "Quantum mechanics",
+          "Recreation",
+          "Reliability (semiconductor)",
+          "Reproductive health",
+          "Rural area",
+          "Sample (material)",
+          "Scale (ratio)",
+          "Scholarship",
+          "Service (business)",
+          "Severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2)",
+          "Snap",
+          "Social psychology",
+          "Social science",
+          "Socioeconomics",
+          "Sociology",
+          "Spiritual practice",
+          "Spirituality",
+          "State (computer science)",
+          "Statistics",
+          "Structural equation modeling",
+          "Supplemental Nutrition Assistance Program",
+          "Sustainability",
+          "TRACE (psycholinguistics)",
+          "Theology",
+          "Thriving",
+          "Virology",
+          "Work (physics)"
+        ],
+        "host_venues": [
+          "American Journal of Public Health",
+          "Community Development",
+          "Food, Culture, and Society",
+          "International Journal of Environmental Research and Public Health",
+          "International journal of qualitative methods",
+          "Journal of Hunger & Environmental Nutrition",
+          "Journal of Leisure Research",
+          "Journal of Nutrition Education and Behavior",
+          "Journal of the Academy of Nutrition and Dietetics",
+          "Medicine anthropology theory",
+          "Preventing Chronic Disease",
+          "Preventive medicine reports",
+          "Public Health Nursing",
+          "RSF: The Russell Sage Foundation Journal of the Social Sciences",
+          "Sociology Compass",
+          "Springer International Publishing eBooks",
+          "The Journal of Agriculture, Food Systems, and Community Development",
+          "The Journal of Pastoral Theology",
+          "Translational behavioral medicine"
+        ],
+        "color": "#6F7D1C",
+        "size": 10
+      }
+    },
+    {
+      "key": "https://orcid.org/0000-0002-9399-9145",
+      "attributes": {
+        "label": "J Piontak",
+        "name": "Joy Rayanne Piontak",
+        "known?": false,
+        "orcid?": null,
+        "ncsu?": false,
+        "affiliations": [
+          "RTI International",
+          "Duke University"
+        ],
+        "countries": [
+          "US",
+          "US"
+        ],
+        "color": "#BFBFBD",
+        "size": 10
+      }
+    },
+    {
+      "key": "akgore",
+      "attributes": {
+        "label": "A Gore",
+        "name": "A.K. Gore",
+        "known?": false,
+        "orcid?": null,
+        "ncsu?": false,
+        "affiliations": [
+
+        ],
+        "countries": [
+
+        ],
+        "color": "#BFBFBD",
+        "size": 10
+      }
+    },
+    {
+      "key": "crunyan",
+      "attributes": {
+        "label": "C Runyan",
+        "name": "C. Runyan",
+        "known?": false,
+        "orcid?": null,
+        "ncsu?": null,
+        "affiliations": null,
+        "countries": null,
+        "color": "#BFBFBD",
+        "size": 10
+      }
+    },
+    {
+      "key": "lawrencescholl",
+      "attributes": {
+        "label": "L Scholl",
+        "name": "Lawrence Scholl",
+        "known?": false,
+        "orcid?": null,
+        "ncsu?": null,
+        "affiliations": null,
+        "countries": null,
+        "color": "#BFBFBD",
+        "size": 10
+      }
+    },
+    {
+      "key": "kjrauscher",
+      "attributes": {
+        "label": "K Rauscher",
+        "name": "K. J. Rauscher",
+        "known?": false,
+        "orcid?": null,
+        "ncsu?": null,
+        "affiliations": null,
+        "countries": null,
+        "color": "#BFBFBD",
+        "size": 10
+      }
+    },
+    {
+      "key": "djmyers",
+      "attributes": {
+        "label": "D Myers",
+        "name": "D. J. Myers",
+        "known?": false,
+        "orcid?": null,
+        "ncsu?": null,
+        "affiliations": null,
+        "countries": null,
+        "color": "#BFBFBD",
+        "size": 10
+      }
+    },
+    {
+      "key": "cwrunyan",
+      "attributes": {
+        "label": "C Runyan",
+        "name": "C. W. Runyan",
+        "known?": false,
+        "orcid?": null,
+        "ncsu?": null,
+        "affiliations": null,
+        "countries": null,
+        "color": "#BFBFBD",
+        "size": 10
+      }
+    },
+    {
+      "key": "uid-smteixei",
+      "attributes": {
+        "label": "S Teixeira-Poit",
+        "name": "Stephanie M. Teixeira-Poit",
+        "known?": true,
+        "orcid?": false,
+        "ncsu?": true,
+        "affiliations": [
+          "North Carolina State University"
+        ],
+        "countries": [
+          "US"
+        ],
+        "uid": "smteixei",
+        "url": "https://ci.lib.ncsu.edu/profiles/smteixei",
+        "active?": false,
+        "department": "Sociology & Anthropology",
+        "college": "College of Humanities and Social Sciences",
+        "ncsu_affiliations": [
+          "Sociology & Anthropology"
+        ],
+        "cluster?": false,
+        "clusters": [
+
+        ],
+        "role": null,
+        "building": null,
+        "count": 1,
+        "oa_count": 0,
+        "years": [
+          2011
+        ],
+        "year_recent": 2011,
+        "article_concepts": [
+
+        ],
+        "host_venues": [
+          "Teaching Sociology"
+        ],
+        "color": "#FAC800",
+        "size": 10
+      }
+    },
+    {
+      "key": "u-27705",
+      "attributes": {
+        "label": "A Cameron",
+        "name": "Abigail E. Cameron",
+        "known?": true,
+        "orcid?": false,
+        "ncsu?": true,
+        "affiliations": [
+          "North Carolina State University"
+        ],
+        "countries": [
+          "US"
+        ],
+        "url": "https://ci.lib.ncsu.edu/profiles/27705",
+        "active?": false,
+        "department": "Sociology & Anthropology",
+        "college": "College of Humanities and Social Sciences",
+        "ncsu_affiliations": [
+          "Sociology & Anthropology"
+        ],
+        "cluster?": false,
+        "clusters": [
+
+        ],
+        "role": null,
+        "building": null,
+        "count": 2,
+        "oa_count": 0,
+        "years": [
+          2012,
+          2011
+        ],
+        "year_recent": 2012,
+        "article_concepts": [
+
+        ],
+        "host_venues": [
+          "Teaching Sociology"
+        ],
+        "color": "#FAC800",
+        "size": 10
+      }
+    },
+    {
+      "key": "https://orcid.org/0000-0002-6721-7832",
+      "attributes": {
+        "label": "C Runyan",
+        "name": "Carol S. Wolf Runyan",
+        "known?": false,
+        "orcid?": null,
+        "ncsu?": false,
+        "affiliations": [
+          "University of North Carolina at Chapel Hill"
+        ],
+        "countries": [
+          "US"
+        ],
+        "color": "#BFBFBD",
+        "size": 10
+      }
+    },
+    {
+      "key": "https://orcid.org/0000-0002-8840-2199",
+      "attributes": {
+        "label": "C Vladutiu",
+        "name": "Catherine J. Vladutiu",
+        "known?": false,
+        "orcid?": null,
+        "ncsu?": false,
+        "affiliations": [
+          "University of North Carolina at Chapel Hill"
+        ],
+        "countries": [
+          "US"
+        ],
+        "color": "#BFBFBD",
+        "size": 10
+      }
+    },
+    {
+      "key": "kimberlyjrauscher",
+      "attributes": {
+        "label": "K Rauscher",
+        "name": "Kimberly J. Rauscher",
+        "known?": false,
+        "orcid?": null,
+        "ncsu?": false,
+        "affiliations": [
+          "West Virginia University"
+        ],
+        "countries": [
+          "US"
+        ],
+        "color": "#BFBFBD",
+        "size": 10
+      }
+    },
+    {
+      "key": "andrsvillaveces",
+      "attributes": {
+        "label": "A Villaveces",
+        "name": "Andrés Villaveces",
+        "known?": false,
+        "orcid?": null,
+        "ncsu?": false,
+        "affiliations": [
+          "University of North Carolina at Chapel Hill"
+        ],
+        "countries": [
+          "US"
+        ],
+        "color": "#BFBFBD",
+        "size": 10
+      }
+    },
+    {
+      "key": "janetdalsanto",
+      "attributes": {
+        "label": "J Dal Santo",
+        "name": "Janet Dal Santo",
+        "known?": false,
+        "orcid?": null,
+        "ncsu?": false,
+        "affiliations": [
+          "University of North Carolina at Chapel Hill"
+        ],
+        "countries": [
+          "US"
+        ],
+        "color": "#BFBFBD",
+        "size": 10
+      }
+    },
+    {
+      "key": "jmichaelbowling",
+      "attributes": {
+        "label": "J Bowling",
+        "name": "J. Michael Bowling",
+        "known?": false,
+        "orcid?": null,
+        "ncsu?": false,
+        "affiliations": [
+          "University of North Carolina at Chapel Hill"
+        ],
+        "countries": [
+          "US"
+        ],
+        "color": "#BFBFBD",
+        "size": 10
+      }
+    },
+    {
+      "key": "https://orcid.org/0000-0003-2084-3964",
+      "attributes": {
+        "label": "R Agans",
+        "name": "Robert P. Agans",
+        "known?": false,
+        "orcid?": null,
+        "ncsu?": false,
+        "affiliations": [
+          "University of North Carolina at Chapel Hill"
+        ],
+        "countries": [
+          "US"
+        ],
+        "color": "#BFBFBD",
+        "size": 10
+      }
+    },
+    {
+      "key": "https://orcid.org/0000-0003-3297-5200",
+      "attributes": {
+        "label": "D Loomis",
+        "name": "Dana Loomis",
+        "known?": false,
+        "orcid?": null,
+        "ncsu?": false,
+        "affiliations": [
+          "University of Nevada Reno"
+        ],
+        "countries": [
+          "US"
+        ],
+        "color": "#BFBFBD",
+        "size": 10
+      }
+    },
+    {
+      "key": "https://orcid.org/0000-0002-7233-1461",
+      "attributes": {
+        "label": "J Bailer",
+        "name": "A. John Bailer",
+        "known?": false,
+        "orcid?": null,
+        "ncsu?": false,
+        "affiliations": [
+
+        ],
+        "countries": [
+
+        ],
+        "color": "#BFBFBD",
+        "size": 10
+      }
+    },
+    {
+      "key": "https://orcid.org/0000-0001-9358-9819",
+      "attributes": {
+        "label": "K Stainback",
+        "name": "Kevin Stainback",
+        "known?": false,
+        "orcid?": null,
+        "ncsu?": false,
+        "affiliations": [
+
+        ],
+        "countries": [
+
+        ],
+        "color": "#BFBFBD",
+        "size": 10
+      }
+    },
+    {
+      "key": "matthewwwheeler",
+      "attributes": {
+        "label": "M Wheeler",
+        "name": "Matthew W. Wheeler",
+        "known?": false,
+        "orcid?": null,
+        "ncsu?": false,
+        "affiliations": [
+
+        ],
+        "countries": [
+
+        ],
+        "color": "#BFBFBD",
+        "size": 10
+      }
+    },
+    {
+      "key": "https://orcid.org/0000-0001-8550-0212",
+      "attributes": {
+        "label": "D Richardson",
+        "name": "David B. Richardson",
+        "known?": false,
+        "orcid?": null,
+        "ncsu?": false,
+        "affiliations": [
+
+        ],
+        "countries": [
+
+        ],
+        "color": "#BFBFBD",
+        "size": 10
+      }
+    },
+    {
+      "key": "https://orcid.org/0000-0002-2664-9233",
+      "attributes": {
+        "label": "S Marshall",
+        "name": "Stephen W. Marshall",
+        "known?": false,
+        "orcid?": null,
+        "ncsu?": false,
+        "affiliations": [
+
+        ],
+        "countries": [
+
+        ],
+        "color": "#BFBFBD",
+        "size": 10
+      }
+    },
+    {
+      "key": "u-12365",
+      "attributes": {
+        "label": "T Costello",
+        "name": "Theresa M. Costello",
+        "known?": true,
+        "orcid?": false,
+        "ncsu?": true,
+        "affiliations": [
+          "North Carolina State University"
+        ],
+        "countries": [
+          "US"
+        ],
+        "url": "https://ci.lib.ncsu.edu/profiles/12365",
+        "active?": false,
+        "department": null,
+        "college": null,
+        "ncsu_affiliations": [
+
+        ],
+        "cluster?": false,
+        "clusters": [
+
+        ],
+        "role": null,
+        "building": null,
+        "count": 2,
+        "oa_count": 0,
+        "years": [
+          2009,
+          2003
+        ],
+        "year_recent": 2009,
+        "article_concepts": [
+          "Business",
+          "Computer science",
+          "Crash",
+          "Engineering",
+          "Environmental health",
+          "Human factors and ergonomics",
+          "Injury prevention",
+          "Medicine",
+          "Occupational safety and health",
+          "Pathology",
+          "Poison control",
+          "Programming language",
+          "Psychiatry",
+          "Psychological intervention",
+          "Suicide prevention",
+          "Transport engineering"
+        ],
+        "host_venues": [
+          "Accident Analysis & Prevention",
+          "Journal of agricultural safety and health"
+        ],
+        "color": "#000000",
+        "size": 10
+      }
+    },
+    {
+      "key": "uid-remitche",
+      "attributes": {
+        "label": "R Mitchell",
+        "name": "Roger Mitchell",
+        "known?": true,
+        "orcid?": false,
+        "ncsu?": true,
+        "affiliations": [
+          "North Carolina State University"
+        ],
+        "countries": [
+          "US"
+        ],
+        "uid": "remitche",
+        "url": "https://ci.lib.ncsu.edu/profiles/remitche",
+        "active?": true,
+        "department": "Psychology",
+        "college": "College of Humanities and Social Sciences",
+        "ncsu_affiliations": [
+          "Psychology"
+        ],
+        "cluster?": false,
+        "clusters": [
+
+        ],
+        "role": "faculty",
+        "building": "Poe Hall",
+        "count": 36,
+        "oa_count": 3,
+        "years": [
+          2017,
+          2009,
+          2007,
+          2006,
+          2004,
+          2003,
+          2002,
+          2000,
+          1999,
+          1998,
+          1996,
+          1995,
+          1993,
+          1992,
+          1986,
+          1984,
+          1983,
+          1982,
+          1981,
+          1980,
+          1977
+        ],
+        "year_recent": 2017,
+        "article_concepts": [
+          "Biochemistry",
+          "Business",
+          "Chemistry",
+          "Community health",
+          "Community organization",
+          "Community psychology",
+          "Community service",
+          "Competence (human resources)",
+          "Computer network",
+          "Computer science",
+          "Crash",
+          "Engineering",
+          "Environmental health",
+          "Gene",
+          "Gerontology",
+          "Health psychology",
+          "Human factors and ergonomics",
+          "Injury prevention",
+          "Internal medicine",
+          "Intervention (counseling)",
+          "Law",
+          "Low income",
+          "Medicine",
+          "Multivitamin",
+          "Nursing",
+          "Nutrition Education",
+          "Occupational safety and health",
+          "Pathology",
+          "Poison control",
+          "Political science",
+          "Programming language",
+          "Psychiatry",
+          "Psychological intervention",
+          "Psychology",
+          "Public health",
+          "Public relations",
+          "Randomized controlled trial",
+          "Resource (disambiguation)",
+          "Social psychology",
+          "Socioeconomics",
+          "Sociology",
+          "Suicide prevention",
+          "Surgery",
+          "Transport engineering",
+          "Vitamin",
+          "White (mutation)",
+          "White paper"
+        ],
+        "host_venues": [
+          "Accident Analysis & Prevention",
+          "American Journal of Community Psychology",
+          "Community Mental Health Journal",
+          "Contemporary drug problems",
+          "Evaluation and Program Planning",
+          "Health Education & Behavior",
+          "Health Education Research",
+          "International Journal of Environmental Health Research",
+          "Journal of Abnormal Psychology",
+          "Journal of Community Psychology",
+          "Journal of Health and Social Behavior",
+          "Journal of Nutrition Education and Behavior",
+          "Journal of prevention & intervention in the community",
+          "Military Psychology",
+          "Psychology of Addictive Behaviors",
+          "SAGE Publications, Inc. eBooks",
+          "The Journal of Primary Prevention"
+        ],
+        "color": "#FAC800",
+        "size": 10
+      }
+    },
+    {
+      "key": "lhossfeld",
+      "attributes": {
+        "label": "L Hossfeld",
+        "name": "L. Hossfeld",
+        "known?": false,
+        "orcid?": null,
+        "ncsu?": null,
+        "affiliations": null,
+        "countries": null,
+        "color": "#BFBFBD",
+        "size": 10
+      }
+    },
+    {
+      "key": "tmctague",
+      "attributes": {
+        "label": "T McTague",
+        "name": "T. McTague",
+        "known?": false,
+        "orcid?": null,
+        "ncsu?": null,
+        "affiliations": null,
+        "countries": null,
+        "color": "#BFBFBD",
+        "size": 10
+      }
+    },
+    {
+      "key": "dcharleston",
+      "attributes": {
+        "label": "D Charleston",
+        "name": "D. Charleston",
+        "known?": false,
+        "orcid?": null,
+        "ncsu?": null,
+        "affiliations": null,
+        "countries": null,
+        "color": "#BFBFBD",
+        "size": 10
+      }
+    },
+    {
+      "key": "kstainback",
+      "attributes": {
+        "label": "K Stainback",
+        "name": "K. Stainback",
+        "known?": false,
+        "orcid?": null,
+        "ncsu?": null,
+        "affiliations": null,
+        "countries": null,
+        "color": "#BFBFBD",
+        "size": 10
+      }
+    },
+    {
+      "key": "myducta",
+      "attributes": {
+        "label": "M Ta",
+        "name": "Myduc Ta",
+        "known?": false,
+        "orcid?": null,
+        "ncsu?": false,
+        "affiliations": [
+
+        ],
+        "countries": [
+
+        ],
+        "color": "#BFBFBD",
+        "size": 10
+      }
+    },
+    {
+      "key": "hesterjlipscomb",
+      "attributes": {
+        "label": "H Lipscomb",
+        "name": "Hester J. Lipscomb",
+        "known?": false,
+        "orcid?": null,
+        "ncsu?": false,
+        "affiliations": [
+          "Duke University"
+        ],
+        "countries": [
+          "US"
+        ],
+        "color": "#BFBFBD",
+        "size": 10
+      }
+    },
+    {
+      "key": "thomasaharris",
+      "attributes": {
+        "label": "T Harris",
+        "name": "Thomas A. Harris",
+        "known?": false,
+        "orcid?": null,
+        "ncsu?": false,
+        "affiliations": [
+          "State Employees Association of North Carolina"
+        ],
+        "countries": [
+
+        ],
+        "color": "#BFBFBD",
+        "size": 10
+      }
+    },
+    {
+      "key": "teresaoconnor",
+      "attributes": {
+        "label": "T O'Connor",
+        "name": "Teresa O'Connor",
+        "known?": false,
+        "orcid?": null,
+        "ncsu?": false,
+        "affiliations": [
+          "National Institute for Occupational Safety and Health"
+        ],
+        "countries": [
+          "US"
+        ],
+        "color": "#BFBFBD",
+        "size": 10
+      }
+    },
+    {
+      "key": "https://orcid.org/0000-0002-1569-8128",
+      "attributes": {
+        "label": "S Gallagher",
+        "name": "Susan Scavo Gallagher",
+        "known?": false,
+        "orcid?": null,
+        "ncsu?": false,
+        "affiliations": [
+          "Education Development Center"
+        ],
+        "countries": [
+          "US"
+        ],
+        "color": "#BFBFBD",
+        "size": 10
+      }
+    },
+    {
+      "key": "dorisslesinger",
+      "attributes": {
+        "label": "D Slesinger",
+        "name": "Doris Slesinger",
+        "known?": false,
+        "orcid?": null,
+        "ncsu?": null,
+        "affiliations": null,
+        "countries": null,
+        "color": "#BFBFBD",
+        "size": 10
+      }
+    },
+    {
+      "key": "marybemacmillan",
+      "attributes": {
+        "label": "M MacMillan",
+        "name": "Marybe MacMillan",
+        "known?": false,
+        "orcid?": null,
+        "ncsu?": null,
+        "affiliations": null,
+        "countries": null,
+        "color": "#BFBFBD",
+        "size": 10
+      }
+    },
+    {
+      "key": "cynthiadanderson",
+      "attributes": {
+        "label": "C Anderson",
+        "name": "Cynthia D. Anderson",
+        "known?": false,
+        "orcid?": null,
+        "ncsu?": false,
+        "affiliations": [
+          "Iowa State University"
+        ],
+        "countries": [
+          "US"
+        ],
+        "color": "#BFBFBD",
+        "size": 10
+      }
+    },
+    {
+      "key": "phillipjwood",
+      "attributes": {
+        "label": "P Wood",
+        "name": "Phillip J. Wood",
+        "known?": false,
+        "orcid?": null,
+        "ncsu?": false,
+        "affiliations": [
+
+        ],
+        "countries": [
+
+        ],
+        "color": "#BFBFBD",
+        "size": 10
+      }
+    },
+    {
+      "key": "choffman",
+      "attributes": {
+        "label": "C Hoffman",
+        "name": "C Hoffman",
+        "known?": false,
+        "orcid?": null,
+        "ncsu?": false,
+        "affiliations": [
+
+        ],
+        "countries": [
+
+        ],
+        "color": "#BFBFBD",
+        "size": 10
+      }
+    },
+    {
+      "key": "u-12366",
+      "attributes": {
+        "label": "R Luginbuhl",
+        "name": "Regina C. Luginbuhl",
+        "known?": true,
+        "orcid?": false,
+        "ncsu?": true,
+        "affiliations": [
+          "North Carolina State University"
+        ],
+        "countries": [
+          "US"
+        ],
+        "url": "https://ci.lib.ncsu.edu/profiles/12366",
+        "active?": false,
+        "department": "Philosophy & Religious Studies",
+        "college": "College of Humanities and Social Sciences",
+        "ncsu_affiliations": [
+          "Philosophy & Religious Studies",
+          "Sociology & Anthropology"
+        ],
+        "cluster?": false,
+        "clusters": [
+
+        ],
+        "role": null,
+        "building": null,
+        "count": 1,
+        "oa_count": 0,
+        "years": [
+          2003
+        ],
+        "year_recent": 2003,
+        "article_concepts": [
+
+        ],
+        "host_venues": [
+          "Journal of agricultural safety and health"
+        ],
+        "color": "#FAC800",
+        "size": 10
+      }
+    },
+    {
+      "key": "christiantevensen",
+      "attributes": {
+        "label": "C Evensen",
+        "name": "Christian T. Evensen",
+        "known?": false,
+        "orcid?": null,
+        "ncsu?": true,
+        "affiliations": [
+          "North Carolina State University"
+        ],
+        "countries": [
+          "US"
+        ],
+        "color": "#000000",
+        "size": 10
+      }
+    },
+    {
+      "key": "rondaczakocs",
+      "attributes": {
+        "label": "R Zakocs",
+        "name": "Ronda C. Zakocs",
+        "known?": false,
+        "orcid?": null,
+        "ncsu?": false,
+        "affiliations": [
+
+        ],
+        "countries": [
+
+        ],
+        "color": "#BFBFBD",
+        "size": 10
+      }
+    },
+    {
+      "key": "kathleenadunn",
+      "attributes": {
+        "label": "K Dunn",
+        "name": "Kathleen A. Dunn",
+        "known?": false,
+        "orcid?": null,
+        "ncsu?": false,
+        "affiliations": [
+
+        ],
+        "countries": [
+
+        ],
+        "color": "#BFBFBD",
+        "size": 10
+      }
+    },
+    {
+      "key": "canderson",
+      "attributes": {
+        "label": "C Anderson",
+        "name": "C. Anderson",
+        "known?": false,
+        "orcid?": null,
+        "ncsu?": null,
+        "affiliations": null,
+        "countries": null,
+        "color": "#BFBFBD",
+        "size": 10
+      }
+    },
+    {
+      "key": "lisarcohen",
+      "attributes": {
+        "label": "L Cohen",
+        "name": "Lisa R. Cohen",
+        "known?": false,
+        "orcid?": null,
+        "ncsu?": false,
+        "affiliations": [
+          "University of North Carolina at Chapel Hill"
+        ],
+        "countries": [
+          "US"
+        ],
+        "color": "#BFBFBD",
+        "size": 10
+      }
+    },
+    {
+      "key": "cevensen",
+      "attributes": {
+        "label": "C Evensen",
+        "name": "C. Evensen",
+        "known?": false,
+        "orcid?": null,
+        "ncsu?": null,
+        "affiliations": null,
+        "countries": null,
+        "color": "#BFBFBD",
+        "size": 10
+      }
+    },
+    {
+      "key": "lcohen",
+      "attributes": {
+        "label": "L Cohen",
+        "name": "L. Cohen",
+        "known?": false,
+        "orcid?": null,
+        "ncsu?": null,
+        "affiliations": null,
+        "countries": null,
+        "color": "#BFBFBD",
+        "size": 10
+      }
+    },
+    {
+      "key": "kdunn",
+      "attributes": {
+        "label": "K Dunn",
+        "name": "K. Dunn",
+        "known?": false,
+        "orcid?": null,
+        "ncsu?": null,
+        "affiliations": null,
+        "countries": null,
+        "color": "#BFBFBD",
+        "size": 10
+      }
+    },
+    {
+      "key": "https://orcid.org/0000-0002-3035-4470",
+      "attributes": {
+        "label": "C Zimmer",
+        "name": "Catherine Zimmer",
+        "known?": false,
+        "orcid?": null,
+        "ncsu?": true,
+        "affiliations": [
+          "North Carolina State University"
+        ],
+        "countries": [
+          "US"
+        ],
+        "color": "#000000",
+        "size": 10
+      }
+    },
+    {
+      "key": "williamfdanaher",
+      "attributes": {
+        "label": "W Danaher",
+        "name": "William F. Danaher",
+        "known?": false,
+        "orcid?": null,
+        "ncsu?": true,
+        "affiliations": [
+          "North Carolina State University"
+        ],
+        "countries": [
+          "US"
+        ],
+        "color": "#000000",
+        "size": 10
+      }
+    },
+    {
+      "key": "sheliarcotten",
+      "attributes": {
+        "label": "S Cotten",
+        "name": "Shelia R. Cotten",
+        "known?": false,
+        "orcid?": null,
+        "ncsu?": true,
+        "affiliations": [
+          "North Carolina State University"
+        ],
+        "countries": [
+          "US"
+        ],
+        "color": "#000000",
+        "size": 10
+      }
+    },
+    {
+      "key": "lindalobao",
+      "attributes": {
+        "label": "L Lobao",
+        "name": "Linda Lobao",
+        "known?": false,
+        "orcid?": null,
+        "ncsu?": false,
+        "affiliations": [
+          "Department of Agricultural Economics and Rural Sociology, Ohio State University, Columbus, Ohio 43210"
+        ],
+        "countries": [
+
+        ],
+        "color": "#BFBFBD",
+        "size": 10
+      }
+    },
+    {
+      "key": "louiseswanson",
+      "attributes": {
+        "label": "L Swanson",
+        "name": "Louis E. Swanson",
+        "known?": false,
+        "orcid?": null,
+        "ncsu?": false,
+        "affiliations": [
+          "University of Kentucky"
+        ],
+        "countries": [
+          "US"
+        ],
+        "color": "#BFBFBD",
+        "size": 10
+      }
+    },
+    {
+      "key": "michaeldschulmanjeffreyleiter",
+      "attributes": {
+        "label": "M Jeffrey Leiter",
+        "name": "Michael D. Schulman Jeffrey Leiter",
+        "known?": false,
+        "orcid?": null,
+        "ncsu?": null,
+        "affiliations": null,
+        "countries": null,
+        "color": "#BFBFBD",
+        "size": 10
+      }
+    },
+    {
+      "key": "editorsrhondazingraff",
+      "attributes": {
+        "label": "e Rhonda Zingraff",
+        "name": "editors Rhonda Zingraff",
+        "known?": false,
+        "orcid?": null,
+        "ncsu?": null,
+        "affiliations": null,
+        "countries": null,
+        "color": "#BFBFBD",
+        "size": 10
+      }
+    },
+    {
+      "key": "srcotten",
+      "attributes": {
+        "label": "S Cotten",
+        "name": "S. R. Cotten",
+        "known?": false,
+        "orcid?": null,
+        "ncsu?": null,
+        "affiliations": null,
+        "countries": null,
+        "color": "#BFBFBD",
+        "size": 10
+      }
+    },
+    {
+      "key": "barbaraanewman",
+      "attributes": {
+        "label": "B Newman",
+        "name": "Barbara A. Newman",
+        "known?": false,
+        "orcid?": null,
+        "ncsu?": false,
+        "affiliations": [
+          "University of Georgia"
+        ],
+        "countries": [
+          "US"
+        ],
+        "color": "#BFBFBD",
+        "size": 10
+      }
+    },
+    {
+      "key": "patriciagarrett",
+      "attributes": {
+        "label": "P Garrett",
+        "name": "Patricia Garrett",
+        "known?": false,
+        "orcid?": null,
+        "ncsu?": false,
+        "affiliations": [
+          "b University of North Carolina"
+        ],
+        "countries": [
+
+        ],
+        "color": "#BFBFBD",
+        "size": 10
+      }
+    },
+    {
+      "key": "paulasarmstrong",
+      "attributes": {
+        "label": "P Armstrong",
+        "name": "Paula S. Armstrong",
+        "known?": false,
+        "orcid?": null,
+        "ncsu?": true,
+        "affiliations": [
+          "North Carolina State University"
+        ],
+        "countries": [
+          "US"
+        ],
+        "color": "#000000",
+        "size": 10
+      }
+    },
+    {
+      "key": "lindareif",
+      "attributes": {
+        "label": "L Reif",
+        "name": "Linda Reif",
+        "known?": false,
+        "orcid?": null,
+        "ncsu?": null,
+        "affiliations": null,
+        "countries": null,
+        "color": "#BFBFBD",
+        "size": 10
+      }
+    },
+    {
+      "key": "michaelbelyea",
+      "attributes": {
+        "label": "M Belyea",
+        "name": "Michael Belyea",
+        "known?": false,
+        "orcid?": null,
+        "ncsu?": null,
+        "affiliations": null,
+        "countries": null,
+        "color": "#BFBFBD",
+        "size": 10
+      }
+    },
+    {
+      "key": "jodygreene",
+      "attributes": {
+        "label": "J Greene",
+        "name": "Jody Greene",
+        "known?": false,
+        "orcid?": null,
+        "ncsu?": false,
+        "affiliations": [
+
+        ],
+        "countries": [
+
+        ],
+        "color": "#BFBFBD",
+        "size": 10
+      }
+    },
+    {
+      "key": "reginaluginbuhl",
+      "attributes": {
+        "label": "R Luginbuhl",
+        "name": "Regina Luginbuhl",
+        "known?": false,
+        "orcid?": null,
+        "ncsu?": false,
+        "affiliations": [
+
+        ],
+        "countries": [
+
+        ],
+        "color": "#BFBFBD",
+        "size": 10
+      }
+    },
+    {
+      "key": "pgarrett",
+      "attributes": {
+        "label": "P Garrett",
+        "name": "P. Garrett",
+        "known?": false,
+        "orcid?": null,
+        "ncsu?": null,
+        "affiliations": null,
+        "countries": null,
+        "color": "#BFBFBD",
+        "size": 10
+      }
+    },
+    {
+      "key": "rluginbuhl",
+      "attributes": {
+        "label": "R Luginbuhl",
+        "name": "R. Luginbuhl",
+        "known?": false,
+        "orcid?": null,
+        "ncsu?": null,
+        "affiliations": null,
+        "countries": null,
+        "color": "#BFBFBD",
+        "size": 10
+      }
+    },
+    {
+      "key": "rhondazingraff",
+      "attributes": {
+        "label": "R Zingraff",
+        "name": "Rhonda Zingraff",
+        "known?": false,
+        "orcid?": null,
+        "ncsu?": false,
+        "affiliations": [
+          "Meredith College"
+        ],
+        "countries": [
+          "US"
+        ],
+        "color": "#BFBFBD",
+        "size": 10
+      }
+    },
+    {
+      "key": "lindalreif",
+      "attributes": {
+        "label": "L Reif",
+        "name": "Linda L. Reif",
+        "known?": false,
+        "orcid?": null,
+        "ncsu?": true,
+        "affiliations": [
+          "North Carolina State University"
+        ],
+        "countries": [
+          "US"
+        ],
+        "color": "#000000",
+        "size": 10
+      }
+    },
+    {
+      "key": "frederickhbuttel",
+      "attributes": {
+        "label": "F Buttel",
+        "name": "Frederick H. Buttel",
+        "known?": false,
+        "orcid?": null,
+        "ncsu?": null,
+        "affiliations": null,
+        "countries": null,
+        "color": "#BFBFBD",
+        "size": 10
+      }
+    },
+    {
+      "key": "oscarbmartinson",
+      "attributes": {
+        "label": "O Martinson",
+        "name": "Oscar B. Martinson",
+        "known?": false,
+        "orcid?": null,
+        "ncsu?": false,
+        "affiliations": [
+          "Mr. Martinson is a visiting assistant professor of rural sociology at Ohio State University. Mr. Schulman is a lecturer in rural sociology at the University of Wisconsin."
+        ],
+        "countries": [
+
+        ],
+        "color": "#BFBFBD",
+        "size": 10
+      }
+    },
+    {
+      "key": "edwardtsilva",
+      "attributes": {
+        "label": "E Silva",
+        "name": "Edward T. Silva",
+        "known?": false,
+        "orcid?": null,
+        "ncsu?": null,
+        "affiliations": null,
+        "countries": null,
+        "color": "#BFBFBD",
+        "size": 10
+      }
+    },
+    {
+      "key": "catherineachristeller",
+      "attributes": {
+        "label": "C Christeller",
+        "name": "Catherine A. Christeller",
+        "known?": false,
+        "orcid?": null,
+        "ncsu?": null,
+        "affiliations": null,
+        "countries": null,
+        "color": "#BFBFBD",
+        "size": 10
+      }
+    },
+    {
+      "key": "williamlcanak",
+      "attributes": {
+        "label": "W Canak",
+        "name": "William L. Canak",
+        "known?": false,
+        "orcid?": null,
+        "ncsu?": null,
+        "affiliations": null,
+        "countries": null,
+        "color": "#BFBFBD",
+        "size": 10
+      }
+    }
+  ],
+  "edges": [
+    {
+      "source": "uid-mdschulm",
+      "target": "jdarabloom",
+      "attributes": {
+        "label": 2,
+        "weight": 2,
+        "collaboration_count": 2,
+        "departments": "Sociology & Anthropology --- unknown",
+        "colleges": "College of Humanities and Social Sciences --- unknown",
+        "buildings": "4101 Beryl Road --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          2018,
+          2016
+        ],
+        "year_recent": 2018,
+        "dois": [
+          "10.1080/15575330.2018.1431682",
+          "10.1016/J.JNEB.2016.04.032"
+        ],
+        "ncsu?": true,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          "Community Development"
+        ],
+        "color": "#CC0000",
+        "size": 2
+      }
+    },
+    {
+      "source": "uid-mdschulm",
+      "target": "uid-amhardis",
+      "attributes": {
+        "label": 2,
+        "weight": 2,
+        "collaboration_count": 2,
+        "departments": "Agricultural & Human Sciences -- Sociology & Anthropology",
+        "colleges": "College of Agriculture and Life Sciences -- College of Humanities and Social Sciences",
+        "buildings": "4101 Beryl Road == 4101 Beryl Road",
+        "roles": "faculty == faculty",
+        "years": [
+          2018,
+          2016
+        ],
+        "year_recent": 2018,
+        "dois": [
+          "10.1080/15575330.2018.1431682",
+          "10.1016/J.JNEB.2016.04.032"
+        ],
+        "ncsu?": true,
+        "cross_college?": true,
+        "cross_department?": true,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          "Community Development"
+        ],
+        "color": "#FAC800",
+        "size": 2
+      }
+    },
+    {
+      "source": "uid-mdschulm",
+      "target": "https://orcid.org/0000-0002-9399-9145",
+      "attributes": {
+        "label": 3,
+        "weight": 3,
+        "collaboration_count": 3,
+        "departments": "Sociology & Anthropology --- unknown",
+        "colleges": "College of Humanities and Social Sciences --- unknown",
+        "buildings": "4101 Beryl Road --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          2017,
+          2016,
+          2014
+        ],
+        "year_recent": 2017,
+        "dois": [
+          "10.1177/2332649217722026",
+          "10.1111/josh.12458",
+          "10.1177/1536504214545766"
+        ],
+        "ncsu?": false,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          "Sociology of race & ethnicity"
+        ],
+        "color": "#000000",
+        "size": 3
+      }
+    },
+    {
+      "source": "uid-mdschulm",
+      "target": "akgore",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Sociology & Anthropology --- unknown",
+        "colleges": "College of Humanities and Social Sciences --- unknown",
+        "buildings": "4101 Beryl Road --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          2016
+        ],
+        "year_recent": 2016,
+        "dois": [
+          "10.1016/J.JNEB.2016.04.032"
+        ],
+        "ncsu?": false,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          "Journal of Nutrition Education and Behavior"
+        ],
+        "color": "#000000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-mdschulm",
+      "target": "crunyan",
+      "attributes": {
+        "label": 2,
+        "weight": 2,
+        "collaboration_count": 2,
+        "departments": "Sociology & Anthropology --- unknown",
+        "colleges": "College of Humanities and Social Sciences --- unknown",
+        "buildings": "4101 Beryl Road --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          2012,
+          2006
+        ],
+        "year_recent": 2012,
+        "dois": [
+
+        ],
+        "ncsu?": null,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          null
+        ],
+        "color": "#000000",
+        "size": 2
+      }
+    },
+    {
+      "source": "uid-mdschulm",
+      "target": "lawrencescholl",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Sociology & Anthropology --- unknown",
+        "colleges": "College of Humanities and Social Sciences --- unknown",
+        "buildings": "4101 Beryl Road --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          2012
+        ],
+        "year_recent": 2012,
+        "dois": [
+
+        ],
+        "ncsu?": null,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          null
+        ],
+        "color": "#000000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-mdschulm",
+      "target": "kjrauscher",
+      "attributes": {
+        "label": 2,
+        "weight": 2,
+        "collaboration_count": 2,
+        "departments": "Sociology & Anthropology --- unknown",
+        "colleges": "College of Humanities and Social Sciences --- unknown",
+        "buildings": "4101 Beryl Road --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          2012,
+          2010
+        ],
+        "year_recent": 2012,
+        "dois": [
+
+        ],
+        "ncsu?": null,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          null
+        ],
+        "color": "#000000",
+        "size": 2
+      }
+    },
+    {
+      "source": "uid-mdschulm",
+      "target": "djmyers",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Sociology & Anthropology --- unknown",
+        "colleges": "College of Humanities and Social Sciences --- unknown",
+        "buildings": "4101 Beryl Road --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          2012
+        ],
+        "year_recent": 2012,
+        "dois": [
+
+        ],
+        "ncsu?": null,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          null
+        ],
+        "color": "#000000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-mdschulm",
+      "target": "cwrunyan",
+      "attributes": {
+        "label": 3,
+        "weight": 3,
+        "collaboration_count": 3,
+        "departments": "Sociology & Anthropology --- unknown",
+        "colleges": "College of Humanities and Social Sciences --- unknown",
+        "buildings": "4101 Beryl Road --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          2012,
+          2010,
+          1997
+        ],
+        "year_recent": 2012,
+        "dois": [
+
+        ],
+        "ncsu?": null,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          null
+        ],
+        "color": "#000000",
+        "size": 3
+      }
+    },
+    {
+      "source": "uid-mdschulm",
+      "target": "uid-smteixei",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Sociology & Anthropology == Sociology & Anthropology",
+        "colleges": "College of Humanities and Social Sciences == College of Humanities and Social Sciences",
+        "buildings": "4101 Beryl Road --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          2011
+        ],
+        "year_recent": 2011,
+        "dois": [
+          "10.1177/0092055x11407346"
+        ],
+        "ncsu?": true,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          "Teaching Sociology"
+        ],
+        "color": "#CC0000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-mdschulm",
+      "target": "u-27705",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Sociology & Anthropology == Sociology & Anthropology",
+        "colleges": "College of Humanities and Social Sciences == College of Humanities and Social Sciences",
+        "buildings": "4101 Beryl Road --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          2011
+        ],
+        "year_recent": 2011,
+        "dois": [
+          "10.1177/0092055x11407346"
+        ],
+        "ncsu?": true,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          "Teaching Sociology"
+        ],
+        "color": "#CC0000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-mdschulm",
+      "target": "https://orcid.org/0000-0002-6721-7832",
+      "attributes": {
+        "label": 16,
+        "weight": 16,
+        "collaboration_count": 16,
+        "departments": "Sociology & Anthropology --- unknown",
+        "colleges": "College of Humanities and Social Sciences --- unknown",
+        "buildings": "4101 Beryl Road --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          2011,
+          2010,
+          2010,
+          2009,
+          2008,
+          2008,
+          2007,
+          2007,
+          2006,
+          2005,
+          2005,
+          2003,
+          2000,
+          1998,
+          1998,
+          1996
+        ],
+        "year_recent": 2011,
+        "dois": [
+          "10.1016/j.jadohealth.2010.09.024",
+          "10.1016/j.jadohealth.2010.02.014",
+          "10.1002/ajim.20824",
+          "10.1016/j.jadohealth.2008.08.009",
+          "10.1002/ajim.20624",
+          "10.2105/AJPH.2007.122853",
+          "10.1542/peds.2007-1638",
+          "10.1542/peds.2006-2009",
+          "10.1001/archpedi.160.7.721",
+          "10.1097/01.jom.0000150204.12937.f5",
+          "10.1016/j.jadohealth.2004.07.006",
+          "10.1016/s1526-0046(03)00123-7",
+          "10.1006/jado.2000.0342",
+          "10.1002/(SICI)1097-0274(199810)34:4<342::AID-AJIM7>3.0.CO;2-U",
+          "10.1016/s1054-139x(97)00071-2",
+          "10.1136/ip.2.4.274"
+        ],
+        "ncsu?": false,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          "Journal of Adolescent Health"
+        ],
+        "color": "#000000",
+        "size": 16
+      }
+    },
+    {
+      "source": "uid-mdschulm",
+      "target": "https://orcid.org/0000-0002-8840-2199",
+      "attributes": {
+        "label": 3,
+        "weight": 3,
+        "collaboration_count": 3,
+        "departments": "Sociology & Anthropology --- unknown",
+        "colleges": "College of Humanities and Social Sciences --- unknown",
+        "buildings": "4101 Beryl Road --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          2011,
+          2010,
+          2008
+        ],
+        "year_recent": 2011,
+        "dois": [
+          "10.1016/j.jadohealth.2010.09.024",
+          "10.1002/ajim.20824",
+          "10.1002/ajim.20624"
+        ],
+        "ncsu?": false,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          "Journal of Adolescent Health"
+        ],
+        "color": "#000000",
+        "size": 3
+      }
+    },
+    {
+      "source": "uid-mdschulm",
+      "target": "kimberlyjrauscher",
+      "attributes": {
+        "label": 5,
+        "weight": 5,
+        "collaboration_count": 5,
+        "departments": "Sociology & Anthropology --- unknown",
+        "colleges": "College of Humanities and Social Sciences --- unknown",
+        "buildings": "4101 Beryl Road --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          2011,
+          2010,
+          2010,
+          2008,
+          2008
+        ],
+        "year_recent": 2011,
+        "dois": [
+          "10.1016/j.jadohealth.2010.09.024",
+          "10.1016/j.jadohealth.2010.02.014",
+          "10.1002/ajim.20824",
+          "10.1002/ajim.20624",
+          "10.2105/AJPH.2007.122853"
+        ],
+        "ncsu?": false,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          "Journal of Adolescent Health"
+        ],
+        "color": "#000000",
+        "size": 5
+      }
+    },
+    {
+      "source": "uid-mdschulm",
+      "target": "andrsvillaveces",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Sociology & Anthropology --- unknown",
+        "colleges": "College of Humanities and Social Sciences --- unknown",
+        "buildings": "4101 Beryl Road --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          2010
+        ],
+        "year_recent": 2010,
+        "dois": [
+          "10.1002/ajim.20824"
+        ],
+        "ncsu?": false,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          "American Journal of Industrial Medicine"
+        ],
+        "color": "#000000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-mdschulm",
+      "target": "janetdalsanto",
+      "attributes": {
+        "label": 4,
+        "weight": 4,
+        "collaboration_count": 4,
+        "departments": "Sociology & Anthropology --- unknown",
+        "colleges": "College of Humanities and Social Sciences --- unknown",
+        "buildings": "4101 Beryl Road --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          2009,
+          2007,
+          2006,
+          2005
+        ],
+        "year_recent": 2009,
+        "dois": [
+          "10.1016/j.jadohealth.2008.08.009",
+          "10.1542/peds.2006-2009",
+          "10.1001/archpedi.160.7.721",
+          "10.1097/01.jom.0000150204.12937.f5"
+        ],
+        "ncsu?": false,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          "Journal of Adolescent Health"
+        ],
+        "color": "#000000",
+        "size": 4
+      }
+    },
+    {
+      "source": "uid-mdschulm",
+      "target": "jmichaelbowling",
+      "attributes": {
+        "label": 4,
+        "weight": 4,
+        "collaboration_count": 4,
+        "departments": "Sociology & Anthropology --- unknown",
+        "colleges": "College of Humanities and Social Sciences --- unknown",
+        "buildings": "4101 Beryl Road --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          2009,
+          2008,
+          2007,
+          2005
+        ],
+        "year_recent": 2009,
+        "dois": [
+          "10.1016/j.jadohealth.2008.08.009",
+          "10.2105/AJPH.2007.122853",
+          "10.1542/peds.2006-2009",
+          "10.1016/j.jadohealth.2004.07.006"
+        ],
+        "ncsu?": false,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          "Journal of Adolescent Health"
+        ],
+        "color": "#000000",
+        "size": 4
+      }
+    },
+    {
+      "source": "uid-mdschulm",
+      "target": "https://orcid.org/0000-0003-2084-3964",
+      "attributes": {
+        "label": 2,
+        "weight": 2,
+        "collaboration_count": 2,
+        "departments": "Sociology & Anthropology --- unknown",
+        "colleges": "College of Humanities and Social Sciences --- unknown",
+        "buildings": "4101 Beryl Road --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          2009,
+          2007
+        ],
+        "year_recent": 2009,
+        "dois": [
+          "10.1016/j.jadohealth.2008.08.009",
+          "10.1542/peds.2006-2009"
+        ],
+        "ncsu?": false,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          "Journal of Adolescent Health"
+        ],
+        "color": "#000000",
+        "size": 2
+      }
+    },
+    {
+      "source": "uid-mdschulm",
+      "target": "https://orcid.org/0000-0003-3297-5200",
+      "attributes": {
+        "label": 2,
+        "weight": 2,
+        "collaboration_count": 2,
+        "departments": "Sociology & Anthropology --- unknown",
+        "colleges": "College of Humanities and Social Sciences --- unknown",
+        "buildings": "4101 Beryl Road --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          2009,
+          2005
+        ],
+        "year_recent": 2009,
+        "dois": [
+          "10.2105/AJPH.2007.131409",
+          "10.1097/01.jom.0000150204.12937.f5"
+        ],
+        "ncsu?": false,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          "Workforce",
+          "Politics",
+          "Unemployment",
+          "Demographic economics",
+          "Occupational injury",
+          "Occupational safety and health",
+          "Poisson regression",
+          "Population",
+          "Economics",
+          "Demography",
+          "Poison control",
+          "Labour economics",
+          "Political science",
+          "Medicine",
+          "Injury prevention",
+          "Economic growth",
+          "Environmental health",
+          "Sociology",
+          "Law"
+        ],
+        "host_venues": [
+          "American Journal of Public Health"
+        ],
+        "color": "#000000",
+        "size": 2
+      }
+    },
+    {
+      "source": "uid-mdschulm",
+      "target": "https://orcid.org/0000-0002-7233-1461",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Sociology & Anthropology --- unknown",
+        "colleges": "College of Humanities and Social Sciences --- unknown",
+        "buildings": "4101 Beryl Road --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          2009
+        ],
+        "year_recent": 2009,
+        "dois": [
+          "10.2105/AJPH.2007.131409"
+        ],
+        "ncsu?": false,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          "Workforce",
+          "Politics",
+          "Unemployment",
+          "Demographic economics",
+          "Occupational injury",
+          "Occupational safety and health",
+          "Poisson regression",
+          "Population",
+          "Economics",
+          "Demography",
+          "Poison control",
+          "Labour economics",
+          "Political science",
+          "Medicine",
+          "Injury prevention",
+          "Economic growth",
+          "Environmental health",
+          "Sociology",
+          "Law"
+        ],
+        "host_venues": [
+          "American Journal of Public Health"
+        ],
+        "color": "#000000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-mdschulm",
+      "target": "https://orcid.org/0000-0001-9358-9819",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Sociology & Anthropology --- unknown",
+        "colleges": "College of Humanities and Social Sciences --- unknown",
+        "buildings": "4101 Beryl Road --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          2009
+        ],
+        "year_recent": 2009,
+        "dois": [
+          "10.2105/AJPH.2007.131409"
+        ],
+        "ncsu?": false,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          "Workforce",
+          "Politics",
+          "Unemployment",
+          "Demographic economics",
+          "Occupational injury",
+          "Occupational safety and health",
+          "Poisson regression",
+          "Population",
+          "Economics",
+          "Demography",
+          "Poison control",
+          "Labour economics",
+          "Political science",
+          "Medicine",
+          "Injury prevention",
+          "Economic growth",
+          "Environmental health",
+          "Sociology",
+          "Law"
+        ],
+        "host_venues": [
+          "American Journal of Public Health"
+        ],
+        "color": "#000000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-mdschulm",
+      "target": "matthewwwheeler",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Sociology & Anthropology --- unknown",
+        "colleges": "College of Humanities and Social Sciences --- unknown",
+        "buildings": "4101 Beryl Road --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          2009
+        ],
+        "year_recent": 2009,
+        "dois": [
+          "10.2105/AJPH.2007.131409"
+        ],
+        "ncsu?": false,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          "Workforce",
+          "Politics",
+          "Unemployment",
+          "Demographic economics",
+          "Occupational injury",
+          "Occupational safety and health",
+          "Poisson regression",
+          "Population",
+          "Economics",
+          "Demography",
+          "Poison control",
+          "Labour economics",
+          "Political science",
+          "Medicine",
+          "Injury prevention",
+          "Economic growth",
+          "Environmental health",
+          "Sociology",
+          "Law"
+        ],
+        "host_venues": [
+          "American Journal of Public Health"
+        ],
+        "color": "#000000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-mdschulm",
+      "target": "https://orcid.org/0000-0001-8550-0212",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Sociology & Anthropology --- unknown",
+        "colleges": "College of Humanities and Social Sciences --- unknown",
+        "buildings": "4101 Beryl Road --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          2009
+        ],
+        "year_recent": 2009,
+        "dois": [
+          "10.2105/AJPH.2007.131409"
+        ],
+        "ncsu?": false,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          "Workforce",
+          "Politics",
+          "Unemployment",
+          "Demographic economics",
+          "Occupational injury",
+          "Occupational safety and health",
+          "Poisson regression",
+          "Population",
+          "Economics",
+          "Demography",
+          "Poison control",
+          "Labour economics",
+          "Political science",
+          "Medicine",
+          "Injury prevention",
+          "Economic growth",
+          "Environmental health",
+          "Sociology",
+          "Law"
+        ],
+        "host_venues": [
+          "American Journal of Public Health"
+        ],
+        "color": "#000000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-mdschulm",
+      "target": "https://orcid.org/0000-0002-2664-9233",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Sociology & Anthropology --- unknown",
+        "colleges": "College of Humanities and Social Sciences --- unknown",
+        "buildings": "4101 Beryl Road --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          2009
+        ],
+        "year_recent": 2009,
+        "dois": [
+          "10.2105/AJPH.2007.131409"
+        ],
+        "ncsu?": false,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          "Workforce",
+          "Politics",
+          "Unemployment",
+          "Demographic economics",
+          "Occupational injury",
+          "Occupational safety and health",
+          "Poisson regression",
+          "Population",
+          "Economics",
+          "Demography",
+          "Poison control",
+          "Labour economics",
+          "Political science",
+          "Medicine",
+          "Injury prevention",
+          "Economic growth",
+          "Environmental health",
+          "Sociology",
+          "Law"
+        ],
+        "host_venues": [
+          "American Journal of Public Health"
+        ],
+        "color": "#000000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-mdschulm",
+      "target": "u-12365",
+      "attributes": {
+        "label": 2,
+        "weight": 2,
+        "collaboration_count": 2,
+        "departments": "Sociology & Anthropology --- unknown",
+        "colleges": "College of Humanities and Social Sciences --- unknown",
+        "buildings": "4101 Beryl Road --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          2009,
+          2003
+        ],
+        "year_recent": 2009,
+        "dois": [
+          "10.1016/j.aap.2008.08.029",
+          "10.13031/2013.12347"
+        ],
+        "ncsu?": true,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          "Crash",
+          "Poison control",
+          "Engineering",
+          "Transport engineering",
+          "Injury prevention",
+          "Occupational safety and health",
+          "Human factors and ergonomics",
+          "Environmental health",
+          "Psychological intervention",
+          "Suicide prevention",
+          "Business",
+          "Medicine",
+          "Computer science",
+          "Pathology",
+          "Psychiatry",
+          "Programming language"
+        ],
+        "host_venues": [
+          "Accident Analysis & Prevention"
+        ],
+        "color": "#CC0000",
+        "size": 2
+      }
+    },
+    {
+      "source": "uid-mdschulm",
+      "target": "uid-remitche",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Psychology -- Sociology & Anthropology",
+        "colleges": "College of Humanities and Social Sciences == College of Humanities and Social Sciences",
+        "buildings": "4101 Beryl Road -- Poe Hall",
+        "roles": "faculty == faculty",
+        "years": [
+          2009
+        ],
+        "year_recent": 2009,
+        "dois": [
+          "10.1016/j.aap.2008.08.029"
+        ],
+        "ncsu?": true,
+        "cross_college?": false,
+        "cross_department?": true,
+        "cross_unit?": true,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": true,
+        "concepts": [
+          "Crash",
+          "Poison control",
+          "Engineering",
+          "Transport engineering",
+          "Injury prevention",
+          "Occupational safety and health",
+          "Human factors and ergonomics",
+          "Environmental health",
+          "Psychological intervention",
+          "Suicide prevention",
+          "Business",
+          "Medicine",
+          "Computer science",
+          "Pathology",
+          "Psychiatry",
+          "Programming language"
+        ],
+        "host_venues": [
+          "Accident Analysis & Prevention"
+        ],
+        "color": "#CC0000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-mdschulm",
+      "target": "lhossfeld",
+      "attributes": {
+        "label": 2,
+        "weight": 2,
+        "collaboration_count": 2,
+        "departments": "Sociology & Anthropology --- unknown",
+        "colleges": "College of Humanities and Social Sciences --- unknown",
+        "buildings": "4101 Beryl Road --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          2008,
+          2008
+        ],
+        "year_recent": 2008,
+        "dois": [
+
+        ],
+        "ncsu?": null,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          null
+        ],
+        "color": "#000000",
+        "size": 2
+      }
+    },
+    {
+      "source": "uid-mdschulm",
+      "target": "tmctague",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Sociology & Anthropology --- unknown",
+        "colleges": "College of Humanities and Social Sciences --- unknown",
+        "buildings": "4101 Beryl Road --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          2008
+        ],
+        "year_recent": 2008,
+        "dois": [
+
+        ],
+        "ncsu?": null,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          null
+        ],
+        "color": "#000000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-mdschulm",
+      "target": "dcharleston",
+      "attributes": {
+        "label": 2,
+        "weight": 2,
+        "collaboration_count": 2,
+        "departments": "Sociology & Anthropology --- unknown",
+        "colleges": "College of Humanities and Social Sciences --- unknown",
+        "buildings": "4101 Beryl Road --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          2008,
+          2008
+        ],
+        "year_recent": 2008,
+        "dois": [
+
+        ],
+        "ncsu?": null,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          null
+        ],
+        "color": "#000000",
+        "size": 2
+      }
+    },
+    {
+      "source": "uid-mdschulm",
+      "target": "kstainback",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Sociology & Anthropology --- unknown",
+        "colleges": "College of Humanities and Social Sciences --- unknown",
+        "buildings": "4101 Beryl Road --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          2008
+        ],
+        "year_recent": 2008,
+        "dois": [
+
+        ],
+        "ncsu?": null,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          null
+        ],
+        "color": "#000000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-mdschulm",
+      "target": "myducta",
+      "attributes": {
+        "label": 3,
+        "weight": 3,
+        "collaboration_count": 3,
+        "departments": "Sociology & Anthropology --- unknown",
+        "colleges": "College of Humanities and Social Sciences --- unknown",
+        "buildings": "4101 Beryl Road --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          2007,
+          2007,
+          2006
+        ],
+        "year_recent": 2007,
+        "dois": [
+          "10.1542/peds.2007-1638",
+          "10.1542/peds.2006-2009"
+        ],
+        "ncsu?": false,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          "Pediatrics"
+        ],
+        "color": "#000000",
+        "size": 3
+      }
+    },
+    {
+      "source": "uid-mdschulm",
+      "target": "hesterjlipscomb",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Sociology & Anthropology --- unknown",
+        "colleges": "College of Humanities and Social Sciences --- unknown",
+        "buildings": "4101 Beryl Road --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          2006
+        ],
+        "year_recent": 2006,
+        "dois": [
+          "10.1001/archpedi.160.7.721"
+        ],
+        "ncsu?": false,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          "Archives of pediatrics & adolescent medicine"
+        ],
+        "color": "#000000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-mdschulm",
+      "target": "thomasaharris",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Sociology & Anthropology --- unknown",
+        "colleges": "College of Humanities and Social Sciences --- unknown",
+        "buildings": "4101 Beryl Road --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          2006
+        ],
+        "year_recent": 2006,
+        "dois": [
+          "10.1001/archpedi.160.7.721"
+        ],
+        "ncsu?": false,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          "Archives of pediatrics & adolescent medicine"
+        ],
+        "color": "#000000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-mdschulm",
+      "target": "teresaoconnor",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Sociology & Anthropology --- unknown",
+        "colleges": "College of Humanities and Social Sciences --- unknown",
+        "buildings": "4101 Beryl Road --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          2005
+        ],
+        "year_recent": 2005,
+        "dois": [
+          "10.1097/01.jom.0000150204.12937.f5"
+        ],
+        "ncsu?": false,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          "Journal of Occupational and Environmental Medicine"
+        ],
+        "color": "#000000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-mdschulm",
+      "target": "https://orcid.org/0000-0002-1569-8128",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Sociology & Anthropology --- unknown",
+        "colleges": "College of Humanities and Social Sciences --- unknown",
+        "buildings": "4101 Beryl Road --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          2005
+        ],
+        "year_recent": 2005,
+        "dois": [
+          "10.1016/j.jadohealth.2004.07.006"
+        ],
+        "ncsu?": false,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          "Journal of Adolescent Health"
+        ],
+        "color": "#000000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-mdschulm",
+      "target": "dorisslesinger",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Sociology & Anthropology --- unknown",
+        "colleges": "College of Humanities and Social Sciences --- unknown",
+        "buildings": "4101 Beryl Road --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          2004
+        ],
+        "year_recent": 2004,
+        "dois": [
+
+        ],
+        "ncsu?": null,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          null
+        ],
+        "color": "#000000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-mdschulm",
+      "target": "marybemacmillan",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Sociology & Anthropology --- unknown",
+        "colleges": "College of Humanities and Social Sciences --- unknown",
+        "buildings": "4101 Beryl Road --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          2003
+        ],
+        "year_recent": 2003,
+        "dois": [
+
+        ],
+        "ncsu?": null,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          null
+        ],
+        "color": "#000000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-mdschulm",
+      "target": "cynthiadanderson",
+      "attributes": {
+        "label": 5,
+        "weight": 5,
+        "collaboration_count": 5,
+        "departments": "Sociology & Anthropology --- unknown",
+        "colleges": "College of Humanities and Social Sciences --- unknown",
+        "buildings": "4101 Beryl Road --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          2003,
+          2001,
+          2001,
+          1999,
+          1993
+        ],
+        "year_recent": 2003,
+        "dois": [
+          "10.1525/sp.2001.48.4.478",
+          "10.1111/j.1549-0831.1999.tb00357.x",
+          "10.4324/9780429042416-3"
+        ],
+        "ncsu?": false,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          null
+        ],
+        "color": "#000000",
+        "size": 5
+      }
+    },
+    {
+      "source": "uid-mdschulm",
+      "target": "phillipjwood",
+      "attributes": {
+        "label": 2,
+        "weight": 2,
+        "collaboration_count": 2,
+        "departments": "Sociology & Anthropology --- unknown",
+        "colleges": "College of Humanities and Social Sciences --- unknown",
+        "buildings": "4101 Beryl Road --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          2003,
+          2001
+        ],
+        "year_recent": 2003,
+        "dois": [
+          "10.1525/sp.2001.48.4.478"
+        ],
+        "ncsu?": false,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          null
+        ],
+        "color": "#000000",
+        "size": 2
+      }
+    },
+    {
+      "source": "uid-mdschulm",
+      "target": "choffman",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Sociology & Anthropology --- unknown",
+        "colleges": "College of Humanities and Social Sciences --- unknown",
+        "buildings": "4101 Beryl Road --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          2003
+        ],
+        "year_recent": 2003,
+        "dois": [
+          "10.1016/s1526-0046(03)00123-7"
+        ],
+        "ncsu?": false,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          "Clinics in Occupational and Environmental Medicine"
+        ],
+        "color": "#000000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-mdschulm",
+      "target": "u-12366",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Philosophy & Religious Studies -- Sociology & Anthropology",
+        "colleges": "College of Humanities and Social Sciences == College of Humanities and Social Sciences",
+        "buildings": "4101 Beryl Road --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          2003
+        ],
+        "year_recent": 2003,
+        "dois": [
+          "10.13031/2013.12347"
+        ],
+        "ncsu?": true,
+        "cross_college?": false,
+        "cross_department?": true,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          "Journal of agricultural safety and health"
+        ],
+        "color": "#CC0000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-mdschulm",
+      "target": "christiantevensen",
+      "attributes": {
+        "label": 3,
+        "weight": 3,
+        "collaboration_count": 3,
+        "departments": "Sociology & Anthropology --- unknown",
+        "colleges": "College of Humanities and Social Sciences --- unknown",
+        "buildings": "4101 Beryl Road --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          2000,
+          1998,
+          1997
+        ],
+        "year_recent": 2000,
+        "dois": [
+          "10.1006/jado.2000.0342",
+          "10.1002/(SICI)1097-0274(199810)34:4<342::AID-AJIM7>3.0.CO;2-U",
+          "10.1111/j.1748-0361.1997.tb00972.x"
+        ],
+        "ncsu?": true,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          "Journal of Adolescence"
+        ],
+        "color": "#CC0000",
+        "size": 3
+      }
+    },
+    {
+      "source": "uid-mdschulm",
+      "target": "rondaczakocs",
+      "attributes": {
+        "label": 2,
+        "weight": 2,
+        "collaboration_count": 2,
+        "departments": "Sociology & Anthropology --- unknown",
+        "colleges": "College of Humanities and Social Sciences --- unknown",
+        "buildings": "4101 Beryl Road --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          2000,
+          1998
+        ],
+        "year_recent": 2000,
+        "dois": [
+          "10.1006/jado.2000.0342",
+          "10.1002/(SICI)1097-0274(199810)34:4<342::AID-AJIM7>3.0.CO;2-U"
+        ],
+        "ncsu?": false,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          "Journal of Adolescence"
+        ],
+        "color": "#000000",
+        "size": 2
+      }
+    },
+    {
+      "source": "uid-mdschulm",
+      "target": "kathleenadunn",
+      "attributes": {
+        "label": 5,
+        "weight": 5,
+        "collaboration_count": 5,
+        "departments": "Sociology & Anthropology --- unknown",
+        "colleges": "College of Humanities and Social Sciences --- unknown",
+        "buildings": "4101 Beryl Road --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          2000,
+          1998,
+          1998,
+          1997,
+          1996
+        ],
+        "year_recent": 2000,
+        "dois": [
+          "10.1006/jado.2000.0342",
+          "10.1002/(SICI)1097-0274(199810)34:4<342::AID-AJIM7>3.0.CO;2-U",
+          "10.1016/s1054-139x(97)00071-2",
+          "10.1111/j.1748-0361.1997.tb00972.x",
+          "10.1136/ip.2.4.274"
+        ],
+        "ncsu?": false,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          "Journal of Adolescence"
+        ],
+        "color": "#000000",
+        "size": 5
+      }
+    },
+    {
+      "source": "uid-mdschulm",
+      "target": "canderson",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Sociology & Anthropology --- unknown",
+        "colleges": "College of Humanities and Social Sciences --- unknown",
+        "buildings": "4101 Beryl Road --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          1999
+        ],
+        "year_recent": 1999,
+        "dois": [
+
+        ],
+        "ncsu?": null,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          null
+        ],
+        "color": "#000000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-mdschulm",
+      "target": "lisarcohen",
+      "attributes": {
+        "label": 2,
+        "weight": 2,
+        "collaboration_count": 2,
+        "departments": "Sociology & Anthropology --- unknown",
+        "colleges": "College of Humanities and Social Sciences --- unknown",
+        "buildings": "4101 Beryl Road --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          1998,
+          1996
+        ],
+        "year_recent": 1998,
+        "dois": [
+          "10.1016/s1054-139x(97)00071-2",
+          "10.1136/ip.2.4.274"
+        ],
+        "ncsu?": false,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          "Journal of Adolescent Health"
+        ],
+        "color": "#000000",
+        "size": 2
+      }
+    },
+    {
+      "source": "uid-mdschulm",
+      "target": "cevensen",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Sociology & Anthropology --- unknown",
+        "colleges": "College of Humanities and Social Sciences --- unknown",
+        "buildings": "4101 Beryl Road --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          1997
+        ],
+        "year_recent": 1997,
+        "dois": [
+
+        ],
+        "ncsu?": null,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          null
+        ],
+        "color": "#000000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-mdschulm",
+      "target": "lcohen",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Sociology & Anthropology --- unknown",
+        "colleges": "College of Humanities and Social Sciences --- unknown",
+        "buildings": "4101 Beryl Road --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          1997
+        ],
+        "year_recent": 1997,
+        "dois": [
+
+        ],
+        "ncsu?": null,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          null
+        ],
+        "color": "#000000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-mdschulm",
+      "target": "kdunn",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Sociology & Anthropology --- unknown",
+        "colleges": "College of Humanities and Social Sciences --- unknown",
+        "buildings": "4101 Beryl Road --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          1997
+        ],
+        "year_recent": 1997,
+        "dois": [
+
+        ],
+        "ncsu?": null,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          null
+        ],
+        "color": "#000000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-mdschulm",
+      "target": "https://orcid.org/0000-0002-3035-4470",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Sociology & Anthropology --- unknown",
+        "colleges": "College of Humanities and Social Sciences --- unknown",
+        "buildings": "4101 Beryl Road --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          1994
+        ],
+        "year_recent": 1994,
+        "dois": [
+          "10.1111/j.1467-9523.1994.tb00810.x"
+        ],
+        "ncsu?": true,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          "Sociologia Ruralis"
+        ],
+        "color": "#CC0000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-mdschulm",
+      "target": "williamfdanaher",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Sociology & Anthropology --- unknown",
+        "colleges": "College of Humanities and Social Sciences --- unknown",
+        "buildings": "4101 Beryl Road --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          1994
+        ],
+        "year_recent": 1994,
+        "dois": [
+          "10.1111/j.1467-9523.1994.tb00810.x"
+        ],
+        "ncsu?": true,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          "Sociologia Ruralis"
+        ],
+        "color": "#CC0000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-mdschulm",
+      "target": "sheliarcotten",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Sociology & Anthropology --- unknown",
+        "colleges": "College of Humanities and Social Sciences --- unknown",
+        "buildings": "4101 Beryl Road --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          1993
+        ],
+        "year_recent": 1993,
+        "dois": [
+          "10.1016/1068-8595(93)90022-2"
+        ],
+        "ncsu?": true,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          "Applied Behavioral Science Review"
+        ],
+        "color": "#CC0000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-mdschulm",
+      "target": "lindalobao",
+      "attributes": {
+        "label": 3,
+        "weight": 3,
+        "collaboration_count": 3,
+        "departments": "Sociology & Anthropology --- unknown",
+        "colleges": "College of Humanities and Social Sciences --- unknown",
+        "buildings": "4101 Beryl Road --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          1993,
+          1991,
+          1989
+        ],
+        "year_recent": 1993,
+        "dois": [
+          "10.1111/j.1549-0831.1993.tb00495.x",
+          "10.1111/j.1549-0831.1991.tb00447.x",
+          "10.1080/02732173.1989.9981900"
+        ],
+        "ncsu?": false,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          "Rural Sociology"
+        ],
+        "color": "#000000",
+        "size": 3
+      }
+    },
+    {
+      "source": "uid-mdschulm",
+      "target": "louiseswanson",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Sociology & Anthropology --- unknown",
+        "colleges": "College of Humanities and Social Sciences --- unknown",
+        "buildings": "4101 Beryl Road --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          1993
+        ],
+        "year_recent": 1993,
+        "dois": [
+          "10.1111/j.1549-0831.1993.tb00495.x"
+        ],
+        "ncsu?": false,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          "Rural Sociology"
+        ],
+        "color": "#000000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-mdschulm",
+      "target": "michaeldschulmanjeffreyleiter",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Sociology & Anthropology --- unknown",
+        "colleges": "College of Humanities and Social Sciences --- unknown",
+        "buildings": "4101 Beryl Road --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          1991
+        ],
+        "year_recent": 1991,
+        "dois": [
+
+        ],
+        "ncsu?": null,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          null
+        ],
+        "color": "#000000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-mdschulm",
+      "target": "editorsrhondazingraff",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Sociology & Anthropology --- unknown",
+        "colleges": "College of Humanities and Social Sciences --- unknown",
+        "buildings": "4101 Beryl Road --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          1991
+        ],
+        "year_recent": 1991,
+        "dois": [
+
+        ],
+        "ncsu?": null,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          null
+        ],
+        "color": "#000000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-mdschulm",
+      "target": "srcotten",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Sociology & Anthropology --- unknown",
+        "colleges": "College of Humanities and Social Sciences --- unknown",
+        "buildings": "4101 Beryl Road --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          1991
+        ],
+        "year_recent": 1991,
+        "dois": [
+
+        ],
+        "ncsu?": null,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          null
+        ],
+        "color": "#000000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-mdschulm",
+      "target": "barbaraanewman",
+      "attributes": {
+        "label": 3,
+        "weight": 3,
+        "collaboration_count": 3,
+        "departments": "Sociology & Anthropology --- unknown",
+        "colleges": "College of Humanities and Social Sciences --- unknown",
+        "buildings": "4101 Beryl Road --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          1991,
+          1991,
+          1989
+        ],
+        "year_recent": 1991,
+        "dois": [
+          "10.1111/j.1549-0831.1991.tb00436.x",
+          "10.1007/bf01591842",
+          "10.1080/03066158908438405"
+        ],
+        "ncsu?": false,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          "Rural Sociology"
+        ],
+        "color": "#000000",
+        "size": 3
+      }
+    },
+    {
+      "source": "uid-mdschulm",
+      "target": "patriciagarrett",
+      "attributes": {
+        "label": 6,
+        "weight": 6,
+        "collaboration_count": 6,
+        "departments": "Sociology & Anthropology --- unknown",
+        "colleges": "College of Humanities and Social Sciences --- unknown",
+        "buildings": "4101 Beryl Road --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          1990,
+          1990,
+          1989,
+          1989,
+          1986,
+          1985
+        ],
+        "year_recent": 1990,
+        "dois": [
+          "10.1080/02732173.1990.9981935",
+          "10.1080/03066158908438405",
+          "10.1007/bf01530585"
+        ],
+        "ncsu?": false,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          "Sociological Spectrum"
+        ],
+        "color": "#000000",
+        "size": 6
+      }
+    },
+    {
+      "source": "uid-mdschulm",
+      "target": "paulasarmstrong",
+      "attributes": {
+        "label": 4,
+        "weight": 4,
+        "collaboration_count": 4,
+        "departments": "Sociology & Anthropology --- unknown",
+        "colleges": "College of Humanities and Social Sciences --- unknown",
+        "buildings": "4101 Beryl Road --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          1990,
+          1990,
+          1990,
+          1989
+        ],
+        "year_recent": 1990,
+        "dois": [
+          "10.1111/j.1549-0831.1990.tb00693.x",
+          "10.1007/bf00931171"
+        ],
+        "ncsu?": true,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          "Rural Sociology"
+        ],
+        "color": "#CC0000",
+        "size": 4
+      }
+    },
+    {
+      "source": "uid-mdschulm",
+      "target": "lindareif",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Sociology & Anthropology --- unknown",
+        "colleges": "College of Humanities and Social Sciences --- unknown",
+        "buildings": "4101 Beryl Road --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          1988
+        ],
+        "year_recent": 1988,
+        "dois": [
+
+        ],
+        "ncsu?": null,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          null
+        ],
+        "color": "#000000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-mdschulm",
+      "target": "michaelbelyea",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Sociology & Anthropology --- unknown",
+        "colleges": "College of Humanities and Social Sciences --- unknown",
+        "buildings": "4101 Beryl Road --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          1988
+        ],
+        "year_recent": 1988,
+        "dois": [
+
+        ],
+        "ncsu?": null,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          null
+        ],
+        "color": "#000000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-mdschulm",
+      "target": "jodygreene",
+      "attributes": {
+        "label": 2,
+        "weight": 2,
+        "collaboration_count": 2,
+        "departments": "Sociology & Anthropology --- unknown",
+        "colleges": "College of Humanities and Social Sciences --- unknown",
+        "buildings": "4101 Beryl Road --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          1986,
+          1985
+        ],
+        "year_recent": 1986,
+        "dois": [
+          "10.4324/9780429040641-10",
+          "10.1007/bf01530585"
+        ],
+        "ncsu?": false,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          null
+        ],
+        "color": "#000000",
+        "size": 2
+      }
+    },
+    {
+      "source": "uid-mdschulm",
+      "target": "reginaluginbuhl",
+      "attributes": {
+        "label": 2,
+        "weight": 2,
+        "collaboration_count": 2,
+        "departments": "Sociology & Anthropology --- unknown",
+        "colleges": "College of Humanities and Social Sciences --- unknown",
+        "buildings": "4101 Beryl Road --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          1985,
+          1985
+        ],
+        "year_recent": 1985,
+        "dois": [
+          "10.1007/bf01530585"
+        ],
+        "ncsu?": false,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          null
+        ],
+        "color": "#000000",
+        "size": 2
+      }
+    },
+    {
+      "source": "uid-mdschulm",
+      "target": "pgarrett",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Sociology & Anthropology --- unknown",
+        "colleges": "College of Humanities and Social Sciences --- unknown",
+        "buildings": "4101 Beryl Road --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          1985
+        ],
+        "year_recent": 1985,
+        "dois": [
+
+        ],
+        "ncsu?": null,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          null
+        ],
+        "color": "#000000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-mdschulm",
+      "target": "rluginbuhl",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Sociology & Anthropology --- unknown",
+        "colleges": "College of Humanities and Social Sciences --- unknown",
+        "buildings": "4101 Beryl Road --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          1985
+        ],
+        "year_recent": 1985,
+        "dois": [
+
+        ],
+        "ncsu?": null,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          null
+        ],
+        "color": "#000000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-mdschulm",
+      "target": "rhondazingraff",
+      "attributes": {
+        "label": 2,
+        "weight": 2,
+        "collaboration_count": 2,
+        "departments": "Sociology & Anthropology --- unknown",
+        "colleges": "College of Humanities and Social Sciences --- unknown",
+        "buildings": "4101 Beryl Road --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          1985,
+          1984
+        ],
+        "year_recent": 1985,
+        "dois": [
+          "10.1111/j.1533-8525.1985.tb00222.x",
+          "10.2307/2578860"
+        ],
+        "ncsu?": false,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          "Sociological Quarterly"
+        ],
+        "color": "#000000",
+        "size": 2
+      }
+    },
+    {
+      "source": "uid-mdschulm",
+      "target": "lindalreif",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Sociology & Anthropology --- unknown",
+        "colleges": "College of Humanities and Social Sciences --- unknown",
+        "buildings": "4101 Beryl Road --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          1985
+        ],
+        "year_recent": 1985,
+        "dois": [
+          "10.1111/j.1533-8525.1985.tb00222.x"
+        ],
+        "ncsu?": true,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          "Sociological Quarterly"
+        ],
+        "color": "#CC0000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-mdschulm",
+      "target": "frederickhbuttel",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Sociology & Anthropology --- unknown",
+        "colleges": "College of Humanities and Social Sciences --- unknown",
+        "buildings": "4101 Beryl Road --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          1978
+        ],
+        "year_recent": 1978,
+        "dois": [
+
+        ],
+        "ncsu?": null,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          null
+        ],
+        "color": "#000000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-mdschulm",
+      "target": "oscarbmartinson",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Sociology & Anthropology --- unknown",
+        "colleges": "College of Humanities and Social Sciences --- unknown",
+        "buildings": "4101 Beryl Road --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          1977
+        ],
+        "year_recent": 1977,
+        "dois": [
+          "10.1111/j.1468-2257.1977.tb00326.x"
+        ],
+        "ncsu?": false,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          "Growth and Change"
+        ],
+        "color": "#000000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-mdschulm",
+      "target": "edwardtsilva",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Sociology & Anthropology --- unknown",
+        "colleges": "College of Humanities and Social Sciences --- unknown",
+        "buildings": "4101 Beryl Road --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          1976
+        ],
+        "year_recent": 1976,
+        "dois": [
+
+        ],
+        "ncsu?": null,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          null
+        ],
+        "color": "#000000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-mdschulm",
+      "target": "catherineachristeller",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Sociology & Anthropology --- unknown",
+        "colleges": "College of Humanities and Social Sciences --- unknown",
+        "buildings": "4101 Beryl Road --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          1976
+        ],
+        "year_recent": 1976,
+        "dois": [
+
+        ],
+        "ncsu?": null,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          null
+        ],
+        "color": "#000000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-mdschulm",
+      "target": "williamlcanak",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Sociology & Anthropology --- unknown",
+        "colleges": "College of Humanities and Social Sciences --- unknown",
+        "buildings": "4101 Beryl Road --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          1976
+        ],
+        "year_recent": 1976,
+        "dois": [
+
+        ],
+        "ncsu?": null,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          null
+        ],
+        "color": "#000000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-amhardis",
+      "target": "jdarabloom",
+      "attributes": {
+        "label": 5,
+        "weight": 5,
+        "collaboration_count": 5,
+        "departments": "Agricultural & Human Sciences --- unknown",
+        "colleges": "College of Agriculture and Life Sciences --- unknown",
+        "buildings": "4101 Beryl Road --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          2019,
+          2018,
+          2016,
+          2016,
+          2015
+        ],
+        "year_recent": 2019,
+        "dois": [
+          "10.1080/15528014.2019.1700681",
+          "10.1080/15575330.2018.1431682",
+          "10.1016/J.JNEB.2016.04.194",
+          "10.1016/J.JNEB.2016.04.032"
+        ],
+        "ncsu?": true,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": false,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          "Food, Culture, and Society"
+        ],
+        "color": "#CC0000",
+        "size": 5
+      }
+    },
+    {
+      "source": "uid-amhardis",
+      "target": "akgore",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Agricultural & Human Sciences --- unknown",
+        "colleges": "College of Agriculture and Life Sciences --- unknown",
+        "buildings": "4101 Beryl Road --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          2016
+        ],
+        "year_recent": 2016,
+        "dois": [
+          "10.1016/J.JNEB.2016.04.032"
+        ],
+        "ncsu?": false,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": false,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          "Journal of Nutrition Education and Behavior"
+        ],
+        "color": "#000000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-smteixei",
+      "target": "u-27705",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Sociology & Anthropology == Sociology & Anthropology",
+        "colleges": "College of Humanities and Social Sciences == College of Humanities and Social Sciences",
+        "buildings": "unknown --- unknown",
+        "roles": "unknown == unknown",
+        "years": [
+          2011
+        ],
+        "year_recent": 2011,
+        "dois": [
+          "10.1177/0092055x11407346"
+        ],
+        "ncsu?": true,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": false,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          "Teaching Sociology"
+        ],
+        "color": "#CC0000",
+        "size": 1
+      }
+    },
+    {
+      "source": "u-12365",
+      "target": "uid-remitche",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Psychology --- unknown",
+        "colleges": "College of Humanities and Social Sciences --- unknown",
+        "buildings": "Poe Hall --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          2009
+        ],
+        "year_recent": 2009,
+        "dois": [
+          "10.1016/j.aap.2008.08.029"
+        ],
+        "ncsu?": true,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": false,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+
+        ],
+        "cross_building?": false,
+        "concepts": [
+          "Crash",
+          "Poison control",
+          "Engineering",
+          "Transport engineering",
+          "Injury prevention",
+          "Occupational safety and health",
+          "Human factors and ergonomics",
+          "Environmental health",
+          "Psychological intervention",
+          "Suicide prevention",
+          "Business",
+          "Medicine",
+          "Computer science",
+          "Pathology",
+          "Psychiatry",
+          "Programming language"
+        ],
+        "host_venues": [
+          "Accident Analysis & Prevention"
+        ],
+        "color": "#CC0000",
+        "size": 1
+      }
+    },
+    {
+      "source": "u-12365",
+      "target": "u-12366",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Philosophy & Religious Studies --- unknown",
+        "colleges": "College of Humanities and Social Sciences --- unknown",
+        "buildings": "unknown --- unknown",
+        "roles": "unknown == unknown",
+        "years": [
+          2003
+        ],
+        "year_recent": 2003,
+        "dois": [
+          "10.13031/2013.12347"
+        ],
+        "ncsu?": true,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": false,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          "Journal of agricultural safety and health"
+        ],
+        "color": "#CC0000",
+        "size": 1
+      }
+    }
+  ]
+}

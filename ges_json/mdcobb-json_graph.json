@@ -1,0 +1,882 @@
+{
+  "options": {
+    "type": "undirected",
+    "multi": false,
+    "allowSelfLoops": false
+  },
+  "attributes": {
+    "creator": "Citation Index",
+    "lastModifiedDate": "2023-01-15"
+  },
+  "nodes": [
+    {
+      "key": "uid-mdcobb",
+      "attributes": {
+        "label": "M Cobb",
+        "name": "Michael Cobb",
+        "known?": true,
+        "orcid?": false,
+        "ncsu?": true,
+        "affiliations": [
+          "North Carolina State University"
+        ],
+        "countries": [
+          "US"
+        ],
+        "uid": "mdcobb",
+        "url": "https://ci.lib.ncsu.edu/profiles/mdcobb",
+        "active?": false,
+        "department": "Political Science & Public Administration",
+        "college": "College of Humanities and Social Sciences",
+        "ncsu_affiliations": [
+          "Political Science & Public Administration",
+          "Genetic Engineering and Society",
+          "Public and International Affairs"
+        ],
+        "cluster?": true,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "role": "faculty",
+        "building": null,
+        "count": 16,
+        "oa_count": 0,
+        "years": [
+          2020,
+          2015,
+          2014,
+          2013,
+          2012,
+          2011,
+          2009,
+          2007,
+          2006,
+          2005,
+          2004,
+          2001,
+          1998,
+          1997
+        ],
+        "year_recent": 2020,
+        "article_concepts": [
+
+        ],
+        "host_venues": [
+          "American Journal of Political Science",
+          "American Politics Research",
+          "Journal of Applied Social Psychology",
+          "Journal of Conflict Resolution",
+          "Journal of Nanoparticle Research",
+          "Leonardo",
+          "PS Political Science & Politics",
+          "Policy Studies Journal",
+          "Political Psychology",
+          "Political Research Quarterly",
+          "Science Communication",
+          "The Journal of Politics"
+        ],
+        "color": "#FAC800",
+        "size": 20
+      }
+    },
+    {
+      "key": "uid-ataylor",
+      "attributes": {
+        "label": "A Taylor",
+        "name": "Andrew Taylor",
+        "known?": true,
+        "orcid?": true,
+        "ncsu?": true,
+        "affiliations": [
+          "North Carolina State University"
+        ],
+        "countries": [
+          "US"
+        ],
+        "uid": "ataylor",
+        "url": "https://ci.lib.ncsu.edu/profiles/ataylor",
+        "orcid": "0000-0001-7309-6347",
+        "active?": true,
+        "department": "Political Science & Public Administration",
+        "college": "College of Humanities and Social Sciences",
+        "ncsu_affiliations": [
+          "Political Science & Public Administration",
+          "Public and International Affairs"
+        ],
+        "cluster?": false,
+        "clusters": [
+
+        ],
+        "role": "faculty",
+        "building": "Caldwell Hall",
+        "count": 40,
+        "oa_count": 3,
+        "years": [
+          2020,
+          2019,
+          2017,
+          2016,
+          2015,
+          2014,
+          2013,
+          2012,
+          2010,
+          2008,
+          2006,
+          2005,
+          2003,
+          2002,
+          2001,
+          2000,
+          1998,
+          1997
+        ],
+        "year_recent": 2020,
+        "article_concepts": [
+          "American political science",
+          "Law",
+          "Political economy",
+          "Political science",
+          "Politics",
+          "Public administration",
+          "Sociology"
+        ],
+        "host_venues": [
+          "American Journal of Political Science",
+          "American Political Science Review",
+          "American Politics Quarterly",
+          "American Politics Research",
+          "Business and Politics",
+          "Congress & the presidency",
+          "Legislative Studies Quarterly",
+          "PS Political Science & Politics",
+          "Party Politics",
+          "Perspectives on Politics",
+          "Political Research Quarterly",
+          "Review of Policy Research",
+          "Social Science Quarterly",
+          "Social Science Research",
+          "Southeastern political review",
+          "The Forum",
+          "The Journal of Legislative Studies",
+          "The Journal of Politics"
+        ],
+        "color": "#FAC800",
+        "size": 10
+      }
+    },
+    {
+      "key": "https://orcid.org/0000-0001-7497-1799",
+      "attributes": {
+        "label": "B Nyhan",
+        "name": "Brendan Nyhan",
+        "known?": false,
+        "orcid?": null,
+        "ncsu?": false,
+        "affiliations": [
+          "Dartmouth College"
+        ],
+        "countries": [
+          "US"
+        ],
+        "color": "#BFBFBD",
+        "size": 10
+      }
+    },
+    {
+      "key": "https://orcid.org/0000-0002-1116-7346",
+      "attributes": {
+        "label": "J Reifler",
+        "name": "Jason Reifler",
+        "known?": false,
+        "orcid?": null,
+        "ncsu?": false,
+        "affiliations": [
+          "Georgia State University"
+        ],
+        "countries": [
+          "US"
+        ],
+        "color": "#BFBFBD",
+        "size": 10
+      }
+    },
+    {
+      "key": "christoumey",
+      "attributes": {
+        "label": "C Toumey",
+        "name": "Chris Toumey",
+        "known?": false,
+        "orcid?": null,
+        "ncsu?": false,
+        "affiliations": [
+          "University of South Carolina"
+        ],
+        "countries": [
+          "US"
+        ],
+        "color": "#BFBFBD",
+        "size": 10
+      }
+    },
+    {
+      "key": "uid-wboettch",
+      "attributes": {
+        "label": "W Boettcher",
+        "name": "William Boettcher",
+        "known?": true,
+        "orcid?": true,
+        "ncsu?": true,
+        "affiliations": [
+          "North Carolina State University"
+        ],
+        "countries": [
+          "US"
+        ],
+        "uid": "wboettch",
+        "url": "https://ci.lib.ncsu.edu/profiles/wboettch",
+        "orcid": "0000-0003-2303-2593",
+        "active?": true,
+        "department": "Public and International Affairs",
+        "college": "College of Humanities and Social Sciences",
+        "ncsu_affiliations": [
+          "Public and International Affairs"
+        ],
+        "cluster?": false,
+        "clusters": [
+
+        ],
+        "role": "faculty",
+        "building": "Caldwell Hall",
+        "count": 13,
+        "oa_count": 2,
+        "years": [
+          2020,
+          2018,
+          2017,
+          2009,
+          2007,
+          2006,
+          2005,
+          2004,
+          1995
+        ],
+        "year_recent": 2020,
+        "article_concepts": [
+
+        ],
+        "host_venues": [
+          "Energy research and social science",
+          "Journal of Applied Social Psychology",
+          "Journal of Conflict Resolution",
+          "Perspectives on Politics",
+          "Political Psychology"
+        ],
+        "color": "#FAC800",
+        "size": 10
+      }
+    },
+    {
+      "key": "uid-pwhmds",
+      "attributes": {
+        "label": "P Hamlett",
+        "name": "Patrick W. Hamlett",
+        "known?": true,
+        "orcid?": false,
+        "ncsu?": true,
+        "affiliations": [
+          "North Carolina State University"
+        ],
+        "countries": [
+          "US"
+        ],
+        "uid": "pwhmds",
+        "url": "https://ci.lib.ncsu.edu/profiles/pwhmds",
+        "active?": false,
+        "department": "Multidisciplinary Studies",
+        "college": "College of Humanities and Social Sciences",
+        "ncsu_affiliations": [
+          "Multidisciplinary Studies",
+          "Interdisciplinary Studies"
+        ],
+        "cluster?": false,
+        "clusters": [
+
+        ],
+        "role": null,
+        "building": null,
+        "count": 3,
+        "oa_count": 0,
+        "years": [
+          2006,
+          2003,
+          2002
+        ],
+        "year_recent": 2006,
+        "article_concepts": [
+
+        ],
+        "host_venues": [
+          "Policy Studies Journal",
+          "Science, Technology, & Human Values"
+        ],
+        "color": "#FAC800",
+        "size": 10
+      }
+    },
+    {
+      "key": "u-2966",
+      "attributes": {
+        "label": "J Macoubrie",
+        "name": "Jane Macoubrie",
+        "known?": true,
+        "orcid?": false,
+        "ncsu?": true,
+        "affiliations": [
+          "North Carolina State University"
+        ],
+        "countries": [
+          "US"
+        ],
+        "url": "https://ci.lib.ncsu.edu/profiles/2966",
+        "active?": false,
+        "department": "Communication",
+        "college": "College of Humanities and Social Sciences",
+        "ncsu_affiliations": [
+          "Communication"
+        ],
+        "cluster?": false,
+        "clusters": [
+
+        ],
+        "role": null,
+        "building": null,
+        "count": 3,
+        "oa_count": 0,
+        "years": [
+          2006,
+          2004,
+          2003
+        ],
+        "year_recent": 2006,
+        "article_concepts": [
+
+        ],
+        "host_venues": [
+          "Journal of Nanoparticle Research"
+        ],
+        "color": "#FAC800",
+        "size": 10
+      }
+    },
+    {
+      "key": "https://orcid.org/0000-0001-7426-3370",
+      "attributes": {
+        "label": "J Jenkins",
+        "name": "Jeffery A. Jenkins",
+        "known?": false,
+        "orcid?": null,
+        "ncsu?": false,
+        "affiliations": [
+          "Michigan State University"
+        ],
+        "countries": [
+          "US"
+        ],
+        "color": "#BFBFBD",
+        "size": 10
+      }
+    },
+    {
+      "key": "jhkuklinski",
+      "attributes": {
+        "label": "J Kuklinski",
+        "name": "J. H. Kuklinski",
+        "known?": false,
+        "orcid?": null,
+        "ncsu?": null,
+        "affiliations": null,
+        "countries": null,
+        "color": "#BFBFBD",
+        "size": 10
+      }
+    },
+    {
+      "key": "jameshkuklinski",
+      "attributes": {
+        "label": "J Kuklinski",
+        "name": "James H. Kuklinski",
+        "known?": false,
+        "orcid?": null,
+        "ncsu?": false,
+        "affiliations": [
+          "Political Science"
+        ],
+        "countries": [
+
+        ],
+        "color": "#BFBFBD",
+        "size": 10
+      }
+    },
+    {
+      "key": "martingilens",
+      "attributes": {
+        "label": "M Gilens",
+        "name": "Martin Gilens",
+        "known?": false,
+        "orcid?": null,
+        "ncsu?": false,
+        "affiliations": [
+
+        ],
+        "countries": [
+
+        ],
+        "color": "#BFBFBD",
+        "size": 10
+      }
+    }
+  ],
+  "edges": [
+    {
+      "source": "uid-mdcobb",
+      "target": "uid-ataylor",
+      "attributes": {
+        "label": 3,
+        "weight": 3,
+        "collaboration_count": 3,
+        "departments": "Political Science & Public Administration == Political Science & Public Administration",
+        "colleges": "College of Humanities and Social Sciences == College of Humanities and Social Sciences",
+        "buildings": "Caldwell Hall --- unknown",
+        "roles": "faculty == faculty",
+        "years": [
+          2020,
+          2015,
+          2014
+        ],
+        "year_recent": 2020,
+        "dois": [
+          "10.1177/1532673X19850093",
+          "10.1177/1532673x15570470",
+          "10.1017/s1049096514000201"
+        ],
+        "ncsu?": true,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          "American Politics Research"
+        ],
+        "color": "#CC0000",
+        "size": 3
+      }
+    },
+    {
+      "source": "uid-mdcobb",
+      "target": "https://orcid.org/0000-0001-7497-1799",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Political Science & Public Administration --- unknown",
+        "colleges": "College of Humanities and Social Sciences --- unknown",
+        "buildings": "unknown --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          2013
+        ],
+        "year_recent": 2013,
+        "dois": [
+          "10.1111/j.1467-9221.2012.00935.x"
+        ],
+        "ncsu?": false,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          "Political Psychology"
+        ],
+        "color": "#000000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-mdcobb",
+      "target": "https://orcid.org/0000-0002-1116-7346",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Political Science & Public Administration --- unknown",
+        "colleges": "College of Humanities and Social Sciences --- unknown",
+        "buildings": "unknown --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          2013
+        ],
+        "year_recent": 2013,
+        "dois": [
+          "10.1111/j.1467-9221.2012.00935.x"
+        ],
+        "ncsu?": false,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          "Political Psychology"
+        ],
+        "color": "#000000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-mdcobb",
+      "target": "christoumey",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Political Science & Public Administration --- unknown",
+        "colleges": "College of Humanities and Social Sciences --- unknown",
+        "buildings": "unknown --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          2012
+        ],
+        "year_recent": 2012,
+        "dois": [
+          "10.1162/leon_a_00444"
+        ],
+        "ncsu?": false,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          "Leonardo"
+        ],
+        "color": "#000000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-mdcobb",
+      "target": "uid-wboettch",
+      "attributes": {
+        "label": 3,
+        "weight": 3,
+        "collaboration_count": 3,
+        "departments": "Political Science & Public Administration -- Public and International Affairs",
+        "colleges": "College of Humanities and Social Sciences == College of Humanities and Social Sciences",
+        "buildings": "Caldwell Hall --- unknown",
+        "roles": "faculty == faculty",
+        "years": [
+          2009,
+          2007,
+          2006
+        ],
+        "year_recent": 2009,
+        "dois": [
+          "10.1177/0022002709339047",
+          "10.1111/j.1559-1816.2007.00292.x",
+          "10.1177/0022002706293665"
+        ],
+        "ncsu?": true,
+        "cross_college?": false,
+        "cross_department?": true,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          "Journal of Conflict Resolution"
+        ],
+        "color": "#CC0000",
+        "size": 3
+      }
+    },
+    {
+      "source": "uid-mdcobb",
+      "target": "uid-pwhmds",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Multidisciplinary Studies -- Political Science & Public Administration",
+        "colleges": "College of Humanities and Social Sciences == College of Humanities and Social Sciences",
+        "buildings": "unknown --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          2006
+        ],
+        "year_recent": 2006,
+        "dois": [
+          "10.1111/j.1541-0072.2006.00195.x"
+        ],
+        "ncsu?": true,
+        "cross_college?": false,
+        "cross_department?": true,
+        "cross_unit?": true,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          "Policy Studies Journal"
+        ],
+        "color": "#CC0000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-mdcobb",
+      "target": "u-2966",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Communication -- Political Science & Public Administration",
+        "colleges": "College of Humanities and Social Sciences == College of Humanities and Social Sciences",
+        "buildings": "unknown --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          2004
+        ],
+        "year_recent": 2004,
+        "dois": [
+          "10.1007/s11051-004-3394-4"
+        ],
+        "ncsu?": true,
+        "cross_college?": false,
+        "cross_department?": true,
+        "cross_unit?": true,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          "Journal of Nanoparticle Research"
+        ],
+        "color": "#CC0000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-mdcobb",
+      "target": "https://orcid.org/0000-0001-7426-3370",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Political Science & Public Administration --- unknown",
+        "colleges": "College of Humanities and Social Sciences --- unknown",
+        "buildings": "unknown --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          2001
+        ],
+        "year_recent": 2001,
+        "dois": [
+          "10.1177/106591290105400110"
+        ],
+        "ncsu?": false,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          "Political Research Quarterly"
+        ],
+        "color": "#000000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-mdcobb",
+      "target": "jhkuklinski",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Political Science & Public Administration --- unknown",
+        "colleges": "College of Humanities and Social Sciences --- unknown",
+        "buildings": "unknown --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          1998
+        ],
+        "year_recent": 1998,
+        "dois": [
+
+        ],
+        "ncsu?": null,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          null
+        ],
+        "color": "#000000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-mdcobb",
+      "target": "jameshkuklinski",
+      "attributes": {
+        "label": 2,
+        "weight": 2,
+        "collaboration_count": 2,
+        "departments": "Political Science & Public Administration --- unknown",
+        "colleges": "College of Humanities and Social Sciences --- unknown",
+        "buildings": "unknown --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          1997,
+          1997
+        ],
+        "year_recent": 1997,
+        "dois": [
+          "10.2307/2111710",
+          "10.2307/2998167"
+        ],
+        "ncsu?": false,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          "American Journal of Political Science"
+        ],
+        "color": "#000000",
+        "size": 2
+      }
+    },
+    {
+      "source": "uid-mdcobb",
+      "target": "martingilens",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Political Science & Public Administration --- unknown",
+        "colleges": "College of Humanities and Social Sciences --- unknown",
+        "buildings": "unknown --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          1997
+        ],
+        "year_recent": 1997,
+        "dois": [
+          "10.2307/2998167"
+        ],
+        "ncsu?": false,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          "The Journal of Politics"
+        ],
+        "color": "#000000",
+        "size": 1
+      }
+    }
+  ]
+}

@@ -1,0 +1,4349 @@
+{
+  "options": {
+    "type": "undirected",
+    "multi": false,
+    "allowSelfLoops": false
+  },
+  "attributes": {
+    "creator": "Citation Index",
+    "lastModifiedDate": "2023-01-16"
+  },
+  "nodes": [
+    {
+      "key": "uid-gabackus",
+      "attributes": {
+        "label": "G Backus",
+        "name": "Gregory Alan Backus",
+        "known?": true,
+        "orcid?": false,
+        "ncsu?": true,
+        "affiliations": [
+          "North Carolina State University"
+        ],
+        "countries": [
+          "US"
+        ],
+        "uid": "gabackus",
+        "url": "https://ci.lib.ncsu.edu/profiles/gabackus",
+        "active?": false,
+        "department": "Mathematics",
+        "college": "College of Sciences",
+        "ncsu_affiliations": [
+          "Mathematics",
+          "Genetic Engineering and Society"
+        ],
+        "cluster?": true,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "role": null,
+        "building": null,
+        "count": 3,
+        "oa_count": 2,
+        "years": [
+          2016,
+          2014
+        ],
+        "year_recent": 2016,
+        "article_concepts": [
+          "Biogeography",
+          "Biology",
+          "Cognitive science",
+          "Computer science",
+          "Ecology",
+          "Economics",
+          "Evolutionary biology",
+          "Field (mathematics)",
+          "Finance",
+          "Genetics",
+          "Mathematics",
+          "Meaning (existential)",
+          "Prospectus",
+          "Psychology",
+          "Psychotherapist",
+          "Pure mathematics",
+          "Sequence (biology)",
+          "Wildlife"
+        ],
+        "host_venues": [
+          "Biological Reviews",
+          "Ecosphere"
+        ],
+        "color": "#4156A1",
+        "size": 20
+      }
+    },
+    {
+      "key": "https://orcid.org/0000-0003-0464-0243",
+      "attributes": {
+        "label": "A Kershenbaum",
+        "name": "Arik Kershenbaum",
+        "known?": false,
+        "orcid?": null,
+        "ncsu?": false,
+        "affiliations": [
+          "University of Cambridge",
+          "National Institute for Mathematical and Biological Synthesis"
+        ],
+        "countries": [
+          "GB",
+          "US"
+        ],
+        "color": "#BFBFBD",
+        "size": 10
+      }
+    },
+    {
+      "key": "https://orcid.org/0000-0001-5793-9244",
+      "attributes": {
+        "label": "D Blumstein",
+        "name": "Daniel T. Blumstein",
+        "known?": false,
+        "orcid?": null,
+        "ncsu?": false,
+        "affiliations": [
+          "University of California at Los Angeles"
+        ],
+        "countries": [
+
+        ],
+        "color": "#BFBFBD",
+        "size": 10
+      }
+    },
+    {
+      "key": "https://orcid.org/0000-0002-0687-2059",
+      "attributes": {
+        "label": "M Roch",
+        "name": "Marie A. Roch",
+        "known?": false,
+        "orcid?": null,
+        "ncsu?": false,
+        "affiliations": [
+          "San Diego State University"
+        ],
+        "countries": [
+          "US"
+        ],
+        "color": "#BFBFBD",
+        "size": 10
+      }
+    },
+    {
+      "key": "https://orcid.org/0000-0003-0635-9586",
+      "attributes": {
+        "label": "C Akcay",
+        "name": "Çağlar Akçay",
+        "known?": false,
+        "orcid?": null,
+        "ncsu?": false,
+        "affiliations": [
+          "Cornell University"
+        ],
+        "countries": [
+          "US"
+        ],
+        "color": "#BFBFBD",
+        "size": 10
+      }
+    },
+    {
+      "key": "https://orcid.org/0000-0002-6770-9730",
+      "attributes": {
+        "label": "M Bee",
+        "name": "Mark A. Bee",
+        "known?": false,
+        "orcid?": null,
+        "ncsu?": false,
+        "affiliations": [
+          "University of Minnesota"
+        ],
+        "countries": [
+          "US"
+        ],
+        "color": "#BFBFBD",
+        "size": 10
+      }
+    },
+    {
+      "key": "https://orcid.org/0000-0002-8405-3833",
+      "attributes": {
+        "label": "K Bohn",
+        "name": "Kirsten M. Bohn",
+        "known?": false,
+        "orcid?": null,
+        "ncsu?": false,
+        "affiliations": [
+          "Florida International University"
+        ],
+        "countries": [
+          "US"
+        ],
+        "color": "#BFBFBD",
+        "size": 10
+      }
+    },
+    {
+      "key": "yancao",
+      "attributes": {
+        "label": "Y Cao",
+        "name": "Yan Cao",
+        "known?": false,
+        "orcid?": null,
+        "ncsu?": false,
+        "affiliations": [
+          "The University of Texas at Dallas"
+        ],
+        "countries": [
+          "US"
+        ],
+        "color": "#BFBFBD",
+        "size": 10
+      }
+    },
+    {
+      "key": "https://orcid.org/0000-0001-6933-5501",
+      "attributes": {
+        "label": "G Carter",
+        "name": "Gerald G. Carter",
+        "known?": false,
+        "orcid?": null,
+        "ncsu?": false,
+        "affiliations": [
+          "Biological Sciences Graduate Program University of Maryland College Park MD 20742 U.S.A."
+        ],
+        "countries": [
+
+        ],
+        "color": "#BFBFBD",
+        "size": 10
+      }
+    },
+    {
+      "key": "cristianecsar",
+      "attributes": {
+        "label": "C Casar",
+        "name": "Cristiane Cäsar",
+        "known?": false,
+        "orcid?": null,
+        "ncsu?": false,
+        "affiliations": [
+          "University of St Andrews"
+        ],
+        "countries": [
+          "GB"
+        ],
+        "color": "#BFBFBD",
+        "size": 10
+      }
+    },
+    {
+      "key": "michaelhcoen",
+      "attributes": {
+        "label": "M Coen",
+        "name": "Michael H. Coen",
+        "known?": false,
+        "orcid?": null,
+        "ncsu?": false,
+        "affiliations": [
+          "University of Wisconsin–Madison"
+        ],
+        "countries": [
+          "US"
+        ],
+        "color": "#BFBFBD",
+        "size": 10
+      }
+    },
+    {
+      "key": "https://orcid.org/0000-0002-0571-0306",
+      "attributes": {
+        "label": "S DeRuiter",
+        "name": "Stacy L. DeRuiter",
+        "known?": false,
+        "orcid?": null,
+        "ncsu?": false,
+        "affiliations": [
+          "University of St Andrews"
+        ],
+        "countries": [
+          "GB"
+        ],
+        "color": "#BFBFBD",
+        "size": 10
+      }
+    },
+    {
+      "key": "laurancerdoyle",
+      "attributes": {
+        "label": "L Doyle",
+        "name": "Laurance R. Doyle",
+        "known?": false,
+        "orcid?": null,
+        "ncsu?": false,
+        "affiliations": [
+          "Search for Extraterrestrial Intelligence"
+        ],
+        "countries": [
+          "US"
+        ],
+        "color": "#BFBFBD",
+        "size": 10
+      }
+    },
+    {
+      "key": "https://orcid.org/0000-0003-1715-7728",
+      "attributes": {
+        "label": "S Edelman",
+        "name": "Shimon Edelman",
+        "known?": false,
+        "orcid?": null,
+        "ncsu?": false,
+        "affiliations": [
+          "Cornell University"
+        ],
+        "countries": [
+          "US"
+        ],
+        "color": "#BFBFBD",
+        "size": 10
+      }
+    },
+    {
+      "key": "https://orcid.org/0000-0002-7820-923X",
+      "attributes": {
+        "label": "R Ferrer-I-Cancho",
+        "name": "Ramon Ferrer-i-Cancho",
+        "known?": false,
+        "orcid?": null,
+        "ncsu?": false,
+        "affiliations": [
+          "Universitat Politècnica de Catalunya"
+        ],
+        "countries": [
+          "ES"
+        ],
+        "color": "#BFBFBD",
+        "size": 10
+      }
+    },
+    {
+      "key": "https://orcid.org/0000-0003-3807-4147",
+      "attributes": {
+        "label": "T Freeberg",
+        "name": "Todd M. Freeberg",
+        "known?": false,
+        "orcid?": null,
+        "ncsu?": false,
+        "affiliations": [
+          "Austin Peay State University"
+        ],
+        "countries": [
+          "US"
+        ],
+        "color": "#BFBFBD",
+        "size": 10
+      }
+    },
+    {
+      "key": "https://orcid.org/0000-0002-8240-1267",
+      "attributes": {
+        "label": "E Garland",
+        "name": "Ellen C. Garland",
+        "known?": false,
+        "orcid?": null,
+        "ncsu?": false,
+        "affiliations": [
+          "National Marine Mammal Laboratory; AFSC/NOAA; 7600 Sand Point Way N.E. Seattle WA 98115 U.S.A."
+        ],
+        "countries": [
+
+        ],
+        "color": "#BFBFBD",
+        "size": 10
+      }
+    },
+    {
+      "key": "https://orcid.org/0000-0002-1162-8966",
+      "attributes": {
+        "label": "M Gustison",
+        "name": "Morgan L. Gustison",
+        "known?": false,
+        "orcid?": null,
+        "ncsu?": false,
+        "affiliations": [
+          "University of Michigan–Ann Arbor"
+        ],
+        "countries": [
+          "US"
+        ],
+        "color": "#BFBFBD",
+        "size": 10
+      }
+    },
+    {
+      "key": "uid-krgross",
+      "attributes": {
+        "label": "K Gross",
+        "name": "Kevin Gross",
+        "known?": true,
+        "orcid?": false,
+        "ncsu?": true,
+        "affiliations": [
+          "North Carolina State University"
+        ],
+        "countries": [
+          "US"
+        ],
+        "uid": "krgross",
+        "url": "https://ci.lib.ncsu.edu/profiles/krgross",
+        "active?": true,
+        "department": "Statistics",
+        "college": "College of Sciences",
+        "ncsu_affiliations": [
+          "Statistics",
+          "Genetic Engineering and Society"
+        ],
+        "cluster?": true,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "role": "faculty",
+        "building": "David Clark Labs",
+        "count": 57,
+        "oa_count": 20,
+        "years": [
+          2022,
+          2021,
+          2020,
+          2019,
+          2018,
+          2016,
+          2015,
+          2014,
+          2013,
+          2012,
+          2011,
+          2010,
+          2009,
+          2008,
+          2007,
+          2006,
+          2005
+        ],
+        "year_recent": 2022,
+        "article_concepts": [
+          "Abundance (ecology)",
+          "Agroforestry",
+          "Algae",
+          "Alternative stable state",
+          "Anthropology",
+          "Anticipation (artificial intelligence)",
+          "Aquaculture of coral",
+          "Artificial intelligence",
+          "Bacteria",
+          "Bayesian probability",
+          "Behavioral ecology",
+          "Biochemistry",
+          "Biodiversity",
+          "Bioinformatics",
+          "Biological dispersal",
+          "Biological system",
+          "Biology",
+          "Biomass (ecology)",
+          "Biotechnology",
+          "Bycatch",
+          "CONTEST",
+          "Canopy",
+          "Climate change",
+          "Cnidaria",
+          "Community",
+          "Competition (biology)",
+          "Composite material",
+          "Computer science",
+          "Coral",
+          "Coral bleaching",
+          "Coral reef",
+          "Coral reef organizations",
+          "Coral reef protection",
+          "Crepuscular",
+          "Degradation (telecommunications)",
+          "Demography",
+          "Disturbance (geology)",
+          "Diversity (politics)",
+          "Dynamical systems theory",
+          "Ecological stability",
+          "Ecology",
+          "Econometrics",
+          "Economics",
+          "Ecosystem",
+          "Electrical engineering",
+          "Engineering",
+          "Environmental degradation",
+          "Environmental health",
+          "Environmental issues with coral reefs",
+          "Environmental science",
+          "Evolutionary ecology",
+          "Ex-ante",
+          "Fish <Actinopterygii>",
+          "Fishery",
+          "Fishing",
+          "Foraging",
+          "Fucales",
+          "Gene",
+          "Generalized linear mixed model",
+          "Genetically engineered",
+          "Genetically modified organism",
+          "Genetics",
+          "Geography",
+          "Geology",
+          "Geotechnical engineering",
+          "Grant funding",
+          "Grassland",
+          "Habitat",
+          "Hake",
+          "Harm",
+          "Host (biology)",
+          "Intermediate Disturbance Hypothesis",
+          "Internal medicine",
+          "Land degradation",
+          "Land use",
+          "Law",
+          "Leverage (statistics)",
+          "Linguistics",
+          "Litter",
+          "Machine learning",
+          "Macroeconomics",
+          "Materials science",
+          "Mathematics",
+          "Mechanical engineering",
+          "Medicine",
+          "Merluccius",
+          "Meta-analysis",
+          "Metacommunity",
+          "Microbial ecology",
+          "Microbiome",
+          "Mixed model",
+          "Nectar",
+          "Nesting season",
+          "Nocturnal",
+          "Ocean acidification",
+          "Oceanography",
+          "Paleontology",
+          "Peer review",
+          "Persistence (discontinuity)",
+          "Philosophy",
+          "Phylogenetic diversity",
+          "Phylogenetic tree",
+          "Physical geography",
+          "Physics",
+          "Plant litter",
+          "Political science",
+          "Politics",
+          "Pollen",
+          "Population",
+          "Population model",
+          "Population size",
+          "Predation",
+          "Prestige",
+          "Productivity",
+          "Promotion (chess)",
+          "Psychology",
+          "Public administration",
+          "Public relations",
+          "Quantum mechanics",
+          "Random effects model",
+          "Range (aeronautics)",
+          "Recombinant DNA",
+          "Reef",
+          "Resilience (materials science)",
+          "Resilience of coral reefs",
+          "Resistance (ecology)",
+          "Rockfish",
+          "Sargassum",
+          "Scleractinia",
+          "Seagrass",
+          "Seasonality",
+          "Sebastes",
+          "Sociology",
+          "Species diversity",
+          "Species richness",
+          "Statistical physics",
+          "Statistics",
+          "Subtropics",
+          "Telecommunications",
+          "Thermodynamics",
+          "Transfer function",
+          "Turtle (robot)",
+          "Value (mathematics)",
+          "Vector (molecular biology)",
+          "Work (physics)"
+        ],
+        "host_venues": [
+          "Acta Oecologica-international Journal of Ecology",
+          "Aquaculture",
+          "BioScience",
+          "Biological Conservation",
+          "Biology Letters",
+          "Bulletin of Mathematical Biology",
+          "Bulletin of the Ecological Society of America",
+          "Conservation Biology",
+          "Ecological Applications",
+          "Ecology",
+          "Ecology Letters",
+          "Ecosphere",
+          "Environmental and Ecological Statistics",
+          "Evolutionary Applications",
+          "Families, Systems, & Health",
+          "Forest Ecology and Management",
+          "Functional Ecology",
+          "Human Dimensions of Wildlife",
+          "Journal of Applied Ecology",
+          "Journal of Economic Entomology",
+          "Journal of Experimental Marine Biology and Ecology",
+          "Journal of Experimental Zoology",
+          "Journal of Freshwater Ecology",
+          "Journal of the American Statistical Association",
+          "Marine Ecology Progress Series",
+          "Nature",
+          "PLOS Biology",
+          "Population Ecology",
+          "Proceedings of the National Academy of Sciences of the United States of America",
+          "The American Naturalist",
+          "The Auk",
+          "Theoretical Ecology",
+          "Theoretical Population Biology"
+        ],
+        "color": "#4156A1",
+        "size": 10
+      }
+    },
+    {
+      "key": "uid-mjust",
+      "attributes": {
+        "label": "M Just",
+        "name": "Michael Just",
+        "known?": true,
+        "orcid?": false,
+        "ncsu?": true,
+        "affiliations": [
+          "North Carolina State University"
+        ],
+        "countries": [
+          "US"
+        ],
+        "uid": "mjust",
+        "url": "https://ci.lib.ncsu.edu/profiles/mjust",
+        "active?": true,
+        "department": "Plant Biology",
+        "college": "College of Agriculture and Life Sciences",
+        "ncsu_affiliations": [
+          "Plant Biology",
+          "Entomology and Plant Pathology"
+        ],
+        "cluster?": false,
+        "clusters": [
+
+        ],
+        "role": "staff",
+        "building": "Gardner Hall",
+        "count": 15,
+        "oa_count": 4,
+        "years": [
+          2021,
+          2020,
+          2019,
+          2018,
+          2017,
+          2016,
+          2014,
+          2013
+        ],
+        "year_recent": 2021,
+        "article_concepts": [
+          "Abundance (ecology)",
+          "Archaeology",
+          "Artificial intelligence",
+          "Atmospheric sciences",
+          "Biogeography",
+          "Biology",
+          "Botany",
+          "Business",
+          "Canopy",
+          "Cartography",
+          "Citizen science",
+          "Climate change",
+          "Climate model",
+          "Climate zones",
+          "Composite material",
+          "Computer science",
+          "Deciduous",
+          "Demography",
+          "Diaspididae",
+          "Distribution (mathematics)",
+          "Ecology",
+          "Ecosystem",
+          "Environmental resource management",
+          "Environmental science",
+          "Evolutionary biology",
+          "Fecundity",
+          "Fire regime",
+          "Forestry",
+          "Geography",
+          "Geology",
+          "Global warming",
+          "Hemiptera",
+          "Herbivore",
+          "Homoptera",
+          "Introduced species",
+          "Invasive species",
+          "Machine learning",
+          "Marketing",
+          "Materials science",
+          "Mathematical analysis",
+          "Mathematics",
+          "Metric (unit)",
+          "PEST analysis",
+          "Phenology",
+          "Physical geography",
+          "Population",
+          "Preference",
+          "Random forest",
+          "Range (aeronautics)",
+          "Remote sensing",
+          "Satellite imagery",
+          "Scale (ratio)",
+          "Scale insect",
+          "Selection (genetic algorithm)",
+          "Sociology",
+          "Statistics",
+          "Tree (set theory)",
+          "Wetland",
+          "Wildlife"
+        ],
+        "host_venues": [
+          "Castanea",
+          "Ecology",
+          "Ecosphere",
+          "Environmental Entomology",
+          "Forest Ecology and Management",
+          "Insects",
+          "Journal of Forestry",
+          "Journal of Integrated Pest Management",
+          "Oikos",
+          "Plant Ecology",
+          "Royal Society Open Science",
+          "Trees-structure and Function",
+          "Urban Forestry & Urban Greening"
+        ],
+        "color": "#6F7D1C",
+        "size": 10
+      }
+    },
+    {
+      "key": "uid-jfnorton",
+      "attributes": {
+        "label": "J Norton",
+        "name": "Jacob Friggle Norton",
+        "known?": true,
+        "orcid?": false,
+        "ncsu?": true,
+        "affiliations": [
+          "North Carolina State University"
+        ],
+        "countries": [
+          "US"
+        ],
+        "uid": "jfnorton",
+        "url": "https://ci.lib.ncsu.edu/profiles/jfnorton",
+        "active?": false,
+        "department": "Mathematics",
+        "college": "College of Sciences",
+        "ncsu_affiliations": [
+          "Mathematics"
+        ],
+        "cluster?": false,
+        "clusters": [
+
+        ],
+        "role": null,
+        "building": null,
+        "count": 2,
+        "oa_count": 2,
+        "years": [
+          2014
+        ],
+        "year_recent": 2014,
+        "article_concepts": [
+          "Biogeography",
+          "Biology",
+          "Computer science",
+          "Context (archaeology)",
+          "Demography",
+          "Ecology",
+          "Evolutionary biology",
+          "Human immunodeficiency virus (HIV)",
+          "Immunology",
+          "Mathematics",
+          "Medicine",
+          "Microbicide",
+          "Paleontology",
+          "Probabilistic logic",
+          "Psychology",
+          "Seroconversion",
+          "Sexual transmission",
+          "Sociology",
+          "Statistics",
+          "Telecommunications",
+          "Transmission (telecommunications)",
+          "Virology",
+          "Wildlife"
+        ],
+        "host_venues": [
+          "Ecosphere",
+          "PLOS ONE"
+        ],
+        "color": "#4156A1",
+        "size": 10
+      }
+    },
+    {
+      "key": "uid-altraud",
+      "attributes": {
+        "label": "A Traud",
+        "name": "Amanda L. Traud",
+        "known?": true,
+        "orcid?": false,
+        "ncsu?": true,
+        "affiliations": [
+          "North Carolina State University"
+        ],
+        "countries": [
+          "US"
+        ],
+        "uid": "altraud",
+        "url": "https://ci.lib.ncsu.edu/profiles/altraud",
+        "active?": false,
+        "department": "Biological Sciences",
+        "college": "College of Sciences",
+        "ncsu_affiliations": [
+          "Biological Sciences"
+        ],
+        "cluster?": false,
+        "clusters": [
+
+        ],
+        "role": null,
+        "building": null,
+        "count": 2,
+        "oa_count": 1,
+        "years": [
+          2014,
+          2012
+        ],
+        "year_recent": 2014,
+        "article_concepts": [
+          "Biogeography",
+          "Biology",
+          "Computer science",
+          "Cynomys ludovicianus",
+          "Ecology",
+          "Evolutionary biology",
+          "Prairie dog",
+          "Psychology",
+          "Social group",
+          "Social media",
+          "Social network (sociolinguistics)",
+          "Social network analysis",
+          "Social psychology",
+          "Social relation",
+          "Wildlife",
+          "World Wide Web"
+        ],
+        "host_venues": [
+          "Ecological Complexity",
+          "Ecosphere"
+        ],
+        "color": "#4156A1",
+        "size": 10
+      }
+    },
+    {
+      "key": "uid-tdantone",
+      "attributes": {
+        "label": "T Antonelli",
+        "name": "Timothy David Antonelli",
+        "known?": true,
+        "orcid?": false,
+        "ncsu?": true,
+        "affiliations": [
+          "North Carolina State University"
+        ],
+        "countries": [
+          "US"
+        ],
+        "uid": "tdantone",
+        "url": "https://ci.lib.ncsu.edu/profiles/tdantone",
+        "active?": false,
+        "department": "Statistics",
+        "college": "College of Sciences",
+        "ncsu_affiliations": [
+          "Statistics",
+          "Genetic Engineering and Society"
+        ],
+        "cluster?": true,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "role": null,
+        "building": null,
+        "count": 2,
+        "oa_count": 1,
+        "years": [
+          2015,
+          2014
+        ],
+        "year_recent": 2015,
+        "article_concepts": [
+          "Biogeography",
+          "Biology",
+          "Ecology",
+          "Evolutionary biology",
+          "Wildlife"
+        ],
+        "host_venues": [
+          "Ecosphere",
+          "European Physical Journal-special Topics"
+        ],
+        "color": "#4156A1",
+        "size": 10
+      }
+    },
+    {
+      "key": "uid-aspoteat",
+      "attributes": {
+        "label": "A Poteate",
+        "name": "Aaron Samuel Poteate",
+        "known?": true,
+        "orcid?": false,
+        "ncsu?": true,
+        "affiliations": [
+          "North Carolina State University"
+        ],
+        "countries": [
+          "US"
+        ],
+        "uid": "aspoteat",
+        "url": "https://ci.lib.ncsu.edu/profiles/aspoteat",
+        "active?": false,
+        "department": "Sociology & Anthropology",
+        "college": "College of Humanities and Social Sciences",
+        "ncsu_affiliations": [
+          "Sociology & Anthropology"
+        ],
+        "cluster?": false,
+        "clusters": [
+
+        ],
+        "role": null,
+        "building": null,
+        "count": 1,
+        "oa_count": 1,
+        "years": [
+          2014
+        ],
+        "year_recent": 2014,
+        "article_concepts": [
+          "Biogeography",
+          "Biology",
+          "Ecology",
+          "Evolutionary biology",
+          "Wildlife"
+        ],
+        "host_venues": [
+          "Ecosphere"
+        ],
+        "color": "#FAC800",
+        "size": 10
+      }
+    },
+    {
+      "key": "uid-aesnyder",
+      "attributes": {
+        "label": "A Snyder-Beattie",
+        "name": "Andrew Evans Snyder-Beattie",
+        "known?": true,
+        "orcid?": false,
+        "ncsu?": true,
+        "affiliations": [
+          "North Carolina State University"
+        ],
+        "countries": [
+          "US"
+        ],
+        "uid": "aesnyder",
+        "url": "https://ci.lib.ncsu.edu/profiles/aesnyder",
+        "active?": false,
+        "department": "Mathematics",
+        "college": "College of Sciences",
+        "ncsu_affiliations": [
+          "Mathematics"
+        ],
+        "cluster?": false,
+        "clusters": [
+
+        ],
+        "role": null,
+        "building": null,
+        "count": 2,
+        "oa_count": 1,
+        "years": [
+          2016,
+          2014
+        ],
+        "year_recent": 2016,
+        "article_concepts": [
+          "Biogeography",
+          "Biology",
+          "Ecology",
+          "Evolutionary biology",
+          "Wildlife"
+        ],
+        "host_venues": [
+          "Ecosphere",
+          "The American Naturalist"
+        ],
+        "color": "#4156A1",
+        "size": 10
+      }
+    },
+    {
+      "key": "uid-rwsander",
+      "attributes": {
+        "label": "R Sanders",
+        "name": "Rodger Wyatt Sanders",
+        "known?": true,
+        "orcid?": false,
+        "ncsu?": true,
+        "affiliations": [
+          "North Carolina State University"
+        ],
+        "countries": [
+          "US"
+        ],
+        "uid": "rwsander",
+        "url": "https://ci.lib.ncsu.edu/profiles/rwsander",
+        "active?": false,
+        "department": "Plant Biology",
+        "college": "College of Agriculture and Life Sciences",
+        "ncsu_affiliations": [
+          "Plant Biology"
+        ],
+        "cluster?": false,
+        "clusters": [
+
+        ],
+        "role": "student",
+        "building": null,
+        "count": 2,
+        "oa_count": 1,
+        "years": [
+          2019,
+          2014
+        ],
+        "year_recent": 2019,
+        "article_concepts": [
+          "Biogeography",
+          "Biology",
+          "Ecology",
+          "Evolutionary biology",
+          "Wildlife"
+        ],
+        "host_venues": [
+          "Ecology",
+          "Ecosphere"
+        ],
+        "color": "#6F7D1C",
+        "size": 10
+      }
+    },
+    {
+      "key": "uid-rrdunn",
+      "attributes": {
+        "label": "R Dunn",
+        "name": "Rob Dunn",
+        "known?": true,
+        "orcid?": true,
+        "ncsu?": true,
+        "affiliations": [
+          "North Carolina State University"
+        ],
+        "countries": [
+          "US"
+        ],
+        "uid": "rrdunn",
+        "url": "https://ci.lib.ncsu.edu/profiles/rrdunn",
+        "orcid": "0000-0002-6030-4837",
+        "active?": true,
+        "department": "Biological Sciences",
+        "college": "College of Sciences",
+        "ncsu_affiliations": [
+          "Biological Sciences",
+          "Applied Ecology",
+          "Provost and Vice Chancellor's Office",
+          "Leadership in Public Science",
+          "Genetic Engineering and Society",
+          "Global Water, Sanitation and Hygiene",
+          "Comparative Medicine Institute"
+        ],
+        "cluster?": true,
+        "clusters": [
+          "Genetic Engineering and Society",
+          "Global Water, Sanitation and Hygiene",
+          "Leadership in Public Science"
+        ],
+        "role": "faculty",
+        "building": "Holladay Hall",
+        "count": 294,
+        "oa_count": 160,
+        "years": [
+          2022,
+          2021,
+          2020,
+          2019,
+          2018,
+          2017,
+          2016,
+          2015,
+          2014,
+          2013,
+          2012,
+          2011,
+          2010,
+          2009,
+          2008,
+          2007,
+          2006,
+          2005,
+          2004,
+          2003,
+          2000,
+          1999
+        ],
+        "year_recent": 2022,
+        "article_concepts": [
+          "16S ribosomal RNA",
+          "ANT",
+          "Abiotic component",
+          "Abundance (ecology)",
+          "Acclimatization",
+          "Aceraceae",
+          "Acetic acid bacteria",
+          "Acorn",
+          "Acoustics",
+          "Adaptation (eye)",
+          "Aedes aegypti",
+          "Aedes albopictus",
+          "Aerosol",
+          "Agriculture",
+          "Agroforestry",
+          "Agronomy",
+          "Algorithm",
+          "Alpha diversity",
+          "Alternaria",
+          "Ambrosia beetle",
+          "Amplicon sequencing",
+          "Anatomy",
+          "Ancient DNA",
+          "Animal behavior",
+          "Animal science",
+          "Animal species",
+          "Anthropology",
+          "Antibiotic resistance",
+          "Antibiotics",
+          "Antimicrobial",
+          "Applied ecology",
+          "Archaea",
+          "Archaeology",
+          "Argentine ant",
+          "Arid",
+          "Art history",
+          "Arthropod",
+          "Artificial intelligence",
+          "Artificial neural network",
+          "Assemblage (archaeology)",
+          "Asthma",
+          "Astronomy",
+          "Astrophysics",
+          "Atmospheric sciences",
+          "Bacteria",
+          "Bacterial vaginosis",
+          "Bacteroides",
+          "Baseline (sea)",
+          "Bay",
+          "Bayesian probability",
+          "Benthic zone",
+          "Bergmann's rule",
+          "Beta diversity",
+          "Bifidobacterium",
+          "Bioaerosol",
+          "Biochemistry",
+          "Bioconversion",
+          "Biodiversity",
+          "Biofilm",
+          "Biofuel",
+          "Biogeography",
+          "Bioinformatics",
+          "Biological dispersal",
+          "Biology",
+          "Biomass (ecology)",
+          "Biome",
+          "Biomonitoring",
+          "Biota",
+          "Biotechnology",
+          "Biotic component",
+          "Bivalvia",
+          "Botany",
+          "Breakup",
+          "Breast milk",
+          "Bridge (graph theory)",
+          "Brood",
+          "Built environment",
+          "Business",
+          "Butterfly",
+          "CATS",
+          "Canopy",
+          "Carbon cycle",
+          "Carbon dioxide",
+          "Carbon fibers",
+          "Carbon sequestration",
+          "Carbon sink",
+          "Carnivore",
+          "Carrion",
+          "Cartography",
+          "Caste",
+          "Cave",
+          "Cecidomyiidae",
+          "Cell biology",
+          "Chemistry",
+          "Chromatography",
+          "Citizen science",
+          "Clade",
+          "Classics",
+          "Climate change",
+          "Climate model",
+          "Climate zones",
+          "Climatology",
+          "Clothing",
+          "Cloud forest",
+          "Cohort",
+          "Commensalism",
+          "Community",
+          "Community engagement",
+          "Community structure",
+          "Competition (biology)",
+          "Competitive exclusion",
+          "Composite material",
+          "Composite number",
+          "Composition (language)",
+          "Computational biology",
+          "Computer network",
+          "Computer science",
+          "Computer security",
+          "Computer vision",
+          "Conservation biology",
+          "Conservation science",
+          "Context (archaeology)",
+          "Correlative",
+          "Cricket",
+          "Critical thermal maximum",
+          "Cultivar",
+          "Curculionidae",
+          "Cynomys ludovicianus",
+          "DNA",
+          "DNA sequencing",
+          "Dark Ages",
+          "Data mining",
+          "Data science",
+          "Database",
+          "Deciduous",
+          "Deforestation (computer science)",
+          "Demodex",
+          "Demodex folliculorum",
+          "Demographic history",
+          "Demography",
+          "Density dependence",
+          "Deodorant",
+          "Discipline",
+          "Disease",
+          "Distribution (mathematics)",
+          "Disturbance (geology)",
+          "Divergence (linguistics)",
+          "Diversity (politics)",
+          "Domestication",
+          "Dominance (genetics)",
+          "Ecological niche",
+          "Ecology",
+          "Econometrics",
+          "Economic geography",
+          "Economics",
+          "Ecosystem",
+          "Ecosystem services",
+          "Ectotherm",
+          "Electrical engineering",
+          "Endangered species",
+          "Endemism",
+          "Engineering",
+          "Engineering ethics",
+          "Environmental DNA",
+          "Environmental education",
+          "Environmental gradient",
+          "Environmental health",
+          "Environmental planning",
+          "Environmental protection",
+          "Environmental resource management",
+          "Environmental science",
+          "Ephemeral key",
+          "Epistemology",
+          "Escherichia coli",
+          "Eusociality",
+          "Evolutionary biology",
+          "Evolutionary ecology",
+          "Extant taxon",
+          "Extinction (optical mineralogy)",
+          "Extinction debt",
+          "Extinction event",
+          "Extreme Cold",
+          "Extreme environment",
+          "Extreme weather",
+          "Fauna",
+          "Feeling",
+          "Fermentation",
+          "Fermentation in food processing",
+          "Fermentation starter",
+          "Filter (signal processing)",
+          "Finance",
+          "Fishery",
+          "Flavor",
+          "Flume",
+          "Food chain",
+          "Food science",
+          "Food security",
+          "Food systems",
+          "Foraging",
+          "Forensic science",
+          "Forest ecology",
+          "Fortification",
+          "Function (biology)",
+          "Fungus",
+          "Galaxy",
+          "Gall",
+          "Gastropoda",
+          "Gene",
+          "Gene expression",
+          "Gene flow",
+          "Generalist and specialist species",
+          "Genetic diversity",
+          "Genetic structure",
+          "Genetic variation",
+          "Genetics",
+          "Genome",
+          "Genome size",
+          "Genus",
+          "Geodesy",
+          "Geography",
+          "Geolocation",
+          "Geology",
+          "Geometry",
+          "German",
+          "Global change",
+          "Global warming",
+          "Grand Challenges",
+          "Greenhouse",
+          "Gut bacteria",
+          "Gut flora",
+          "Gut microbiome",
+          "HERO",
+          "Habitat",
+          "Habitat destruction",
+          "Hair follicle",
+          "Herbivore",
+          "Hexapoda",
+          "High latitude",
+          "History",
+          "Homogeneous",
+          "Honey bee",
+          "Horticulture",
+          "Host (biology)",
+          "Human Microbiome Project",
+          "Human microbiome",
+          "Human skin",
+          "Hymenoptera",
+          "Ideal (ethics)",
+          "Identification (biology)",
+          "Ignorance",
+          "Immune system",
+          "Immunity",
+          "Immunology",
+          "Impervious surface",
+          "Inbreeding",
+          "Incentive",
+          "Inclusion (mineral)",
+          "Inclusive fitness",
+          "Inference",
+          "Insect",
+          "Internal medicine",
+          "Interspecific competition",
+          "Intertidal ecology",
+          "Intertidal zone",
+          "Intraspecific competition",
+          "Intrinsic motivation",
+          "Introduced species",
+          "Invasive species",
+          "Invertebrate",
+          "Isolation (microbiology)",
+          "Isotope analysis",
+          "Keystone species",
+          "Kin selection",
+          "Lactation",
+          "Lactic acid",
+          "Lactobacillus",
+          "Lactoferrin",
+          "Lactose",
+          "Land bridge",
+          "Larva",
+          "Lasius",
+          "Latitude",
+          "Law",
+          "Leavening agent",
+          "Leverage (statistics)",
+          "Lineage (genetic)",
+          "Linguistic diversity",
+          "Linguistics",
+          "Litter",
+          "Local adaptation",
+          "Lysozyme",
+          "Machine learning",
+          "Macroecology",
+          "Macroeconomics",
+          "Maltose",
+          "Mammal",
+          "Maple",
+          "Marketing",
+          "Materials science",
+          "Mathematical analysis",
+          "Mathematics",
+          "Mathematics education",
+          "Mechanics",
+          "Median",
+          "Medical education",
+          "Medicine",
+          "Metagenomics",
+          "Meteorology",
+          "Metropolitan area",
+          "Microbial ecology",
+          "Microbial population biology",
+          "Microbiology",
+          "Microbiome",
+          "Microclimate",
+          "Microeconomics",
+          "Microorganism",
+          "Mite",
+          "Modalities",
+          "Mollusca",
+          "Montane ecology",
+          "Mutualism (biology)",
+          "Mycobacterium",
+          "Mycobacterium avium complex",
+          "Myrmecophyte",
+          "National park",
+          "Natural (archaeology)",
+          "Nectar",
+          "Neighbourhood (mathematics)",
+          "Nest (protein structural motif)",
+          "Nestedness",
+          "Net (polyhedron)",
+          "Neuroscience",
+          "Niche",
+          "Nitrogen",
+          "Nitrogen cycle",
+          "Nonparametric statistics",
+          "Nontuberculous mycobacteria",
+          "Norm (philosophy)",
+          "Northern Hemisphere",
+          "Null model",
+          "Nutrient",
+          "Occupancy",
+          "Oceanography",
+          "Omnivore",
+          "Open data",
+          "Operating system",
+          "Operations management",
+          "Organic chemistry",
+          "Outbreak",
+          "PEST analysis",
+          "Paleontology",
+          "Parallels",
+          "Parasite hosting",
+          "Pasteurization",
+          "Pathology",
+          "Pedagogy",
+          "Pet food",
+          "Pheidole",
+          "Phenology",
+          "Philosophy",
+          "Photosynthesis",
+          "Phylogenetic comparative methods",
+          "Phylogenetic diversity",
+          "Phylogenetic tree",
+          "Phylogenetics",
+          "Phylogeography",
+          "Phylotype",
+          "Physical geography",
+          "Physics",
+          "Physiology",
+          "Plant litter",
+          "Political science",
+          "Pollen",
+          "Population",
+          "Population density",
+          "Population genetics",
+          "Population growth",
+          "Prairie dog",
+          "Precipitation",
+          "Predation",
+          "Predator",
+          "Preference",
+          "Pregnancy",
+          "Prehistory",
+          "Primate",
+          "Process (computing)",
+          "Product (mathematics)",
+          "Programming language",
+          "Provenance",
+          "Psychology",
+          "Public engagement",
+          "Public relations",
+          "Pyrosequencing",
+          "Quality (philosophy)",
+          "Quantum mechanics",
+          "Rainforest",
+          "Range (aeronautics)",
+          "Rebranding",
+          "Recipe",
+          "Recombinant DNA",
+          "Redshift",
+          "Reionization",
+          "Relative species abundance",
+          "Relevance (law)",
+          "Replicate",
+          "Residence",
+          "Resource (disambiguation)",
+          "Respondent",
+          "Rest (music)",
+          "Rhinoceros",
+          "Risk assessment",
+          "Roseburia",
+          "Saccharomyces cerevisiae",
+          "Salmonella",
+          "Sample (material)",
+          "Sampling (signal processing)",
+          "Scale (ratio)",
+          "Science education",
+          "Science learning",
+          "Scientific revolution",
+          "Seasonality",
+          "Seed dispersal",
+          "Seed dispersal syndrome",
+          "Seedling",
+          "Selection (genetic algorithm)",
+          "Sensory system",
+          "Service (business)",
+          "Snail",
+          "Social group",
+          "Social media",
+          "Social network (sociolinguistics)",
+          "Social network analysis",
+          "Social psychology",
+          "Social relation",
+          "Social science",
+          "Sociality",
+          "Socioeconomic status",
+          "Socioeconomics",
+          "Sociology",
+          "Soil nutrients",
+          "Southern Hemisphere",
+          "Spatial ecology",
+          "Species distribution",
+          "Species diversity",
+          "Species evenness",
+          "Species richness",
+          "Spore",
+          "Spring (device)",
+          "Staphylococcus aureus",
+          "Staphylococcus epidermidis",
+          "Starter",
+          "Statistics",
+          "Stimulus modality",
+          "Stomach",
+          "Stomatal conductance",
+          "Structuring",
+          "Suburbanization",
+          "Sucrose",
+          "Sugar",
+          "Sustainability",
+          "Sustainability organizations",
+          "Sustainability science",
+          "Symbiosis",
+          "Symbiotic bacteria",
+          "Tardigrade",
+          "Taste",
+          "Taxon",
+          "Taxonomic rank",
+          "Temperate climate",
+          "Temperate deciduous forest",
+          "Temperate rainforest",
+          "Term (time)",
+          "Textile",
+          "The Renaissance",
+          "Thermodynamics",
+          "Threatened species",
+          "Toxicology",
+          "Trade-off",
+          "Tragedy (event)",
+          "Trait",
+          "Transcriptome",
+          "Transect",
+          "Transmission (telecommunications)",
+          "Transpiration",
+          "Transport engineering",
+          "Trophic level",
+          "Urban climate",
+          "Urban ecology",
+          "Urban ecosystem",
+          "Urban planning",
+          "Urban sprawl",
+          "Urbanization",
+          "Vagina",
+          "Value added",
+          "Variable (mathematics)",
+          "Variation (astronomy)",
+          "Vector (molecular biology)",
+          "Vertebrate",
+          "Vespoidea",
+          "Vineyard",
+          "Virology",
+          "Virulence",
+          "Water resource management",
+          "Water source",
+          "Wildlife",
+          "Wine",
+          "Workflow",
+          "World Wide Web",
+          "Yard",
+          "Yeast",
+          "Yeast in winemaking",
+          "Zoology"
+        ],
+        "host_venues": [
+          "Acta Oecologica-international Journal of Ecology",
+          "Aerobiologia",
+          "American Scientist",
+          "Animal Conservation",
+          "Animal microbiome",
+          "Annual Review of Ecology, Evolution, and Systematics",
+          "Applied and Environmental Microbiology",
+          "Applied statistics",
+          "BMC Genomics",
+          "Behavioral Ecology and Sociobiology",
+          "BioScience",
+          "Biodiversity and Conservation",
+          "Biological Conservation",
+          "Biological Invasions",
+          "Biological Journal of The Linnean Society",
+          "Biology Letters",
+          "Biotropica",
+          "Cell",
+          "Conservation Biology",
+          "Conservation Genetics",
+          "Current Anthropology",
+          "Current Biology",
+          "Current opinion in insect science",
+          "Diversity",
+          "Diversity and Distributions",
+          "Ecography",
+          "Ecological Applications",
+          "Ecological Complexity",
+          "Ecological Entomology",
+          "Ecological Modelling",
+          "Ecology",
+          "Ecology Letters",
+          "Ecology and Evolution",
+          "Ecosphere",
+          "Environmental DNA",
+          "Environmental Science & Technology",
+          "Environmental microbiome",
+          "Ethology",
+          "Forensic Science International",
+          "Forest Ecology and Management",
+          "Frontiers in Ecology and Evolution",
+          "Frontiers in Genetics",
+          "Frontiers in Microbiology",
+          "Functional Ecology",
+          "Genome Biology",
+          "Global Change Biology",
+          "Global Ecology and Biogeography",
+          "Ibis",
+          "Insect Conservation and Diversity",
+          "Insectes Sociaux",
+          "Integrative and Comparative Biology",
+          "JCOM, journal of science communication",
+          "Journal of Biogeography",
+          "Journal of Fungi",
+          "Journal of Insect Behavior",
+          "Journal of Insect Conservation",
+          "Journal of Insect Physiology",
+          "Journal of Microbiology & Biology Education",
+          "Journal of Shellfish Research",
+          "Journal of Urban Ecology",
+          "Journal of Wildlife Diseases",
+          "Journal of global antimicrobial resistance",
+          "Journal of insect science",
+          "MBio",
+          "MSystems",
+          "Marine Ecology Progress Series",
+          "Maternal and Child Nutrition",
+          "Methods in Ecology and Evolution",
+          "Microbial Ecology",
+          "Microbiology spectrum",
+          "Molecular Ecology",
+          "Nature",
+          "Nature Communications",
+          "Nature Ecology and Evolution",
+          "Nature Reviews Genetics",
+          "Nature microbiology",
+          "Nature sustainability",
+          "New Scientist",
+          "Oecologia",
+          "Oxford University Press eBooks",
+          "PLOS ONE",
+          "PeerJ",
+          "Perspectives in Plant Ecology Evolution and Systematics",
+          "Plant Cell and Environment",
+          "Plant Genetic Resources",
+          "Planta Medica",
+          "Proceedings of The Royal Society B: Biological Sciences",
+          "Proceedings of the National Academy of Sciences of the United States of America",
+          "Restoration Ecology",
+          "Royal Society Open Science",
+          "Science",
+          "Science Advances",
+          "Science of The Total Environment",
+          "Science scope",
+          "Scientific American",
+          "Scientific Reports",
+          "Southeastern Naturalist",
+          "The Annals of Applied Statistics",
+          "The ISME Journal",
+          "Trends in Ecology and Evolution",
+          "Trends in Parasitology",
+          "Urban Ecosystems",
+          "Yeast",
+          "Zoosymposia",
+          "bioRxiv",
+          "eLife",
+          "mSphere"
+        ],
+        "color": "#4156A1",
+        "size": 10
+      }
+    }
+  ],
+  "edges": [
+    {
+      "source": "uid-gabackus",
+      "target": "https://orcid.org/0000-0003-0464-0243",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Mathematics --- unknown",
+        "colleges": "College of Sciences --- unknown",
+        "buildings": "unknown --- unknown",
+        "roles": "unknown == unknown",
+        "years": [
+          2016
+        ],
+        "year_recent": 2016,
+        "dois": [
+          "10.1111/brv.12160"
+        ],
+        "ncsu?": false,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          "Prospectus",
+          "Meaning (existential)",
+          "Sequence (biology)",
+          "Field (mathematics)",
+          "Cognitive science",
+          "Biology",
+          "Computer science",
+          "Psychology",
+          "Economics",
+          "Psychotherapist",
+          "Genetics",
+          "Mathematics",
+          "Finance",
+          "Pure mathematics"
+        ],
+        "host_venues": [
+          "Biological Reviews"
+        ],
+        "color": "#000000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-gabackus",
+      "target": "https://orcid.org/0000-0001-5793-9244",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Mathematics --- unknown",
+        "colleges": "College of Sciences --- unknown",
+        "buildings": "unknown --- unknown",
+        "roles": "unknown == unknown",
+        "years": [
+          2016
+        ],
+        "year_recent": 2016,
+        "dois": [
+          "10.1111/brv.12160"
+        ],
+        "ncsu?": false,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          "Prospectus",
+          "Meaning (existential)",
+          "Sequence (biology)",
+          "Field (mathematics)",
+          "Cognitive science",
+          "Biology",
+          "Computer science",
+          "Psychology",
+          "Economics",
+          "Psychotherapist",
+          "Genetics",
+          "Mathematics",
+          "Finance",
+          "Pure mathematics"
+        ],
+        "host_venues": [
+          "Biological Reviews"
+        ],
+        "color": "#000000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-gabackus",
+      "target": "https://orcid.org/0000-0002-0687-2059",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Mathematics --- unknown",
+        "colleges": "College of Sciences --- unknown",
+        "buildings": "unknown --- unknown",
+        "roles": "unknown == unknown",
+        "years": [
+          2016
+        ],
+        "year_recent": 2016,
+        "dois": [
+          "10.1111/brv.12160"
+        ],
+        "ncsu?": false,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          "Prospectus",
+          "Meaning (existential)",
+          "Sequence (biology)",
+          "Field (mathematics)",
+          "Cognitive science",
+          "Biology",
+          "Computer science",
+          "Psychology",
+          "Economics",
+          "Psychotherapist",
+          "Genetics",
+          "Mathematics",
+          "Finance",
+          "Pure mathematics"
+        ],
+        "host_venues": [
+          "Biological Reviews"
+        ],
+        "color": "#000000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-gabackus",
+      "target": "https://orcid.org/0000-0003-0635-9586",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Mathematics --- unknown",
+        "colleges": "College of Sciences --- unknown",
+        "buildings": "unknown --- unknown",
+        "roles": "unknown == unknown",
+        "years": [
+          2016
+        ],
+        "year_recent": 2016,
+        "dois": [
+          "10.1111/brv.12160"
+        ],
+        "ncsu?": false,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          "Prospectus",
+          "Meaning (existential)",
+          "Sequence (biology)",
+          "Field (mathematics)",
+          "Cognitive science",
+          "Biology",
+          "Computer science",
+          "Psychology",
+          "Economics",
+          "Psychotherapist",
+          "Genetics",
+          "Mathematics",
+          "Finance",
+          "Pure mathematics"
+        ],
+        "host_venues": [
+          "Biological Reviews"
+        ],
+        "color": "#000000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-gabackus",
+      "target": "https://orcid.org/0000-0002-6770-9730",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Mathematics --- unknown",
+        "colleges": "College of Sciences --- unknown",
+        "buildings": "unknown --- unknown",
+        "roles": "unknown == unknown",
+        "years": [
+          2016
+        ],
+        "year_recent": 2016,
+        "dois": [
+          "10.1111/brv.12160"
+        ],
+        "ncsu?": false,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          "Prospectus",
+          "Meaning (existential)",
+          "Sequence (biology)",
+          "Field (mathematics)",
+          "Cognitive science",
+          "Biology",
+          "Computer science",
+          "Psychology",
+          "Economics",
+          "Psychotherapist",
+          "Genetics",
+          "Mathematics",
+          "Finance",
+          "Pure mathematics"
+        ],
+        "host_venues": [
+          "Biological Reviews"
+        ],
+        "color": "#000000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-gabackus",
+      "target": "https://orcid.org/0000-0002-8405-3833",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Mathematics --- unknown",
+        "colleges": "College of Sciences --- unknown",
+        "buildings": "unknown --- unknown",
+        "roles": "unknown == unknown",
+        "years": [
+          2016
+        ],
+        "year_recent": 2016,
+        "dois": [
+          "10.1111/brv.12160"
+        ],
+        "ncsu?": false,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          "Prospectus",
+          "Meaning (existential)",
+          "Sequence (biology)",
+          "Field (mathematics)",
+          "Cognitive science",
+          "Biology",
+          "Computer science",
+          "Psychology",
+          "Economics",
+          "Psychotherapist",
+          "Genetics",
+          "Mathematics",
+          "Finance",
+          "Pure mathematics"
+        ],
+        "host_venues": [
+          "Biological Reviews"
+        ],
+        "color": "#000000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-gabackus",
+      "target": "yancao",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Mathematics --- unknown",
+        "colleges": "College of Sciences --- unknown",
+        "buildings": "unknown --- unknown",
+        "roles": "unknown == unknown",
+        "years": [
+          2016
+        ],
+        "year_recent": 2016,
+        "dois": [
+          "10.1111/brv.12160"
+        ],
+        "ncsu?": false,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          "Prospectus",
+          "Meaning (existential)",
+          "Sequence (biology)",
+          "Field (mathematics)",
+          "Cognitive science",
+          "Biology",
+          "Computer science",
+          "Psychology",
+          "Economics",
+          "Psychotherapist",
+          "Genetics",
+          "Mathematics",
+          "Finance",
+          "Pure mathematics"
+        ],
+        "host_venues": [
+          "Biological Reviews"
+        ],
+        "color": "#000000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-gabackus",
+      "target": "https://orcid.org/0000-0001-6933-5501",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Mathematics --- unknown",
+        "colleges": "College of Sciences --- unknown",
+        "buildings": "unknown --- unknown",
+        "roles": "unknown == unknown",
+        "years": [
+          2016
+        ],
+        "year_recent": 2016,
+        "dois": [
+          "10.1111/brv.12160"
+        ],
+        "ncsu?": false,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          "Prospectus",
+          "Meaning (existential)",
+          "Sequence (biology)",
+          "Field (mathematics)",
+          "Cognitive science",
+          "Biology",
+          "Computer science",
+          "Psychology",
+          "Economics",
+          "Psychotherapist",
+          "Genetics",
+          "Mathematics",
+          "Finance",
+          "Pure mathematics"
+        ],
+        "host_venues": [
+          "Biological Reviews"
+        ],
+        "color": "#000000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-gabackus",
+      "target": "cristianecsar",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Mathematics --- unknown",
+        "colleges": "College of Sciences --- unknown",
+        "buildings": "unknown --- unknown",
+        "roles": "unknown == unknown",
+        "years": [
+          2016
+        ],
+        "year_recent": 2016,
+        "dois": [
+          "10.1111/brv.12160"
+        ],
+        "ncsu?": false,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          "Prospectus",
+          "Meaning (existential)",
+          "Sequence (biology)",
+          "Field (mathematics)",
+          "Cognitive science",
+          "Biology",
+          "Computer science",
+          "Psychology",
+          "Economics",
+          "Psychotherapist",
+          "Genetics",
+          "Mathematics",
+          "Finance",
+          "Pure mathematics"
+        ],
+        "host_venues": [
+          "Biological Reviews"
+        ],
+        "color": "#000000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-gabackus",
+      "target": "michaelhcoen",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Mathematics --- unknown",
+        "colleges": "College of Sciences --- unknown",
+        "buildings": "unknown --- unknown",
+        "roles": "unknown == unknown",
+        "years": [
+          2016
+        ],
+        "year_recent": 2016,
+        "dois": [
+          "10.1111/brv.12160"
+        ],
+        "ncsu?": false,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          "Prospectus",
+          "Meaning (existential)",
+          "Sequence (biology)",
+          "Field (mathematics)",
+          "Cognitive science",
+          "Biology",
+          "Computer science",
+          "Psychology",
+          "Economics",
+          "Psychotherapist",
+          "Genetics",
+          "Mathematics",
+          "Finance",
+          "Pure mathematics"
+        ],
+        "host_venues": [
+          "Biological Reviews"
+        ],
+        "color": "#000000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-gabackus",
+      "target": "https://orcid.org/0000-0002-0571-0306",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Mathematics --- unknown",
+        "colleges": "College of Sciences --- unknown",
+        "buildings": "unknown --- unknown",
+        "roles": "unknown == unknown",
+        "years": [
+          2016
+        ],
+        "year_recent": 2016,
+        "dois": [
+          "10.1111/brv.12160"
+        ],
+        "ncsu?": false,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          "Prospectus",
+          "Meaning (existential)",
+          "Sequence (biology)",
+          "Field (mathematics)",
+          "Cognitive science",
+          "Biology",
+          "Computer science",
+          "Psychology",
+          "Economics",
+          "Psychotherapist",
+          "Genetics",
+          "Mathematics",
+          "Finance",
+          "Pure mathematics"
+        ],
+        "host_venues": [
+          "Biological Reviews"
+        ],
+        "color": "#000000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-gabackus",
+      "target": "laurancerdoyle",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Mathematics --- unknown",
+        "colleges": "College of Sciences --- unknown",
+        "buildings": "unknown --- unknown",
+        "roles": "unknown == unknown",
+        "years": [
+          2016
+        ],
+        "year_recent": 2016,
+        "dois": [
+          "10.1111/brv.12160"
+        ],
+        "ncsu?": false,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          "Prospectus",
+          "Meaning (existential)",
+          "Sequence (biology)",
+          "Field (mathematics)",
+          "Cognitive science",
+          "Biology",
+          "Computer science",
+          "Psychology",
+          "Economics",
+          "Psychotherapist",
+          "Genetics",
+          "Mathematics",
+          "Finance",
+          "Pure mathematics"
+        ],
+        "host_venues": [
+          "Biological Reviews"
+        ],
+        "color": "#000000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-gabackus",
+      "target": "https://orcid.org/0000-0003-1715-7728",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Mathematics --- unknown",
+        "colleges": "College of Sciences --- unknown",
+        "buildings": "unknown --- unknown",
+        "roles": "unknown == unknown",
+        "years": [
+          2016
+        ],
+        "year_recent": 2016,
+        "dois": [
+          "10.1111/brv.12160"
+        ],
+        "ncsu?": false,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          "Prospectus",
+          "Meaning (existential)",
+          "Sequence (biology)",
+          "Field (mathematics)",
+          "Cognitive science",
+          "Biology",
+          "Computer science",
+          "Psychology",
+          "Economics",
+          "Psychotherapist",
+          "Genetics",
+          "Mathematics",
+          "Finance",
+          "Pure mathematics"
+        ],
+        "host_venues": [
+          "Biological Reviews"
+        ],
+        "color": "#000000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-gabackus",
+      "target": "https://orcid.org/0000-0002-7820-923X",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Mathematics --- unknown",
+        "colleges": "College of Sciences --- unknown",
+        "buildings": "unknown --- unknown",
+        "roles": "unknown == unknown",
+        "years": [
+          2016
+        ],
+        "year_recent": 2016,
+        "dois": [
+          "10.1111/brv.12160"
+        ],
+        "ncsu?": false,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          "Prospectus",
+          "Meaning (existential)",
+          "Sequence (biology)",
+          "Field (mathematics)",
+          "Cognitive science",
+          "Biology",
+          "Computer science",
+          "Psychology",
+          "Economics",
+          "Psychotherapist",
+          "Genetics",
+          "Mathematics",
+          "Finance",
+          "Pure mathematics"
+        ],
+        "host_venues": [
+          "Biological Reviews"
+        ],
+        "color": "#000000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-gabackus",
+      "target": "https://orcid.org/0000-0003-3807-4147",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Mathematics --- unknown",
+        "colleges": "College of Sciences --- unknown",
+        "buildings": "unknown --- unknown",
+        "roles": "unknown == unknown",
+        "years": [
+          2016
+        ],
+        "year_recent": 2016,
+        "dois": [
+          "10.1111/brv.12160"
+        ],
+        "ncsu?": false,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          "Prospectus",
+          "Meaning (existential)",
+          "Sequence (biology)",
+          "Field (mathematics)",
+          "Cognitive science",
+          "Biology",
+          "Computer science",
+          "Psychology",
+          "Economics",
+          "Psychotherapist",
+          "Genetics",
+          "Mathematics",
+          "Finance",
+          "Pure mathematics"
+        ],
+        "host_venues": [
+          "Biological Reviews"
+        ],
+        "color": "#000000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-gabackus",
+      "target": "https://orcid.org/0000-0002-8240-1267",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Mathematics --- unknown",
+        "colleges": "College of Sciences --- unknown",
+        "buildings": "unknown --- unknown",
+        "roles": "unknown == unknown",
+        "years": [
+          2016
+        ],
+        "year_recent": 2016,
+        "dois": [
+          "10.1111/brv.12160"
+        ],
+        "ncsu?": false,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          "Prospectus",
+          "Meaning (existential)",
+          "Sequence (biology)",
+          "Field (mathematics)",
+          "Cognitive science",
+          "Biology",
+          "Computer science",
+          "Psychology",
+          "Economics",
+          "Psychotherapist",
+          "Genetics",
+          "Mathematics",
+          "Finance",
+          "Pure mathematics"
+        ],
+        "host_venues": [
+          "Biological Reviews"
+        ],
+        "color": "#000000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-gabackus",
+      "target": "https://orcid.org/0000-0002-1162-8966",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Mathematics --- unknown",
+        "colleges": "College of Sciences --- unknown",
+        "buildings": "unknown --- unknown",
+        "roles": "unknown == unknown",
+        "years": [
+          2016
+        ],
+        "year_recent": 2016,
+        "dois": [
+          "10.1111/brv.12160"
+        ],
+        "ncsu?": false,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          "Prospectus",
+          "Meaning (existential)",
+          "Sequence (biology)",
+          "Field (mathematics)",
+          "Cognitive science",
+          "Biology",
+          "Computer science",
+          "Psychology",
+          "Economics",
+          "Psychotherapist",
+          "Genetics",
+          "Mathematics",
+          "Finance",
+          "Pure mathematics"
+        ],
+        "host_venues": [
+          "Biological Reviews"
+        ],
+        "color": "#000000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-gabackus",
+      "target": "uid-krgross",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Mathematics -- Statistics",
+        "colleges": "College of Sciences == College of Sciences",
+        "buildings": "David Clark Labs --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          2016
+        ],
+        "year_recent": 2016,
+        "dois": [
+
+        ],
+        "ncsu?": true,
+        "cross_college?": false,
+        "cross_department?": true,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": true,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          null
+        ],
+        "color": "#CC0000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-gabackus",
+      "target": "uid-mjust",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Mathematics -- Plant Biology",
+        "colleges": "College of Agriculture and Life Sciences -- College of Sciences",
+        "buildings": "Gardner Hall --- unknown",
+        "roles": "staff --- unknown",
+        "years": [
+          2014
+        ],
+        "year_recent": 2014,
+        "dois": [
+          "10.1890/es14-00201.1"
+        ],
+        "ncsu?": true,
+        "cross_college?": true,
+        "cross_department?": true,
+        "cross_unit?": true,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          "Biogeography",
+          "Biology",
+          "Ecology",
+          "Wildlife",
+          "Evolutionary biology"
+        ],
+        "host_venues": [
+          "Ecosphere"
+        ],
+        "color": "#FAC800",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-gabackus",
+      "target": "uid-jfnorton",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Mathematics == Mathematics",
+        "colleges": "College of Sciences == College of Sciences",
+        "buildings": "unknown --- unknown",
+        "roles": "unknown == unknown",
+        "years": [
+          2014
+        ],
+        "year_recent": 2014,
+        "dois": [
+          "10.1890/es14-00201.1"
+        ],
+        "ncsu?": true,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          "Biogeography",
+          "Biology",
+          "Ecology",
+          "Wildlife",
+          "Evolutionary biology"
+        ],
+        "host_venues": [
+          "Ecosphere"
+        ],
+        "color": "#CC0000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-gabackus",
+      "target": "uid-altraud",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Biological Sciences -- Mathematics",
+        "colleges": "College of Sciences == College of Sciences",
+        "buildings": "unknown --- unknown",
+        "roles": "unknown == unknown",
+        "years": [
+          2014
+        ],
+        "year_recent": 2014,
+        "dois": [
+          "10.1890/es14-00201.1"
+        ],
+        "ncsu?": true,
+        "cross_college?": false,
+        "cross_department?": true,
+        "cross_unit?": true,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          "Biogeography",
+          "Biology",
+          "Ecology",
+          "Wildlife",
+          "Evolutionary biology"
+        ],
+        "host_venues": [
+          "Ecosphere"
+        ],
+        "color": "#CC0000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-gabackus",
+      "target": "uid-tdantone",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Mathematics -- Statistics",
+        "colleges": "College of Sciences == College of Sciences",
+        "buildings": "unknown --- unknown",
+        "roles": "unknown == unknown",
+        "years": [
+          2014
+        ],
+        "year_recent": 2014,
+        "dois": [
+          "10.1890/es14-00201.1"
+        ],
+        "ncsu?": true,
+        "cross_college?": false,
+        "cross_department?": true,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": true,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          "Biogeography",
+          "Biology",
+          "Ecology",
+          "Wildlife",
+          "Evolutionary biology"
+        ],
+        "host_venues": [
+          "Ecosphere"
+        ],
+        "color": "#CC0000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-gabackus",
+      "target": "uid-aspoteat",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Mathematics -- Sociology & Anthropology",
+        "colleges": "College of Humanities and Social Sciences -- College of Sciences",
+        "buildings": "unknown --- unknown",
+        "roles": "unknown == unknown",
+        "years": [
+          2014
+        ],
+        "year_recent": 2014,
+        "dois": [
+          "10.1890/es14-00201.1"
+        ],
+        "ncsu?": true,
+        "cross_college?": true,
+        "cross_department?": true,
+        "cross_unit?": true,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          "Biogeography",
+          "Biology",
+          "Ecology",
+          "Wildlife",
+          "Evolutionary biology"
+        ],
+        "host_venues": [
+          "Ecosphere"
+        ],
+        "color": "#FAC800",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-gabackus",
+      "target": "uid-aesnyder",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Mathematics == Mathematics",
+        "colleges": "College of Sciences == College of Sciences",
+        "buildings": "unknown --- unknown",
+        "roles": "unknown == unknown",
+        "years": [
+          2014
+        ],
+        "year_recent": 2014,
+        "dois": [
+          "10.1890/es14-00201.1"
+        ],
+        "ncsu?": true,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          "Biogeography",
+          "Biology",
+          "Ecology",
+          "Wildlife",
+          "Evolutionary biology"
+        ],
+        "host_venues": [
+          "Ecosphere"
+        ],
+        "color": "#CC0000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-gabackus",
+      "target": "uid-rwsander",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Mathematics -- Plant Biology",
+        "colleges": "College of Agriculture and Life Sciences -- College of Sciences",
+        "buildings": "unknown --- unknown",
+        "roles": "student --- unknown",
+        "years": [
+          2014
+        ],
+        "year_recent": 2014,
+        "dois": [
+          "10.1890/es14-00201.1"
+        ],
+        "ncsu?": true,
+        "cross_college?": true,
+        "cross_department?": true,
+        "cross_unit?": true,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          "Biogeography",
+          "Biology",
+          "Ecology",
+          "Wildlife",
+          "Evolutionary biology"
+        ],
+        "host_venues": [
+          "Ecosphere"
+        ],
+        "color": "#FAC800",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-gabackus",
+      "target": "uid-rrdunn",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Biological Sciences -- Mathematics",
+        "colleges": "College of Sciences == College of Sciences",
+        "buildings": "Holladay Hall --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          2014
+        ],
+        "year_recent": 2014,
+        "dois": [
+          "10.1890/es14-00201.1"
+        ],
+        "ncsu?": true,
+        "cross_college?": false,
+        "cross_department?": true,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": true,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society",
+          "Global Water, Sanitation and Hygiene",
+          "Leadership in Public Science"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          "Biogeography",
+          "Biology",
+          "Ecology",
+          "Wildlife",
+          "Evolutionary biology"
+        ],
+        "host_venues": [
+          "Ecosphere"
+        ],
+        "color": "#CC0000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-krgross",
+      "target": "uid-aesnyder",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Mathematics -- Statistics",
+        "colleges": "College of Sciences == College of Sciences",
+        "buildings": "David Clark Labs --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          2016
+        ],
+        "year_recent": 2016,
+        "dois": [
+          "10.1086/688171"
+        ],
+        "ncsu?": true,
+        "cross_college?": false,
+        "cross_department?": true,
+        "cross_unit?": true,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          "The American Naturalist"
+        ],
+        "color": "#CC0000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-krgross",
+      "target": "uid-rrdunn",
+      "attributes": {
+        "label": 2,
+        "weight": 2,
+        "collaboration_count": 2,
+        "departments": "Biological Sciences -- Statistics",
+        "colleges": "College of Sciences == College of Sciences",
+        "buildings": "David Clark Labs -- Holladay Hall",
+        "roles": "faculty == faculty",
+        "years": [
+          2012,
+          2010
+        ],
+        "year_recent": 2012,
+        "dois": [
+          "10.1016/j.actao.2012.02.004",
+          "10.1098/rsbl.2010.0151"
+        ],
+        "ncsu?": true,
+        "cross_college?": false,
+        "cross_department?": true,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": true,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society",
+          "Global Water, Sanitation and Hygiene",
+          "Leadership in Public Science"
+        ],
+        "cross_building?": true,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          "Acta Oecologica-international Journal of Ecology"
+        ],
+        "color": "#CC0000",
+        "size": 2
+      }
+    },
+    {
+      "source": "uid-mjust",
+      "target": "uid-rrdunn",
+      "attributes": {
+        "label": 2,
+        "weight": 2,
+        "collaboration_count": 2,
+        "departments": "Biological Sciences -- Plant Biology",
+        "colleges": "College of Agriculture and Life Sciences -- College of Sciences",
+        "buildings": "Gardner Hall -- Holladay Hall",
+        "roles": "faculty -- staff",
+        "years": [
+          2019,
+          2014
+        ],
+        "year_recent": 2019,
+        "dois": [
+          "10.1098/rsos.180695",
+          "10.1890/es14-00201.1"
+        ],
+        "ncsu?": true,
+        "cross_college?": true,
+        "cross_department?": true,
+        "cross_unit?": true,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society",
+          "Global Water, Sanitation and Hygiene",
+          "Leadership in Public Science"
+        ],
+        "cross_building?": true,
+        "concepts": [
+          "Climate change",
+          "Preference",
+          "Selection (genetic algorithm)",
+          "Climate zones",
+          "Distribution (mathematics)",
+          "Geography",
+          "Environmental science",
+          "Climate model",
+          "Ecology",
+          "Environmental resource management",
+          "Physical geography",
+          "Computer science",
+          "Statistics",
+          "Biology",
+          "Mathematics",
+          "Mathematical analysis",
+          "Artificial intelligence"
+        ],
+        "host_venues": [
+          "Royal Society Open Science"
+        ],
+        "color": "#FAC800",
+        "size": 2
+      }
+    },
+    {
+      "source": "uid-mjust",
+      "target": "uid-jfnorton",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Mathematics -- Plant Biology",
+        "colleges": "College of Agriculture and Life Sciences -- College of Sciences",
+        "buildings": "Gardner Hall --- unknown",
+        "roles": "staff --- unknown",
+        "years": [
+          2014
+        ],
+        "year_recent": 2014,
+        "dois": [
+          "10.1890/es14-00201.1"
+        ],
+        "ncsu?": true,
+        "cross_college?": true,
+        "cross_department?": true,
+        "cross_unit?": true,
+        "cluster?": false,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+
+        ],
+        "cross_building?": false,
+        "concepts": [
+          "Biogeography",
+          "Biology",
+          "Ecology",
+          "Wildlife",
+          "Evolutionary biology"
+        ],
+        "host_venues": [
+          "Ecosphere"
+        ],
+        "color": "#FAC800",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-mjust",
+      "target": "uid-altraud",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Biological Sciences -- Plant Biology",
+        "colleges": "College of Agriculture and Life Sciences -- College of Sciences",
+        "buildings": "Gardner Hall --- unknown",
+        "roles": "staff --- unknown",
+        "years": [
+          2014
+        ],
+        "year_recent": 2014,
+        "dois": [
+          "10.1890/es14-00201.1"
+        ],
+        "ncsu?": true,
+        "cross_college?": true,
+        "cross_department?": true,
+        "cross_unit?": true,
+        "cluster?": false,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+
+        ],
+        "cross_building?": false,
+        "concepts": [
+          "Biogeography",
+          "Biology",
+          "Ecology",
+          "Wildlife",
+          "Evolutionary biology"
+        ],
+        "host_venues": [
+          "Ecosphere"
+        ],
+        "color": "#FAC800",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-mjust",
+      "target": "uid-tdantone",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Plant Biology -- Statistics",
+        "colleges": "College of Agriculture and Life Sciences -- College of Sciences",
+        "buildings": "Gardner Hall --- unknown",
+        "roles": "staff --- unknown",
+        "years": [
+          2014
+        ],
+        "year_recent": 2014,
+        "dois": [
+          "10.1890/es14-00201.1"
+        ],
+        "ncsu?": true,
+        "cross_college?": true,
+        "cross_department?": true,
+        "cross_unit?": true,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          "Biogeography",
+          "Biology",
+          "Ecology",
+          "Wildlife",
+          "Evolutionary biology"
+        ],
+        "host_venues": [
+          "Ecosphere"
+        ],
+        "color": "#FAC800",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-mjust",
+      "target": "uid-aspoteat",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Plant Biology -- Sociology & Anthropology",
+        "colleges": "College of Agriculture and Life Sciences -- College of Humanities and Social Sciences",
+        "buildings": "Gardner Hall --- unknown",
+        "roles": "staff --- unknown",
+        "years": [
+          2014
+        ],
+        "year_recent": 2014,
+        "dois": [
+          "10.1890/es14-00201.1"
+        ],
+        "ncsu?": true,
+        "cross_college?": true,
+        "cross_department?": true,
+        "cross_unit?": true,
+        "cluster?": false,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+
+        ],
+        "cross_building?": false,
+        "concepts": [
+          "Biogeography",
+          "Biology",
+          "Ecology",
+          "Wildlife",
+          "Evolutionary biology"
+        ],
+        "host_venues": [
+          "Ecosphere"
+        ],
+        "color": "#FAC800",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-mjust",
+      "target": "uid-aesnyder",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Mathematics -- Plant Biology",
+        "colleges": "College of Agriculture and Life Sciences -- College of Sciences",
+        "buildings": "Gardner Hall --- unknown",
+        "roles": "staff --- unknown",
+        "years": [
+          2014
+        ],
+        "year_recent": 2014,
+        "dois": [
+          "10.1890/es14-00201.1"
+        ],
+        "ncsu?": true,
+        "cross_college?": true,
+        "cross_department?": true,
+        "cross_unit?": true,
+        "cluster?": false,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+
+        ],
+        "cross_building?": false,
+        "concepts": [
+          "Biogeography",
+          "Biology",
+          "Ecology",
+          "Wildlife",
+          "Evolutionary biology"
+        ],
+        "host_venues": [
+          "Ecosphere"
+        ],
+        "color": "#FAC800",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-mjust",
+      "target": "uid-rwsander",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Plant Biology == Plant Biology",
+        "colleges": "College of Agriculture and Life Sciences == College of Agriculture and Life Sciences",
+        "buildings": "Gardner Hall --- unknown",
+        "roles": "staff -- student",
+        "years": [
+          2014
+        ],
+        "year_recent": 2014,
+        "dois": [
+          "10.1890/es14-00201.1"
+        ],
+        "ncsu?": true,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": false,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+
+        ],
+        "cross_building?": false,
+        "concepts": [
+          "Biogeography",
+          "Biology",
+          "Ecology",
+          "Wildlife",
+          "Evolutionary biology"
+        ],
+        "host_venues": [
+          "Ecosphere"
+        ],
+        "color": "#CC0000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-jfnorton",
+      "target": "uid-altraud",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Biological Sciences -- Mathematics",
+        "colleges": "College of Sciences == College of Sciences",
+        "buildings": "unknown --- unknown",
+        "roles": "unknown == unknown",
+        "years": [
+          2014
+        ],
+        "year_recent": 2014,
+        "dois": [
+          "10.1890/es14-00201.1"
+        ],
+        "ncsu?": true,
+        "cross_college?": false,
+        "cross_department?": true,
+        "cross_unit?": true,
+        "cluster?": false,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+
+        ],
+        "cross_building?": false,
+        "concepts": [
+          "Biogeography",
+          "Biology",
+          "Ecology",
+          "Wildlife",
+          "Evolutionary biology"
+        ],
+        "host_venues": [
+          "Ecosphere"
+        ],
+        "color": "#CC0000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-jfnorton",
+      "target": "uid-tdantone",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Mathematics -- Statistics",
+        "colleges": "College of Sciences == College of Sciences",
+        "buildings": "unknown --- unknown",
+        "roles": "unknown == unknown",
+        "years": [
+          2014
+        ],
+        "year_recent": 2014,
+        "dois": [
+          "10.1890/es14-00201.1"
+        ],
+        "ncsu?": true,
+        "cross_college?": false,
+        "cross_department?": true,
+        "cross_unit?": true,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          "Biogeography",
+          "Biology",
+          "Ecology",
+          "Wildlife",
+          "Evolutionary biology"
+        ],
+        "host_venues": [
+          "Ecosphere"
+        ],
+        "color": "#CC0000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-jfnorton",
+      "target": "uid-aspoteat",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Mathematics -- Sociology & Anthropology",
+        "colleges": "College of Humanities and Social Sciences -- College of Sciences",
+        "buildings": "unknown --- unknown",
+        "roles": "unknown == unknown",
+        "years": [
+          2014
+        ],
+        "year_recent": 2014,
+        "dois": [
+          "10.1890/es14-00201.1"
+        ],
+        "ncsu?": true,
+        "cross_college?": true,
+        "cross_department?": true,
+        "cross_unit?": true,
+        "cluster?": false,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+
+        ],
+        "cross_building?": false,
+        "concepts": [
+          "Biogeography",
+          "Biology",
+          "Ecology",
+          "Wildlife",
+          "Evolutionary biology"
+        ],
+        "host_venues": [
+          "Ecosphere"
+        ],
+        "color": "#FAC800",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-jfnorton",
+      "target": "uid-aesnyder",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Mathematics == Mathematics",
+        "colleges": "College of Sciences == College of Sciences",
+        "buildings": "unknown --- unknown",
+        "roles": "unknown == unknown",
+        "years": [
+          2014
+        ],
+        "year_recent": 2014,
+        "dois": [
+          "10.1890/es14-00201.1"
+        ],
+        "ncsu?": true,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": false,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+
+        ],
+        "cross_building?": false,
+        "concepts": [
+          "Biogeography",
+          "Biology",
+          "Ecology",
+          "Wildlife",
+          "Evolutionary biology"
+        ],
+        "host_venues": [
+          "Ecosphere"
+        ],
+        "color": "#CC0000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-jfnorton",
+      "target": "uid-rwsander",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Mathematics -- Plant Biology",
+        "colleges": "College of Agriculture and Life Sciences -- College of Sciences",
+        "buildings": "unknown --- unknown",
+        "roles": "student --- unknown",
+        "years": [
+          2014
+        ],
+        "year_recent": 2014,
+        "dois": [
+          "10.1890/es14-00201.1"
+        ],
+        "ncsu?": true,
+        "cross_college?": true,
+        "cross_department?": true,
+        "cross_unit?": true,
+        "cluster?": false,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+
+        ],
+        "cross_building?": false,
+        "concepts": [
+          "Biogeography",
+          "Biology",
+          "Ecology",
+          "Wildlife",
+          "Evolutionary biology"
+        ],
+        "host_venues": [
+          "Ecosphere"
+        ],
+        "color": "#FAC800",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-jfnorton",
+      "target": "uid-rrdunn",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Biological Sciences -- Mathematics",
+        "colleges": "College of Sciences == College of Sciences",
+        "buildings": "Holladay Hall --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          2014
+        ],
+        "year_recent": 2014,
+        "dois": [
+          "10.1890/es14-00201.1"
+        ],
+        "ncsu?": true,
+        "cross_college?": false,
+        "cross_department?": true,
+        "cross_unit?": true,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society",
+          "Global Water, Sanitation and Hygiene",
+          "Leadership in Public Science"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          "Biogeography",
+          "Biology",
+          "Ecology",
+          "Wildlife",
+          "Evolutionary biology"
+        ],
+        "host_venues": [
+          "Ecosphere"
+        ],
+        "color": "#CC0000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-altraud",
+      "target": "uid-tdantone",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Biological Sciences -- Statistics",
+        "colleges": "College of Sciences == College of Sciences",
+        "buildings": "unknown --- unknown",
+        "roles": "unknown == unknown",
+        "years": [
+          2014
+        ],
+        "year_recent": 2014,
+        "dois": [
+          "10.1890/es14-00201.1"
+        ],
+        "ncsu?": true,
+        "cross_college?": false,
+        "cross_department?": true,
+        "cross_unit?": true,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          "Biogeography",
+          "Biology",
+          "Ecology",
+          "Wildlife",
+          "Evolutionary biology"
+        ],
+        "host_venues": [
+          "Ecosphere"
+        ],
+        "color": "#CC0000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-altraud",
+      "target": "uid-aspoteat",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Biological Sciences -- Sociology & Anthropology",
+        "colleges": "College of Humanities and Social Sciences -- College of Sciences",
+        "buildings": "unknown --- unknown",
+        "roles": "unknown == unknown",
+        "years": [
+          2014
+        ],
+        "year_recent": 2014,
+        "dois": [
+          "10.1890/es14-00201.1"
+        ],
+        "ncsu?": true,
+        "cross_college?": true,
+        "cross_department?": true,
+        "cross_unit?": true,
+        "cluster?": false,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+
+        ],
+        "cross_building?": false,
+        "concepts": [
+          "Biogeography",
+          "Biology",
+          "Ecology",
+          "Wildlife",
+          "Evolutionary biology"
+        ],
+        "host_venues": [
+          "Ecosphere"
+        ],
+        "color": "#FAC800",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-altraud",
+      "target": "uid-aesnyder",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Biological Sciences -- Mathematics",
+        "colleges": "College of Sciences == College of Sciences",
+        "buildings": "unknown --- unknown",
+        "roles": "unknown == unknown",
+        "years": [
+          2014
+        ],
+        "year_recent": 2014,
+        "dois": [
+          "10.1890/es14-00201.1"
+        ],
+        "ncsu?": true,
+        "cross_college?": false,
+        "cross_department?": true,
+        "cross_unit?": true,
+        "cluster?": false,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+
+        ],
+        "cross_building?": false,
+        "concepts": [
+          "Biogeography",
+          "Biology",
+          "Ecology",
+          "Wildlife",
+          "Evolutionary biology"
+        ],
+        "host_venues": [
+          "Ecosphere"
+        ],
+        "color": "#CC0000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-altraud",
+      "target": "uid-rwsander",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Biological Sciences -- Plant Biology",
+        "colleges": "College of Agriculture and Life Sciences -- College of Sciences",
+        "buildings": "unknown --- unknown",
+        "roles": "student --- unknown",
+        "years": [
+          2014
+        ],
+        "year_recent": 2014,
+        "dois": [
+          "10.1890/es14-00201.1"
+        ],
+        "ncsu?": true,
+        "cross_college?": true,
+        "cross_department?": true,
+        "cross_unit?": true,
+        "cluster?": false,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+
+        ],
+        "cross_building?": false,
+        "concepts": [
+          "Biogeography",
+          "Biology",
+          "Ecology",
+          "Wildlife",
+          "Evolutionary biology"
+        ],
+        "host_venues": [
+          "Ecosphere"
+        ],
+        "color": "#FAC800",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-altraud",
+      "target": "uid-rrdunn",
+      "attributes": {
+        "label": 2,
+        "weight": 2,
+        "collaboration_count": 2,
+        "departments": "Biological Sciences == Biological Sciences",
+        "colleges": "College of Sciences == College of Sciences",
+        "buildings": "Holladay Hall --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          2014,
+          2014
+        ],
+        "year_recent": 2014,
+        "dois": [
+          "10.1890/es14-00201.1",
+          "10.1016/j.ecocom.2014.06.003"
+        ],
+        "ncsu?": true,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society",
+          "Global Water, Sanitation and Hygiene",
+          "Leadership in Public Science"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          "Biogeography",
+          "Biology",
+          "Ecology",
+          "Wildlife",
+          "Evolutionary biology"
+        ],
+        "host_venues": [
+          "Ecosphere"
+        ],
+        "color": "#CC0000",
+        "size": 2
+      }
+    },
+    {
+      "source": "uid-tdantone",
+      "target": "uid-aspoteat",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Sociology & Anthropology -- Statistics",
+        "colleges": "College of Humanities and Social Sciences -- College of Sciences",
+        "buildings": "unknown --- unknown",
+        "roles": "unknown == unknown",
+        "years": [
+          2014
+        ],
+        "year_recent": 2014,
+        "dois": [
+          "10.1890/es14-00201.1"
+        ],
+        "ncsu?": true,
+        "cross_college?": true,
+        "cross_department?": true,
+        "cross_unit?": true,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          "Biogeography",
+          "Biology",
+          "Ecology",
+          "Wildlife",
+          "Evolutionary biology"
+        ],
+        "host_venues": [
+          "Ecosphere"
+        ],
+        "color": "#FAC800",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-tdantone",
+      "target": "uid-aesnyder",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Mathematics -- Statistics",
+        "colleges": "College of Sciences == College of Sciences",
+        "buildings": "unknown --- unknown",
+        "roles": "unknown == unknown",
+        "years": [
+          2014
+        ],
+        "year_recent": 2014,
+        "dois": [
+          "10.1890/es14-00201.1"
+        ],
+        "ncsu?": true,
+        "cross_college?": false,
+        "cross_department?": true,
+        "cross_unit?": true,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          "Biogeography",
+          "Biology",
+          "Ecology",
+          "Wildlife",
+          "Evolutionary biology"
+        ],
+        "host_venues": [
+          "Ecosphere"
+        ],
+        "color": "#CC0000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-tdantone",
+      "target": "uid-rwsander",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Plant Biology -- Statistics",
+        "colleges": "College of Agriculture and Life Sciences -- College of Sciences",
+        "buildings": "unknown --- unknown",
+        "roles": "student --- unknown",
+        "years": [
+          2014
+        ],
+        "year_recent": 2014,
+        "dois": [
+          "10.1890/es14-00201.1"
+        ],
+        "ncsu?": true,
+        "cross_college?": true,
+        "cross_department?": true,
+        "cross_unit?": true,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          "Biogeography",
+          "Biology",
+          "Ecology",
+          "Wildlife",
+          "Evolutionary biology"
+        ],
+        "host_venues": [
+          "Ecosphere"
+        ],
+        "color": "#FAC800",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-tdantone",
+      "target": "uid-rrdunn",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Biological Sciences -- Statistics",
+        "colleges": "College of Sciences == College of Sciences",
+        "buildings": "Holladay Hall --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          2014
+        ],
+        "year_recent": 2014,
+        "dois": [
+          "10.1890/es14-00201.1"
+        ],
+        "ncsu?": true,
+        "cross_college?": false,
+        "cross_department?": true,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": true,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society",
+          "Global Water, Sanitation and Hygiene",
+          "Leadership in Public Science"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          "Biogeography",
+          "Biology",
+          "Ecology",
+          "Wildlife",
+          "Evolutionary biology"
+        ],
+        "host_venues": [
+          "Ecosphere"
+        ],
+        "color": "#CC0000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-aspoteat",
+      "target": "uid-aesnyder",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Mathematics -- Sociology & Anthropology",
+        "colleges": "College of Humanities and Social Sciences -- College of Sciences",
+        "buildings": "unknown --- unknown",
+        "roles": "unknown == unknown",
+        "years": [
+          2014
+        ],
+        "year_recent": 2014,
+        "dois": [
+          "10.1890/es14-00201.1"
+        ],
+        "ncsu?": true,
+        "cross_college?": true,
+        "cross_department?": true,
+        "cross_unit?": true,
+        "cluster?": false,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+
+        ],
+        "cross_building?": false,
+        "concepts": [
+          "Biogeography",
+          "Biology",
+          "Ecology",
+          "Wildlife",
+          "Evolutionary biology"
+        ],
+        "host_venues": [
+          "Ecosphere"
+        ],
+        "color": "#FAC800",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-aspoteat",
+      "target": "uid-rwsander",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Plant Biology -- Sociology & Anthropology",
+        "colleges": "College of Agriculture and Life Sciences -- College of Humanities and Social Sciences",
+        "buildings": "unknown --- unknown",
+        "roles": "student --- unknown",
+        "years": [
+          2014
+        ],
+        "year_recent": 2014,
+        "dois": [
+          "10.1890/es14-00201.1"
+        ],
+        "ncsu?": true,
+        "cross_college?": true,
+        "cross_department?": true,
+        "cross_unit?": true,
+        "cluster?": false,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+
+        ],
+        "cross_building?": false,
+        "concepts": [
+          "Biogeography",
+          "Biology",
+          "Ecology",
+          "Wildlife",
+          "Evolutionary biology"
+        ],
+        "host_venues": [
+          "Ecosphere"
+        ],
+        "color": "#FAC800",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-aspoteat",
+      "target": "uid-rrdunn",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Biological Sciences -- Sociology & Anthropology",
+        "colleges": "College of Humanities and Social Sciences -- College of Sciences",
+        "buildings": "Holladay Hall --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          2014
+        ],
+        "year_recent": 2014,
+        "dois": [
+          "10.1890/es14-00201.1"
+        ],
+        "ncsu?": true,
+        "cross_college?": true,
+        "cross_department?": true,
+        "cross_unit?": true,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society",
+          "Global Water, Sanitation and Hygiene",
+          "Leadership in Public Science"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          "Biogeography",
+          "Biology",
+          "Ecology",
+          "Wildlife",
+          "Evolutionary biology"
+        ],
+        "host_venues": [
+          "Ecosphere"
+        ],
+        "color": "#FAC800",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-aesnyder",
+      "target": "uid-rwsander",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Mathematics -- Plant Biology",
+        "colleges": "College of Agriculture and Life Sciences -- College of Sciences",
+        "buildings": "unknown --- unknown",
+        "roles": "student --- unknown",
+        "years": [
+          2014
+        ],
+        "year_recent": 2014,
+        "dois": [
+          "10.1890/es14-00201.1"
+        ],
+        "ncsu?": true,
+        "cross_college?": true,
+        "cross_department?": true,
+        "cross_unit?": true,
+        "cluster?": false,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+
+        ],
+        "cross_building?": false,
+        "concepts": [
+          "Biogeography",
+          "Biology",
+          "Ecology",
+          "Wildlife",
+          "Evolutionary biology"
+        ],
+        "host_venues": [
+          "Ecosphere"
+        ],
+        "color": "#FAC800",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-aesnyder",
+      "target": "uid-rrdunn",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Biological Sciences -- Mathematics",
+        "colleges": "College of Sciences == College of Sciences",
+        "buildings": "Holladay Hall --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          2014
+        ],
+        "year_recent": 2014,
+        "dois": [
+          "10.1890/es14-00201.1"
+        ],
+        "ncsu?": true,
+        "cross_college?": false,
+        "cross_department?": true,
+        "cross_unit?": true,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society",
+          "Global Water, Sanitation and Hygiene",
+          "Leadership in Public Science"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          "Biogeography",
+          "Biology",
+          "Ecology",
+          "Wildlife",
+          "Evolutionary biology"
+        ],
+        "host_venues": [
+          "Ecosphere"
+        ],
+        "color": "#CC0000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-rwsander",
+      "target": "uid-rrdunn",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Biological Sciences -- Plant Biology",
+        "colleges": "College of Agriculture and Life Sciences -- College of Sciences",
+        "buildings": "Holladay Hall --- unknown",
+        "roles": "faculty -- student",
+        "years": [
+          2014
+        ],
+        "year_recent": 2014,
+        "dois": [
+          "10.1890/es14-00201.1"
+        ],
+        "ncsu?": true,
+        "cross_college?": true,
+        "cross_department?": true,
+        "cross_unit?": true,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society",
+          "Global Water, Sanitation and Hygiene",
+          "Leadership in Public Science"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          "Biogeography",
+          "Biology",
+          "Ecology",
+          "Wildlife",
+          "Evolutionary biology"
+        ],
+        "host_venues": [
+          "Ecosphere"
+        ],
+        "color": "#FAC800",
+        "size": 1
+      }
+    }
+  ]
+}

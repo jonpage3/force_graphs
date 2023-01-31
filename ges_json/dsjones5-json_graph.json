@@ -1,0 +1,4963 @@
+{
+  "options": {
+    "type": "undirected",
+    "multi": false,
+    "allowSelfLoops": false
+  },
+  "attributes": {
+    "creator": "Citation Index",
+    "lastModifiedDate": "2023-01-14"
+  },
+  "nodes": [
+    {
+      "key": "uid-dsjones5",
+      "attributes": {
+        "label": "D Jones",
+        "name": "Daniela Jones",
+        "known?": true,
+        "orcid?": true,
+        "ncsu?": true,
+        "affiliations": [
+          "North Carolina State University"
+        ],
+        "countries": [
+          "US"
+        ],
+        "uid": "dsjones5",
+        "url": "https://ci.lib.ncsu.edu/profiles/dsjones5",
+        "orcid": "0000-0002-4285-7630",
+        "active?": true,
+        "department": "Biological & Agricultural Engineering",
+        "college": "College of Engineering",
+        "ncsu_affiliations": [
+          "Biological & Agricultural Engineering",
+          "Biological & Agricultural Engineering",
+          "Genetic Engineering and Society"
+        ],
+        "cluster?": true,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "role": "faculty",
+        "building": "D. S. Weaver Labs",
+        "count": 11,
+        "oa_count": 5,
+        "years": [
+          2022,
+          2021,
+          2018,
+          2017,
+          2014,
+          2013
+        ],
+        "year_recent": 2022,
+        "article_concepts": [
+          "Agriculture",
+          "Agroforestry",
+          "Agronomy",
+          "Archaeology",
+          "Bioenergy",
+          "Biofuel",
+          "Biology",
+          "Biomass (ecology)",
+          "Bioproducts",
+          "Biorefinery",
+          "Biotechnology",
+          "Business",
+          "Cellulose",
+          "Cellulosic ethanol",
+          "Chemical engineering",
+          "Chemistry",
+          "Combustion",
+          "Community engagement",
+          "Competitor analysis",
+          "Computer science",
+          "Context (archaeology)",
+          "Corn stover",
+          "Ecology",
+          "Economics",
+          "Electrical engineering",
+          "Engineering",
+          "Environmental economics",
+          "Environmental planning",
+          "Environmental resource management",
+          "Environmental science",
+          "Fossil fuel",
+          "Geography",
+          "Herbaceous plant",
+          "Jet fuel",
+          "Knowledge management",
+          "Limiting",
+          "Liquid fuel",
+          "Marketing",
+          "Mechanical engineering",
+          "Medical education",
+          "Medicine",
+          "Meteorology",
+          "Natural resource economics",
+          "Organic chemistry",
+          "Perennial plant",
+          "Political science",
+          "Precipitation",
+          "Psychology",
+          "Public relations",
+          "Pulp and paper industry",
+          "Raw material",
+          "Renewable energy",
+          "Renewable fuels",
+          "Stakeholder",
+          "Stakeholder engagement",
+          "Sustainability",
+          "Underrepresented Minority",
+          "Waste management",
+          "Work (physics)"
+        ],
+        "host_venues": [
+          "Applied Energy",
+          "Biofuels, Bioproducts and Biorefining",
+          "Biomass & Bioenergy",
+          "CBE- Life Sciences Education",
+          "International Journal of Operations Research and Information Systems",
+          "Sustainability",
+          "Transactions of the ASABE",
+          "Transportation Research Part A-policy and Practice"
+        ],
+        "color": "#990000",
+        "size": 20
+      }
+    },
+    {
+      "key": "devyndgillette",
+      "attributes": {
+        "label": "D Gillette",
+        "name": "Devyn D. Gillette",
+        "known?": false,
+        "orcid?": null,
+        "ncsu?": false,
+        "affiliations": [
+          "Bowie State University"
+        ],
+        "countries": [
+          "US"
+        ],
+        "color": "#BFBFBD",
+        "size": 10
+      }
+    },
+    {
+      "key": "paigeecooper",
+      "attributes": {
+        "label": "P Cooper",
+        "name": "Paige E. Cooper",
+        "known?": false,
+        "orcid?": null,
+        "ncsu?": false,
+        "affiliations": [
+          "Duke University"
+        ],
+        "countries": [
+          "US"
+        ],
+        "color": "#BFBFBD",
+        "size": 10
+      }
+    },
+    {
+      "key": "raquelysalinas",
+      "attributes": {
+        "label": "R Salinas",
+        "name": "Raquel Y. Salinas",
+        "known?": false,
+        "orcid?": null,
+        "ncsu?": false,
+        "affiliations": [
+          "The University of Texas MD Anderson Cancer Center"
+        ],
+        "countries": [
+          "US"
+        ],
+        "color": "#BFBFBD",
+        "size": 10
+      }
+    },
+    {
+      "key": "jenniferlhill",
+      "attributes": {
+        "label": "J Hill",
+        "name": "Jennifer L. Hill",
+        "known?": false,
+        "orcid?": null,
+        "ncsu?": false,
+        "affiliations": [
+          "Duke University"
+        ],
+        "countries": [
+          "US"
+        ],
+        "color": "#BFBFBD",
+        "size": 10
+      }
+    },
+    {
+      "key": "sherilynnjblack",
+      "attributes": {
+        "label": "S Black",
+        "name": "Sherilynn J. Black",
+        "known?": false,
+        "orcid?": null,
+        "ncsu?": false,
+        "affiliations": [
+          "Duke University"
+        ],
+        "countries": [
+          "US"
+        ],
+        "color": "#BFBFBD",
+        "size": 10
+      }
+    },
+    {
+      "key": "danieljlew",
+      "attributes": {
+        "label": "D Lew",
+        "name": "Daniel J. Lew",
+        "known?": false,
+        "orcid?": null,
+        "ncsu?": false,
+        "affiliations": [
+          "Duke University"
+        ],
+        "countries": [
+          "US"
+        ],
+        "color": "#BFBFBD",
+        "size": 10
+      }
+    },
+    {
+      "key": "dorianacanelas",
+      "attributes": {
+        "label": "D Canelas",
+        "name": "Dorian A. Canelas",
+        "known?": false,
+        "orcid?": null,
+        "ncsu?": false,
+        "affiliations": [
+          "Duke University"
+        ],
+        "countries": [
+          "US"
+        ],
+        "color": "#BFBFBD",
+        "size": 10
+      }
+    },
+    {
+      "key": "uid-kdgriege",
+      "attributes": {
+        "label": "K Grieger",
+        "name": "Khara Grieger",
+        "known?": true,
+        "orcid?": false,
+        "ncsu?": true,
+        "affiliations": [
+          "North Carolina State University"
+        ],
+        "countries": [
+          "US"
+        ],
+        "uid": "kdgriege",
+        "url": "https://ci.lib.ncsu.edu/profiles/kdgriege",
+        "active?": true,
+        "department": "Applied Ecology",
+        "college": "College of Agriculture and Life Sciences",
+        "ncsu_affiliations": [
+          "Applied Ecology",
+          "Genetic Engineering and Society",
+          "Center for Human Health and the Environment "
+        ],
+        "cluster?": true,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "role": "faculty",
+        "building": "Plant Sciences Building",
+        "count": 17,
+        "oa_count": 6,
+        "years": [
+          2022,
+          2021,
+          2020,
+          2019
+        ],
+        "year_recent": 2022,
+        "article_concepts": [
+          "Agriculture",
+          "Anticipation (artificial intelligence)",
+          "Applications of nanotechnology",
+          "Aqueous solution",
+          "Archaeology",
+          "Artificial intelligence",
+          "Biochemistry",
+          "Biology",
+          "Business",
+          "Chemistry",
+          "Community engagement",
+          "Competitor analysis",
+          "Computer network",
+          "Computer science",
+          "Context (archaeology)",
+          "Corporate governance",
+          "Data science",
+          "Decomposition",
+          "Ecology",
+          "Economics",
+          "Ecosystem",
+          "Emerging technologies",
+          "Engineering",
+          "Engineering ethics",
+          "Environmental chemistry",
+          "Environmental planning",
+          "Environmental resource management",
+          "Environmental science",
+          "Epistemology",
+          "Eutrophication",
+          "Finance",
+          "Geography",
+          "Geometry",
+          "Impact of nanotechnology",
+          "Inclusion (mineral)",
+          "Inorganic chemistry",
+          "Knowledge management",
+          "Lanthanum",
+          "Law",
+          "Litter",
+          "Management",
+          "Marketing",
+          "Materials science",
+          "Mathematics",
+          "Mechanical engineering",
+          "Nanotechnology",
+          "Natural organic matter",
+          "Neuroscience",
+          "Nutrient",
+          "Nutrient cycle",
+          "Operating system",
+          "Organic chemistry",
+          "Organic matter",
+          "Paleontology",
+          "Perception",
+          "Philosophy",
+          "Philosophy of science",
+          "Phosphate",
+          "Plant litter",
+          "Political science",
+          "Process (computing)",
+          "Process management",
+          "Product (mathematics)",
+          "Psychology",
+          "Public relations",
+          "Reflexivity",
+          "Reputation",
+          "Responsible Research and Innovation",
+          "Risk analysis (engineering)",
+          "Risk governance",
+          "Risk management",
+          "Risk perception",
+          "River ecosystem",
+          "STREAMS",
+          "Scholarship",
+          "Social science",
+          "Societal impact of nanotechnology",
+          "Sociology",
+          "Stakeholder",
+          "Stakeholder engagement",
+          "Sustainability",
+          "Telecommunications",
+          "Upstream (networking)",
+          "Urban stream",
+          "Water quality",
+          "Work (physics)"
+        ],
+        "host_venues": [
+          "ACS ES&T engineering",
+          "Ecological Indicators",
+          "Environment International",
+          "Environmental Science & Policy",
+          "Journal of Nanoparticle Research",
+          "NanoImpact",
+          "Nanoethics",
+          "Nanomaterials",
+          "Nature Nanotechnology",
+          "Reproductive Toxicology",
+          "Science",
+          "Science of The Total Environment",
+          "Sustainability",
+          "The CRISPR journal",
+          "Water Research"
+        ],
+        "color": "#6F7D1C",
+        "size": 10
+      }
+    },
+    {
+      "key": "uid-jszarate",
+      "attributes": {
+        "label": "S Zarate",
+        "name": "Sebastian Zarate",
+        "known?": true,
+        "orcid?": false,
+        "ncsu?": true,
+        "affiliations": [
+          "North Carolina State University"
+        ],
+        "countries": [
+          "US"
+        ],
+        "uid": "jszarate",
+        "url": "https://ci.lib.ncsu.edu/profiles/jszarate",
+        "active?": true,
+        "department": null,
+        "college": null,
+        "ncsu_affiliations": [
+
+        ],
+        "cluster?": false,
+        "clusters": [
+
+        ],
+        "role": "student",
+        "building": null,
+        "count": 1,
+        "oa_count": 1,
+        "years": [
+          2022
+        ],
+        "year_recent": 2022,
+        "article_concepts": [
+          "Agriculture",
+          "Archaeology",
+          "Biology",
+          "Business",
+          "Community engagement",
+          "Competitor analysis",
+          "Computer science",
+          "Context (archaeology)",
+          "Ecology",
+          "Economics",
+          "Engineering",
+          "Environmental planning",
+          "Environmental resource management",
+          "Geography",
+          "Knowledge management",
+          "Marketing",
+          "Mechanical engineering",
+          "Political science",
+          "Public relations",
+          "Stakeholder",
+          "Stakeholder engagement",
+          "Sustainability",
+          "Work (physics)"
+        ],
+        "host_venues": [
+          "Sustainability"
+        ],
+        "color": "#000000",
+        "size": 10
+      }
+    },
+    {
+      "key": "https://orcid.org/0000-0003-3442-738X",
+      "attributes": {
+        "label": "S Barnhill-Dilling",
+        "name": "S. Kathleen Barnhill-Dilling",
+        "known?": false,
+        "orcid?": null,
+        "ncsu?": true,
+        "affiliations": [
+          "North Carolina State University"
+        ],
+        "countries": [
+          "US"
+        ],
+        "color": "#000000",
+        "size": 10
+      }
+    },
+    {
+      "key": "uid-rlransom",
+      "attributes": {
+        "label": "S Hunt",
+        "name": "Shelly Hunt",
+        "known?": true,
+        "orcid?": false,
+        "ncsu?": true,
+        "affiliations": [
+          "North Carolina State University"
+        ],
+        "countries": [
+          "US"
+        ],
+        "uid": "rlransom",
+        "url": "https://ci.lib.ncsu.edu/profiles/rlransom",
+        "active?": true,
+        "department": null,
+        "college": null,
+        "ncsu_affiliations": [
+
+        ],
+        "cluster?": false,
+        "clusters": [
+
+        ],
+        "role": "student",
+        "building": null,
+        "count": 1,
+        "oa_count": 1,
+        "years": [
+          2022
+        ],
+        "year_recent": 2022,
+        "article_concepts": [
+          "Agriculture",
+          "Archaeology",
+          "Biology",
+          "Business",
+          "Community engagement",
+          "Competitor analysis",
+          "Computer science",
+          "Context (archaeology)",
+          "Ecology",
+          "Economics",
+          "Engineering",
+          "Environmental planning",
+          "Environmental resource management",
+          "Geography",
+          "Knowledge management",
+          "Marketing",
+          "Mechanical engineering",
+          "Political science",
+          "Public relations",
+          "Stakeholder",
+          "Stakeholder engagement",
+          "Sustainability",
+          "Work (physics)"
+        ],
+        "host_venues": [
+          "Sustainability"
+        ],
+        "color": "#000000",
+        "size": 10
+      }
+    },
+    {
+      "key": "uid-jkuzma",
+      "attributes": {
+        "label": "J Kuzma",
+        "name": "Jennifer Kuzma",
+        "known?": true,
+        "orcid?": true,
+        "ncsu?": true,
+        "affiliations": [
+          "North Carolina State University"
+        ],
+        "countries": [
+          "US"
+        ],
+        "uid": "jkuzma",
+        "url": "https://ci.lib.ncsu.edu/profiles/jkuzma",
+        "orcid": "0000-0003-4456-9613",
+        "active?": true,
+        "department": "Genetic Engineering and Society",
+        "college": "NC State",
+        "ncsu_affiliations": [
+          "Genetic Engineering and Society",
+          "Public and International Affairs",
+          "Genetics and Genomics Academy"
+        ],
+        "cluster?": true,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "role": "faculty",
+        "building": "James B Hunt Jr Centennial Cam",
+        "count": 156,
+        "oa_count": 25,
+        "years": [
+          2022,
+          2021,
+          2020,
+          2019,
+          2018,
+          2017,
+          2016,
+          2015,
+          2014,
+          2013,
+          2012,
+          2011,
+          2010,
+          2009,
+          2008,
+          2007,
+          2006,
+          2005,
+          2004,
+          2003,
+          2002,
+          2001,
+          2000,
+          1999,
+          1998,
+          1997,
+          1995,
+          1994
+        ],
+        "year_recent": 2022,
+        "article_concepts": [
+          "Agriculture",
+          "Agronomy",
+          "Anticipation (artificial intelligence)",
+          "Applications of nanotechnology",
+          "Archaeology",
+          "Artificial intelligence",
+          "Biochemical engineering",
+          "Biochemistry",
+          "Biofuel",
+          "Bioinformatics",
+          "Biology",
+          "Biotechnology",
+          "Botany",
+          "Business",
+          "CRISPR",
+          "Cartography",
+          "Chemistry",
+          "China",
+          "Commercialization",
+          "Community engagement",
+          "Competitor analysis",
+          "Composite material",
+          "Computational biology",
+          "Computer science",
+          "Computer security",
+          "Context (archaeology)",
+          "Copolymer",
+          "Corporate governance",
+          "Crop",
+          "Cross-site scripting",
+          "Data science",
+          "Delphi method",
+          "Dilemma",
+          "Ecology",
+          "Econometrics",
+          "Economics",
+          "Electrical engineering",
+          "Emerging technologies",
+          "Engineering",
+          "Engineering ethics",
+          "Environmental economics",
+          "Environmental ethics",
+          "Environmental planning",
+          "Environmental resource management",
+          "Enzyme",
+          "Epistemology",
+          "Evolutionary biology",
+          "Extinction (optical mineralogy)",
+          "Field (mathematics)",
+          "Finance",
+          "Focus group",
+          "Food industry",
+          "Food labeling",
+          "Food packaging",
+          "Food products",
+          "Food science",
+          "Frame (networking)",
+          "Gene",
+          "Gene drive",
+          "Genetically engineered",
+          "Genetically modified crops",
+          "Genetically modified food",
+          "Genetically modified organism",
+          "Genetics",
+          "Genome",
+          "Genome editing",
+          "Geography",
+          "Geometry",
+          "Government (linguistics)",
+          "Government regulation",
+          "Hydrocarbon",
+          "Impact of nanotechnology",
+          "Inclusion (mineral)",
+          "Interdependence",
+          "Internet privacy",
+          "Isoprene",
+          "Knowledge management",
+          "Latent class model",
+          "Law",
+          "Legitimacy",
+          "Limiting",
+          "Linguistics",
+          "Logistic regression",
+          "Logit",
+          "Machine learning",
+          "Management",
+          "Management science",
+          "Marketing",
+          "Materials science",
+          "Mathematics",
+          "Mechanical engineering",
+          "Medicine",
+          "Mixed logit",
+          "Multitude",
+          "Nano-",
+          "Nanotechnology",
+          "National security",
+          "Natural resource economics",
+          "Neuroscience",
+          "Operating system",
+          "Order (exchange)",
+          "Organic chemistry",
+          "Paleontology",
+          "Path (computing)",
+          "Perception",
+          "Pharmacy",
+          "Philosophy",
+          "Philosophy of science",
+          "Point (geometry)",
+          "Political science",
+          "Politics",
+          "Polymer",
+          "Process (computing)",
+          "Process management",
+          "Product (mathematics)",
+          "Programming language",
+          "Psychology",
+          "Public administration",
+          "Public policy",
+          "Public relations",
+          "Pure mathematics",
+          "Reboot",
+          "Reflexivity",
+          "Renewable energy",
+          "Reputation",
+          "Research council",
+          "Responsible Research and Innovation",
+          "Risk analysis (engineering)",
+          "Risk assessment",
+          "Risk governance",
+          "Scale (ratio)",
+          "Scholarship",
+          "Scope (computer science)",
+          "Scripting language",
+          "Social science",
+          "Societal impact of nanotechnology",
+          "Sociology",
+          "Software",
+          "Stakeholder",
+          "Stakeholder engagement",
+          "Statistics",
+          "Sustainability",
+          "Systems biology",
+          "Telecommunications",
+          "Terpenoid",
+          "Terrorism",
+          "The Internet",
+          "Transgene",
+          "Transparency (behavior)",
+          "Uncertainty",
+          "Upstream (networking)",
+          "Vulnerability (computing)",
+          "Waste management",
+          "Web application",
+          "Web application security",
+          "Web development",
+          "Work (physics)",
+          "World Wide Web"
+        ],
+        "host_venues": [
+          "Biological Invasions",
+          "Bulletin of Science, Technology & Society",
+          "Current Microbiology",
+          "EMBO Reports",
+          "Elementa",
+          "Encyclopedia of Nanoscience and Society",
+          "Encyclopedia of Science and Technology Communication",
+          "Energy Policy",
+          "Environment Systems and Decisions",
+          "Environmental Science & Policy",
+          "Frontiers in Bioengineering and Biotechnology",
+          "Informatics for Health & Social Care",
+          "Innovative Governance Models for Emerging Technologies",
+          "Journal of Agricultural Economics",
+          "Journal of Bioethical Inquiry",
+          "Journal of Consumer Policy",
+          "Journal of Law Medicine & Ethics",
+          "Journal of Nanoparticle Research",
+          "Journal of Responsible Innovation",
+          "Journal of Veterinary Medical Education",
+          "Livestock Science",
+          "Medicine Health Care and Philosophy",
+          "NanoImpact",
+          "Nanoethics",
+          "National Academies Press eBooks",
+          "Nature",
+          "Nature Nanotechnology",
+          "PLOS ONE",
+          "Plant Physiology",
+          "Policy and Society",
+          "Public Policy and Administration",
+          "Regulation & Governance",
+          "Review of Policy Research",
+          "Risk Analysis",
+          "Risk, systems and decisions",
+          "Science",
+          "Science & public policy",
+          "Science, Technology, & Human Values",
+          "Springer Netherlands eBooks",
+          "Sustainability",
+          "Technology Analysis & Strategic Management",
+          "Wiley-Blackwell eBooks",
+          "Women in engineering and science"
+        ],
+        "color": "#BD5383",
+        "size": 10
+      }
+    },
+    {
+      "key": "uid-thossai",
+      "attributes": {
+        "label": "T Hossain",
+        "name": "Tasmin Hossain",
+        "known?": true,
+        "orcid?": false,
+        "ncsu?": true,
+        "affiliations": [
+          "North Carolina State University"
+        ],
+        "countries": [
+          "US"
+        ],
+        "uid": "thossai",
+        "url": "https://ci.lib.ncsu.edu/profiles/thossai",
+        "active?": false,
+        "department": null,
+        "college": null,
+        "ncsu_affiliations": [
+
+        ],
+        "cluster?": false,
+        "clusters": [
+
+        ],
+        "role": "student",
+        "building": null,
+        "count": 3,
+        "oa_count": 2,
+        "years": [
+          2022,
+          2021
+        ],
+        "year_recent": 2022,
+        "article_concepts": [
+          "Agronomy",
+          "Bioenergy",
+          "Biofuel",
+          "Biology",
+          "Biomass (ecology)",
+          "Bioproducts",
+          "Biorefinery",
+          "Business",
+          "Cellulose",
+          "Cellulosic ethanol",
+          "Chemical engineering",
+          "Chemistry",
+          "Combustion",
+          "Corn stover",
+          "Ecology",
+          "Economics",
+          "Electrical engineering",
+          "Engineering",
+          "Environmental economics",
+          "Environmental science",
+          "Fossil fuel",
+          "Jet fuel",
+          "Liquid fuel",
+          "Natural resource economics",
+          "Organic chemistry",
+          "Raw material",
+          "Renewable energy",
+          "Renewable fuels",
+          "Sustainability",
+          "Waste management"
+        ],
+        "host_venues": [
+          "Applied Energy"
+        ],
+        "color": "#000000",
+        "size": 10
+      }
+    },
+    {
+      "key": "danielasjones",
+      "attributes": {
+        "label": "D Jones",
+        "name": "Daniela S. Jones",
+        "known?": false,
+        "orcid?": null,
+        "ncsu?": false,
+        "affiliations": [
+
+        ],
+        "countries": [
+
+        ],
+        "color": "#BFBFBD",
+        "size": 10
+      }
+    },
+    {
+      "key": "damonshartley",
+      "attributes": {
+        "label": "D Hartley",
+        "name": "Damon S. Hartley",
+        "known?": false,
+        "orcid?": null,
+        "ncsu?": false,
+        "affiliations": [
+
+        ],
+        "countries": [
+
+        ],
+        "color": "#BFBFBD",
+        "size": 10
+      }
+    },
+    {
+      "key": "davidnthompson",
+      "attributes": {
+        "label": "D Thompson",
+        "name": "David N. Thompson",
+        "known?": false,
+        "orcid?": null,
+        "ncsu?": false,
+        "affiliations": [
+
+        ],
+        "countries": [
+
+        ],
+        "color": "#BFBFBD",
+        "size": 10
+      }
+    },
+    {
+      "key": "matthewlangholtz",
+      "attributes": {
+        "label": "M Langholtz",
+        "name": "Matthew Langholtz",
+        "known?": false,
+        "orcid?": null,
+        "ncsu?": false,
+        "affiliations": [
+
+        ],
+        "countries": [
+
+        ],
+        "color": "#BFBFBD",
+        "size": 10
+      }
+    },
+    {
+      "key": "maggiedavis",
+      "attributes": {
+        "label": "M Davis",
+        "name": "Maggie Davis",
+        "known?": false,
+        "orcid?": null,
+        "ncsu?": false,
+        "affiliations": [
+
+        ],
+        "countries": [
+
+        ],
+        "color": "#BFBFBD",
+        "size": 10
+      }
+    },
+    {
+      "key": "https://orcid.org/0000-0001-8131-9328",
+      "attributes": {
+        "label": "M Davis",
+        "name": "Maggie R. Davis",
+        "known?": false,
+        "orcid?": null,
+        "ncsu?": false,
+        "affiliations": [
+          "Oak Ridge National Laboratory"
+        ],
+        "countries": [
+          "US"
+        ],
+        "color": "#BFBFBD",
+        "size": 10
+      }
+    },
+    {
+      "key": "https://orcid.org/0000-0003-1270-9626",
+      "attributes": {
+        "label": "L Eaton",
+        "name": "Laurence Eaton",
+        "known?": false,
+        "orcid?": null,
+        "ncsu?": false,
+        "affiliations": [
+          "Oak Ridge National Laboratory"
+        ],
+        "countries": [
+          "US"
+        ],
+        "color": "#BFBFBD",
+        "size": 10
+      }
+    },
+    {
+      "key": "https://orcid.org/0000-0002-4450-9250",
+      "attributes": {
+        "label": "M Hilliard",
+        "name": "Michael R. Hilliard",
+        "known?": false,
+        "orcid?": null,
+        "ncsu?": false,
+        "affiliations": [
+          "Oak Ridge National Laboratory"
+        ],
+        "countries": [
+          "US"
+        ],
+        "color": "#BFBFBD",
+        "size": 10
+      }
+    },
+    {
+      "key": "https://orcid.org/0000-0002-1470-7379",
+      "attributes": {
+        "label": "C Brandt",
+        "name": "Craig C. Brandt",
+        "known?": false,
+        "orcid?": null,
+        "ncsu?": false,
+        "affiliations": [
+          "Oak Ridge National Laboratory"
+        ],
+        "countries": [
+          "US"
+        ],
+        "color": "#BFBFBD",
+        "size": 10
+      }
+    },
+    {
+      "key": "https://orcid.org/0000-0002-1501-8647",
+      "attributes": {
+        "label": "E Webb",
+        "name": "Erin Webb",
+        "known?": false,
+        "orcid?": null,
+        "ncsu?": false,
+        "affiliations": [
+          "Oak Ridge National Laboratory"
+        ],
+        "countries": [
+          "US"
+        ],
+        "color": "#BFBFBD",
+        "size": 10
+      }
+    },
+    {
+      "key": "https://orcid.org/0000-0001-7308-5058",
+      "attributes": {
+        "label": "C Hellwinckel",
+        "name": "Chad M. Hellwinckel",
+        "known?": false,
+        "orcid?": null,
+        "ncsu?": false,
+        "affiliations": [
+          "Agricultural Policy Analysis Center The University of Tennessee  Knoxville TN USA"
+        ],
+        "countries": [
+
+        ],
+        "color": "#BFBFBD",
+        "size": 10
+      }
+    },
+    {
+      "key": "nicolemsamu",
+      "attributes": {
+        "label": "N Samu",
+        "name": "Nicole M. Samu",
+        "known?": false,
+        "orcid?": null,
+        "ncsu?": false,
+        "affiliations": [
+          "Oak Ridge National Laboratory"
+        ],
+        "countries": [
+          "US"
+        ],
+        "color": "#BFBFBD",
+        "size": 10
+      }
+    },
+    {
+      "key": "https://orcid.org/0000-0002-3115-8527",
+      "attributes": {
+        "label": "D Hartley",
+        "name": "Damon Hartley",
+        "known?": false,
+        "orcid?": null,
+        "ncsu?": false,
+        "affiliations": [
+          "Idaho National Laboratory"
+        ],
+        "countries": [
+          "US"
+        ],
+        "color": "#BFBFBD",
+        "size": 10
+      }
+    },
+    {
+      "key": "charlesforsberg",
+      "attributes": {
+        "label": "C Forsberg",
+        "name": "Charles Forsberg",
+        "known?": false,
+        "orcid?": null,
+        "ncsu?": false,
+        "affiliations": [
+          "Massachusetts Institute of Technology"
+        ],
+        "countries": [
+          "US"
+        ],
+        "color": "#BFBFBD",
+        "size": 10
+      }
+    },
+    {
+      "key": "https://orcid.org/0000-0002-6120-7406",
+      "attributes": {
+        "label": "B Dale",
+        "name": "Bruce E. Dale",
+        "known?": false,
+        "orcid?": null,
+        "ncsu?": false,
+        "affiliations": [
+          "Michigan State University"
+        ],
+        "countries": [
+          "US"
+        ],
+        "color": "#BFBFBD",
+        "size": 10
+      }
+    },
+    {
+      "key": "https://orcid.org/0000-0002-3216-1533",
+      "attributes": {
+        "label": "A Morais",
+        "name": "Ana Rita C. Morais",
+        "known?": false,
+        "orcid?": null,
+        "ncsu?": false,
+        "affiliations": [
+          "University of Kansas"
+        ],
+        "countries": [
+          "US"
+        ],
+        "color": "#BFBFBD",
+        "size": 10
+      }
+    },
+    {
+      "key": "https://orcid.org/0000-0003-2182-0449",
+      "attributes": {
+        "label": "L Wendt",
+        "name": "Lynn M. Wendt",
+        "known?": false,
+        "orcid?": null,
+        "ncsu?": false,
+        "affiliations": [
+          "Idaho National Laboratory"
+        ],
+        "countries": [
+          "US"
+        ],
+        "color": "#BFBFBD",
+        "size": 10
+      }
+    },
+    {
+      "key": "lmichaelgriffel",
+      "attributes": {
+        "label": "L Griffel",
+        "name": "L. Michael Griffel",
+        "known?": false,
+        "orcid?": null,
+        "ncsu?": false,
+        "affiliations": [
+          "Idaho National Laboratory"
+        ],
+        "countries": [
+          "US"
+        ],
+        "color": "#BFBFBD",
+        "size": 10
+      }
+    },
+    {
+      "key": "yingqianlin",
+      "attributes": {
+        "label": "Y Lin",
+        "name": "Yingqian Lin",
+        "known?": false,
+        "orcid?": null,
+        "ncsu?": false,
+        "affiliations": [
+          "Idaho National Laboratory"
+        ],
+        "countries": [
+          "US"
+        ],
+        "color": "#BFBFBD",
+        "size": 10
+      }
+    },
+    {
+      "key": "https://orcid.org/0000-0002-4107-8918",
+      "attributes": {
+        "label": "P Burli",
+        "name": "Pralhad Burli",
+        "known?": false,
+        "orcid?": null,
+        "ncsu?": false,
+        "affiliations": [
+          "Idaho National Laboratory"
+        ],
+        "countries": [
+          "US"
+        ],
+        "color": "#BFBFBD",
+        "size": 10
+      }
+    },
+    {
+      "key": "https://orcid.org/0000-0001-8518-6307",
+      "attributes": {
+        "label": "D Thompson",
+        "name": "David R. Thompson",
+        "known?": false,
+        "orcid?": null,
+        "ncsu?": false,
+        "affiliations": [
+          "Idaho National Laboratory"
+        ],
+        "countries": [
+          "US"
+        ],
+        "color": "#BFBFBD",
+        "size": 10
+      }
+    },
+    {
+      "key": "https://orcid.org/0000-0001-8646-5105",
+      "attributes": {
+        "label": "S Searcy",
+        "name": "Stephen W. Searcy",
+        "known?": false,
+        "orcid?": null,
+        "ncsu?": false,
+        "affiliations": [
+
+        ],
+        "countries": [
+
+        ],
+        "color": "#BFBFBD",
+        "size": 10
+      }
+    },
+    {
+      "key": "danielasgonzales",
+      "attributes": {
+        "label": "D Gonzales",
+        "name": "Daniela S. Gonzales",
+        "known?": false,
+        "orcid?": null,
+        "ncsu?": false,
+        "affiliations": [
+          "Texas A&M University"
+        ],
+        "countries": [
+          "US"
+        ],
+        "color": "#BFBFBD",
+        "size": 10
+      }
+    },
+    {
+      "key": "ambarishacharya",
+      "attributes": {
+        "label": "A Acharya",
+        "name": "Ambarish Acharya",
+        "known?": false,
+        "orcid?": null,
+        "ncsu?": false,
+        "affiliations": [
+          "Mississippi State University"
+        ],
+        "countries": [
+          "US"
+        ],
+        "color": "#BFBFBD",
+        "size": 10
+      }
+    },
+    {
+      "key": "danielagonzales",
+      "attributes": {
+        "label": "D Gonzales",
+        "name": "Daniela Gonzales",
+        "known?": false,
+        "orcid?": null,
+        "ncsu?": false,
+        "affiliations": [
+          "Mississippi State University"
+        ],
+        "countries": [
+          "US"
+        ],
+        "color": "#BFBFBD",
+        "size": 10
+      }
+    },
+    {
+      "key": "https://orcid.org/0000-0002-6674-2133",
+      "attributes": {
+        "label": "S Eksioglu",
+        "name": "Sandra D. Eksioglu",
+        "known?": false,
+        "orcid?": null,
+        "ncsu?": false,
+        "affiliations": [
+          "Mississippi State University"
+        ],
+        "countries": [
+          "US"
+        ],
+        "color": "#BFBFBD",
+        "size": 10
+      }
+    },
+    {
+      "key": "sumesharora",
+      "attributes": {
+        "label": "S Arora",
+        "name": "Sumesh Arora",
+        "known?": false,
+        "orcid?": null,
+        "ncsu?": false,
+        "affiliations": [
+          "Mississippi Technology Alliances, Ridgeland, MS, USA#TAB#"
+        ],
+        "countries": [
+
+        ],
+        "color": "#BFBFBD",
+        "size": 10
+      }
+    },
+    {
+      "key": "aacharya",
+      "attributes": {
+        "label": "A Acharya",
+        "name": "A. Acharya",
+        "known?": false,
+        "orcid?": null,
+        "ncsu?": null,
+        "affiliations": null,
+        "countries": null,
+        "color": "#BFBFBD",
+        "size": 10
+      }
+    },
+    {
+      "key": "dgonzales",
+      "attributes": {
+        "label": "D Gonzales",
+        "name": "D. Gonzales",
+        "known?": false,
+        "orcid?": null,
+        "ncsu?": null,
+        "affiliations": null,
+        "countries": null,
+        "color": "#BFBFBD",
+        "size": 10
+      }
+    },
+    {
+      "key": "seksioglu",
+      "attributes": {
+        "label": "S Eksioglu",
+        "name": "S. Eksioglu",
+        "known?": false,
+        "orcid?": null,
+        "ncsu?": null,
+        "affiliations": null,
+        "countries": null,
+        "color": "#BFBFBD",
+        "size": 10
+      }
+    },
+    {
+      "key": "https://orcid.org/0000-0002-3543-4314",
+      "attributes": {
+        "label": "E Searcy",
+        "name": "Erin Searcy",
+        "known?": false,
+        "orcid?": null,
+        "ncsu?": false,
+        "affiliations": [
+          "Mississippi State University"
+        ],
+        "countries": [
+          "US"
+        ],
+        "color": "#BFBFBD",
+        "size": 10
+      }
+    }
+  ],
+  "edges": [
+    {
+      "source": "uid-dsjones5",
+      "target": "devyndgillette",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Biological & Agricultural Engineering --- unknown",
+        "colleges": "College of Engineering --- unknown",
+        "buildings": "D. S. Weaver Labs --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          2022
+        ],
+        "year_recent": 2022,
+        "dois": [
+          "10.1187/cbe.20-06-0111"
+        ],
+        "ncsu?": false,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          "Medical education",
+          "Psychology",
+          "Underrepresented Minority",
+          "Medicine"
+        ],
+        "host_venues": [
+          "CBE- Life Sciences Education"
+        ],
+        "color": "#000000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-dsjones5",
+      "target": "paigeecooper",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Biological & Agricultural Engineering --- unknown",
+        "colleges": "College of Engineering --- unknown",
+        "buildings": "D. S. Weaver Labs --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          2022
+        ],
+        "year_recent": 2022,
+        "dois": [
+          "10.1187/cbe.20-06-0111"
+        ],
+        "ncsu?": false,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          "Medical education",
+          "Psychology",
+          "Underrepresented Minority",
+          "Medicine"
+        ],
+        "host_venues": [
+          "CBE- Life Sciences Education"
+        ],
+        "color": "#000000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-dsjones5",
+      "target": "raquelysalinas",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Biological & Agricultural Engineering --- unknown",
+        "colleges": "College of Engineering --- unknown",
+        "buildings": "D. S. Weaver Labs --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          2022
+        ],
+        "year_recent": 2022,
+        "dois": [
+          "10.1187/cbe.20-06-0111"
+        ],
+        "ncsu?": false,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          "Medical education",
+          "Psychology",
+          "Underrepresented Minority",
+          "Medicine"
+        ],
+        "host_venues": [
+          "CBE- Life Sciences Education"
+        ],
+        "color": "#000000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-dsjones5",
+      "target": "jenniferlhill",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Biological & Agricultural Engineering --- unknown",
+        "colleges": "College of Engineering --- unknown",
+        "buildings": "D. S. Weaver Labs --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          2022
+        ],
+        "year_recent": 2022,
+        "dois": [
+          "10.1187/cbe.20-06-0111"
+        ],
+        "ncsu?": false,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          "Medical education",
+          "Psychology",
+          "Underrepresented Minority",
+          "Medicine"
+        ],
+        "host_venues": [
+          "CBE- Life Sciences Education"
+        ],
+        "color": "#000000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-dsjones5",
+      "target": "sherilynnjblack",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Biological & Agricultural Engineering --- unknown",
+        "colleges": "College of Engineering --- unknown",
+        "buildings": "D. S. Weaver Labs --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          2022
+        ],
+        "year_recent": 2022,
+        "dois": [
+          "10.1187/cbe.20-06-0111"
+        ],
+        "ncsu?": false,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          "Medical education",
+          "Psychology",
+          "Underrepresented Minority",
+          "Medicine"
+        ],
+        "host_venues": [
+          "CBE- Life Sciences Education"
+        ],
+        "color": "#000000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-dsjones5",
+      "target": "danieljlew",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Biological & Agricultural Engineering --- unknown",
+        "colleges": "College of Engineering --- unknown",
+        "buildings": "D. S. Weaver Labs --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          2022
+        ],
+        "year_recent": 2022,
+        "dois": [
+          "10.1187/cbe.20-06-0111"
+        ],
+        "ncsu?": false,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          "Medical education",
+          "Psychology",
+          "Underrepresented Minority",
+          "Medicine"
+        ],
+        "host_venues": [
+          "CBE- Life Sciences Education"
+        ],
+        "color": "#000000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-dsjones5",
+      "target": "dorianacanelas",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Biological & Agricultural Engineering --- unknown",
+        "colleges": "College of Engineering --- unknown",
+        "buildings": "D. S. Weaver Labs --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          2022
+        ],
+        "year_recent": 2022,
+        "dois": [
+          "10.1187/cbe.20-06-0111"
+        ],
+        "ncsu?": false,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          "Medical education",
+          "Psychology",
+          "Underrepresented Minority",
+          "Medicine"
+        ],
+        "host_venues": [
+          "CBE- Life Sciences Education"
+        ],
+        "color": "#000000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-dsjones5",
+      "target": "uid-kdgriege",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Applied Ecology -- Biological & Agricultural Engineering",
+        "colleges": "College of Agriculture and Life Sciences -- College of Engineering",
+        "buildings": "D. S. Weaver Labs -- Plant Sciences Building",
+        "roles": "faculty == faculty",
+        "years": [
+          2022
+        ],
+        "year_recent": 2022,
+        "dois": [
+          "10.3390/su14042274"
+        ],
+        "ncsu?": true,
+        "cross_college?": true,
+        "cross_department?": true,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": true,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": true,
+        "concepts": [
+          "Sustainability",
+          "Stakeholder",
+          "Competitor analysis",
+          "Context (archaeology)",
+          "Stakeholder engagement",
+          "Business",
+          "Work (physics)",
+          "Marketing",
+          "Community engagement",
+          "Environmental resource management",
+          "Agriculture",
+          "Knowledge management",
+          "Environmental planning",
+          "Public relations",
+          "Geography",
+          "Political science",
+          "Engineering",
+          "Computer science",
+          "Economics",
+          "Mechanical engineering",
+          "Ecology",
+          "Archaeology",
+          "Biology"
+        ],
+        "host_venues": [
+          "Sustainability"
+        ],
+        "color": "#FAC800",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-dsjones5",
+      "target": "uid-jszarate",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Biological & Agricultural Engineering --- unknown",
+        "colleges": "College of Engineering --- unknown",
+        "buildings": "D. S. Weaver Labs --- unknown",
+        "roles": "faculty -- student",
+        "years": [
+          2022
+        ],
+        "year_recent": 2022,
+        "dois": [
+          "10.3390/su14042274"
+        ],
+        "ncsu?": true,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          "Sustainability",
+          "Stakeholder",
+          "Competitor analysis",
+          "Context (archaeology)",
+          "Stakeholder engagement",
+          "Business",
+          "Work (physics)",
+          "Marketing",
+          "Community engagement",
+          "Environmental resource management",
+          "Agriculture",
+          "Knowledge management",
+          "Environmental planning",
+          "Public relations",
+          "Geography",
+          "Political science",
+          "Engineering",
+          "Computer science",
+          "Economics",
+          "Mechanical engineering",
+          "Ecology",
+          "Archaeology",
+          "Biology"
+        ],
+        "host_venues": [
+          "Sustainability"
+        ],
+        "color": "#CC0000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-dsjones5",
+      "target": "https://orcid.org/0000-0003-3442-738X",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Biological & Agricultural Engineering --- unknown",
+        "colleges": "College of Engineering --- unknown",
+        "buildings": "D. S. Weaver Labs --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          2022
+        ],
+        "year_recent": 2022,
+        "dois": [
+          "10.3390/su14042274"
+        ],
+        "ncsu?": true,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          "Sustainability",
+          "Stakeholder",
+          "Competitor analysis",
+          "Context (archaeology)",
+          "Stakeholder engagement",
+          "Business",
+          "Work (physics)",
+          "Marketing",
+          "Community engagement",
+          "Environmental resource management",
+          "Agriculture",
+          "Knowledge management",
+          "Environmental planning",
+          "Public relations",
+          "Geography",
+          "Political science",
+          "Engineering",
+          "Computer science",
+          "Economics",
+          "Mechanical engineering",
+          "Ecology",
+          "Archaeology",
+          "Biology"
+        ],
+        "host_venues": [
+          "Sustainability"
+        ],
+        "color": "#CC0000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-dsjones5",
+      "target": "uid-rlransom",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Biological & Agricultural Engineering --- unknown",
+        "colleges": "College of Engineering --- unknown",
+        "buildings": "D. S. Weaver Labs --- unknown",
+        "roles": "faculty -- student",
+        "years": [
+          2022
+        ],
+        "year_recent": 2022,
+        "dois": [
+          "10.3390/su14042274"
+        ],
+        "ncsu?": true,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          "Sustainability",
+          "Stakeholder",
+          "Competitor analysis",
+          "Context (archaeology)",
+          "Stakeholder engagement",
+          "Business",
+          "Work (physics)",
+          "Marketing",
+          "Community engagement",
+          "Environmental resource management",
+          "Agriculture",
+          "Knowledge management",
+          "Environmental planning",
+          "Public relations",
+          "Geography",
+          "Political science",
+          "Engineering",
+          "Computer science",
+          "Economics",
+          "Mechanical engineering",
+          "Ecology",
+          "Archaeology",
+          "Biology"
+        ],
+        "host_venues": [
+          "Sustainability"
+        ],
+        "color": "#CC0000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-dsjones5",
+      "target": "uid-jkuzma",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Biological & Agricultural Engineering -- Genetic Engineering and Society",
+        "colleges": "College of Engineering -- NC State",
+        "buildings": "D. S. Weaver Labs -- James B Hunt Jr Centennial Cam",
+        "roles": "faculty == faculty",
+        "years": [
+          2022
+        ],
+        "year_recent": 2022,
+        "dois": [
+          "10.3390/su14042274"
+        ],
+        "ncsu?": true,
+        "cross_college?": true,
+        "cross_department?": true,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": true,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": true,
+        "concepts": [
+          "Sustainability",
+          "Stakeholder",
+          "Competitor analysis",
+          "Context (archaeology)",
+          "Stakeholder engagement",
+          "Business",
+          "Work (physics)",
+          "Marketing",
+          "Community engagement",
+          "Environmental resource management",
+          "Agriculture",
+          "Knowledge management",
+          "Environmental planning",
+          "Public relations",
+          "Geography",
+          "Political science",
+          "Engineering",
+          "Computer science",
+          "Economics",
+          "Mechanical engineering",
+          "Ecology",
+          "Archaeology",
+          "Biology"
+        ],
+        "host_venues": [
+          "Sustainability"
+        ],
+        "color": "#FAC800",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-dsjones5",
+      "target": "uid-thossai",
+      "attributes": {
+        "label": 3,
+        "weight": 3,
+        "collaboration_count": 3,
+        "departments": "Biological & Agricultural Engineering --- unknown",
+        "colleges": "College of Engineering --- unknown",
+        "buildings": "D. S. Weaver Labs --- unknown",
+        "roles": "faculty -- student",
+        "years": [
+          2022,
+          2021,
+          2021
+        ],
+        "year_recent": 2022,
+        "dois": [
+          "10.1016/j.apenergy.2022.119881",
+          "10.1016/j.apenergy.2021.117225",
+          "10.1016/j.apenergy.2021.116946"
+        ],
+        "ncsu?": true,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          "Applied Energy"
+        ],
+        "color": "#CC0000",
+        "size": 3
+      }
+    },
+    {
+      "source": "uid-dsjones5",
+      "target": "danielasjones",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Biological & Agricultural Engineering --- unknown",
+        "colleges": "College of Engineering --- unknown",
+        "buildings": "D. S. Weaver Labs --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          2022
+        ],
+        "year_recent": 2022,
+        "dois": [
+          "10.1016/j.apenergy.2022.119881"
+        ],
+        "ncsu?": false,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          "Applied Energy"
+        ],
+        "color": "#000000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-dsjones5",
+      "target": "damonshartley",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Biological & Agricultural Engineering --- unknown",
+        "colleges": "College of Engineering --- unknown",
+        "buildings": "D. S. Weaver Labs --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          2022
+        ],
+        "year_recent": 2022,
+        "dois": [
+          "10.1016/j.apenergy.2022.119881"
+        ],
+        "ncsu?": false,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          "Applied Energy"
+        ],
+        "color": "#000000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-dsjones5",
+      "target": "davidnthompson",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Biological & Agricultural Engineering --- unknown",
+        "colleges": "College of Engineering --- unknown",
+        "buildings": "D. S. Weaver Labs --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          2022
+        ],
+        "year_recent": 2022,
+        "dois": [
+          "10.1016/j.apenergy.2022.119881"
+        ],
+        "ncsu?": false,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          "Applied Energy"
+        ],
+        "color": "#000000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-dsjones5",
+      "target": "matthewlangholtz",
+      "attributes": {
+        "label": 3,
+        "weight": 3,
+        "collaboration_count": 3,
+        "departments": "Biological & Agricultural Engineering --- unknown",
+        "colleges": "College of Engineering --- unknown",
+        "buildings": "D. S. Weaver Labs --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          2022,
+          2021,
+          2021
+        ],
+        "year_recent": 2022,
+        "dois": [
+          "10.1016/j.apenergy.2022.119881",
+          "10.1002/bbb.2305",
+          "10.1016/j.apenergy.2021.116946"
+        ],
+        "ncsu?": false,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          "Applied Energy"
+        ],
+        "color": "#000000",
+        "size": 3
+      }
+    },
+    {
+      "source": "uid-dsjones5",
+      "target": "maggiedavis",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Biological & Agricultural Engineering --- unknown",
+        "colleges": "College of Engineering --- unknown",
+        "buildings": "D. S. Weaver Labs --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          2022
+        ],
+        "year_recent": 2022,
+        "dois": [
+          "10.1016/j.apenergy.2022.119881"
+        ],
+        "ncsu?": false,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          "Applied Energy"
+        ],
+        "color": "#000000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-dsjones5",
+      "target": "https://orcid.org/0000-0001-8131-9328",
+      "attributes": {
+        "label": 2,
+        "weight": 2,
+        "collaboration_count": 2,
+        "departments": "Biological & Agricultural Engineering --- unknown",
+        "colleges": "College of Engineering --- unknown",
+        "buildings": "D. S. Weaver Labs --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          2021,
+          2021
+        ],
+        "year_recent": 2021,
+        "dois": [
+          "10.1002/bbb.2305",
+          "10.1016/j.apenergy.2021.116946"
+        ],
+        "ncsu?": false,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          "Biofuels, Bioproducts and Biorefining"
+        ],
+        "color": "#000000",
+        "size": 2
+      }
+    },
+    {
+      "source": "uid-dsjones5",
+      "target": "https://orcid.org/0000-0003-1270-9626",
+      "attributes": {
+        "label": 2,
+        "weight": 2,
+        "collaboration_count": 2,
+        "departments": "Biological & Agricultural Engineering --- unknown",
+        "colleges": "College of Engineering --- unknown",
+        "buildings": "D. S. Weaver Labs --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          2021,
+          2018
+        ],
+        "year_recent": 2021,
+        "dois": [
+          "10.1002/bbb.2305",
+          "10.13031/trans.12505"
+        ],
+        "ncsu?": false,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          "Biofuels, Bioproducts and Biorefining"
+        ],
+        "color": "#000000",
+        "size": 2
+      }
+    },
+    {
+      "source": "uid-dsjones5",
+      "target": "https://orcid.org/0000-0002-4450-9250",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Biological & Agricultural Engineering --- unknown",
+        "colleges": "College of Engineering --- unknown",
+        "buildings": "D. S. Weaver Labs --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          2021
+        ],
+        "year_recent": 2021,
+        "dois": [
+          "10.1002/bbb.2305"
+        ],
+        "ncsu?": false,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          "Biofuels, Bioproducts and Biorefining"
+        ],
+        "color": "#000000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-dsjones5",
+      "target": "https://orcid.org/0000-0002-1470-7379",
+      "attributes": {
+        "label": 2,
+        "weight": 2,
+        "collaboration_count": 2,
+        "departments": "Biological & Agricultural Engineering --- unknown",
+        "colleges": "College of Engineering --- unknown",
+        "buildings": "D. S. Weaver Labs --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          2021,
+          2021
+        ],
+        "year_recent": 2021,
+        "dois": [
+          "10.1002/bbb.2305",
+          "10.1016/j.apenergy.2021.116946"
+        ],
+        "ncsu?": false,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          "Biofuels, Bioproducts and Biorefining"
+        ],
+        "color": "#000000",
+        "size": 2
+      }
+    },
+    {
+      "source": "uid-dsjones5",
+      "target": "https://orcid.org/0000-0002-1501-8647",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Biological & Agricultural Engineering --- unknown",
+        "colleges": "College of Engineering --- unknown",
+        "buildings": "D. S. Weaver Labs --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          2021
+        ],
+        "year_recent": 2021,
+        "dois": [
+          "10.1002/bbb.2305"
+        ],
+        "ncsu?": false,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          "Biofuels, Bioproducts and Biorefining"
+        ],
+        "color": "#000000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-dsjones5",
+      "target": "https://orcid.org/0000-0001-7308-5058",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Biological & Agricultural Engineering --- unknown",
+        "colleges": "College of Engineering --- unknown",
+        "buildings": "D. S. Weaver Labs --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          2021
+        ],
+        "year_recent": 2021,
+        "dois": [
+          "10.1002/bbb.2305"
+        ],
+        "ncsu?": false,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          "Biofuels, Bioproducts and Biorefining"
+        ],
+        "color": "#000000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-dsjones5",
+      "target": "nicolemsamu",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Biological & Agricultural Engineering --- unknown",
+        "colleges": "College of Engineering --- unknown",
+        "buildings": "D. S. Weaver Labs --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          2021
+        ],
+        "year_recent": 2021,
+        "dois": [
+          "10.1002/bbb.2305"
+        ],
+        "ncsu?": false,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          "Biofuels, Bioproducts and Biorefining"
+        ],
+        "color": "#000000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-dsjones5",
+      "target": "https://orcid.org/0000-0002-3115-8527",
+      "attributes": {
+        "label": 2,
+        "weight": 2,
+        "collaboration_count": 2,
+        "departments": "Biological & Agricultural Engineering --- unknown",
+        "colleges": "College of Engineering --- unknown",
+        "buildings": "D. S. Weaver Labs --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          2021,
+          2021
+        ],
+        "year_recent": 2021,
+        "dois": [
+          "10.1002/bbb.2305",
+          "10.1016/j.apenergy.2021.116946"
+        ],
+        "ncsu?": false,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          "Biofuels, Bioproducts and Biorefining"
+        ],
+        "color": "#000000",
+        "size": 2
+      }
+    },
+    {
+      "source": "uid-dsjones5",
+      "target": "charlesforsberg",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Biological & Agricultural Engineering --- unknown",
+        "colleges": "College of Engineering --- unknown",
+        "buildings": "D. S. Weaver Labs --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          2021
+        ],
+        "year_recent": 2021,
+        "dois": [
+          "10.1016/j.apenergy.2021.117225"
+        ],
+        "ncsu?": false,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          "Fossil fuel",
+          "Biofuel",
+          "Renewable fuels",
+          "Environmental science",
+          "Liquid fuel",
+          "Waste management",
+          "Biomass (ecology)",
+          "Renewable energy",
+          "Jet fuel",
+          "Chemistry",
+          "Engineering",
+          "Combustion",
+          "Ecology",
+          "Electrical engineering",
+          "Organic chemistry",
+          "Biology"
+        ],
+        "host_venues": [
+          "Applied Energy"
+        ],
+        "color": "#000000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-dsjones5",
+      "target": "https://orcid.org/0000-0002-6120-7406",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Biological & Agricultural Engineering --- unknown",
+        "colleges": "College of Engineering --- unknown",
+        "buildings": "D. S. Weaver Labs --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          2021
+        ],
+        "year_recent": 2021,
+        "dois": [
+          "10.1016/j.apenergy.2021.117225"
+        ],
+        "ncsu?": false,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          "Fossil fuel",
+          "Biofuel",
+          "Renewable fuels",
+          "Environmental science",
+          "Liquid fuel",
+          "Waste management",
+          "Biomass (ecology)",
+          "Renewable energy",
+          "Jet fuel",
+          "Chemistry",
+          "Engineering",
+          "Combustion",
+          "Ecology",
+          "Electrical engineering",
+          "Organic chemistry",
+          "Biology"
+        ],
+        "host_venues": [
+          "Applied Energy"
+        ],
+        "color": "#000000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-dsjones5",
+      "target": "https://orcid.org/0000-0002-3216-1533",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Biological & Agricultural Engineering --- unknown",
+        "colleges": "College of Engineering --- unknown",
+        "buildings": "D. S. Weaver Labs --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          2021
+        ],
+        "year_recent": 2021,
+        "dois": [
+          "10.1016/j.apenergy.2021.117225"
+        ],
+        "ncsu?": false,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          "Fossil fuel",
+          "Biofuel",
+          "Renewable fuels",
+          "Environmental science",
+          "Liquid fuel",
+          "Waste management",
+          "Biomass (ecology)",
+          "Renewable energy",
+          "Jet fuel",
+          "Chemistry",
+          "Engineering",
+          "Combustion",
+          "Ecology",
+          "Electrical engineering",
+          "Organic chemistry",
+          "Biology"
+        ],
+        "host_venues": [
+          "Applied Energy"
+        ],
+        "color": "#000000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-dsjones5",
+      "target": "https://orcid.org/0000-0003-2182-0449",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Biological & Agricultural Engineering --- unknown",
+        "colleges": "College of Engineering --- unknown",
+        "buildings": "D. S. Weaver Labs --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          2021
+        ],
+        "year_recent": 2021,
+        "dois": [
+          "10.1016/j.apenergy.2021.117225"
+        ],
+        "ncsu?": false,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          "Fossil fuel",
+          "Biofuel",
+          "Renewable fuels",
+          "Environmental science",
+          "Liquid fuel",
+          "Waste management",
+          "Biomass (ecology)",
+          "Renewable energy",
+          "Jet fuel",
+          "Chemistry",
+          "Engineering",
+          "Combustion",
+          "Ecology",
+          "Electrical engineering",
+          "Organic chemistry",
+          "Biology"
+        ],
+        "host_venues": [
+          "Applied Energy"
+        ],
+        "color": "#000000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-dsjones5",
+      "target": "lmichaelgriffel",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Biological & Agricultural Engineering --- unknown",
+        "colleges": "College of Engineering --- unknown",
+        "buildings": "D. S. Weaver Labs --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          2021
+        ],
+        "year_recent": 2021,
+        "dois": [
+          "10.1016/j.apenergy.2021.116946"
+        ],
+        "ncsu?": false,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          "Cellulosic ethanol",
+          "Corn stover",
+          "Biofuel",
+          "Raw material",
+          "Biomass (ecology)",
+          "Bioproducts",
+          "Renewable energy",
+          "Bioenergy",
+          "Sustainability",
+          "Biorefinery",
+          "Business",
+          "Environmental economics",
+          "Natural resource economics",
+          "Waste management",
+          "Engineering",
+          "Economics",
+          "Cellulose",
+          "Chemistry",
+          "Agronomy",
+          "Ecology",
+          "Electrical engineering",
+          "Organic chemistry",
+          "Chemical engineering",
+          "Biology"
+        ],
+        "host_venues": [
+          "Applied Energy"
+        ],
+        "color": "#000000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-dsjones5",
+      "target": "yingqianlin",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Biological & Agricultural Engineering --- unknown",
+        "colleges": "College of Engineering --- unknown",
+        "buildings": "D. S. Weaver Labs --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          2021
+        ],
+        "year_recent": 2021,
+        "dois": [
+          "10.1016/j.apenergy.2021.116946"
+        ],
+        "ncsu?": false,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          "Cellulosic ethanol",
+          "Corn stover",
+          "Biofuel",
+          "Raw material",
+          "Biomass (ecology)",
+          "Bioproducts",
+          "Renewable energy",
+          "Bioenergy",
+          "Sustainability",
+          "Biorefinery",
+          "Business",
+          "Environmental economics",
+          "Natural resource economics",
+          "Waste management",
+          "Engineering",
+          "Economics",
+          "Cellulose",
+          "Chemistry",
+          "Agronomy",
+          "Ecology",
+          "Electrical engineering",
+          "Organic chemistry",
+          "Chemical engineering",
+          "Biology"
+        ],
+        "host_venues": [
+          "Applied Energy"
+        ],
+        "color": "#000000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-dsjones5",
+      "target": "https://orcid.org/0000-0002-4107-8918",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Biological & Agricultural Engineering --- unknown",
+        "colleges": "College of Engineering --- unknown",
+        "buildings": "D. S. Weaver Labs --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          2021
+        ],
+        "year_recent": 2021,
+        "dois": [
+          "10.1016/j.apenergy.2021.116946"
+        ],
+        "ncsu?": false,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          "Cellulosic ethanol",
+          "Corn stover",
+          "Biofuel",
+          "Raw material",
+          "Biomass (ecology)",
+          "Bioproducts",
+          "Renewable energy",
+          "Bioenergy",
+          "Sustainability",
+          "Biorefinery",
+          "Business",
+          "Environmental economics",
+          "Natural resource economics",
+          "Waste management",
+          "Engineering",
+          "Economics",
+          "Cellulose",
+          "Chemistry",
+          "Agronomy",
+          "Ecology",
+          "Electrical engineering",
+          "Organic chemistry",
+          "Chemical engineering",
+          "Biology"
+        ],
+        "host_venues": [
+          "Applied Energy"
+        ],
+        "color": "#000000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-dsjones5",
+      "target": "https://orcid.org/0000-0001-8518-6307",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Biological & Agricultural Engineering --- unknown",
+        "colleges": "College of Engineering --- unknown",
+        "buildings": "D. S. Weaver Labs --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          2021
+        ],
+        "year_recent": 2021,
+        "dois": [
+          "10.1016/j.apenergy.2021.116946"
+        ],
+        "ncsu?": false,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          "Cellulosic ethanol",
+          "Corn stover",
+          "Biofuel",
+          "Raw material",
+          "Biomass (ecology)",
+          "Bioproducts",
+          "Renewable energy",
+          "Bioenergy",
+          "Sustainability",
+          "Biorefinery",
+          "Business",
+          "Environmental economics",
+          "Natural resource economics",
+          "Waste management",
+          "Engineering",
+          "Economics",
+          "Cellulose",
+          "Chemistry",
+          "Agronomy",
+          "Ecology",
+          "Electrical engineering",
+          "Organic chemistry",
+          "Chemical engineering",
+          "Biology"
+        ],
+        "host_venues": [
+          "Applied Energy"
+        ],
+        "color": "#000000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-dsjones5",
+      "target": "https://orcid.org/0000-0001-8646-5105",
+      "attributes": {
+        "label": 2,
+        "weight": 2,
+        "collaboration_count": 2,
+        "departments": "Biological & Agricultural Engineering --- unknown",
+        "colleges": "College of Engineering --- unknown",
+        "buildings": "D. S. Weaver Labs --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          2018,
+          2017
+        ],
+        "year_recent": 2018,
+        "dois": [
+          "10.13031/trans.12505",
+          "10.1016/j.biombioe.2016.12.009"
+        ],
+        "ncsu?": false,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          "Perennial plant",
+          "Limiting",
+          "Environmental science",
+          "Biomass (ecology)",
+          "Precipitation",
+          "Herbaceous plant",
+          "Agronomy",
+          "Agriculture",
+          "Meteorology",
+          "Geography",
+          "Engineering",
+          "Biology",
+          "Mechanical engineering",
+          "Archaeology"
+        ],
+        "host_venues": [
+          "Transactions of the ASABE"
+        ],
+        "color": "#000000",
+        "size": 2
+      }
+    },
+    {
+      "source": "uid-dsjones5",
+      "target": "danielasgonzales",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Biological & Agricultural Engineering --- unknown",
+        "colleges": "College of Engineering --- unknown",
+        "buildings": "D. S. Weaver Labs --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          2017
+        ],
+        "year_recent": 2017,
+        "dois": [
+          "10.1016/j.biombioe.2016.12.009"
+        ],
+        "ncsu?": false,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          "Biomass (ecology)",
+          "Herbaceous plant",
+          "Bioenergy",
+          "Environmental science",
+          "Biorefinery",
+          "Biofuel",
+          "Pulp and paper industry",
+          "Agroforestry",
+          "Biotechnology",
+          "Agronomy",
+          "Biology",
+          "Engineering"
+        ],
+        "host_venues": [
+          "Biomass & Bioenergy"
+        ],
+        "color": "#000000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-dsjones5",
+      "target": "ambarishacharya",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Biological & Agricultural Engineering --- unknown",
+        "colleges": "College of Engineering --- unknown",
+        "buildings": "D. S. Weaver Labs --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          2014
+        ],
+        "year_recent": 2014,
+        "dois": [
+          "10.4018/ijoris.2014100102"
+        ],
+        "ncsu?": false,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          "International Journal of Operations Research and Information Systems"
+        ],
+        "color": "#000000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-dsjones5",
+      "target": "danielagonzales",
+      "attributes": {
+        "label": 2,
+        "weight": 2,
+        "collaboration_count": 2,
+        "departments": "Biological & Agricultural Engineering --- unknown",
+        "colleges": "College of Engineering --- unknown",
+        "buildings": "D. S. Weaver Labs --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          2014,
+          2013
+        ],
+        "year_recent": 2014,
+        "dois": [
+          "10.4018/ijoris.2014100102",
+          "10.1016/j.tra.2013.01.005"
+        ],
+        "ncsu?": false,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          "International Journal of Operations Research and Information Systems"
+        ],
+        "color": "#000000",
+        "size": 2
+      }
+    },
+    {
+      "source": "uid-dsjones5",
+      "target": "https://orcid.org/0000-0002-6674-2133",
+      "attributes": {
+        "label": 2,
+        "weight": 2,
+        "collaboration_count": 2,
+        "departments": "Biological & Agricultural Engineering --- unknown",
+        "colleges": "College of Engineering --- unknown",
+        "buildings": "D. S. Weaver Labs --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          2014,
+          2013
+        ],
+        "year_recent": 2014,
+        "dois": [
+          "10.4018/ijoris.2014100102",
+          "10.1016/j.tra.2013.01.005"
+        ],
+        "ncsu?": false,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          "International Journal of Operations Research and Information Systems"
+        ],
+        "color": "#000000",
+        "size": 2
+      }
+    },
+    {
+      "source": "uid-dsjones5",
+      "target": "sumesharora",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Biological & Agricultural Engineering --- unknown",
+        "colleges": "College of Engineering --- unknown",
+        "buildings": "D. S. Weaver Labs --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          2014
+        ],
+        "year_recent": 2014,
+        "dois": [
+          "10.4018/ijoris.2014100102"
+        ],
+        "ncsu?": false,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          "International Journal of Operations Research and Information Systems"
+        ],
+        "color": "#000000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-dsjones5",
+      "target": "aacharya",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Biological & Agricultural Engineering --- unknown",
+        "colleges": "College of Engineering --- unknown",
+        "buildings": "D. S. Weaver Labs --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          2013
+        ],
+        "year_recent": 2013,
+        "dois": [
+
+        ],
+        "ncsu?": null,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          null
+        ],
+        "color": "#000000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-dsjones5",
+      "target": "dgonzales",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Biological & Agricultural Engineering --- unknown",
+        "colleges": "College of Engineering --- unknown",
+        "buildings": "D. S. Weaver Labs --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          2013
+        ],
+        "year_recent": 2013,
+        "dois": [
+
+        ],
+        "ncsu?": null,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          null
+        ],
+        "color": "#000000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-dsjones5",
+      "target": "seksioglu",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Biological & Agricultural Engineering --- unknown",
+        "colleges": "College of Engineering --- unknown",
+        "buildings": "D. S. Weaver Labs --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          2013
+        ],
+        "year_recent": 2013,
+        "dois": [
+
+        ],
+        "ncsu?": null,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          null
+        ],
+        "color": "#000000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-dsjones5",
+      "target": "https://orcid.org/0000-0002-3543-4314",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Biological & Agricultural Engineering --- unknown",
+        "colleges": "College of Engineering --- unknown",
+        "buildings": "D. S. Weaver Labs --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          2013
+        ],
+        "year_recent": 2013,
+        "dois": [
+          "10.1016/j.tra.2013.01.005"
+        ],
+        "ncsu?": false,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          "Transportation Research Part A-policy and Practice"
+        ],
+        "color": "#000000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-kdgriege",
+      "target": "uid-jszarate",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Applied Ecology --- unknown",
+        "colleges": "College of Agriculture and Life Sciences --- unknown",
+        "buildings": "Plant Sciences Building --- unknown",
+        "roles": "faculty -- student",
+        "years": [
+          2022
+        ],
+        "year_recent": 2022,
+        "dois": [
+          "10.3390/su14042274"
+        ],
+        "ncsu?": true,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          "Sustainability",
+          "Stakeholder",
+          "Competitor analysis",
+          "Context (archaeology)",
+          "Stakeholder engagement",
+          "Business",
+          "Work (physics)",
+          "Marketing",
+          "Community engagement",
+          "Environmental resource management",
+          "Agriculture",
+          "Knowledge management",
+          "Environmental planning",
+          "Public relations",
+          "Geography",
+          "Political science",
+          "Engineering",
+          "Computer science",
+          "Economics",
+          "Mechanical engineering",
+          "Ecology",
+          "Archaeology",
+          "Biology"
+        ],
+        "host_venues": [
+          "Sustainability"
+        ],
+        "color": "#CC0000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-kdgriege",
+      "target": "https://orcid.org/0000-0003-3442-738X",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Applied Ecology --- unknown",
+        "colleges": "College of Agriculture and Life Sciences --- unknown",
+        "buildings": "Plant Sciences Building --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          2022
+        ],
+        "year_recent": 2022,
+        "dois": [
+          "10.3390/su14042274"
+        ],
+        "ncsu?": true,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          "Sustainability",
+          "Stakeholder",
+          "Competitor analysis",
+          "Context (archaeology)",
+          "Stakeholder engagement",
+          "Business",
+          "Work (physics)",
+          "Marketing",
+          "Community engagement",
+          "Environmental resource management",
+          "Agriculture",
+          "Knowledge management",
+          "Environmental planning",
+          "Public relations",
+          "Geography",
+          "Political science",
+          "Engineering",
+          "Computer science",
+          "Economics",
+          "Mechanical engineering",
+          "Ecology",
+          "Archaeology",
+          "Biology"
+        ],
+        "host_venues": [
+          "Sustainability"
+        ],
+        "color": "#CC0000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-kdgriege",
+      "target": "uid-rlransom",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Applied Ecology --- unknown",
+        "colleges": "College of Agriculture and Life Sciences --- unknown",
+        "buildings": "Plant Sciences Building --- unknown",
+        "roles": "faculty -- student",
+        "years": [
+          2022
+        ],
+        "year_recent": 2022,
+        "dois": [
+          "10.3390/su14042274"
+        ],
+        "ncsu?": true,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          "Sustainability",
+          "Stakeholder",
+          "Competitor analysis",
+          "Context (archaeology)",
+          "Stakeholder engagement",
+          "Business",
+          "Work (physics)",
+          "Marketing",
+          "Community engagement",
+          "Environmental resource management",
+          "Agriculture",
+          "Knowledge management",
+          "Environmental planning",
+          "Public relations",
+          "Geography",
+          "Political science",
+          "Engineering",
+          "Computer science",
+          "Economics",
+          "Mechanical engineering",
+          "Ecology",
+          "Archaeology",
+          "Biology"
+        ],
+        "host_venues": [
+          "Sustainability"
+        ],
+        "color": "#CC0000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-kdgriege",
+      "target": "uid-jkuzma",
+      "attributes": {
+        "label": 7,
+        "weight": 7,
+        "collaboration_count": 7,
+        "departments": "Applied Ecology -- Genetic Engineering and Society",
+        "colleges": "College of Agriculture and Life Sciences -- NC State",
+        "buildings": "James B Hunt Jr Centennial Cam -- Plant Sciences Building",
+        "roles": "faculty == faculty",
+        "years": [
+          2022,
+          2022,
+          2021,
+          2021,
+          2021,
+          2020,
+          2019
+        ],
+        "year_recent": 2022,
+        "dois": [
+          "10.3390/su14042274",
+          "10.1016/j.envsci.2022.08.027",
+          "10.1016/j.impact.2021.100326",
+          "10.1007/s11569-021-00404-9",
+          "10.1016/j.impact.2021.100365",
+          "10.1126/science.abd1512",
+          "10.1038/s41565-019-0572-1"
+        ],
+        "ncsu?": true,
+        "cross_college?": true,
+        "cross_department?": true,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": true,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": true,
+        "concepts": [
+          "Sustainability",
+          "Stakeholder",
+          "Competitor analysis",
+          "Context (archaeology)",
+          "Stakeholder engagement",
+          "Business",
+          "Work (physics)",
+          "Marketing",
+          "Community engagement",
+          "Environmental resource management",
+          "Agriculture",
+          "Knowledge management",
+          "Environmental planning",
+          "Public relations",
+          "Geography",
+          "Political science",
+          "Engineering",
+          "Computer science",
+          "Economics",
+          "Mechanical engineering",
+          "Ecology",
+          "Archaeology",
+          "Biology"
+        ],
+        "host_venues": [
+          "Sustainability"
+        ],
+        "color": "#FAC800",
+        "size": 7
+      }
+    },
+    {
+      "source": "uid-jszarate",
+      "target": "https://orcid.org/0000-0003-3442-738X",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "unknown --- unknown",
+        "colleges": "unknown --- unknown",
+        "buildings": "unknown --- unknown",
+        "roles": "student --- unknown",
+        "years": [
+          2022
+        ],
+        "year_recent": 2022,
+        "dois": [
+          "10.3390/su14042274"
+        ],
+        "ncsu?": true,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": false,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+
+        ],
+        "cross_building?": false,
+        "concepts": [
+          "Sustainability",
+          "Stakeholder",
+          "Competitor analysis",
+          "Context (archaeology)",
+          "Stakeholder engagement",
+          "Business",
+          "Work (physics)",
+          "Marketing",
+          "Community engagement",
+          "Environmental resource management",
+          "Agriculture",
+          "Knowledge management",
+          "Environmental planning",
+          "Public relations",
+          "Geography",
+          "Political science",
+          "Engineering",
+          "Computer science",
+          "Economics",
+          "Mechanical engineering",
+          "Ecology",
+          "Archaeology",
+          "Biology"
+        ],
+        "host_venues": [
+          "Sustainability"
+        ],
+        "color": "#CC0000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-jszarate",
+      "target": "uid-rlransom",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "unknown --- unknown",
+        "colleges": "unknown --- unknown",
+        "buildings": "unknown --- unknown",
+        "roles": "student == student",
+        "years": [
+          2022
+        ],
+        "year_recent": 2022,
+        "dois": [
+          "10.3390/su14042274"
+        ],
+        "ncsu?": true,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": false,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+
+        ],
+        "cross_building?": false,
+        "concepts": [
+          "Sustainability",
+          "Stakeholder",
+          "Competitor analysis",
+          "Context (archaeology)",
+          "Stakeholder engagement",
+          "Business",
+          "Work (physics)",
+          "Marketing",
+          "Community engagement",
+          "Environmental resource management",
+          "Agriculture",
+          "Knowledge management",
+          "Environmental planning",
+          "Public relations",
+          "Geography",
+          "Political science",
+          "Engineering",
+          "Computer science",
+          "Economics",
+          "Mechanical engineering",
+          "Ecology",
+          "Archaeology",
+          "Biology"
+        ],
+        "host_venues": [
+          "Sustainability"
+        ],
+        "color": "#CC0000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-jszarate",
+      "target": "uid-jkuzma",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Genetic Engineering and Society --- unknown",
+        "colleges": "NC State --- unknown",
+        "buildings": "James B Hunt Jr Centennial Cam --- unknown",
+        "roles": "faculty -- student",
+        "years": [
+          2022
+        ],
+        "year_recent": 2022,
+        "dois": [
+          "10.3390/su14042274"
+        ],
+        "ncsu?": true,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          "Sustainability",
+          "Stakeholder",
+          "Competitor analysis",
+          "Context (archaeology)",
+          "Stakeholder engagement",
+          "Business",
+          "Work (physics)",
+          "Marketing",
+          "Community engagement",
+          "Environmental resource management",
+          "Agriculture",
+          "Knowledge management",
+          "Environmental planning",
+          "Public relations",
+          "Geography",
+          "Political science",
+          "Engineering",
+          "Computer science",
+          "Economics",
+          "Mechanical engineering",
+          "Ecology",
+          "Archaeology",
+          "Biology"
+        ],
+        "host_venues": [
+          "Sustainability"
+        ],
+        "color": "#CC0000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-rlransom",
+      "target": "https://orcid.org/0000-0003-3442-738X",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "unknown --- unknown",
+        "colleges": "unknown --- unknown",
+        "buildings": "unknown --- unknown",
+        "roles": "student --- unknown",
+        "years": [
+          2022
+        ],
+        "year_recent": 2022,
+        "dois": [
+          "10.3390/su14042274"
+        ],
+        "ncsu?": true,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": false,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+
+        ],
+        "cross_building?": false,
+        "concepts": [
+          "Sustainability",
+          "Stakeholder",
+          "Competitor analysis",
+          "Context (archaeology)",
+          "Stakeholder engagement",
+          "Business",
+          "Work (physics)",
+          "Marketing",
+          "Community engagement",
+          "Environmental resource management",
+          "Agriculture",
+          "Knowledge management",
+          "Environmental planning",
+          "Public relations",
+          "Geography",
+          "Political science",
+          "Engineering",
+          "Computer science",
+          "Economics",
+          "Mechanical engineering",
+          "Ecology",
+          "Archaeology",
+          "Biology"
+        ],
+        "host_venues": [
+          "Sustainability"
+        ],
+        "color": "#CC0000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-rlransom",
+      "target": "uid-jkuzma",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Genetic Engineering and Society --- unknown",
+        "colleges": "NC State --- unknown",
+        "buildings": "James B Hunt Jr Centennial Cam --- unknown",
+        "roles": "faculty -- student",
+        "years": [
+          2022
+        ],
+        "year_recent": 2022,
+        "dois": [
+          "10.3390/su14042274"
+        ],
+        "ncsu?": true,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          "Sustainability",
+          "Stakeholder",
+          "Competitor analysis",
+          "Context (archaeology)",
+          "Stakeholder engagement",
+          "Business",
+          "Work (physics)",
+          "Marketing",
+          "Community engagement",
+          "Environmental resource management",
+          "Agriculture",
+          "Knowledge management",
+          "Environmental planning",
+          "Public relations",
+          "Geography",
+          "Political science",
+          "Engineering",
+          "Computer science",
+          "Economics",
+          "Mechanical engineering",
+          "Ecology",
+          "Archaeology",
+          "Biology"
+        ],
+        "host_venues": [
+          "Sustainability"
+        ],
+        "color": "#CC0000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-jkuzma",
+      "target": "https://orcid.org/0000-0003-3442-738X",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Genetic Engineering and Society --- unknown",
+        "colleges": "NC State --- unknown",
+        "buildings": "James B Hunt Jr Centennial Cam --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          2022
+        ],
+        "year_recent": 2022,
+        "dois": [
+          "10.3390/su14042274"
+        ],
+        "ncsu?": true,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          "Sustainability",
+          "Stakeholder",
+          "Competitor analysis",
+          "Context (archaeology)",
+          "Stakeholder engagement",
+          "Business",
+          "Work (physics)",
+          "Marketing",
+          "Community engagement",
+          "Environmental resource management",
+          "Agriculture",
+          "Knowledge management",
+          "Environmental planning",
+          "Public relations",
+          "Geography",
+          "Political science",
+          "Engineering",
+          "Computer science",
+          "Economics",
+          "Mechanical engineering",
+          "Ecology",
+          "Archaeology",
+          "Biology"
+        ],
+        "host_venues": [
+          "Sustainability"
+        ],
+        "color": "#CC0000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-thossai",
+      "target": "danielasjones",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "unknown --- unknown",
+        "colleges": "unknown --- unknown",
+        "buildings": "unknown --- unknown",
+        "roles": "student --- unknown",
+        "years": [
+          2022
+        ],
+        "year_recent": 2022,
+        "dois": [
+          "10.1016/j.apenergy.2022.119881"
+        ],
+        "ncsu?": false,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": false,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          "Applied Energy"
+        ],
+        "color": "#000000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-thossai",
+      "target": "damonshartley",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "unknown --- unknown",
+        "colleges": "unknown --- unknown",
+        "buildings": "unknown --- unknown",
+        "roles": "student --- unknown",
+        "years": [
+          2022
+        ],
+        "year_recent": 2022,
+        "dois": [
+          "10.1016/j.apenergy.2022.119881"
+        ],
+        "ncsu?": false,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": false,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          "Applied Energy"
+        ],
+        "color": "#000000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-thossai",
+      "target": "davidnthompson",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "unknown --- unknown",
+        "colleges": "unknown --- unknown",
+        "buildings": "unknown --- unknown",
+        "roles": "student --- unknown",
+        "years": [
+          2022
+        ],
+        "year_recent": 2022,
+        "dois": [
+          "10.1016/j.apenergy.2022.119881"
+        ],
+        "ncsu?": false,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": false,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          "Applied Energy"
+        ],
+        "color": "#000000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-thossai",
+      "target": "matthewlangholtz",
+      "attributes": {
+        "label": 2,
+        "weight": 2,
+        "collaboration_count": 2,
+        "departments": "unknown --- unknown",
+        "colleges": "unknown --- unknown",
+        "buildings": "unknown --- unknown",
+        "roles": "student --- unknown",
+        "years": [
+          2022,
+          2021
+        ],
+        "year_recent": 2022,
+        "dois": [
+          "10.1016/j.apenergy.2022.119881",
+          "10.1016/j.apenergy.2021.116946"
+        ],
+        "ncsu?": false,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": false,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          "Applied Energy"
+        ],
+        "color": "#000000",
+        "size": 2
+      }
+    },
+    {
+      "source": "uid-thossai",
+      "target": "maggiedavis",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "unknown --- unknown",
+        "colleges": "unknown --- unknown",
+        "buildings": "unknown --- unknown",
+        "roles": "student --- unknown",
+        "years": [
+          2022
+        ],
+        "year_recent": 2022,
+        "dois": [
+          "10.1016/j.apenergy.2022.119881"
+        ],
+        "ncsu?": false,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": false,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          "Applied Energy"
+        ],
+        "color": "#000000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-thossai",
+      "target": "charlesforsberg",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "unknown --- unknown",
+        "colleges": "unknown --- unknown",
+        "buildings": "unknown --- unknown",
+        "roles": "student --- unknown",
+        "years": [
+          2021
+        ],
+        "year_recent": 2021,
+        "dois": [
+          "10.1016/j.apenergy.2021.117225"
+        ],
+        "ncsu?": false,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": false,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+
+        ],
+        "cross_building?": false,
+        "concepts": [
+          "Fossil fuel",
+          "Biofuel",
+          "Renewable fuels",
+          "Environmental science",
+          "Liquid fuel",
+          "Waste management",
+          "Biomass (ecology)",
+          "Renewable energy",
+          "Jet fuel",
+          "Chemistry",
+          "Engineering",
+          "Combustion",
+          "Ecology",
+          "Electrical engineering",
+          "Organic chemistry",
+          "Biology"
+        ],
+        "host_venues": [
+          "Applied Energy"
+        ],
+        "color": "#000000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-thossai",
+      "target": "https://orcid.org/0000-0002-6120-7406",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "unknown --- unknown",
+        "colleges": "unknown --- unknown",
+        "buildings": "unknown --- unknown",
+        "roles": "student --- unknown",
+        "years": [
+          2021
+        ],
+        "year_recent": 2021,
+        "dois": [
+          "10.1016/j.apenergy.2021.117225"
+        ],
+        "ncsu?": false,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": false,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+
+        ],
+        "cross_building?": false,
+        "concepts": [
+          "Fossil fuel",
+          "Biofuel",
+          "Renewable fuels",
+          "Environmental science",
+          "Liquid fuel",
+          "Waste management",
+          "Biomass (ecology)",
+          "Renewable energy",
+          "Jet fuel",
+          "Chemistry",
+          "Engineering",
+          "Combustion",
+          "Ecology",
+          "Electrical engineering",
+          "Organic chemistry",
+          "Biology"
+        ],
+        "host_venues": [
+          "Applied Energy"
+        ],
+        "color": "#000000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-thossai",
+      "target": "https://orcid.org/0000-0002-3216-1533",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "unknown --- unknown",
+        "colleges": "unknown --- unknown",
+        "buildings": "unknown --- unknown",
+        "roles": "student --- unknown",
+        "years": [
+          2021
+        ],
+        "year_recent": 2021,
+        "dois": [
+          "10.1016/j.apenergy.2021.117225"
+        ],
+        "ncsu?": false,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": false,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+
+        ],
+        "cross_building?": false,
+        "concepts": [
+          "Fossil fuel",
+          "Biofuel",
+          "Renewable fuels",
+          "Environmental science",
+          "Liquid fuel",
+          "Waste management",
+          "Biomass (ecology)",
+          "Renewable energy",
+          "Jet fuel",
+          "Chemistry",
+          "Engineering",
+          "Combustion",
+          "Ecology",
+          "Electrical engineering",
+          "Organic chemistry",
+          "Biology"
+        ],
+        "host_venues": [
+          "Applied Energy"
+        ],
+        "color": "#000000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-thossai",
+      "target": "https://orcid.org/0000-0003-2182-0449",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "unknown --- unknown",
+        "colleges": "unknown --- unknown",
+        "buildings": "unknown --- unknown",
+        "roles": "student --- unknown",
+        "years": [
+          2021
+        ],
+        "year_recent": 2021,
+        "dois": [
+          "10.1016/j.apenergy.2021.117225"
+        ],
+        "ncsu?": false,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": false,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+
+        ],
+        "cross_building?": false,
+        "concepts": [
+          "Fossil fuel",
+          "Biofuel",
+          "Renewable fuels",
+          "Environmental science",
+          "Liquid fuel",
+          "Waste management",
+          "Biomass (ecology)",
+          "Renewable energy",
+          "Jet fuel",
+          "Chemistry",
+          "Engineering",
+          "Combustion",
+          "Ecology",
+          "Electrical engineering",
+          "Organic chemistry",
+          "Biology"
+        ],
+        "host_venues": [
+          "Applied Energy"
+        ],
+        "color": "#000000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-thossai",
+      "target": "https://orcid.org/0000-0002-3115-8527",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "unknown --- unknown",
+        "colleges": "unknown --- unknown",
+        "buildings": "unknown --- unknown",
+        "roles": "student --- unknown",
+        "years": [
+          2021
+        ],
+        "year_recent": 2021,
+        "dois": [
+          "10.1016/j.apenergy.2021.116946"
+        ],
+        "ncsu?": false,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": false,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+
+        ],
+        "cross_building?": false,
+        "concepts": [
+          "Cellulosic ethanol",
+          "Corn stover",
+          "Biofuel",
+          "Raw material",
+          "Biomass (ecology)",
+          "Bioproducts",
+          "Renewable energy",
+          "Bioenergy",
+          "Sustainability",
+          "Biorefinery",
+          "Business",
+          "Environmental economics",
+          "Natural resource economics",
+          "Waste management",
+          "Engineering",
+          "Economics",
+          "Cellulose",
+          "Chemistry",
+          "Agronomy",
+          "Ecology",
+          "Electrical engineering",
+          "Organic chemistry",
+          "Chemical engineering",
+          "Biology"
+        ],
+        "host_venues": [
+          "Applied Energy"
+        ],
+        "color": "#000000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-thossai",
+      "target": "lmichaelgriffel",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "unknown --- unknown",
+        "colleges": "unknown --- unknown",
+        "buildings": "unknown --- unknown",
+        "roles": "student --- unknown",
+        "years": [
+          2021
+        ],
+        "year_recent": 2021,
+        "dois": [
+          "10.1016/j.apenergy.2021.116946"
+        ],
+        "ncsu?": false,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": false,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+
+        ],
+        "cross_building?": false,
+        "concepts": [
+          "Cellulosic ethanol",
+          "Corn stover",
+          "Biofuel",
+          "Raw material",
+          "Biomass (ecology)",
+          "Bioproducts",
+          "Renewable energy",
+          "Bioenergy",
+          "Sustainability",
+          "Biorefinery",
+          "Business",
+          "Environmental economics",
+          "Natural resource economics",
+          "Waste management",
+          "Engineering",
+          "Economics",
+          "Cellulose",
+          "Chemistry",
+          "Agronomy",
+          "Ecology",
+          "Electrical engineering",
+          "Organic chemistry",
+          "Chemical engineering",
+          "Biology"
+        ],
+        "host_venues": [
+          "Applied Energy"
+        ],
+        "color": "#000000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-thossai",
+      "target": "yingqianlin",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "unknown --- unknown",
+        "colleges": "unknown --- unknown",
+        "buildings": "unknown --- unknown",
+        "roles": "student --- unknown",
+        "years": [
+          2021
+        ],
+        "year_recent": 2021,
+        "dois": [
+          "10.1016/j.apenergy.2021.116946"
+        ],
+        "ncsu?": false,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": false,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+
+        ],
+        "cross_building?": false,
+        "concepts": [
+          "Cellulosic ethanol",
+          "Corn stover",
+          "Biofuel",
+          "Raw material",
+          "Biomass (ecology)",
+          "Bioproducts",
+          "Renewable energy",
+          "Bioenergy",
+          "Sustainability",
+          "Biorefinery",
+          "Business",
+          "Environmental economics",
+          "Natural resource economics",
+          "Waste management",
+          "Engineering",
+          "Economics",
+          "Cellulose",
+          "Chemistry",
+          "Agronomy",
+          "Ecology",
+          "Electrical engineering",
+          "Organic chemistry",
+          "Chemical engineering",
+          "Biology"
+        ],
+        "host_venues": [
+          "Applied Energy"
+        ],
+        "color": "#000000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-thossai",
+      "target": "https://orcid.org/0000-0002-4107-8918",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "unknown --- unknown",
+        "colleges": "unknown --- unknown",
+        "buildings": "unknown --- unknown",
+        "roles": "student --- unknown",
+        "years": [
+          2021
+        ],
+        "year_recent": 2021,
+        "dois": [
+          "10.1016/j.apenergy.2021.116946"
+        ],
+        "ncsu?": false,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": false,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+
+        ],
+        "cross_building?": false,
+        "concepts": [
+          "Cellulosic ethanol",
+          "Corn stover",
+          "Biofuel",
+          "Raw material",
+          "Biomass (ecology)",
+          "Bioproducts",
+          "Renewable energy",
+          "Bioenergy",
+          "Sustainability",
+          "Biorefinery",
+          "Business",
+          "Environmental economics",
+          "Natural resource economics",
+          "Waste management",
+          "Engineering",
+          "Economics",
+          "Cellulose",
+          "Chemistry",
+          "Agronomy",
+          "Ecology",
+          "Electrical engineering",
+          "Organic chemistry",
+          "Chemical engineering",
+          "Biology"
+        ],
+        "host_venues": [
+          "Applied Energy"
+        ],
+        "color": "#000000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-thossai",
+      "target": "https://orcid.org/0000-0001-8518-6307",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "unknown --- unknown",
+        "colleges": "unknown --- unknown",
+        "buildings": "unknown --- unknown",
+        "roles": "student --- unknown",
+        "years": [
+          2021
+        ],
+        "year_recent": 2021,
+        "dois": [
+          "10.1016/j.apenergy.2021.116946"
+        ],
+        "ncsu?": false,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": false,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+
+        ],
+        "cross_building?": false,
+        "concepts": [
+          "Cellulosic ethanol",
+          "Corn stover",
+          "Biofuel",
+          "Raw material",
+          "Biomass (ecology)",
+          "Bioproducts",
+          "Renewable energy",
+          "Bioenergy",
+          "Sustainability",
+          "Biorefinery",
+          "Business",
+          "Environmental economics",
+          "Natural resource economics",
+          "Waste management",
+          "Engineering",
+          "Economics",
+          "Cellulose",
+          "Chemistry",
+          "Agronomy",
+          "Ecology",
+          "Electrical engineering",
+          "Organic chemistry",
+          "Chemical engineering",
+          "Biology"
+        ],
+        "host_venues": [
+          "Applied Energy"
+        ],
+        "color": "#000000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-thossai",
+      "target": "https://orcid.org/0000-0001-8131-9328",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "unknown --- unknown",
+        "colleges": "unknown --- unknown",
+        "buildings": "unknown --- unknown",
+        "roles": "student --- unknown",
+        "years": [
+          2021
+        ],
+        "year_recent": 2021,
+        "dois": [
+          "10.1016/j.apenergy.2021.116946"
+        ],
+        "ncsu?": false,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": false,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+
+        ],
+        "cross_building?": false,
+        "concepts": [
+          "Cellulosic ethanol",
+          "Corn stover",
+          "Biofuel",
+          "Raw material",
+          "Biomass (ecology)",
+          "Bioproducts",
+          "Renewable energy",
+          "Bioenergy",
+          "Sustainability",
+          "Biorefinery",
+          "Business",
+          "Environmental economics",
+          "Natural resource economics",
+          "Waste management",
+          "Engineering",
+          "Economics",
+          "Cellulose",
+          "Chemistry",
+          "Agronomy",
+          "Ecology",
+          "Electrical engineering",
+          "Organic chemistry",
+          "Chemical engineering",
+          "Biology"
+        ],
+        "host_venues": [
+          "Applied Energy"
+        ],
+        "color": "#000000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-thossai",
+      "target": "https://orcid.org/0000-0002-1470-7379",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "unknown --- unknown",
+        "colleges": "unknown --- unknown",
+        "buildings": "unknown --- unknown",
+        "roles": "student --- unknown",
+        "years": [
+          2021
+        ],
+        "year_recent": 2021,
+        "dois": [
+          "10.1016/j.apenergy.2021.116946"
+        ],
+        "ncsu?": false,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": false,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+
+        ],
+        "cross_building?": false,
+        "concepts": [
+          "Cellulosic ethanol",
+          "Corn stover",
+          "Biofuel",
+          "Raw material",
+          "Biomass (ecology)",
+          "Bioproducts",
+          "Renewable energy",
+          "Bioenergy",
+          "Sustainability",
+          "Biorefinery",
+          "Business",
+          "Environmental economics",
+          "Natural resource economics",
+          "Waste management",
+          "Engineering",
+          "Economics",
+          "Cellulose",
+          "Chemistry",
+          "Agronomy",
+          "Ecology",
+          "Electrical engineering",
+          "Organic chemistry",
+          "Chemical engineering",
+          "Biology"
+        ],
+        "host_venues": [
+          "Applied Energy"
+        ],
+        "color": "#000000",
+        "size": 1
+      }
+    }
+  ]
+}

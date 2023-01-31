@@ -1,0 +1,442 @@
+{
+  "options": {
+    "type": "undirected",
+    "multi": false,
+    "allowSelfLoops": false
+  },
+  "attributes": {
+    "creator": "Citation Index",
+    "lastModifiedDate": "2023-01-14"
+  },
+  "nodes": [
+    {
+      "key": "uid-smk",
+      "attributes": {
+        "label": "S Katz",
+        "name": "Susan Katz",
+        "known?": true,
+        "orcid?": false,
+        "ncsu?": true,
+        "affiliations": [
+          "North Carolina State University"
+        ],
+        "countries": [
+          "US"
+        ],
+        "uid": "smk",
+        "url": "https://ci.lib.ncsu.edu/profiles/smk",
+        "active?": true,
+        "department": "English",
+        "college": "College of Humanities and Social Sciences",
+        "ncsu_affiliations": [
+          "English",
+          "Genetic Engineering and Society",
+          "Communication Rhetoric and Digital Media"
+        ],
+        "cluster?": true,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "role": "faculty",
+        "building": "Tompkins Hall",
+        "count": 14,
+        "oa_count": 2,
+        "years": [
+          2008,
+          2005,
+          2003,
+          2002,
+          2001,
+          1999,
+          1998,
+          1997
+        ],
+        "year_recent": 2008,
+        "article_concepts": [
+          "Bar chart",
+          "Business communication",
+          "Chart",
+          "Communication",
+          "Computer graphics (images)",
+          "Computer science",
+          "Data science",
+          "Graph",
+          "Graphics",
+          "Mathematics",
+          "Pie chart",
+          "Programming language",
+          "Sociology",
+          "Software",
+          "Statistics",
+          "Theoretical computer science",
+          "World Wide Web"
+        ],
+        "host_venues": [
+          "Business and Professional Communication Quarterly",
+          "IEEE Transactions on Professional Communication",
+          "Journal of Business Communication",
+          "Journal of Business and Technical Communication",
+          "Research-technology Management"
+        ],
+        "color": "#FAC800",
+        "size": 20
+      }
+    },
+    {
+      "key": "robertcasey",
+      "attributes": {
+        "label": "R Casey",
+        "name": "Robert Casey",
+        "known?": false,
+        "orcid?": null,
+        "ncsu?": false,
+        "affiliations": [
+
+        ],
+        "countries": [
+
+        ],
+        "color": "#BFBFBD",
+        "size": 10
+      }
+    },
+    {
+      "key": "uid-lynda",
+      "attributes": {
+        "label": "L Aiman-Smith",
+        "name": "Lynda D. Aiman-Smith",
+        "known?": true,
+        "orcid?": false,
+        "ncsu?": true,
+        "affiliations": [
+          "North Carolina State University"
+        ],
+        "countries": [
+          "US"
+        ],
+        "uid": "lynda",
+        "url": "https://ci.lib.ncsu.edu/profiles/lynda",
+        "active?": false,
+        "department": "Business Management",
+        "college": "Poole College of Management",
+        "ncsu_affiliations": [
+          "Business Management",
+          "Management, Innovation & Entrepreneurship"
+        ],
+        "cluster?": false,
+        "clusters": [
+
+        ],
+        "role": null,
+        "building": null,
+        "count": 19,
+        "oa_count": 0,
+        "years": [
+          2010,
+          2007,
+          2006,
+          2005,
+          2004,
+          2002,
+          2001,
+          2000,
+          1996,
+          1995
+        ],
+        "year_recent": 2010,
+        "article_concepts": [
+
+        ],
+        "host_venues": [
+          "Academy of Management Journal",
+          "IEEE Transactions on Engineering Management",
+          "Journal of Business and Psychology",
+          "Journal of Engineering Education",
+          "Journal of Product Innovation Management",
+          "Organizational Research Methods",
+          "Research-technology Management"
+        ],
+        "color": "#273434",
+        "size": 10
+      }
+    },
+    {
+      "key": "pjorgan",
+      "attributes": {
+        "label": "P Organ",
+        "name": "P. J. Organ",
+        "known?": false,
+        "orcid?": null,
+        "ncsu?": null,
+        "affiliations": null,
+        "countries": null,
+        "color": "#BFBFBD",
+        "size": 10
+      }
+    },
+    {
+      "key": "lodell",
+      "attributes": {
+        "label": "L Odell",
+        "name": "L. Odell",
+        "known?": false,
+        "orcid?": null,
+        "ncsu?": null,
+        "affiliations": null,
+        "countries": null,
+        "color": "#BFBFBD",
+        "size": 10
+      }
+    },
+    {
+      "key": "tmharrison",
+      "attributes": {
+        "label": "T Harrison",
+        "name": "T. M. Harrison",
+        "known?": false,
+        "orcid?": null,
+        "ncsu?": null,
+        "affiliations": null,
+        "countries": null,
+        "color": "#BFBFBD",
+        "size": 10
+      }
+    }
+  ],
+  "edges": [
+    {
+      "source": "uid-smk",
+      "target": "robertcasey",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "English --- unknown",
+        "colleges": "College of Humanities and Social Sciences --- unknown",
+        "buildings": "Tompkins Hall --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          2005
+        ],
+        "year_recent": 2005,
+        "dois": [
+          "10.1080/08956308.2005.11657315"
+        ],
+        "ncsu?": false,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          "Research-technology Management"
+        ],
+        "color": "#000000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-smk",
+      "target": "uid-lynda",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Business Management -- English",
+        "colleges": "College of Humanities and Social Sciences -- Poole College of Management",
+        "buildings": "Tompkins Hall --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          2005
+        ],
+        "year_recent": 2005,
+        "dois": [
+          "10.1080/08956308.2005.11657315"
+        ],
+        "ncsu?": true,
+        "cross_college?": true,
+        "cross_department?": true,
+        "cross_unit?": true,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          "Research-technology Management"
+        ],
+        "color": "#FAC800",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-smk",
+      "target": "pjorgan",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "English --- unknown",
+        "colleges": "College of Humanities and Social Sciences --- unknown",
+        "buildings": "Tompkins Hall --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          2001
+        ],
+        "year_recent": 2001,
+        "dois": [
+
+        ],
+        "ncsu?": null,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          null
+        ],
+        "color": "#000000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-smk",
+      "target": "lodell",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "English --- unknown",
+        "colleges": "College of Humanities and Social Sciences --- unknown",
+        "buildings": "Tompkins Hall --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          1999
+        ],
+        "year_recent": 1999,
+        "dois": [
+
+        ],
+        "ncsu?": null,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          null
+        ],
+        "color": "#000000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-smk",
+      "target": "tmharrison",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "English --- unknown",
+        "colleges": "College of Humanities and Social Sciences --- unknown",
+        "buildings": "Tompkins Hall --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          1997
+        ],
+        "year_recent": 1997,
+        "dois": [
+
+        ],
+        "ncsu?": null,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          null
+        ],
+        "color": "#000000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-lynda",
+      "target": "robertcasey",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Business Management --- unknown",
+        "colleges": "Poole College of Management --- unknown",
+        "buildings": "unknown --- unknown",
+        "roles": "unknown == unknown",
+        "years": [
+          2005
+        ],
+        "year_recent": 2005,
+        "dois": [
+          "10.1080/08956308.2005.11657315"
+        ],
+        "ncsu?": false,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": false,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          "Research-technology Management"
+        ],
+        "color": "#000000",
+        "size": 1
+      }
+    }
+  ]
+}

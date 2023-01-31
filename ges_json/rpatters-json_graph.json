@@ -1,0 +1,4834 @@
+{
+  "options": {
+    "type": "undirected",
+    "multi": false,
+    "allowSelfLoops": false
+  },
+  "attributes": {
+    "creator": "Citation Index",
+    "lastModifiedDate": "2023-01-13"
+  },
+  "nodes": [
+    {
+      "key": "uid-rpatters",
+      "attributes": {
+        "label": "B Patterson",
+        "name": "Bob Patterson",
+        "known?": true,
+        "orcid?": true,
+        "ncsu?": true,
+        "affiliations": [
+          "North Carolina State University"
+        ],
+        "countries": [
+          "US"
+        ],
+        "uid": "rpatters",
+        "url": "https://ci.lib.ncsu.edu/profiles/rpatters",
+        "orcid": "0000-0002-3717-996X",
+        "active?": true,
+        "department": "Crop and Soil Sciences",
+        "college": "College of Agriculture and Life Sciences",
+        "ncsu_affiliations": [
+          "Crop and Soil Sciences",
+          "Genetic Engineering and Society"
+        ],
+        "cluster?": true,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "role": "faculty",
+        "building": "Williams Hall",
+        "count": 5,
+        "oa_count": 3,
+        "years": [
+          2021,
+          2017,
+          2016,
+          2003,
+          2001
+        ],
+        "year_recent": 2021,
+        "article_concepts": [
+          "Agronomy",
+          "Art",
+          "Biology",
+          "Bolting",
+          "Botany",
+          "Brassica",
+          "Brassica carinata",
+          "Chemistry",
+          "Computer graphics (images)",
+          "Computer science",
+          "Cultivar",
+          "Ecology",
+          "Horticulture",
+          "Micronutrient",
+          "Nitrogen",
+          "Nutrient",
+          "Organic chemistry",
+          "Photosynthesis",
+          "Shading",
+          "Transpiration",
+          "Visual arts"
+        ],
+        "host_venues": [
+          "Agriculture",
+          "International Journal of Plant Sciences",
+          "Journal of Plant Nutrition",
+          "Scientific Reports"
+        ],
+        "color": "#6F7D1C",
+        "size": 20
+      }
+    },
+    {
+      "key": "uid-pncockso",
+      "attributes": {
+        "label": "P Cockson",
+        "name": "Paul Cockson",
+        "known?": true,
+        "orcid?": false,
+        "ncsu?": true,
+        "affiliations": [
+          "North Carolina State University"
+        ],
+        "countries": [
+          "US"
+        ],
+        "uid": "pncockso",
+        "url": "https://ci.lib.ncsu.edu/profiles/pncockso",
+        "active?": false,
+        "department": null,
+        "college": null,
+        "ncsu_affiliations": [
+
+        ],
+        "cluster?": false,
+        "clusters": [
+
+        ],
+        "role": "student",
+        "building": null,
+        "count": 9,
+        "oa_count": 3,
+        "years": [
+          2021,
+          2020,
+          2019,
+          2018
+        ],
+        "year_recent": 2021,
+        "article_concepts": [
+          "Agronomy",
+          "Biochemistry",
+          "Biology",
+          "Bolting",
+          "Botany",
+          "Brassica",
+          "Brassica carinata",
+          "Cannabinoid",
+          "Cannabis sativa",
+          "Chemistry",
+          "Crop",
+          "Ecology",
+          "Horticulture",
+          "Inflorescence",
+          "Micronutrient",
+          "Nitrate",
+          "Nutrient",
+          "Organic chemistry",
+          "Phosphorus",
+          "Receptor"
+        ],
+        "host_venues": [
+          "Acta horticulturae",
+          "Agriculture",
+          "Applied sciences",
+          "Crop, forage & turfgrass management"
+        ],
+        "color": "#000000",
+        "size": 10
+      }
+    },
+    {
+      "key": "uid-phveazie",
+      "attributes": {
+        "label": "P Veazie",
+        "name": "Patrick Veazie",
+        "known?": true,
+        "orcid?": false,
+        "ncsu?": true,
+        "affiliations": [
+          "North Carolina State University"
+        ],
+        "countries": [
+          "US"
+        ],
+        "uid": "phveazie",
+        "url": "https://ci.lib.ncsu.edu/profiles/phveazie",
+        "active?": true,
+        "department": null,
+        "college": null,
+        "ncsu_affiliations": [
+
+        ],
+        "cluster?": false,
+        "clusters": [
+
+        ],
+        "role": "student",
+        "building": null,
+        "count": 2,
+        "oa_count": 2,
+        "years": [
+          2021,
+          2020
+        ],
+        "year_recent": 2021,
+        "article_concepts": [
+          "Agronomy",
+          "Biochemistry",
+          "Biology",
+          "Bolting",
+          "Botany",
+          "Brassica",
+          "Brassica carinata",
+          "Cannabinoid",
+          "Cannabis sativa",
+          "Chemistry",
+          "Ecology",
+          "Horticulture",
+          "Inflorescence",
+          "Micronutrient",
+          "Nutrient",
+          "Organic chemistry",
+          "Phosphorus",
+          "Receptor"
+        ],
+        "host_venues": [
+          "Agriculture",
+          "Applied sciences"
+        ],
+        "color": "#000000",
+        "size": 10
+      }
+    },
+    {
+      "key": "uid-mdavis14",
+      "attributes": {
+        "label": "M Davis",
+        "name": "Matthew Davis",
+        "known?": true,
+        "orcid?": false,
+        "ncsu?": true,
+        "affiliations": [
+          "North Carolina State University"
+        ],
+        "countries": [
+          "US"
+        ],
+        "uid": "mdavis14",
+        "url": "https://ci.lib.ncsu.edu/profiles/mdavis14",
+        "active?": false,
+        "department": null,
+        "college": null,
+        "ncsu_affiliations": [
+
+        ],
+        "cluster?": false,
+        "clusters": [
+
+        ],
+        "role": "student",
+        "building": null,
+        "count": 3,
+        "oa_count": 2,
+        "years": [
+          2021,
+          2020,
+          2019
+        ],
+        "year_recent": 2021,
+        "article_concepts": [
+          "Agronomy",
+          "Animal science",
+          "Beef cattle",
+          "Biochemistry",
+          "Biology",
+          "Body weight",
+          "Bolting",
+          "Botany",
+          "Brassica",
+          "Brassica carinata",
+          "Cannabinoid",
+          "Cannabis sativa",
+          "Carcass weight",
+          "Chemistry",
+          "Ecology",
+          "Endocrinology",
+          "Endophyte",
+          "Feedlot",
+          "Horticulture",
+          "Inflorescence",
+          "Micronutrient",
+          "Nutrient",
+          "Organic chemistry",
+          "Phosphorus",
+          "Receptor"
+        ],
+        "host_venues": [
+          "Agriculture",
+          "Applied sciences",
+          "Journal of Animal Science"
+        ],
+        "color": "#000000",
+        "size": 10
+      }
+    },
+    {
+      "key": "uid-gfbaraja",
+      "attributes": {
+        "label": "G Barajas",
+        "name": "Gabby Barajas",
+        "known?": true,
+        "orcid?": false,
+        "ncsu?": true,
+        "affiliations": [
+          "North Carolina State University"
+        ],
+        "countries": [
+          "US"
+        ],
+        "uid": "gfbaraja",
+        "url": "https://ci.lib.ncsu.edu/profiles/gfbaraja",
+        "active?": false,
+        "department": null,
+        "college": null,
+        "ncsu_affiliations": [
+
+        ],
+        "cluster?": false,
+        "clusters": [
+
+        ],
+        "role": "student",
+        "building": null,
+        "count": 2,
+        "oa_count": 2,
+        "years": [
+          2021,
+          2020
+        ],
+        "year_recent": 2021,
+        "article_concepts": [
+          "Agronomy",
+          "Biochemistry",
+          "Biology",
+          "Bolting",
+          "Botany",
+          "Brassica",
+          "Brassica carinata",
+          "Cannabinoid",
+          "Cannabis sativa",
+          "Chemistry",
+          "Ecology",
+          "Horticulture",
+          "Inflorescence",
+          "Micronutrient",
+          "Nutrient",
+          "Organic chemistry",
+          "Phosphorus",
+          "Receptor"
+        ],
+        "host_venues": [
+          "Agriculture",
+          "Applied sciences"
+        ],
+        "color": "#000000",
+        "size": 10
+      }
+    },
+    {
+      "key": "uid-arricha3",
+      "attributes": {
+        "label": "A Post",
+        "name": "Angela Post",
+        "known?": true,
+        "orcid?": true,
+        "ncsu?": true,
+        "affiliations": [
+          "North Carolina State University"
+        ],
+        "countries": [
+          "US"
+        ],
+        "uid": "arricha3",
+        "url": "https://ci.lib.ncsu.edu/profiles/arricha3",
+        "orcid": "0000-0001-8838-9636",
+        "active?": true,
+        "department": "Crop and Soil Sciences",
+        "college": "College of Agriculture and Life Sciences",
+        "ncsu_affiliations": [
+          "Crop and Soil Sciences"
+        ],
+        "cluster?": false,
+        "clusters": [
+
+        ],
+        "role": "faculty",
+        "building": "Williams Hall",
+        "count": 14,
+        "oa_count": 3,
+        "years": [
+          2021,
+          2020,
+          2019,
+          2009
+        ],
+        "year_recent": 2021,
+        "article_concepts": [
+          "Agroforestry",
+          "Agronomy",
+          "Arachis hypogaea",
+          "Biochemistry",
+          "Biology",
+          "Bolting",
+          "Botany",
+          "Brassica",
+          "Brassica carinata",
+          "Canola",
+          "Chemistry",
+          "Ecology",
+          "Environmental science",
+          "Horticulture",
+          "Materials science",
+          "Metallurgy",
+          "Micronutrient",
+          "Nutrient",
+          "Organic chemistry",
+          "Residue (chemistry)",
+          "Weed",
+          "Weed control",
+          "Yield (engineering)"
+        ],
+        "host_venues": [
+          "Agriculture",
+          "Agronomy Journal",
+          "Crop, forage & turfgrass management",
+          "Peanut Science",
+          "Plant Health Progress",
+          "Weed Technology"
+        ],
+        "color": "#6F7D1C",
+        "size": 10
+      }
+    },
+    {
+      "key": "uid-ccrozier",
+      "attributes": {
+        "label": "C Crozier",
+        "name": "Carl Crozier",
+        "known?": true,
+        "orcid?": false,
+        "ncsu?": true,
+        "affiliations": [
+          "North Carolina State University"
+        ],
+        "countries": [
+          "US"
+        ],
+        "uid": "ccrozier",
+        "url": "https://ci.lib.ncsu.edu/profiles/ccrozier",
+        "active?": true,
+        "department": "Soil Science",
+        "college": "College of Agriculture and Life Sciences",
+        "ncsu_affiliations": [
+          "Soil Science",
+          "Crop and Soil Sciences",
+          "Coastal and Marine Sciences Program"
+        ],
+        "cluster?": false,
+        "clusters": [
+
+        ],
+        "role": "faculty",
+        "building": null,
+        "count": 40,
+        "oa_count": 8,
+        "years": [
+          2021,
+          2019,
+          2018,
+          2017,
+          2016,
+          2014,
+          2013,
+          2011,
+          2010,
+          2009,
+          2008,
+          2007,
+          2006,
+          2005,
+          2004,
+          2003,
+          2002,
+          2001,
+          2000,
+          1999,
+          1998,
+          1993
+        ],
+        "year_recent": 2021,
+        "article_concepts": [
+          "Agriculture",
+          "Agroforestry",
+          "Agronomy",
+          "Archaeology",
+          "Biofuel",
+          "Biology",
+          "Biotechnology",
+          "Bolting",
+          "Botany",
+          "Brassica",
+          "Brassica carinata",
+          "Chemistry",
+          "Cropping",
+          "Ecology",
+          "Environmental science",
+          "Geography",
+          "Horticulture",
+          "Materials science",
+          "Metallurgy",
+          "Micronutrient",
+          "Nutrient",
+          "Organic chemistry",
+          "Tiller (botany)",
+          "Winter wheat",
+          "Yield (engineering)"
+        ],
+        "host_venues": [
+          "Agricultural & Environmental Letters",
+          "Agriculture",
+          "Agronomy Journal",
+          "American Journal of Potato Research",
+          "Bioenergy Research",
+          "Communications in Soil Science and Plant Analysis",
+          "Crop Management",
+          "Crop, forage & turfgrass management",
+          "Integrated Environmental Assessment and Management",
+          "Journal of Plant Nutrition",
+          "Journal of Soil and Water Conservation",
+          "Potato Research",
+          "Soil Science Society of America Journal",
+          "Transactions of the ASABE"
+        ],
+        "color": "#6F7D1C",
+        "size": 10
+      }
+    },
+    {
+      "key": "uid-rleon",
+      "attributes": {
+        "label": "R Leon Gonzalez",
+        "name": "Ramon Leon Gonzalez",
+        "known?": true,
+        "orcid?": true,
+        "ncsu?": true,
+        "affiliations": [
+          "North Carolina State University"
+        ],
+        "countries": [
+          "US"
+        ],
+        "uid": "rleon",
+        "url": "https://ci.lib.ncsu.edu/profiles/rleon",
+        "orcid": "0000-0002-1924-3331",
+        "active?": true,
+        "department": "Crop and Soil Sciences",
+        "college": "College of Agriculture and Life Sciences",
+        "ncsu_affiliations": [
+          "Crop and Soil Sciences",
+          "Genetic Engineering and Society"
+        ],
+        "cluster?": true,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "role": "faculty",
+        "building": "Williams Hall",
+        "count": 135,
+        "oa_count": 45,
+        "years": [
+          2022,
+          2021,
+          2020,
+          2019,
+          2018,
+          2017,
+          2016,
+          2015,
+          2014,
+          2013,
+          2012,
+          2011,
+          2010,
+          2009,
+          2008,
+          2007,
+          2006,
+          2005,
+          2004,
+          2003,
+          2001
+        ],
+        "year_recent": 2022,
+        "keywords": [
+          "weeds",
+          "agronomy",
+          "seeds",
+          "genetics",
+          "evolution",
+          "ecology"
+        ],
+        "article_concepts": [
+          "Abscisic acid",
+          "Acetolactate synthase",
+          "Active listening",
+          "Advertising",
+          "Agricultural engineering",
+          "Agricultural science",
+          "Agriculture",
+          "Agroecosystem",
+          "Agroforestry",
+          "Agronomy",
+          "Amaranth",
+          "Ananas",
+          "Animal science",
+          "Applied psychology",
+          "Aquatic plant",
+          "Arable land",
+          "Arachis hypogaea",
+          "Archaeology",
+          "Art",
+          "Artificial intelligence",
+          "Artificial neural network",
+          "Bentazon",
+          "Biochar",
+          "Biochemistry",
+          "Bioenergy",
+          "Biofuel",
+          "Biology",
+          "Biomass (ecology)",
+          "Biotechnology",
+          "Bolting",
+          "Botany",
+          "Brassica",
+          "Brassica carinata",
+          "Business",
+          "CLARITY",
+          "Cane",
+          "Canopy",
+          "Carbon sequestration",
+          "Channel (broadcasting)",
+          "Chemistry",
+          "Coastal plain",
+          "Communication",
+          "Competition (biology)",
+          "Computational biology",
+          "Computer science",
+          "Context (archaeology)",
+          "Convolutional neural network",
+          "Corporate governance",
+          "Crop",
+          "Crop management",
+          "Crop rotation",
+          "Crop yield",
+          "Cropping",
+          "Cultivar",
+          "Database",
+          "Deep learning",
+          "Demography",
+          "Dicamba",
+          "Diversification (marketing strategy)",
+          "Dry matter",
+          "Ecology",
+          "Economics",
+          "Ectotherm",
+          "Electrical engineering",
+          "Engineering",
+          "Environmental planning",
+          "Environmental resource management",
+          "Environmental science",
+          "Enzyme",
+          "Ethanol fuel",
+          "Evolutionary biology",
+          "Fertilizer",
+          "Fiber crop",
+          "Field (mathematics)",
+          "Finance",
+          "Flexibility (engineering)",
+          "Fluridone",
+          "Forage",
+          "Gene",
+          "Gene expression",
+          "Generalist and specialist species",
+          "Genetic variation",
+          "Genetics",
+          "Genome",
+          "Genotype",
+          "Geography",
+          "Germination",
+          "Glufosinate",
+          "Glyphosate",
+          "Gossypium hirsutum",
+          "Grassroots",
+          "Greenhouse",
+          "Growing degree-day",
+          "Growing season",
+          "Habit",
+          "Habitat",
+          "Herbicide resistance",
+          "Horticulture",
+          "Human fertilization",
+          "Humanities",
+          "Hydrilla",
+          "Integrated pest management",
+          "Interception",
+          "Interference (communication)",
+          "Intraspecific competition",
+          "Invasive species",
+          "Law",
+          "Limiting",
+          "Litter",
+          "Loam",
+          "Machine learning",
+          "Macroeconomics",
+          "Macrophyte",
+          "Management",
+          "Marketing",
+          "Materials science",
+          "Mathematics",
+          "Mechanical engineering",
+          "Medical education",
+          "Medicine",
+          "Metallurgy",
+          "Micronutrient",
+          "Nitrogen",
+          "Nutrient",
+          "Operating system",
+          "Organic chemistry",
+          "PEST analysis",
+          "Pattern recognition (psychology)",
+          "Penetrometer",
+          "Pennisetum purpureum",
+          "Perennial plant",
+          "Petri dish",
+          "Phenology",
+          "Phylogenetic tree",
+          "Pixel",
+          "Political science",
+          "Politics",
+          "Population",
+          "Population genetics",
+          "Poultry litter",
+          "Precision agriculture",
+          "Process (computing)",
+          "Productivity",
+          "Promoter",
+          "Protoporphyrinogen oxidase",
+          "Psychology",
+          "Psychotherapist",
+          "Public administration",
+          "Public relations",
+          "Pure mathematics",
+          "Pyrolysis",
+          "Quantitative genetics",
+          "Ratooning",
+          "Raw material",
+          "Remote sensing",
+          "Resistance (ecology)",
+          "Row",
+          "Saccharum",
+          "Saccharum officinarum",
+          "Seeding",
+          "Seedling",
+          "Segmentation",
+          "Session (web analytics)",
+          "Shading",
+          "Short rotation coppice",
+          "Slash-and-char",
+          "Smut",
+          "Sociology",
+          "Soil fertility",
+          "Soil science",
+          "Soil water",
+          "Sorghum",
+          "South carolina",
+          "Sowing",
+          "Species richness",
+          "Stakeholder",
+          "Sugar",
+          "Sweet sorghum",
+          "Synthetic data",
+          "Temperate climate",
+          "Tillage",
+          "Transcription factor",
+          "Transfer of learning",
+          "Tropics",
+          "Vinasse",
+          "Visual arts",
+          "Weed",
+          "Weed control",
+          "Weed science",
+          "Work (physics)",
+          "Yield (engineering)"
+        ],
+        "host_venues": [
+          "Agriculture",
+          "Agriculture, Ecosystems & Environment",
+          "Agronomy",
+          "Agronomy Journal",
+          "Agronomía mesoamericana",
+          "Agrosystems, geosciences & environment",
+          "Applied turfgrass science",
+          "Aquatic Invasions",
+          "Biomass & Bioenergy",
+          "Ceiba: A Scientific and Technical Journal",
+          "Communications in Soil Science and Plant Analysis",
+          "Crop Science",
+          "Crop, forage & turfgrass management",
+          "EDIS",
+          "Environment Systems and Decisions",
+          "European Journal of Agronomy",
+          "Field Crops Research",
+          "Gcb Bioenergy",
+          "Genes",
+          "Horttechnology",
+          "Industrial Crops and Products",
+          "Invasive Plant Science and Management",
+          "Journal of Environmental Management",
+          "Journal of Environmental Quality",
+          "Nutrient Cycling in Agroecosystems",
+          "Peanut Science",
+          "Pest Management Science",
+          "Plant and Soil",
+          "Plants",
+          "Scientific Reports",
+          "Seed Science Research",
+          "Soil Science Society of America Journal",
+          "Weed Research",
+          "Weed Science",
+          "Weed Technology"
+        ],
+        "color": "#6F7D1C",
+        "size": 10
+      }
+    },
+    {
+      "key": "robertpatterson",
+      "attributes": {
+        "label": "R Patterson",
+        "name": "Robert Patterson",
+        "known?": false,
+        "orcid?": null,
+        "ncsu?": false,
+        "affiliations": [
+
+        ],
+        "countries": [
+
+        ],
+        "color": "#BFBFBD",
+        "size": 10
+      }
+    },
+    {
+      "key": "uid-bwhipker",
+      "attributes": {
+        "label": "B Whipker",
+        "name": "Brian Whipker",
+        "known?": true,
+        "orcid?": false,
+        "ncsu?": true,
+        "affiliations": [
+          "North Carolina State University"
+        ],
+        "countries": [
+          "US"
+        ],
+        "uid": "bwhipker",
+        "url": "https://ci.lib.ncsu.edu/profiles/bwhipker",
+        "active?": true,
+        "department": "Horticultural Science",
+        "college": "College of Agriculture and Life Sciences",
+        "ncsu_affiliations": [
+          "Horticultural Science"
+        ],
+        "cluster?": false,
+        "clusters": [
+
+        ],
+        "role": "faculty",
+        "building": "Kilgore Hall",
+        "count": 83,
+        "oa_count": 14,
+        "years": [
+          2022,
+          2021,
+          2020,
+          2019,
+          2018,
+          2017,
+          2016,
+          2015,
+          2014,
+          2013,
+          2012,
+          2011,
+          2010,
+          2009,
+          2007,
+          2006,
+          2005,
+          2004,
+          2003,
+          2001,
+          2000,
+          1999,
+          1998
+        ],
+        "year_recent": 2022,
+        "article_concepts": [
+          "Agriculture",
+          "Agronomy",
+          "Anethum graveolens",
+          "Anthesis",
+          "Anthocyanin",
+          "Archaeology",
+          "Artificial intelligence",
+          "Basilicum",
+          "Biochemistry",
+          "Biology",
+          "Bolting",
+          "Botany",
+          "Brassica",
+          "Brassica carinata",
+          "Brassica oleracea",
+          "Brassica rapa",
+          "Bulb",
+          "Cannabinoid",
+          "Cannabis sativa",
+          "Canopy",
+          "Carotenoid",
+          "Catharanthus roseus",
+          "Champion",
+          "Chemistry",
+          "Chlorophyll",
+          "Chlorophyll b",
+          "Composite material",
+          "Computer science",
+          "Crop",
+          "Cultivar",
+          "Dry weight",
+          "Ecology",
+          "Environmental science",
+          "Fertilizer",
+          "Gene",
+          "Geography",
+          "Greenhouse",
+          "Growth regulator",
+          "Helianthus annuus",
+          "Herbaceous plant",
+          "Horticulture",
+          "Human fertilization",
+          "Hyacinth",
+          "Hyperspectral imaging",
+          "Impatiens",
+          "Inflorescence",
+          "Ipomoea",
+          "Irrigation",
+          "Linear discriminant analysis",
+          "Materials science",
+          "Mathematics",
+          "Matricaria chamomilla",
+          "Micronutrient",
+          "Motion estimation",
+          "Nitrate",
+          "Nuclear physics",
+          "Nutrient",
+          "Ocimum",
+          "Organic chemistry",
+          "Ornamental plant",
+          "Paclobutrazol",
+          "Paleontology",
+          "Peat",
+          "Perlite",
+          "Petunia",
+          "Phosphorus",
+          "Photogrammetry",
+          "Physics",
+          "Phytotoxicity",
+          "Pigment",
+          "Plant growth",
+          "Point cloud",
+          "Potting",
+          "Precision agriculture",
+          "Receptor",
+          "Remote sensing",
+          "SAGE",
+          "Shoot",
+          "Solanaceae",
+          "Statistics",
+          "Structure from motion",
+          "Substrate (aquarium)",
+          "Sunflower",
+          "Sweet Basil",
+          "Tagetes",
+          "Wilting"
+        ],
+        "host_venues": [
+          "Acta horticulturae",
+          "Agriculture",
+          "Applied sciences",
+          "Communications in Soil Science and Plant Analysis",
+          "Crop, forage & turfgrass management",
+          "Drones",
+          "Frontiers in Plant Science",
+          "Hortscience",
+          "Horttechnology",
+          "Journal of Plant Nutrition",
+          "Journal of the American Society for Horticultural Science",
+          "Scientia Horticulturae"
+        ],
+        "color": "#6F7D1C",
+        "size": 10
+      }
+    },
+    {
+      "key": "shenggangpan",
+      "attributes": {
+        "label": "S Pan",
+        "name": "Shenggang Pan",
+        "known?": false,
+        "orcid?": null,
+        "ncsu?": false,
+        "affiliations": [
+
+        ],
+        "countries": [
+
+        ],
+        "color": "#BFBFBD",
+        "size": 10
+      }
+    },
+    {
+      "key": "haidongliu",
+      "attributes": {
+        "label": "H Liu",
+        "name": "Haidong Liu",
+        "known?": false,
+        "orcid?": null,
+        "ncsu?": false,
+        "affiliations": [
+
+        ],
+        "countries": [
+
+        ],
+        "color": "#BFBFBD",
+        "size": 10
+      }
+    },
+    {
+      "key": "zhaowenmo",
+      "attributes": {
+        "label": "Z Mo",
+        "name": "Zhaowen Mo",
+        "known?": false,
+        "orcid?": null,
+        "ncsu?": false,
+        "affiliations": [
+
+        ],
+        "countries": [
+
+        ],
+        "color": "#BFBFBD",
+        "size": 10
+      }
+    },
+    {
+      "key": "meiyangduan",
+      "attributes": {
+        "label": "M Duan",
+        "name": "Meiyang Duan",
+        "known?": false,
+        "orcid?": null,
+        "ncsu?": false,
+        "affiliations": [
+
+        ],
+        "countries": [
+
+        ],
+        "color": "#BFBFBD",
+        "size": 10
+      }
+    },
+    {
+      "key": "huatian",
+      "attributes": {
+        "label": "H Tian",
+        "name": "Hua Tian",
+        "known?": false,
+        "orcid?": null,
+        "ncsu?": false,
+        "affiliations": [
+
+        ],
+        "countries": [
+
+        ],
+        "color": "#BFBFBD",
+        "size": 10
+      }
+    },
+    {
+      "key": "uid-shu4",
+      "attributes": {
+        "label": "S Hu",
+        "name": "Shuijin Hu",
+        "known?": true,
+        "orcid?": true,
+        "ncsu?": true,
+        "affiliations": [
+          "North Carolina State University"
+        ],
+        "countries": [
+          "US"
+        ],
+        "uid": "shu4",
+        "url": "https://ci.lib.ncsu.edu/profiles/shu4",
+        "orcid": "0000-0002-3225-5126",
+        "active?": true,
+        "department": "Plant Pathology",
+        "college": "College of Agriculture and Life Sciences",
+        "ncsu_affiliations": [
+          "Plant Pathology",
+          "Entomology and Plant Pathology",
+          "Genetic Engineering and Society"
+        ],
+        "cluster?": true,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "role": "faculty",
+        "building": "Gardner Hall",
+        "count": 166,
+        "oa_count": 47,
+        "years": [
+          2022,
+          2021,
+          2020,
+          2019,
+          2018,
+          2017,
+          2016,
+          2015,
+          2014,
+          2013,
+          2012,
+          2011,
+          2010,
+          2009,
+          2008,
+          2007,
+          2006,
+          2005,
+          2004,
+          2003,
+          2002,
+          2001
+        ],
+        "year_recent": 2022,
+        "article_concepts": [
+          "16S ribosomal RNA",
+          "Abiotic component",
+          "Abundance (ecology)",
+          "Acidobacteria",
+          "Adsorption",
+          "Aerospace engineering",
+          "Agricultural economics",
+          "Agricultural engineering",
+          "Agricultural productivity",
+          "Agricultural science",
+          "Agriculture",
+          "Agroecosystem",
+          "Agroforestry",
+          "Agronomy",
+          "Algorithm",
+          "Allelopathy",
+          "Allometry",
+          "Amendment",
+          "Ammonium",
+          "Anammox",
+          "Anthropology",
+          "Appressorium",
+          "Arbuscular mycorrhizal",
+          "Arbuscular mycorrhizal fungi",
+          "Archaeology",
+          "Arid",
+          "Art",
+          "Aspergillus",
+          "Aspergillus niger",
+          "Atmospheric sciences",
+          "Autotroph",
+          "Bacteria",
+          "Biochar",
+          "Biochemistry",
+          "Biodiversity",
+          "Bioenergy",
+          "Biofuel",
+          "Biogeochemical cycle",
+          "Biology",
+          "Biomass (ecology)",
+          "Biomass partitioning",
+          "Biota",
+          "Botany",
+          "Brine",
+          "Business",
+          "Canopy",
+          "Captan",
+          "Carbon cycle",
+          "Carbon dioxide",
+          "Carbon dioxide in Earth's atmosphere",
+          "Carbon fibers",
+          "Carbon sequestration",
+          "Chemistry",
+          "China",
+          "Chrysanthemum morifolium",
+          "Citric acid",
+          "Climate change",
+          "Climatology",
+          "Competition (biology)",
+          "Composite material",
+          "Composite number",
+          "Compost",
+          "Computer graphics (images)",
+          "Computer network",
+          "Computer science",
+          "Conservation grazing",
+          "Contamination",
+          "Cover (algebra)",
+          "Cow dung",
+          "Crop yield",
+          "Cultivar",
+          "Decomposer",
+          "Decomposition",
+          "Demography",
+          "Denitrification",
+          "Denitrifying bacteria",
+          "Deposition (geology)",
+          "Dissolved organic carbon",
+          "Diversity (politics)",
+          "Dung beetle",
+          "Ecological succession",
+          "Ecology",
+          "Economic shortage",
+          "Economics",
+          "Ecosystem",
+          "Embedded system",
+          "Engineering",
+          "Environmental chemistry",
+          "Environmental remediation",
+          "Environmental resource management",
+          "Environmental science",
+          "Eucalyptus",
+          "Fertilizer",
+          "Food science",
+          "Food security",
+          "Forb",
+          "Formic acid",
+          "Fungicide",
+          "Fungus",
+          "Gene",
+          "Genetically modified crops",
+          "Genetically modified rice",
+          "Genetics",
+          "Geochemistry",
+          "Geography",
+          "Geology",
+          "Geomorphology",
+          "Germination",
+          "Glacier",
+          "Global change",
+          "Global warming",
+          "Glomeromycota",
+          "Glomus",
+          "Government (linguistics)",
+          "Grain yield",
+          "Grassland",
+          "Grassland ecosystem",
+          "Grazing",
+          "Greenhouse gas",
+          "Herbaceous plant",
+          "Herbivore",
+          "Horticulture",
+          "Host (biology)",
+          "Human fertilization",
+          "Husk",
+          "Impatiens",
+          "Inoculation",
+          "Interaction",
+          "Interspecific competition",
+          "Intraspecific competition",
+          "Introduced species",
+          "Invasive species",
+          "Irrigation",
+          "Law",
+          "Legume",
+          "Linguistics",
+          "Litter",
+          "Livestock",
+          "Macroeconomics",
+          "Magnaporthe",
+          "Magnaporthe grisea",
+          "Materials science",
+          "Mathematical analysis",
+          "Mathematics",
+          "Mechanical engineering",
+          "Metal",
+          "Metallurgy",
+          "Meteorology",
+          "Methane",
+          "Methane emissions",
+          "Microbial inoculant",
+          "Microbial population biology",
+          "Microbiology",
+          "Microcosm",
+          "Mineral",
+          "Mineralization (soil science)",
+          "Mining engineering",
+          "Miscanthus",
+          "Monoculture",
+          "Mulch",
+          "Mycorrhizal fungi",
+          "Native plant",
+          "Natural resource economics",
+          "Nitrate",
+          "Nitrogen",
+          "Nitrogen cycle",
+          "Nitrous oxide",
+          "No-till farming",
+          "Nuclear chemistry",
+          "Nutrient",
+          "Nutrient cycle",
+          "Oceanography",
+          "Oil shale",
+          "Olfactometer",
+          "Organic acid",
+          "Organic chemistry",
+          "Organic fertilizer",
+          "Organic matter",
+          "Oryza sativa",
+          "Oxalic acid",
+          "Oxisol",
+          "Ozone",
+          "Paddy field",
+          "Paleontology",
+          "Panicum virgatum",
+          "Particulates",
+          "Pasture",
+          "Pathogen",
+          "Penicillium",
+          "Perennial plant",
+          "Petroleum engineering",
+          "Philosophy",
+          "Phosphate",
+          "Phosphate solubilizing bacteria",
+          "Phosphorus",
+          "Photosynthesis",
+          "Physical geography",
+          "Physics",
+          "Plant community",
+          "Plant disease resistance",
+          "Plant functional type",
+          "Plant litter",
+          "Plant physiology",
+          "Plateau (mathematics)",
+          "Poaceae",
+          "Political science",
+          "Population",
+          "Potting",
+          "Potting soil",
+          "Precipitation",
+          "Primary production",
+          "Production (economics)",
+          "Productivity",
+          "Proteobacteria",
+          "Pyrolysis",
+          "Pythium ultimum",
+          "Qinghai lake",
+          "Quantum mechanics",
+          "Range (aeronautics)",
+          "Relative species abundance",
+          "Resistance (ecology)",
+          "Resource (disambiguation)",
+          "Resource use",
+          "Rhizobacteria",
+          "Rhizoctonia solani",
+          "Rhizophagus irregularis",
+          "Rhizosphere",
+          "Salinity",
+          "Scarabaeidae",
+          "Scarabaeinae",
+          "Secale",
+          "Secondary metabolite",
+          "Sediment",
+          "Seeding",
+          "Setaria viridis",
+          "Shading",
+          "Shale gas",
+          "Shoot",
+          "Snow",
+          "Sociology",
+          "Soil acidification",
+          "Soil biodiversity",
+          "Soil biology",
+          "Soil carbon",
+          "Soil fertility",
+          "Soil horizon",
+          "Soil organic matter",
+          "Soil pH",
+          "Soil respiration",
+          "Soil salinity",
+          "Soil science",
+          "Soil water",
+          "Solidago canadensis",
+          "Sorption",
+          "Species richness",
+          "Spore",
+          "Steppe",
+          "Stock (firearms)",
+          "Straw",
+          "Subtropics",
+          "Sustainability",
+          "Symbiosis",
+          "Terrestrial ecosystem",
+          "Tillage",
+          "Topsoil",
+          "Total organic carbon",
+          "Toxicology",
+          "Transgene",
+          "Transpiration",
+          "Understory",
+          "Visual arts",
+          "Weed",
+          "Xanthomonas",
+          "Xanthomonas oryzae",
+          "Yield (engineering)"
+        ],
+        "host_venues": [
+          "ACS Biomaterials Science & Engineering",
+          "ACS earth and space chemistry",
+          "Acta Oecologica-international Journal of Ecology",
+          "Agriculture, Ecosystems & Environment",
+          "Agronomy Journal",
+          "Alpine Botany",
+          "Apple Academic Press eBooks",
+          "Applied Clay Science",
+          "Applied Soil Ecology",
+          "Biological Invasions",
+          "Canadian Journal of Forest Research",
+          "Chemical Geology",
+          "Chemosphere",
+          "Chinese Journal of Analytical Chemistry",
+          "Crop Science",
+          "Earth-Science Reviews",
+          "Ecography",
+          "Ecological Monographs",
+          "Ecology Letters",
+          "Ecology and Evolution",
+          "Ecosystems",
+          "Environment International",
+          "Environmental Entomology",
+          "Environmental Microbiology",
+          "Environmental Pollution",
+          "Environmental Research Letters",
+          "Environmental Science & Technology",
+          "Environmental Science and Pollution Research",
+          "European Journal of Agronomy",
+          "European Journal of Plant Pathology",
+          "European Journal of Soil Biology",
+          "European Journal of Soil Science",
+          "Experimental Agriculture",
+          "Forest Ecology and Management",
+          "Frontiers in Microbiology",
+          "Functional Ecology",
+          "Gcb Bioenergy",
+          "Geochimica et Cosmochimica Acta",
+          "Geoderma",
+          "Global Biogeochemical Cycles",
+          "Global Change Biology",
+          "Global Ecology and Biogeography",
+          "Global Ecology and Conservation",
+          "International Journal of Agriculture and Biology",
+          "Journal of Applied Ecology",
+          "Journal of Biogeography",
+          "Journal of Chemical Ecology",
+          "Journal of Crop Improvement",
+          "Journal of Ecology",
+          "Journal of Experimental Botany",
+          "Journal of Hazardous Materials",
+          "Journal of Plant Ecology",
+          "Journal of Plant Physiology",
+          "Journal of Soils and Sediments",
+          "Land Degradation & Development",
+          "Microbial Ecology",
+          "Mycorrhiza",
+          "Nature",
+          "NeoBiota",
+          "New Phytologist",
+          "Oecologia",
+          "PLOS ONE",
+          "Pedosphere",
+          "Phytopathology",
+          "Plant Biotechnology Journal",
+          "Plant and Soil",
+          "Proceedings of the National Academy of Sciences of the United States of America",
+          "Renewable Agriculture and Food Systems",
+          "Science",
+          "Science Advances",
+          "Science of The Total Environment",
+          "Scientific Reports",
+          "Soil & Tillage Research",
+          "Soil Biology & Biochemistry",
+          "Soil Use and Management",
+          "Springer International Publishing eBooks",
+          "Weed Science"
+        ],
+        "color": "#6F7D1C",
+        "size": 10
+      }
+    },
+    {
+      "key": "xiangrutang",
+      "attributes": {
+        "label": "X Tang",
+        "name": "Xiangru Tang",
+        "known?": false,
+        "orcid?": null,
+        "ncsu?": false,
+        "affiliations": [
+
+        ],
+        "countries": [
+
+        ],
+        "color": "#BFBFBD",
+        "size": 10
+      }
+    },
+    {
+      "key": "u-4747",
+      "attributes": {
+        "label": "C Rincon",
+        "name": "Carmen Amalia Rincon",
+        "known?": true,
+        "orcid?": false,
+        "ncsu?": true,
+        "affiliations": [
+          "North Carolina State University"
+        ],
+        "countries": [
+          "US"
+        ],
+        "url": "https://ci.lib.ncsu.edu/profiles/4747",
+        "active?": false,
+        "department": "Crop and Soil Sciences",
+        "college": "College of Agriculture and Life Sciences",
+        "ncsu_affiliations": [
+          "Crop and Soil Sciences"
+        ],
+        "cluster?": false,
+        "clusters": [
+
+        ],
+        "role": null,
+        "building": null,
+        "count": 1,
+        "oa_count": 0,
+        "years": [
+          2003
+        ],
+        "year_recent": 2003,
+        "article_concepts": [
+
+        ],
+        "host_venues": [
+          "International Journal of Plant Sciences"
+        ],
+        "color": "#6F7D1C",
+        "size": 10
+      }
+    },
+    {
+      "key": "cdavidraper",
+      "attributes": {
+        "label": "C Raper",
+        "name": "C. David Raper",
+        "known?": false,
+        "orcid?": null,
+        "ncsu?": false,
+        "affiliations": [
+
+        ],
+        "countries": [
+
+        ],
+        "color": "#BFBFBD",
+        "size": 10
+      }
+    },
+    {
+      "key": "robertppatterson",
+      "attributes": {
+        "label": "R Patterson",
+        "name": "Robert P. Patterson",
+        "known?": false,
+        "orcid?": null,
+        "ncsu?": false,
+        "affiliations": [
+
+        ],
+        "countries": [
+
+        ],
+        "color": "#BFBFBD",
+        "size": 10
+      }
+    },
+    {
+      "key": "rbchipman",
+      "attributes": {
+        "label": "R Chipman",
+        "name": "R. B. Chipman",
+        "known?": false,
+        "orcid?": null,
+        "ncsu?": true,
+        "affiliations": [
+          "North Carolina State University"
+        ],
+        "countries": [
+          "US"
+        ],
+        "color": "#000000",
+        "size": 10
+      }
+    }
+  ],
+  "edges": [
+    {
+      "source": "uid-rpatters",
+      "target": "uid-pncockso",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Crop and Soil Sciences --- unknown",
+        "colleges": "College of Agriculture and Life Sciences --- unknown",
+        "buildings": "Williams Hall --- unknown",
+        "roles": "faculty -- student",
+        "years": [
+          2021
+        ],
+        "year_recent": 2021,
+        "dois": [
+          "10.3390/agriculture11030221"
+        ],
+        "ncsu?": true,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          "Brassica carinata",
+          "Biology",
+          "Micronutrient",
+          "Nutrient",
+          "Bolting",
+          "Brassica",
+          "Agronomy",
+          "Horticulture",
+          "Botany",
+          "Chemistry",
+          "Ecology",
+          "Organic chemistry"
+        ],
+        "host_venues": [
+          "Agriculture"
+        ],
+        "color": "#CC0000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-rpatters",
+      "target": "uid-phveazie",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Crop and Soil Sciences --- unknown",
+        "colleges": "College of Agriculture and Life Sciences --- unknown",
+        "buildings": "Williams Hall --- unknown",
+        "roles": "faculty -- student",
+        "years": [
+          2021
+        ],
+        "year_recent": 2021,
+        "dois": [
+          "10.3390/agriculture11030221"
+        ],
+        "ncsu?": true,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          "Brassica carinata",
+          "Biology",
+          "Micronutrient",
+          "Nutrient",
+          "Bolting",
+          "Brassica",
+          "Agronomy",
+          "Horticulture",
+          "Botany",
+          "Chemistry",
+          "Ecology",
+          "Organic chemistry"
+        ],
+        "host_venues": [
+          "Agriculture"
+        ],
+        "color": "#CC0000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-rpatters",
+      "target": "uid-mdavis14",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Crop and Soil Sciences --- unknown",
+        "colleges": "College of Agriculture and Life Sciences --- unknown",
+        "buildings": "Williams Hall --- unknown",
+        "roles": "faculty -- student",
+        "years": [
+          2021
+        ],
+        "year_recent": 2021,
+        "dois": [
+          "10.3390/agriculture11030221"
+        ],
+        "ncsu?": true,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          "Brassica carinata",
+          "Biology",
+          "Micronutrient",
+          "Nutrient",
+          "Bolting",
+          "Brassica",
+          "Agronomy",
+          "Horticulture",
+          "Botany",
+          "Chemistry",
+          "Ecology",
+          "Organic chemistry"
+        ],
+        "host_venues": [
+          "Agriculture"
+        ],
+        "color": "#CC0000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-rpatters",
+      "target": "uid-gfbaraja",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Crop and Soil Sciences --- unknown",
+        "colleges": "College of Agriculture and Life Sciences --- unknown",
+        "buildings": "Williams Hall --- unknown",
+        "roles": "faculty -- student",
+        "years": [
+          2021
+        ],
+        "year_recent": 2021,
+        "dois": [
+          "10.3390/agriculture11030221"
+        ],
+        "ncsu?": true,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          "Brassica carinata",
+          "Biology",
+          "Micronutrient",
+          "Nutrient",
+          "Bolting",
+          "Brassica",
+          "Agronomy",
+          "Horticulture",
+          "Botany",
+          "Chemistry",
+          "Ecology",
+          "Organic chemistry"
+        ],
+        "host_venues": [
+          "Agriculture"
+        ],
+        "color": "#CC0000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-rpatters",
+      "target": "uid-arricha3",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Crop and Soil Sciences == Crop and Soil Sciences",
+        "colleges": "College of Agriculture and Life Sciences == College of Agriculture and Life Sciences",
+        "buildings": "Williams Hall == Williams Hall",
+        "roles": "faculty == faculty",
+        "years": [
+          2021
+        ],
+        "year_recent": 2021,
+        "dois": [
+          "10.3390/agriculture11030221"
+        ],
+        "ncsu?": true,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          "Brassica carinata",
+          "Biology",
+          "Micronutrient",
+          "Nutrient",
+          "Bolting",
+          "Brassica",
+          "Agronomy",
+          "Horticulture",
+          "Botany",
+          "Chemistry",
+          "Ecology",
+          "Organic chemistry"
+        ],
+        "host_venues": [
+          "Agriculture"
+        ],
+        "color": "#CC0000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-rpatters",
+      "target": "uid-ccrozier",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Crop and Soil Sciences -- Soil Science",
+        "colleges": "College of Agriculture and Life Sciences == College of Agriculture and Life Sciences",
+        "buildings": "Williams Hall --- unknown",
+        "roles": "faculty == faculty",
+        "years": [
+          2021
+        ],
+        "year_recent": 2021,
+        "dois": [
+          "10.3390/agriculture11030221"
+        ],
+        "ncsu?": true,
+        "cross_college?": false,
+        "cross_department?": true,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          "Brassica carinata",
+          "Biology",
+          "Micronutrient",
+          "Nutrient",
+          "Bolting",
+          "Brassica",
+          "Agronomy",
+          "Horticulture",
+          "Botany",
+          "Chemistry",
+          "Ecology",
+          "Organic chemistry"
+        ],
+        "host_venues": [
+          "Agriculture"
+        ],
+        "color": "#CC0000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-rpatters",
+      "target": "uid-rleon",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Crop and Soil Sciences == Crop and Soil Sciences",
+        "colleges": "College of Agriculture and Life Sciences == College of Agriculture and Life Sciences",
+        "buildings": "Williams Hall == Williams Hall",
+        "roles": "faculty == faculty",
+        "years": [
+          2021
+        ],
+        "year_recent": 2021,
+        "dois": [
+          "10.3390/agriculture11030221"
+        ],
+        "ncsu?": true,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": true,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          "Brassica carinata",
+          "Biology",
+          "Micronutrient",
+          "Nutrient",
+          "Bolting",
+          "Brassica",
+          "Agronomy",
+          "Horticulture",
+          "Botany",
+          "Chemistry",
+          "Ecology",
+          "Organic chemistry"
+        ],
+        "host_venues": [
+          "Agriculture"
+        ],
+        "color": "#CC0000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-rpatters",
+      "target": "robertpatterson",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Crop and Soil Sciences --- unknown",
+        "colleges": "College of Agriculture and Life Sciences --- unknown",
+        "buildings": "Williams Hall --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          2021
+        ],
+        "year_recent": 2021,
+        "dois": [
+          "10.3390/agriculture11030221"
+        ],
+        "ncsu?": false,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          "Brassica carinata",
+          "Biology",
+          "Micronutrient",
+          "Nutrient",
+          "Bolting",
+          "Brassica",
+          "Agronomy",
+          "Horticulture",
+          "Botany",
+          "Chemistry",
+          "Ecology",
+          "Organic chemistry"
+        ],
+        "host_venues": [
+          "Agriculture"
+        ],
+        "color": "#000000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-rpatters",
+      "target": "uid-bwhipker",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Crop and Soil Sciences -- Horticultural Science",
+        "colleges": "College of Agriculture and Life Sciences == College of Agriculture and Life Sciences",
+        "buildings": "Kilgore Hall -- Williams Hall",
+        "roles": "faculty == faculty",
+        "years": [
+          2021
+        ],
+        "year_recent": 2021,
+        "dois": [
+          "10.3390/agriculture11030221"
+        ],
+        "ncsu?": true,
+        "cross_college?": false,
+        "cross_department?": true,
+        "cross_unit?": true,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": true,
+        "concepts": [
+          "Brassica carinata",
+          "Biology",
+          "Micronutrient",
+          "Nutrient",
+          "Bolting",
+          "Brassica",
+          "Agronomy",
+          "Horticulture",
+          "Botany",
+          "Chemistry",
+          "Ecology",
+          "Organic chemistry"
+        ],
+        "host_venues": [
+          "Agriculture"
+        ],
+        "color": "#CC0000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-rpatters",
+      "target": "shenggangpan",
+      "attributes": {
+        "label": 2,
+        "weight": 2,
+        "collaboration_count": 2,
+        "departments": "Crop and Soil Sciences --- unknown",
+        "colleges": "College of Agriculture and Life Sciences --- unknown",
+        "buildings": "Williams Hall --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          2017,
+          2016
+        ],
+        "year_recent": 2017,
+        "dois": [
+          "10.1038/SREP45611",
+          "10.1038/srep32148"
+        ],
+        "ncsu?": false,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          "Shading",
+          "Photosynthesis",
+          "Nutrient",
+          "Nitrogen",
+          "Biology",
+          "Botany",
+          "Horticulture",
+          "Agronomy",
+          "Chemistry",
+          "Computer science",
+          "Ecology",
+          "Computer graphics (images)",
+          "Organic chemistry"
+        ],
+        "host_venues": [
+          "Scientific Reports"
+        ],
+        "color": "#000000",
+        "size": 2
+      }
+    },
+    {
+      "source": "uid-rpatters",
+      "target": "haidongliu",
+      "attributes": {
+        "label": 2,
+        "weight": 2,
+        "collaboration_count": 2,
+        "departments": "Crop and Soil Sciences --- unknown",
+        "colleges": "College of Agriculture and Life Sciences --- unknown",
+        "buildings": "Williams Hall --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          2017,
+          2016
+        ],
+        "year_recent": 2017,
+        "dois": [
+          "10.1038/SREP45611",
+          "10.1038/srep32148"
+        ],
+        "ncsu?": false,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          "Shading",
+          "Photosynthesis",
+          "Nutrient",
+          "Nitrogen",
+          "Biology",
+          "Botany",
+          "Horticulture",
+          "Agronomy",
+          "Chemistry",
+          "Computer science",
+          "Ecology",
+          "Computer graphics (images)",
+          "Organic chemistry"
+        ],
+        "host_venues": [
+          "Scientific Reports"
+        ],
+        "color": "#000000",
+        "size": 2
+      }
+    },
+    {
+      "source": "uid-rpatters",
+      "target": "zhaowenmo",
+      "attributes": {
+        "label": 2,
+        "weight": 2,
+        "collaboration_count": 2,
+        "departments": "Crop and Soil Sciences --- unknown",
+        "colleges": "College of Agriculture and Life Sciences --- unknown",
+        "buildings": "Williams Hall --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          2017,
+          2016
+        ],
+        "year_recent": 2017,
+        "dois": [
+          "10.1038/SREP45611",
+          "10.1038/srep32148"
+        ],
+        "ncsu?": false,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          "Shading",
+          "Photosynthesis",
+          "Nutrient",
+          "Nitrogen",
+          "Biology",
+          "Botany",
+          "Horticulture",
+          "Agronomy",
+          "Chemistry",
+          "Computer science",
+          "Ecology",
+          "Computer graphics (images)",
+          "Organic chemistry"
+        ],
+        "host_venues": [
+          "Scientific Reports"
+        ],
+        "color": "#000000",
+        "size": 2
+      }
+    },
+    {
+      "source": "uid-rpatters",
+      "target": "meiyangduan",
+      "attributes": {
+        "label": 2,
+        "weight": 2,
+        "collaboration_count": 2,
+        "departments": "Crop and Soil Sciences --- unknown",
+        "colleges": "College of Agriculture and Life Sciences --- unknown",
+        "buildings": "Williams Hall --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          2017,
+          2016
+        ],
+        "year_recent": 2017,
+        "dois": [
+          "10.1038/SREP45611",
+          "10.1038/srep32148"
+        ],
+        "ncsu?": false,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          "Shading",
+          "Photosynthesis",
+          "Nutrient",
+          "Nitrogen",
+          "Biology",
+          "Botany",
+          "Horticulture",
+          "Agronomy",
+          "Chemistry",
+          "Computer science",
+          "Ecology",
+          "Computer graphics (images)",
+          "Organic chemistry"
+        ],
+        "host_venues": [
+          "Scientific Reports"
+        ],
+        "color": "#000000",
+        "size": 2
+      }
+    },
+    {
+      "source": "uid-rpatters",
+      "target": "huatian",
+      "attributes": {
+        "label": 2,
+        "weight": 2,
+        "collaboration_count": 2,
+        "departments": "Crop and Soil Sciences --- unknown",
+        "colleges": "College of Agriculture and Life Sciences --- unknown",
+        "buildings": "Williams Hall --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          2017,
+          2016
+        ],
+        "year_recent": 2017,
+        "dois": [
+          "10.1038/SREP45611",
+          "10.1038/srep32148"
+        ],
+        "ncsu?": false,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          "Shading",
+          "Photosynthesis",
+          "Nutrient",
+          "Nitrogen",
+          "Biology",
+          "Botany",
+          "Horticulture",
+          "Agronomy",
+          "Chemistry",
+          "Computer science",
+          "Ecology",
+          "Computer graphics (images)",
+          "Organic chemistry"
+        ],
+        "host_venues": [
+          "Scientific Reports"
+        ],
+        "color": "#000000",
+        "size": 2
+      }
+    },
+    {
+      "source": "uid-rpatters",
+      "target": "uid-shu4",
+      "attributes": {
+        "label": 2,
+        "weight": 2,
+        "collaboration_count": 2,
+        "departments": "Crop and Soil Sciences -- Plant Pathology",
+        "colleges": "College of Agriculture and Life Sciences == College of Agriculture and Life Sciences",
+        "buildings": "Gardner Hall -- Williams Hall",
+        "roles": "faculty == faculty",
+        "years": [
+          2017,
+          2016
+        ],
+        "year_recent": 2017,
+        "dois": [
+          "10.1038/SREP45611",
+          "10.1038/srep32148"
+        ],
+        "ncsu?": true,
+        "cross_college?": false,
+        "cross_department?": true,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": true,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": true,
+        "concepts": [
+          "Shading",
+          "Photosynthesis",
+          "Nutrient",
+          "Nitrogen",
+          "Biology",
+          "Botany",
+          "Horticulture",
+          "Agronomy",
+          "Chemistry",
+          "Computer science",
+          "Ecology",
+          "Computer graphics (images)",
+          "Organic chemistry"
+        ],
+        "host_venues": [
+          "Scientific Reports"
+        ],
+        "color": "#CC0000",
+        "size": 2
+      }
+    },
+    {
+      "source": "uid-rpatters",
+      "target": "xiangrutang",
+      "attributes": {
+        "label": 2,
+        "weight": 2,
+        "collaboration_count": 2,
+        "departments": "Crop and Soil Sciences --- unknown",
+        "colleges": "College of Agriculture and Life Sciences --- unknown",
+        "buildings": "Williams Hall --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          2017,
+          2016
+        ],
+        "year_recent": 2017,
+        "dois": [
+          "10.1038/SREP45611",
+          "10.1038/srep32148"
+        ],
+        "ncsu?": false,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          "Shading",
+          "Photosynthesis",
+          "Nutrient",
+          "Nitrogen",
+          "Biology",
+          "Botany",
+          "Horticulture",
+          "Agronomy",
+          "Chemistry",
+          "Computer science",
+          "Ecology",
+          "Computer graphics (images)",
+          "Organic chemistry"
+        ],
+        "host_venues": [
+          "Scientific Reports"
+        ],
+        "color": "#000000",
+        "size": 2
+      }
+    },
+    {
+      "source": "uid-rpatters",
+      "target": "u-4747",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Crop and Soil Sciences == Crop and Soil Sciences",
+        "colleges": "College of Agriculture and Life Sciences == College of Agriculture and Life Sciences",
+        "buildings": "Williams Hall --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          2003
+        ],
+        "year_recent": 2003,
+        "dois": [
+          "10.1086/375377"
+        ],
+        "ncsu?": true,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          "International Journal of Plant Sciences"
+        ],
+        "color": "#CC0000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-rpatters",
+      "target": "cdavidraper",
+      "attributes": {
+        "label": 2,
+        "weight": 2,
+        "collaboration_count": 2,
+        "departments": "Crop and Soil Sciences --- unknown",
+        "colleges": "College of Agriculture and Life Sciences --- unknown",
+        "buildings": "Williams Hall --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          2003,
+          2001
+        ],
+        "year_recent": 2003,
+        "dois": [
+          "10.1086/375377",
+          "10.1081/PLN-100103779"
+        ],
+        "ncsu?": false,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          "International Journal of Plant Sciences"
+        ],
+        "color": "#000000",
+        "size": 2
+      }
+    },
+    {
+      "source": "uid-rpatters",
+      "target": "robertppatterson",
+      "attributes": {
+        "label": 2,
+        "weight": 2,
+        "collaboration_count": 2,
+        "departments": "Crop and Soil Sciences --- unknown",
+        "colleges": "College of Agriculture and Life Sciences --- unknown",
+        "buildings": "Williams Hall --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          2003,
+          2001
+        ],
+        "year_recent": 2003,
+        "dois": [
+          "10.1086/375377",
+          "10.1081/PLN-100103779"
+        ],
+        "ncsu?": false,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          "International Journal of Plant Sciences"
+        ],
+        "color": "#000000",
+        "size": 2
+      }
+    },
+    {
+      "source": "uid-rpatters",
+      "target": "rbchipman",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Crop and Soil Sciences --- unknown",
+        "colleges": "College of Agriculture and Life Sciences --- unknown",
+        "buildings": "Williams Hall --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          2001
+        ],
+        "year_recent": 2001,
+        "dois": [
+          "10.1081/PLN-100103779"
+        ],
+        "ncsu?": true,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          "Journal of Plant Nutrition"
+        ],
+        "color": "#CC0000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-pncockso",
+      "target": "uid-bwhipker",
+      "attributes": {
+        "label": 9,
+        "weight": 9,
+        "collaboration_count": 9,
+        "departments": "Horticultural Science --- unknown",
+        "colleges": "College of Agriculture and Life Sciences --- unknown",
+        "buildings": "Kilgore Hall --- unknown",
+        "roles": "faculty -- student",
+        "years": [
+          2021,
+          2021,
+          2021,
+          2020,
+          2020,
+          2019,
+          2019,
+          2018,
+          2018
+        ],
+        "year_recent": 2021,
+        "dois": [
+          "10.17660/ActaHortic.2021.1305.55",
+          "10.17660/ActaHortic.2021.1305.56",
+          "10.3390/agriculture11030221",
+          "10.3390/app10217875",
+          "10.1002/cft2.20001",
+          "10.3390/app9204432",
+          "10.2134/cftm2018.09.0081",
+          "10.2134/cftm2017.11.0076",
+          "10.2134/cftm2017.11.0077"
+        ],
+        "ncsu?": true,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": false,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          "Acta horticulturae"
+        ],
+        "color": "#CC0000",
+        "size": 9
+      }
+    },
+    {
+      "source": "uid-pncockso",
+      "target": "uid-phveazie",
+      "attributes": {
+        "label": 2,
+        "weight": 2,
+        "collaboration_count": 2,
+        "departments": "unknown --- unknown",
+        "colleges": "unknown --- unknown",
+        "buildings": "unknown --- unknown",
+        "roles": "student == student",
+        "years": [
+          2021,
+          2020
+        ],
+        "year_recent": 2021,
+        "dois": [
+          "10.3390/agriculture11030221",
+          "10.3390/app10217875"
+        ],
+        "ncsu?": true,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": false,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+
+        ],
+        "cross_building?": false,
+        "concepts": [
+          "Brassica carinata",
+          "Biology",
+          "Micronutrient",
+          "Nutrient",
+          "Bolting",
+          "Brassica",
+          "Agronomy",
+          "Horticulture",
+          "Botany",
+          "Chemistry",
+          "Ecology",
+          "Organic chemistry"
+        ],
+        "host_venues": [
+          "Agriculture"
+        ],
+        "color": "#CC0000",
+        "size": 2
+      }
+    },
+    {
+      "source": "uid-pncockso",
+      "target": "uid-mdavis14",
+      "attributes": {
+        "label": 2,
+        "weight": 2,
+        "collaboration_count": 2,
+        "departments": "unknown --- unknown",
+        "colleges": "unknown --- unknown",
+        "buildings": "unknown --- unknown",
+        "roles": "student == student",
+        "years": [
+          2021,
+          2020
+        ],
+        "year_recent": 2021,
+        "dois": [
+          "10.3390/agriculture11030221",
+          "10.3390/app10217875"
+        ],
+        "ncsu?": true,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": false,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+
+        ],
+        "cross_building?": false,
+        "concepts": [
+          "Brassica carinata",
+          "Biology",
+          "Micronutrient",
+          "Nutrient",
+          "Bolting",
+          "Brassica",
+          "Agronomy",
+          "Horticulture",
+          "Botany",
+          "Chemistry",
+          "Ecology",
+          "Organic chemistry"
+        ],
+        "host_venues": [
+          "Agriculture"
+        ],
+        "color": "#CC0000",
+        "size": 2
+      }
+    },
+    {
+      "source": "uid-pncockso",
+      "target": "uid-gfbaraja",
+      "attributes": {
+        "label": 2,
+        "weight": 2,
+        "collaboration_count": 2,
+        "departments": "unknown --- unknown",
+        "colleges": "unknown --- unknown",
+        "buildings": "unknown --- unknown",
+        "roles": "student == student",
+        "years": [
+          2021,
+          2020
+        ],
+        "year_recent": 2021,
+        "dois": [
+          "10.3390/agriculture11030221",
+          "10.3390/app10217875"
+        ],
+        "ncsu?": true,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": false,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+
+        ],
+        "cross_building?": false,
+        "concepts": [
+          "Brassica carinata",
+          "Biology",
+          "Micronutrient",
+          "Nutrient",
+          "Bolting",
+          "Brassica",
+          "Agronomy",
+          "Horticulture",
+          "Botany",
+          "Chemistry",
+          "Ecology",
+          "Organic chemistry"
+        ],
+        "host_venues": [
+          "Agriculture"
+        ],
+        "color": "#CC0000",
+        "size": 2
+      }
+    },
+    {
+      "source": "uid-pncockso",
+      "target": "uid-arricha3",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Crop and Soil Sciences --- unknown",
+        "colleges": "College of Agriculture and Life Sciences --- unknown",
+        "buildings": "Williams Hall --- unknown",
+        "roles": "faculty -- student",
+        "years": [
+          2021
+        ],
+        "year_recent": 2021,
+        "dois": [
+          "10.3390/agriculture11030221"
+        ],
+        "ncsu?": true,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": false,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+
+        ],
+        "cross_building?": false,
+        "concepts": [
+          "Brassica carinata",
+          "Biology",
+          "Micronutrient",
+          "Nutrient",
+          "Bolting",
+          "Brassica",
+          "Agronomy",
+          "Horticulture",
+          "Botany",
+          "Chemistry",
+          "Ecology",
+          "Organic chemistry"
+        ],
+        "host_venues": [
+          "Agriculture"
+        ],
+        "color": "#CC0000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-pncockso",
+      "target": "uid-ccrozier",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Soil Science --- unknown",
+        "colleges": "College of Agriculture and Life Sciences --- unknown",
+        "buildings": "unknown --- unknown",
+        "roles": "faculty -- student",
+        "years": [
+          2021
+        ],
+        "year_recent": 2021,
+        "dois": [
+          "10.3390/agriculture11030221"
+        ],
+        "ncsu?": true,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": false,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+
+        ],
+        "cross_building?": false,
+        "concepts": [
+          "Brassica carinata",
+          "Biology",
+          "Micronutrient",
+          "Nutrient",
+          "Bolting",
+          "Brassica",
+          "Agronomy",
+          "Horticulture",
+          "Botany",
+          "Chemistry",
+          "Ecology",
+          "Organic chemistry"
+        ],
+        "host_venues": [
+          "Agriculture"
+        ],
+        "color": "#CC0000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-pncockso",
+      "target": "uid-rleon",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Crop and Soil Sciences --- unknown",
+        "colleges": "College of Agriculture and Life Sciences --- unknown",
+        "buildings": "Williams Hall --- unknown",
+        "roles": "faculty -- student",
+        "years": [
+          2021
+        ],
+        "year_recent": 2021,
+        "dois": [
+          "10.3390/agriculture11030221"
+        ],
+        "ncsu?": true,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          "Brassica carinata",
+          "Biology",
+          "Micronutrient",
+          "Nutrient",
+          "Bolting",
+          "Brassica",
+          "Agronomy",
+          "Horticulture",
+          "Botany",
+          "Chemistry",
+          "Ecology",
+          "Organic chemistry"
+        ],
+        "host_venues": [
+          "Agriculture"
+        ],
+        "color": "#CC0000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-pncockso",
+      "target": "robertpatterson",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "unknown --- unknown",
+        "colleges": "unknown --- unknown",
+        "buildings": "unknown --- unknown",
+        "roles": "student --- unknown",
+        "years": [
+          2021
+        ],
+        "year_recent": 2021,
+        "dois": [
+          "10.3390/agriculture11030221"
+        ],
+        "ncsu?": false,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": false,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+
+        ],
+        "cross_building?": false,
+        "concepts": [
+          "Brassica carinata",
+          "Biology",
+          "Micronutrient",
+          "Nutrient",
+          "Bolting",
+          "Brassica",
+          "Agronomy",
+          "Horticulture",
+          "Botany",
+          "Chemistry",
+          "Ecology",
+          "Organic chemistry"
+        ],
+        "host_venues": [
+          "Agriculture"
+        ],
+        "color": "#000000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-phveazie",
+      "target": "uid-mdavis14",
+      "attributes": {
+        "label": 2,
+        "weight": 2,
+        "collaboration_count": 2,
+        "departments": "unknown --- unknown",
+        "colleges": "unknown --- unknown",
+        "buildings": "unknown --- unknown",
+        "roles": "student == student",
+        "years": [
+          2021,
+          2020
+        ],
+        "year_recent": 2021,
+        "dois": [
+          "10.3390/agriculture11030221",
+          "10.3390/app10217875"
+        ],
+        "ncsu?": true,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": false,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+
+        ],
+        "cross_building?": false,
+        "concepts": [
+          "Brassica carinata",
+          "Biology",
+          "Micronutrient",
+          "Nutrient",
+          "Bolting",
+          "Brassica",
+          "Agronomy",
+          "Horticulture",
+          "Botany",
+          "Chemistry",
+          "Ecology",
+          "Organic chemistry"
+        ],
+        "host_venues": [
+          "Agriculture"
+        ],
+        "color": "#CC0000",
+        "size": 2
+      }
+    },
+    {
+      "source": "uid-phveazie",
+      "target": "uid-gfbaraja",
+      "attributes": {
+        "label": 2,
+        "weight": 2,
+        "collaboration_count": 2,
+        "departments": "unknown --- unknown",
+        "colleges": "unknown --- unknown",
+        "buildings": "unknown --- unknown",
+        "roles": "student == student",
+        "years": [
+          2021,
+          2020
+        ],
+        "year_recent": 2021,
+        "dois": [
+          "10.3390/agriculture11030221",
+          "10.3390/app10217875"
+        ],
+        "ncsu?": true,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": false,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+
+        ],
+        "cross_building?": false,
+        "concepts": [
+          "Brassica carinata",
+          "Biology",
+          "Micronutrient",
+          "Nutrient",
+          "Bolting",
+          "Brassica",
+          "Agronomy",
+          "Horticulture",
+          "Botany",
+          "Chemistry",
+          "Ecology",
+          "Organic chemistry"
+        ],
+        "host_venues": [
+          "Agriculture"
+        ],
+        "color": "#CC0000",
+        "size": 2
+      }
+    },
+    {
+      "source": "uid-phveazie",
+      "target": "uid-arricha3",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Crop and Soil Sciences --- unknown",
+        "colleges": "College of Agriculture and Life Sciences --- unknown",
+        "buildings": "Williams Hall --- unknown",
+        "roles": "faculty -- student",
+        "years": [
+          2021
+        ],
+        "year_recent": 2021,
+        "dois": [
+          "10.3390/agriculture11030221"
+        ],
+        "ncsu?": true,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": false,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+
+        ],
+        "cross_building?": false,
+        "concepts": [
+          "Brassica carinata",
+          "Biology",
+          "Micronutrient",
+          "Nutrient",
+          "Bolting",
+          "Brassica",
+          "Agronomy",
+          "Horticulture",
+          "Botany",
+          "Chemistry",
+          "Ecology",
+          "Organic chemistry"
+        ],
+        "host_venues": [
+          "Agriculture"
+        ],
+        "color": "#CC0000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-phveazie",
+      "target": "uid-ccrozier",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Soil Science --- unknown",
+        "colleges": "College of Agriculture and Life Sciences --- unknown",
+        "buildings": "unknown --- unknown",
+        "roles": "faculty -- student",
+        "years": [
+          2021
+        ],
+        "year_recent": 2021,
+        "dois": [
+          "10.3390/agriculture11030221"
+        ],
+        "ncsu?": true,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": false,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+
+        ],
+        "cross_building?": false,
+        "concepts": [
+          "Brassica carinata",
+          "Biology",
+          "Micronutrient",
+          "Nutrient",
+          "Bolting",
+          "Brassica",
+          "Agronomy",
+          "Horticulture",
+          "Botany",
+          "Chemistry",
+          "Ecology",
+          "Organic chemistry"
+        ],
+        "host_venues": [
+          "Agriculture"
+        ],
+        "color": "#CC0000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-phveazie",
+      "target": "uid-rleon",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Crop and Soil Sciences --- unknown",
+        "colleges": "College of Agriculture and Life Sciences --- unknown",
+        "buildings": "Williams Hall --- unknown",
+        "roles": "faculty -- student",
+        "years": [
+          2021
+        ],
+        "year_recent": 2021,
+        "dois": [
+          "10.3390/agriculture11030221"
+        ],
+        "ncsu?": true,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          "Brassica carinata",
+          "Biology",
+          "Micronutrient",
+          "Nutrient",
+          "Bolting",
+          "Brassica",
+          "Agronomy",
+          "Horticulture",
+          "Botany",
+          "Chemistry",
+          "Ecology",
+          "Organic chemistry"
+        ],
+        "host_venues": [
+          "Agriculture"
+        ],
+        "color": "#CC0000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-phveazie",
+      "target": "robertpatterson",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "unknown --- unknown",
+        "colleges": "unknown --- unknown",
+        "buildings": "unknown --- unknown",
+        "roles": "student --- unknown",
+        "years": [
+          2021
+        ],
+        "year_recent": 2021,
+        "dois": [
+          "10.3390/agriculture11030221"
+        ],
+        "ncsu?": false,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": false,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+
+        ],
+        "cross_building?": false,
+        "concepts": [
+          "Brassica carinata",
+          "Biology",
+          "Micronutrient",
+          "Nutrient",
+          "Bolting",
+          "Brassica",
+          "Agronomy",
+          "Horticulture",
+          "Botany",
+          "Chemistry",
+          "Ecology",
+          "Organic chemistry"
+        ],
+        "host_venues": [
+          "Agriculture"
+        ],
+        "color": "#000000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-phveazie",
+      "target": "uid-bwhipker",
+      "attributes": {
+        "label": 2,
+        "weight": 2,
+        "collaboration_count": 2,
+        "departments": "Horticultural Science --- unknown",
+        "colleges": "College of Agriculture and Life Sciences --- unknown",
+        "buildings": "Kilgore Hall --- unknown",
+        "roles": "faculty -- student",
+        "years": [
+          2021,
+          2020
+        ],
+        "year_recent": 2021,
+        "dois": [
+          "10.3390/agriculture11030221",
+          "10.3390/app10217875"
+        ],
+        "ncsu?": true,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": false,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+
+        ],
+        "cross_building?": false,
+        "concepts": [
+          "Brassica carinata",
+          "Biology",
+          "Micronutrient",
+          "Nutrient",
+          "Bolting",
+          "Brassica",
+          "Agronomy",
+          "Horticulture",
+          "Botany",
+          "Chemistry",
+          "Ecology",
+          "Organic chemistry"
+        ],
+        "host_venues": [
+          "Agriculture"
+        ],
+        "color": "#CC0000",
+        "size": 2
+      }
+    },
+    {
+      "source": "uid-mdavis14",
+      "target": "uid-gfbaraja",
+      "attributes": {
+        "label": 2,
+        "weight": 2,
+        "collaboration_count": 2,
+        "departments": "unknown --- unknown",
+        "colleges": "unknown --- unknown",
+        "buildings": "unknown --- unknown",
+        "roles": "student == student",
+        "years": [
+          2021,
+          2020
+        ],
+        "year_recent": 2021,
+        "dois": [
+          "10.3390/agriculture11030221",
+          "10.3390/app10217875"
+        ],
+        "ncsu?": true,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": false,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+
+        ],
+        "cross_building?": false,
+        "concepts": [
+          "Brassica carinata",
+          "Biology",
+          "Micronutrient",
+          "Nutrient",
+          "Bolting",
+          "Brassica",
+          "Agronomy",
+          "Horticulture",
+          "Botany",
+          "Chemistry",
+          "Ecology",
+          "Organic chemistry"
+        ],
+        "host_venues": [
+          "Agriculture"
+        ],
+        "color": "#CC0000",
+        "size": 2
+      }
+    },
+    {
+      "source": "uid-mdavis14",
+      "target": "uid-arricha3",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Crop and Soil Sciences --- unknown",
+        "colleges": "College of Agriculture and Life Sciences --- unknown",
+        "buildings": "Williams Hall --- unknown",
+        "roles": "faculty -- student",
+        "years": [
+          2021
+        ],
+        "year_recent": 2021,
+        "dois": [
+          "10.3390/agriculture11030221"
+        ],
+        "ncsu?": true,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": false,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+
+        ],
+        "cross_building?": false,
+        "concepts": [
+          "Brassica carinata",
+          "Biology",
+          "Micronutrient",
+          "Nutrient",
+          "Bolting",
+          "Brassica",
+          "Agronomy",
+          "Horticulture",
+          "Botany",
+          "Chemistry",
+          "Ecology",
+          "Organic chemistry"
+        ],
+        "host_venues": [
+          "Agriculture"
+        ],
+        "color": "#CC0000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-mdavis14",
+      "target": "uid-ccrozier",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Soil Science --- unknown",
+        "colleges": "College of Agriculture and Life Sciences --- unknown",
+        "buildings": "unknown --- unknown",
+        "roles": "faculty -- student",
+        "years": [
+          2021
+        ],
+        "year_recent": 2021,
+        "dois": [
+          "10.3390/agriculture11030221"
+        ],
+        "ncsu?": true,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": false,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+
+        ],
+        "cross_building?": false,
+        "concepts": [
+          "Brassica carinata",
+          "Biology",
+          "Micronutrient",
+          "Nutrient",
+          "Bolting",
+          "Brassica",
+          "Agronomy",
+          "Horticulture",
+          "Botany",
+          "Chemistry",
+          "Ecology",
+          "Organic chemistry"
+        ],
+        "host_venues": [
+          "Agriculture"
+        ],
+        "color": "#CC0000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-mdavis14",
+      "target": "uid-rleon",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Crop and Soil Sciences --- unknown",
+        "colleges": "College of Agriculture and Life Sciences --- unknown",
+        "buildings": "Williams Hall --- unknown",
+        "roles": "faculty -- student",
+        "years": [
+          2021
+        ],
+        "year_recent": 2021,
+        "dois": [
+          "10.3390/agriculture11030221"
+        ],
+        "ncsu?": true,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          "Brassica carinata",
+          "Biology",
+          "Micronutrient",
+          "Nutrient",
+          "Bolting",
+          "Brassica",
+          "Agronomy",
+          "Horticulture",
+          "Botany",
+          "Chemistry",
+          "Ecology",
+          "Organic chemistry"
+        ],
+        "host_venues": [
+          "Agriculture"
+        ],
+        "color": "#CC0000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-mdavis14",
+      "target": "robertpatterson",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "unknown --- unknown",
+        "colleges": "unknown --- unknown",
+        "buildings": "unknown --- unknown",
+        "roles": "student --- unknown",
+        "years": [
+          2021
+        ],
+        "year_recent": 2021,
+        "dois": [
+          "10.3390/agriculture11030221"
+        ],
+        "ncsu?": false,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": false,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+
+        ],
+        "cross_building?": false,
+        "concepts": [
+          "Brassica carinata",
+          "Biology",
+          "Micronutrient",
+          "Nutrient",
+          "Bolting",
+          "Brassica",
+          "Agronomy",
+          "Horticulture",
+          "Botany",
+          "Chemistry",
+          "Ecology",
+          "Organic chemistry"
+        ],
+        "host_venues": [
+          "Agriculture"
+        ],
+        "color": "#000000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-mdavis14",
+      "target": "uid-bwhipker",
+      "attributes": {
+        "label": 2,
+        "weight": 2,
+        "collaboration_count": 2,
+        "departments": "Horticultural Science --- unknown",
+        "colleges": "College of Agriculture and Life Sciences --- unknown",
+        "buildings": "Kilgore Hall --- unknown",
+        "roles": "faculty -- student",
+        "years": [
+          2021,
+          2020
+        ],
+        "year_recent": 2021,
+        "dois": [
+          "10.3390/agriculture11030221",
+          "10.3390/app10217875"
+        ],
+        "ncsu?": true,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": false,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+
+        ],
+        "cross_building?": false,
+        "concepts": [
+          "Brassica carinata",
+          "Biology",
+          "Micronutrient",
+          "Nutrient",
+          "Bolting",
+          "Brassica",
+          "Agronomy",
+          "Horticulture",
+          "Botany",
+          "Chemistry",
+          "Ecology",
+          "Organic chemistry"
+        ],
+        "host_venues": [
+          "Agriculture"
+        ],
+        "color": "#CC0000",
+        "size": 2
+      }
+    },
+    {
+      "source": "uid-gfbaraja",
+      "target": "uid-arricha3",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Crop and Soil Sciences --- unknown",
+        "colleges": "College of Agriculture and Life Sciences --- unknown",
+        "buildings": "Williams Hall --- unknown",
+        "roles": "faculty -- student",
+        "years": [
+          2021
+        ],
+        "year_recent": 2021,
+        "dois": [
+          "10.3390/agriculture11030221"
+        ],
+        "ncsu?": true,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": false,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+
+        ],
+        "cross_building?": false,
+        "concepts": [
+          "Brassica carinata",
+          "Biology",
+          "Micronutrient",
+          "Nutrient",
+          "Bolting",
+          "Brassica",
+          "Agronomy",
+          "Horticulture",
+          "Botany",
+          "Chemistry",
+          "Ecology",
+          "Organic chemistry"
+        ],
+        "host_venues": [
+          "Agriculture"
+        ],
+        "color": "#CC0000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-gfbaraja",
+      "target": "uid-ccrozier",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Soil Science --- unknown",
+        "colleges": "College of Agriculture and Life Sciences --- unknown",
+        "buildings": "unknown --- unknown",
+        "roles": "faculty -- student",
+        "years": [
+          2021
+        ],
+        "year_recent": 2021,
+        "dois": [
+          "10.3390/agriculture11030221"
+        ],
+        "ncsu?": true,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": false,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+
+        ],
+        "cross_building?": false,
+        "concepts": [
+          "Brassica carinata",
+          "Biology",
+          "Micronutrient",
+          "Nutrient",
+          "Bolting",
+          "Brassica",
+          "Agronomy",
+          "Horticulture",
+          "Botany",
+          "Chemistry",
+          "Ecology",
+          "Organic chemistry"
+        ],
+        "host_venues": [
+          "Agriculture"
+        ],
+        "color": "#CC0000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-gfbaraja",
+      "target": "uid-rleon",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Crop and Soil Sciences --- unknown",
+        "colleges": "College of Agriculture and Life Sciences --- unknown",
+        "buildings": "Williams Hall --- unknown",
+        "roles": "faculty -- student",
+        "years": [
+          2021
+        ],
+        "year_recent": 2021,
+        "dois": [
+          "10.3390/agriculture11030221"
+        ],
+        "ncsu?": true,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          "Brassica carinata",
+          "Biology",
+          "Micronutrient",
+          "Nutrient",
+          "Bolting",
+          "Brassica",
+          "Agronomy",
+          "Horticulture",
+          "Botany",
+          "Chemistry",
+          "Ecology",
+          "Organic chemistry"
+        ],
+        "host_venues": [
+          "Agriculture"
+        ],
+        "color": "#CC0000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-gfbaraja",
+      "target": "robertpatterson",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "unknown --- unknown",
+        "colleges": "unknown --- unknown",
+        "buildings": "unknown --- unknown",
+        "roles": "student --- unknown",
+        "years": [
+          2021
+        ],
+        "year_recent": 2021,
+        "dois": [
+          "10.3390/agriculture11030221"
+        ],
+        "ncsu?": false,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": false,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+
+        ],
+        "cross_building?": false,
+        "concepts": [
+          "Brassica carinata",
+          "Biology",
+          "Micronutrient",
+          "Nutrient",
+          "Bolting",
+          "Brassica",
+          "Agronomy",
+          "Horticulture",
+          "Botany",
+          "Chemistry",
+          "Ecology",
+          "Organic chemistry"
+        ],
+        "host_venues": [
+          "Agriculture"
+        ],
+        "color": "#000000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-gfbaraja",
+      "target": "uid-bwhipker",
+      "attributes": {
+        "label": 2,
+        "weight": 2,
+        "collaboration_count": 2,
+        "departments": "Horticultural Science --- unknown",
+        "colleges": "College of Agriculture and Life Sciences --- unknown",
+        "buildings": "Kilgore Hall --- unknown",
+        "roles": "faculty -- student",
+        "years": [
+          2021,
+          2020
+        ],
+        "year_recent": 2021,
+        "dois": [
+          "10.3390/agriculture11030221",
+          "10.3390/app10217875"
+        ],
+        "ncsu?": true,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": false,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+
+        ],
+        "cross_building?": false,
+        "concepts": [
+          "Brassica carinata",
+          "Biology",
+          "Micronutrient",
+          "Nutrient",
+          "Bolting",
+          "Brassica",
+          "Agronomy",
+          "Horticulture",
+          "Botany",
+          "Chemistry",
+          "Ecology",
+          "Organic chemistry"
+        ],
+        "host_venues": [
+          "Agriculture"
+        ],
+        "color": "#CC0000",
+        "size": 2
+      }
+    },
+    {
+      "source": "uid-arricha3",
+      "target": "uid-rleon",
+      "attributes": {
+        "label": 5,
+        "weight": 5,
+        "collaboration_count": 5,
+        "departments": "Crop and Soil Sciences == Crop and Soil Sciences",
+        "colleges": "College of Agriculture and Life Sciences == College of Agriculture and Life Sciences",
+        "buildings": "Williams Hall == Williams Hall",
+        "roles": "faculty == faculty",
+        "years": [
+          2021,
+          2021,
+          2020,
+          2020,
+          2019
+        ],
+        "year_recent": 2021,
+        "dois": [
+          "10.1017/wet.2021.57",
+          "10.3390/agriculture11030221",
+          "10.1002/cft2.20021",
+          "10.1002/agj2.20164",
+          "10.3146/ps19-9.1"
+        ],
+        "ncsu?": true,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          "Weed Technology"
+        ],
+        "color": "#CC0000",
+        "size": 5
+      }
+    },
+    {
+      "source": "uid-arricha3",
+      "target": "uid-ccrozier",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Crop and Soil Sciences -- Soil Science",
+        "colleges": "College of Agriculture and Life Sciences == College of Agriculture and Life Sciences",
+        "buildings": "Williams Hall --- unknown",
+        "roles": "faculty == faculty",
+        "years": [
+          2021
+        ],
+        "year_recent": 2021,
+        "dois": [
+          "10.3390/agriculture11030221"
+        ],
+        "ncsu?": true,
+        "cross_college?": false,
+        "cross_department?": true,
+        "cross_unit?": false,
+        "cluster?": false,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+
+        ],
+        "cross_building?": false,
+        "concepts": [
+          "Brassica carinata",
+          "Biology",
+          "Micronutrient",
+          "Nutrient",
+          "Bolting",
+          "Brassica",
+          "Agronomy",
+          "Horticulture",
+          "Botany",
+          "Chemistry",
+          "Ecology",
+          "Organic chemistry"
+        ],
+        "host_venues": [
+          "Agriculture"
+        ],
+        "color": "#CC0000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-arricha3",
+      "target": "robertpatterson",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Crop and Soil Sciences --- unknown",
+        "colleges": "College of Agriculture and Life Sciences --- unknown",
+        "buildings": "Williams Hall --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          2021
+        ],
+        "year_recent": 2021,
+        "dois": [
+          "10.3390/agriculture11030221"
+        ],
+        "ncsu?": false,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": false,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+
+        ],
+        "cross_building?": false,
+        "concepts": [
+          "Brassica carinata",
+          "Biology",
+          "Micronutrient",
+          "Nutrient",
+          "Bolting",
+          "Brassica",
+          "Agronomy",
+          "Horticulture",
+          "Botany",
+          "Chemistry",
+          "Ecology",
+          "Organic chemistry"
+        ],
+        "host_venues": [
+          "Agriculture"
+        ],
+        "color": "#000000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-arricha3",
+      "target": "uid-bwhipker",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Crop and Soil Sciences -- Horticultural Science",
+        "colleges": "College of Agriculture and Life Sciences == College of Agriculture and Life Sciences",
+        "buildings": "Kilgore Hall -- Williams Hall",
+        "roles": "faculty == faculty",
+        "years": [
+          2021
+        ],
+        "year_recent": 2021,
+        "dois": [
+          "10.3390/agriculture11030221"
+        ],
+        "ncsu?": true,
+        "cross_college?": false,
+        "cross_department?": true,
+        "cross_unit?": true,
+        "cluster?": false,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+
+        ],
+        "cross_building?": true,
+        "concepts": [
+          "Brassica carinata",
+          "Biology",
+          "Micronutrient",
+          "Nutrient",
+          "Bolting",
+          "Brassica",
+          "Agronomy",
+          "Horticulture",
+          "Botany",
+          "Chemistry",
+          "Ecology",
+          "Organic chemistry"
+        ],
+        "host_venues": [
+          "Agriculture"
+        ],
+        "color": "#CC0000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-ccrozier",
+      "target": "uid-rleon",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Crop and Soil Sciences -- Soil Science",
+        "colleges": "College of Agriculture and Life Sciences == College of Agriculture and Life Sciences",
+        "buildings": "Williams Hall --- unknown",
+        "roles": "faculty == faculty",
+        "years": [
+          2021
+        ],
+        "year_recent": 2021,
+        "dois": [
+          "10.3390/agriculture11030221"
+        ],
+        "ncsu?": true,
+        "cross_college?": false,
+        "cross_department?": true,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          "Brassica carinata",
+          "Biology",
+          "Micronutrient",
+          "Nutrient",
+          "Bolting",
+          "Brassica",
+          "Agronomy",
+          "Horticulture",
+          "Botany",
+          "Chemistry",
+          "Ecology",
+          "Organic chemistry"
+        ],
+        "host_venues": [
+          "Agriculture"
+        ],
+        "color": "#CC0000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-ccrozier",
+      "target": "robertpatterson",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Soil Science --- unknown",
+        "colleges": "College of Agriculture and Life Sciences --- unknown",
+        "buildings": "unknown --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          2021
+        ],
+        "year_recent": 2021,
+        "dois": [
+          "10.3390/agriculture11030221"
+        ],
+        "ncsu?": false,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": false,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+
+        ],
+        "cross_building?": false,
+        "concepts": [
+          "Brassica carinata",
+          "Biology",
+          "Micronutrient",
+          "Nutrient",
+          "Bolting",
+          "Brassica",
+          "Agronomy",
+          "Horticulture",
+          "Botany",
+          "Chemistry",
+          "Ecology",
+          "Organic chemistry"
+        ],
+        "host_venues": [
+          "Agriculture"
+        ],
+        "color": "#000000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-ccrozier",
+      "target": "uid-bwhipker",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Horticultural Science -- Soil Science",
+        "colleges": "College of Agriculture and Life Sciences == College of Agriculture and Life Sciences",
+        "buildings": "Kilgore Hall --- unknown",
+        "roles": "faculty == faculty",
+        "years": [
+          2021
+        ],
+        "year_recent": 2021,
+        "dois": [
+          "10.3390/agriculture11030221"
+        ],
+        "ncsu?": true,
+        "cross_college?": false,
+        "cross_department?": true,
+        "cross_unit?": true,
+        "cluster?": false,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+
+        ],
+        "cross_building?": false,
+        "concepts": [
+          "Brassica carinata",
+          "Biology",
+          "Micronutrient",
+          "Nutrient",
+          "Bolting",
+          "Brassica",
+          "Agronomy",
+          "Horticulture",
+          "Botany",
+          "Chemistry",
+          "Ecology",
+          "Organic chemistry"
+        ],
+        "host_venues": [
+          "Agriculture"
+        ],
+        "color": "#CC0000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-rleon",
+      "target": "robertpatterson",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Crop and Soil Sciences --- unknown",
+        "colleges": "College of Agriculture and Life Sciences --- unknown",
+        "buildings": "Williams Hall --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          2021
+        ],
+        "year_recent": 2021,
+        "dois": [
+          "10.3390/agriculture11030221"
+        ],
+        "ncsu?": false,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          "Brassica carinata",
+          "Biology",
+          "Micronutrient",
+          "Nutrient",
+          "Bolting",
+          "Brassica",
+          "Agronomy",
+          "Horticulture",
+          "Botany",
+          "Chemistry",
+          "Ecology",
+          "Organic chemistry"
+        ],
+        "host_venues": [
+          "Agriculture"
+        ],
+        "color": "#000000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-rleon",
+      "target": "uid-bwhipker",
+      "attributes": {
+        "label": 2,
+        "weight": 2,
+        "collaboration_count": 2,
+        "departments": "Crop and Soil Sciences -- Horticultural Science",
+        "colleges": "College of Agriculture and Life Sciences == College of Agriculture and Life Sciences",
+        "buildings": "Kilgore Hall -- Williams Hall",
+        "roles": "faculty == faculty",
+        "years": [
+          2021,
+          2018
+        ],
+        "year_recent": 2021,
+        "dois": [
+          "10.3390/agriculture11030221",
+          "10.32473/edis-ag420-2018"
+        ],
+        "ncsu?": true,
+        "cross_college?": false,
+        "cross_department?": true,
+        "cross_unit?": true,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": true,
+        "concepts": [
+          "Brassica carinata",
+          "Biology",
+          "Micronutrient",
+          "Nutrient",
+          "Bolting",
+          "Brassica",
+          "Agronomy",
+          "Horticulture",
+          "Botany",
+          "Chemistry",
+          "Ecology",
+          "Organic chemistry"
+        ],
+        "host_venues": [
+          "Agriculture"
+        ],
+        "color": "#CC0000",
+        "size": 2
+      }
+    },
+    {
+      "source": "uid-bwhipker",
+      "target": "robertpatterson",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Horticultural Science --- unknown",
+        "colleges": "College of Agriculture and Life Sciences --- unknown",
+        "buildings": "Kilgore Hall --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          2021
+        ],
+        "year_recent": 2021,
+        "dois": [
+          "10.3390/agriculture11030221"
+        ],
+        "ncsu?": false,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": false,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+
+        ],
+        "cross_building?": false,
+        "concepts": [
+          "Brassica carinata",
+          "Biology",
+          "Micronutrient",
+          "Nutrient",
+          "Bolting",
+          "Brassica",
+          "Agronomy",
+          "Horticulture",
+          "Botany",
+          "Chemistry",
+          "Ecology",
+          "Organic chemistry"
+        ],
+        "host_venues": [
+          "Agriculture"
+        ],
+        "color": "#000000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-shu4",
+      "target": "shenggangpan",
+      "attributes": {
+        "label": 2,
+        "weight": 2,
+        "collaboration_count": 2,
+        "departments": "Plant Pathology --- unknown",
+        "colleges": "College of Agriculture and Life Sciences --- unknown",
+        "buildings": "Gardner Hall --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          2017,
+          2016
+        ],
+        "year_recent": 2017,
+        "dois": [
+          "10.1038/SREP45611",
+          "10.1038/srep32148"
+        ],
+        "ncsu?": false,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          "Shading",
+          "Photosynthesis",
+          "Nutrient",
+          "Nitrogen",
+          "Biology",
+          "Botany",
+          "Horticulture",
+          "Agronomy",
+          "Chemistry",
+          "Computer science",
+          "Ecology",
+          "Computer graphics (images)",
+          "Organic chemistry"
+        ],
+        "host_venues": [
+          "Scientific Reports"
+        ],
+        "color": "#000000",
+        "size": 2
+      }
+    },
+    {
+      "source": "uid-shu4",
+      "target": "haidongliu",
+      "attributes": {
+        "label": 2,
+        "weight": 2,
+        "collaboration_count": 2,
+        "departments": "Plant Pathology --- unknown",
+        "colleges": "College of Agriculture and Life Sciences --- unknown",
+        "buildings": "Gardner Hall --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          2017,
+          2016
+        ],
+        "year_recent": 2017,
+        "dois": [
+          "10.1038/SREP45611",
+          "10.1038/srep32148"
+        ],
+        "ncsu?": false,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          "Shading",
+          "Photosynthesis",
+          "Nutrient",
+          "Nitrogen",
+          "Biology",
+          "Botany",
+          "Horticulture",
+          "Agronomy",
+          "Chemistry",
+          "Computer science",
+          "Ecology",
+          "Computer graphics (images)",
+          "Organic chemistry"
+        ],
+        "host_venues": [
+          "Scientific Reports"
+        ],
+        "color": "#000000",
+        "size": 2
+      }
+    },
+    {
+      "source": "uid-shu4",
+      "target": "zhaowenmo",
+      "attributes": {
+        "label": 2,
+        "weight": 2,
+        "collaboration_count": 2,
+        "departments": "Plant Pathology --- unknown",
+        "colleges": "College of Agriculture and Life Sciences --- unknown",
+        "buildings": "Gardner Hall --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          2017,
+          2016
+        ],
+        "year_recent": 2017,
+        "dois": [
+          "10.1038/SREP45611",
+          "10.1038/srep32148"
+        ],
+        "ncsu?": false,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          "Shading",
+          "Photosynthesis",
+          "Nutrient",
+          "Nitrogen",
+          "Biology",
+          "Botany",
+          "Horticulture",
+          "Agronomy",
+          "Chemistry",
+          "Computer science",
+          "Ecology",
+          "Computer graphics (images)",
+          "Organic chemistry"
+        ],
+        "host_venues": [
+          "Scientific Reports"
+        ],
+        "color": "#000000",
+        "size": 2
+      }
+    },
+    {
+      "source": "uid-shu4",
+      "target": "meiyangduan",
+      "attributes": {
+        "label": 2,
+        "weight": 2,
+        "collaboration_count": 2,
+        "departments": "Plant Pathology --- unknown",
+        "colleges": "College of Agriculture and Life Sciences --- unknown",
+        "buildings": "Gardner Hall --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          2017,
+          2016
+        ],
+        "year_recent": 2017,
+        "dois": [
+          "10.1038/SREP45611",
+          "10.1038/srep32148"
+        ],
+        "ncsu?": false,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          "Shading",
+          "Photosynthesis",
+          "Nutrient",
+          "Nitrogen",
+          "Biology",
+          "Botany",
+          "Horticulture",
+          "Agronomy",
+          "Chemistry",
+          "Computer science",
+          "Ecology",
+          "Computer graphics (images)",
+          "Organic chemistry"
+        ],
+        "host_venues": [
+          "Scientific Reports"
+        ],
+        "color": "#000000",
+        "size": 2
+      }
+    },
+    {
+      "source": "uid-shu4",
+      "target": "huatian",
+      "attributes": {
+        "label": 2,
+        "weight": 2,
+        "collaboration_count": 2,
+        "departments": "Plant Pathology --- unknown",
+        "colleges": "College of Agriculture and Life Sciences --- unknown",
+        "buildings": "Gardner Hall --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          2017,
+          2016
+        ],
+        "year_recent": 2017,
+        "dois": [
+          "10.1038/SREP45611",
+          "10.1038/srep32148"
+        ],
+        "ncsu?": false,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          "Shading",
+          "Photosynthesis",
+          "Nutrient",
+          "Nitrogen",
+          "Biology",
+          "Botany",
+          "Horticulture",
+          "Agronomy",
+          "Chemistry",
+          "Computer science",
+          "Ecology",
+          "Computer graphics (images)",
+          "Organic chemistry"
+        ],
+        "host_venues": [
+          "Scientific Reports"
+        ],
+        "color": "#000000",
+        "size": 2
+      }
+    },
+    {
+      "source": "uid-shu4",
+      "target": "xiangrutang",
+      "attributes": {
+        "label": 2,
+        "weight": 2,
+        "collaboration_count": 2,
+        "departments": "Plant Pathology --- unknown",
+        "colleges": "College of Agriculture and Life Sciences --- unknown",
+        "buildings": "Gardner Hall --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          2017,
+          2016
+        ],
+        "year_recent": 2017,
+        "dois": [
+          "10.1038/SREP45611",
+          "10.1038/srep32148"
+        ],
+        "ncsu?": false,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          "Shading",
+          "Photosynthesis",
+          "Nutrient",
+          "Nitrogen",
+          "Biology",
+          "Botany",
+          "Horticulture",
+          "Agronomy",
+          "Chemistry",
+          "Computer science",
+          "Ecology",
+          "Computer graphics (images)",
+          "Organic chemistry"
+        ],
+        "host_venues": [
+          "Scientific Reports"
+        ],
+        "color": "#000000",
+        "size": 2
+      }
+    },
+    {
+      "source": "u-4747",
+      "target": "cdavidraper",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Crop and Soil Sciences --- unknown",
+        "colleges": "College of Agriculture and Life Sciences --- unknown",
+        "buildings": "unknown --- unknown",
+        "roles": "unknown == unknown",
+        "years": [
+          2003
+        ],
+        "year_recent": 2003,
+        "dois": [
+          "10.1086/375377"
+        ],
+        "ncsu?": false,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": false,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          "International Journal of Plant Sciences"
+        ],
+        "color": "#000000",
+        "size": 1
+      }
+    },
+    {
+      "source": "u-4747",
+      "target": "robertppatterson",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Crop and Soil Sciences --- unknown",
+        "colleges": "College of Agriculture and Life Sciences --- unknown",
+        "buildings": "unknown --- unknown",
+        "roles": "unknown == unknown",
+        "years": [
+          2003
+        ],
+        "year_recent": 2003,
+        "dois": [
+          "10.1086/375377"
+        ],
+        "ncsu?": false,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": false,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          "International Journal of Plant Sciences"
+        ],
+        "color": "#000000",
+        "size": 1
+      }
+    }
+  ]
+}

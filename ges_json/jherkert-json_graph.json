@@ -1,0 +1,1220 @@
+{
+  "options": {
+    "type": "undirected",
+    "multi": false,
+    "allowSelfLoops": false
+  },
+  "attributes": {
+    "creator": "Citation Index",
+    "lastModifiedDate": "2023-01-14"
+  },
+  "nodes": [
+    {
+      "key": "uid-jherkert",
+      "attributes": {
+        "label": "J Herkert",
+        "name": "Joseph Herkert",
+        "known?": true,
+        "orcid?": false,
+        "ncsu?": true,
+        "affiliations": [
+          "North Carolina State University"
+        ],
+        "countries": [
+          "US"
+        ],
+        "uid": "jherkert",
+        "url": "https://ci.lib.ncsu.edu/profiles/jherkert",
+        "active?": true,
+        "department": "Multidisciplinary Studies",
+        "college": "College of Humanities and Social Sciences",
+        "ncsu_affiliations": [
+          "Multidisciplinary Studies",
+          "Interdisciplinary Studies",
+          "Genetic Engineering and Society"
+        ],
+        "cluster?": true,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "role": "faculty",
+        "building": "1911 Bldg",
+        "count": 32,
+        "oa_count": 3,
+        "years": [
+          2020,
+          2019,
+          2006,
+          2005,
+          2004,
+          2003,
+          2001,
+          2000,
+          1999,
+          1998,
+          1997
+        ],
+        "year_recent": 2020,
+        "article_concepts": [
+          "Aeronautics",
+          "Business",
+          "Coating",
+          "Computer science",
+          "Corporate governance",
+          "Demography",
+          "Engineering",
+          "Engineering ethics",
+          "Epistemology",
+          "Finance",
+          "Focus group",
+          "Gloss (optics)",
+          "Government (linguistics)",
+          "Law",
+          "Library science",
+          "Linguistics",
+          "Marketing",
+          "Materials science",
+          "Nanotechnology",
+          "Order (exchange)",
+          "Philosophy",
+          "Philosophy of science",
+          "Political science",
+          "Population",
+          "Public relations",
+          "Publishing",
+          "Socioeconomic status",
+          "Sociology",
+          "Stakeholder"
+        ],
+        "host_venues": [
+          "Change: The Magazine of Higher Learning",
+          "Elementa",
+          "IEEE Spectrum",
+          "IEEE Technology and Society Magazine",
+          "IEEE Transactions on Education",
+          "International Symposium on Technology and Society",
+          "Journal of Electronic Publishing",
+          "Science and Engineering Ethics",
+          "Social Science Computer Review",
+          "Technological Forecasting and Social Change"
+        ],
+        "color": "#FAC800",
+        "size": 20
+      }
+    },
+    {
+      "key": "uid-jprober2",
+      "attributes": {
+        "label": "P Roberts",
+        "name": "Pat Roberts",
+        "known?": true,
+        "orcid?": false,
+        "ncsu?": true,
+        "affiliations": [
+          "North Carolina State University"
+        ],
+        "countries": [
+          "US"
+        ],
+        "uid": "jprober2",
+        "url": "https://ci.lib.ncsu.edu/profiles/jprober2",
+        "active?": false,
+        "department": "Genetic Engineering and Society",
+        "college": "NC State",
+        "ncsu_affiliations": [
+          "Genetic Engineering and Society",
+          "Public and International Affairs"
+        ],
+        "cluster?": true,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "role": "student",
+        "building": null,
+        "count": 3,
+        "oa_count": 1,
+        "years": [
+          2020,
+          2018,
+          2016
+        ],
+        "year_recent": 2020,
+        "article_concepts": [
+          "Business",
+          "Corporate governance",
+          "Dilemma",
+          "Epistemology",
+          "Finance",
+          "Focus group",
+          "Government (linguistics)",
+          "Linguistics",
+          "Marketing",
+          "Order (exchange)",
+          "Philosophy",
+          "Political science",
+          "Public relations",
+          "Responsible Research and Innovation",
+          "Stakeholder"
+        ],
+        "host_venues": [
+          "Elementa",
+          "Journal of Nanoparticle Research",
+          "Journal of Responsible Innovation"
+        ],
+        "color": "#BD5383",
+        "size": 10
+      }
+    },
+    {
+      "key": "uid-jkuzma",
+      "attributes": {
+        "label": "J Kuzma",
+        "name": "Jennifer Kuzma",
+        "known?": true,
+        "orcid?": true,
+        "ncsu?": true,
+        "affiliations": [
+          "North Carolina State University"
+        ],
+        "countries": [
+          "US"
+        ],
+        "uid": "jkuzma",
+        "url": "https://ci.lib.ncsu.edu/profiles/jkuzma",
+        "orcid": "0000-0003-4456-9613",
+        "active?": true,
+        "department": "Genetic Engineering and Society",
+        "college": "NC State",
+        "ncsu_affiliations": [
+          "Genetic Engineering and Society",
+          "Public and International Affairs",
+          "Genetics and Genomics Academy"
+        ],
+        "cluster?": true,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "role": "faculty",
+        "building": "James B Hunt Jr Centennial Cam",
+        "count": 156,
+        "oa_count": 25,
+        "years": [
+          2022,
+          2021,
+          2020,
+          2019,
+          2018,
+          2017,
+          2016,
+          2015,
+          2014,
+          2013,
+          2012,
+          2011,
+          2010,
+          2009,
+          2008,
+          2007,
+          2006,
+          2005,
+          2004,
+          2003,
+          2002,
+          2001,
+          2000,
+          1999,
+          1998,
+          1997,
+          1995,
+          1994
+        ],
+        "year_recent": 2022,
+        "article_concepts": [
+          "Agriculture",
+          "Agronomy",
+          "Anticipation (artificial intelligence)",
+          "Applications of nanotechnology",
+          "Archaeology",
+          "Artificial intelligence",
+          "Biochemical engineering",
+          "Biochemistry",
+          "Biofuel",
+          "Bioinformatics",
+          "Biology",
+          "Biotechnology",
+          "Botany",
+          "Business",
+          "CRISPR",
+          "Cartography",
+          "Chemistry",
+          "China",
+          "Commercialization",
+          "Community engagement",
+          "Competitor analysis",
+          "Composite material",
+          "Computational biology",
+          "Computer science",
+          "Computer security",
+          "Context (archaeology)",
+          "Copolymer",
+          "Corporate governance",
+          "Crop",
+          "Cross-site scripting",
+          "Data science",
+          "Delphi method",
+          "Dilemma",
+          "Ecology",
+          "Econometrics",
+          "Economics",
+          "Electrical engineering",
+          "Emerging technologies",
+          "Engineering",
+          "Engineering ethics",
+          "Environmental economics",
+          "Environmental ethics",
+          "Environmental planning",
+          "Environmental resource management",
+          "Enzyme",
+          "Epistemology",
+          "Evolutionary biology",
+          "Extinction (optical mineralogy)",
+          "Field (mathematics)",
+          "Finance",
+          "Focus group",
+          "Food industry",
+          "Food labeling",
+          "Food packaging",
+          "Food products",
+          "Food science",
+          "Frame (networking)",
+          "Gene",
+          "Gene drive",
+          "Genetically engineered",
+          "Genetically modified crops",
+          "Genetically modified food",
+          "Genetically modified organism",
+          "Genetics",
+          "Genome",
+          "Genome editing",
+          "Geography",
+          "Geometry",
+          "Government (linguistics)",
+          "Government regulation",
+          "Hydrocarbon",
+          "Impact of nanotechnology",
+          "Inclusion (mineral)",
+          "Interdependence",
+          "Internet privacy",
+          "Isoprene",
+          "Knowledge management",
+          "Latent class model",
+          "Law",
+          "Legitimacy",
+          "Limiting",
+          "Linguistics",
+          "Logistic regression",
+          "Logit",
+          "Machine learning",
+          "Management",
+          "Management science",
+          "Marketing",
+          "Materials science",
+          "Mathematics",
+          "Mechanical engineering",
+          "Medicine",
+          "Mixed logit",
+          "Multitude",
+          "Nano-",
+          "Nanotechnology",
+          "National security",
+          "Natural resource economics",
+          "Neuroscience",
+          "Operating system",
+          "Order (exchange)",
+          "Organic chemistry",
+          "Paleontology",
+          "Path (computing)",
+          "Perception",
+          "Pharmacy",
+          "Philosophy",
+          "Philosophy of science",
+          "Point (geometry)",
+          "Political science",
+          "Politics",
+          "Polymer",
+          "Process (computing)",
+          "Process management",
+          "Product (mathematics)",
+          "Programming language",
+          "Psychology",
+          "Public administration",
+          "Public policy",
+          "Public relations",
+          "Pure mathematics",
+          "Reboot",
+          "Reflexivity",
+          "Renewable energy",
+          "Reputation",
+          "Research council",
+          "Responsible Research and Innovation",
+          "Risk analysis (engineering)",
+          "Risk assessment",
+          "Risk governance",
+          "Scale (ratio)",
+          "Scholarship",
+          "Scope (computer science)",
+          "Scripting language",
+          "Social science",
+          "Societal impact of nanotechnology",
+          "Sociology",
+          "Software",
+          "Stakeholder",
+          "Stakeholder engagement",
+          "Statistics",
+          "Sustainability",
+          "Systems biology",
+          "Telecommunications",
+          "Terpenoid",
+          "Terrorism",
+          "The Internet",
+          "Transgene",
+          "Transparency (behavior)",
+          "Uncertainty",
+          "Upstream (networking)",
+          "Vulnerability (computing)",
+          "Waste management",
+          "Web application",
+          "Web application security",
+          "Web development",
+          "Work (physics)",
+          "World Wide Web"
+        ],
+        "host_venues": [
+          "Biological Invasions",
+          "Bulletin of Science, Technology & Society",
+          "Current Microbiology",
+          "EMBO Reports",
+          "Elementa",
+          "Encyclopedia of Nanoscience and Society",
+          "Encyclopedia of Science and Technology Communication",
+          "Energy Policy",
+          "Environment Systems and Decisions",
+          "Environmental Science & Policy",
+          "Frontiers in Bioengineering and Biotechnology",
+          "Informatics for Health & Social Care",
+          "Innovative Governance Models for Emerging Technologies",
+          "Journal of Agricultural Economics",
+          "Journal of Bioethical Inquiry",
+          "Journal of Consumer Policy",
+          "Journal of Law Medicine & Ethics",
+          "Journal of Nanoparticle Research",
+          "Journal of Responsible Innovation",
+          "Journal of Veterinary Medical Education",
+          "Livestock Science",
+          "Medicine Health Care and Philosophy",
+          "NanoImpact",
+          "Nanoethics",
+          "National Academies Press eBooks",
+          "Nature",
+          "Nature Nanotechnology",
+          "PLOS ONE",
+          "Plant Physiology",
+          "Policy and Society",
+          "Public Policy and Administration",
+          "Regulation & Governance",
+          "Review of Policy Research",
+          "Risk Analysis",
+          "Risk, systems and decisions",
+          "Science",
+          "Science & public policy",
+          "Science, Technology, & Human Values",
+          "Springer Netherlands eBooks",
+          "Sustainability",
+          "Technology Analysis & Strategic Management",
+          "Wiley-Blackwell eBooks",
+          "Women in engineering and science"
+        ],
+        "color": "#BD5383",
+        "size": 10
+      }
+    },
+    {
+      "key": "https://orcid.org/0000-0002-1505-4349",
+      "attributes": {
+        "label": "J Borenstein",
+        "name": "Jason Borenstein",
+        "known?": false,
+        "orcid?": null,
+        "ncsu?": false,
+        "affiliations": [
+          "Georgia Institute of Technology"
+        ],
+        "countries": [
+          "US"
+        ],
+        "color": "#BFBFBD",
+        "size": 10
+      }
+    },
+    {
+      "key": "https://orcid.org/0000-0001-8633-6952",
+      "attributes": {
+        "label": "K Miller",
+        "name": "Keith W. Miller",
+        "known?": false,
+        "orcid?": null,
+        "ncsu?": false,
+        "affiliations": [
+          "University of Missouri–St. Louis"
+        ],
+        "countries": [
+          "US"
+        ],
+        "color": "#BFBFBD",
+        "size": 10
+      }
+    },
+    {
+      "key": "michaelcloui",
+      "attributes": {
+        "label": "M Loui",
+        "name": "Michael C. Loui",
+        "known?": false,
+        "orcid?": null,
+        "ncsu?": false,
+        "affiliations": [
+          "University of Illinois Urbana-Champaign"
+        ],
+        "countries": [
+          "US"
+        ],
+        "color": "#BFBFBD",
+        "size": 10
+      }
+    },
+    {
+      "key": "christinesnielsen",
+      "attributes": {
+        "label": "C Nielsen",
+        "name": "Christine S. Nielsen",
+        "known?": false,
+        "orcid?": null,
+        "ncsu?": false,
+        "affiliations": [
+          "Rollins College"
+        ],
+        "countries": [
+          "US"
+        ],
+        "color": "#BFBFBD",
+        "size": 10
+      }
+    },
+    {
+      "key": "wsweet",
+      "attributes": {
+        "label": "W Sweet",
+        "name": "W. Sweet",
+        "known?": false,
+        "orcid?": null,
+        "ncsu?": false,
+        "affiliations": [
+
+        ],
+        "countries": [
+
+        ],
+        "color": "#BFBFBD",
+        "size": 10
+      }
+    },
+    {
+      "key": "mdavis",
+      "attributes": {
+        "label": "M Davis",
+        "name": "M. Davis",
+        "known?": false,
+        "orcid?": null,
+        "ncsu?": null,
+        "affiliations": null,
+        "countries": null,
+        "color": "#BFBFBD",
+        "size": 10
+      }
+    },
+    {
+      "key": "charris",
+      "attributes": {
+        "label": "C Harris",
+        "name": "C. Harris",
+        "known?": false,
+        "orcid?": null,
+        "ncsu?": null,
+        "affiliations": null,
+        "countries": null,
+        "color": "#BFBFBD",
+        "size": 10
+      }
+    },
+    {
+      "key": "al",
+      "attributes": {
+        "label": " al.",
+        "name": " al.",
+        "known?": false,
+        "orcid?": null,
+        "ncsu?": null,
+        "affiliations": null,
+        "countries": null,
+        "color": "#BFBFBD",
+        "size": 10
+      }
+    },
+    {
+      "key": "csnielsen",
+      "attributes": {
+        "label": "C Nielsen",
+        "name": "C. S. Nielsen",
+        "known?": false,
+        "orcid?": null,
+        "ncsu?": null,
+        "affiliations": null,
+        "countries": null,
+        "color": "#BFBFBD",
+        "size": 10
+      }
+    },
+    {
+      "key": "gphillipcartwright",
+      "attributes": {
+        "label": "G Cartwright",
+        "name": "G. Phillip Cartwright",
+        "known?": false,
+        "orcid?": null,
+        "ncsu?": false,
+        "affiliations": [
+
+        ],
+        "countries": [
+
+        ],
+        "color": "#BFBFBD",
+        "size": 10
+      }
+    }
+  ],
+  "edges": [
+    {
+      "source": "uid-jherkert",
+      "target": "uid-jprober2",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Genetic Engineering and Society -- Multidisciplinary Studies",
+        "colleges": "College of Humanities and Social Sciences -- NC State",
+        "buildings": "1911 Bldg --- unknown",
+        "roles": "faculty -- student",
+        "years": [
+          2020
+        ],
+        "year_recent": 2020,
+        "dois": [
+          "10.1525/elementa.446"
+        ],
+        "ncsu?": true,
+        "cross_college?": true,
+        "cross_department?": true,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": true,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          "Stakeholder",
+          "Focus group",
+          "Corporate governance",
+          "Government (linguistics)",
+          "Public relations",
+          "Order (exchange)",
+          "Business",
+          "Political science",
+          "Marketing",
+          "Linguistics",
+          "Philosophy",
+          "Finance"
+        ],
+        "host_venues": [
+          "Elementa"
+        ],
+        "color": "#FAC800",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-jherkert",
+      "target": "uid-jkuzma",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Genetic Engineering and Society -- Multidisciplinary Studies",
+        "colleges": "College of Humanities and Social Sciences -- NC State",
+        "buildings": "1911 Bldg -- James B Hunt Jr Centennial Cam",
+        "roles": "faculty == faculty",
+        "years": [
+          2020
+        ],
+        "year_recent": 2020,
+        "dois": [
+          "10.1525/elementa.446"
+        ],
+        "ncsu?": true,
+        "cross_college?": true,
+        "cross_department?": true,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": true,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": true,
+        "concepts": [
+          "Stakeholder",
+          "Focus group",
+          "Corporate governance",
+          "Government (linguistics)",
+          "Public relations",
+          "Order (exchange)",
+          "Business",
+          "Political science",
+          "Marketing",
+          "Linguistics",
+          "Philosophy",
+          "Finance"
+        ],
+        "host_venues": [
+          "Elementa"
+        ],
+        "color": "#FAC800",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-jherkert",
+      "target": "https://orcid.org/0000-0002-1505-4349",
+      "attributes": {
+        "label": 2,
+        "weight": 2,
+        "collaboration_count": 2,
+        "departments": "Multidisciplinary Studies --- unknown",
+        "colleges": "College of Humanities and Social Sciences --- unknown",
+        "buildings": "1911 Bldg --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          2020,
+          2019
+        ],
+        "year_recent": 2020,
+        "dois": [
+          "10.1007/s11948-020-00252-y",
+          "10.1007/s11948-017-0006-0"
+        ],
+        "ncsu?": false,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          "Philosophy of science",
+          "Engineering ethics",
+          "Aeronautics",
+          "Engineering",
+          "Political science",
+          "Philosophy",
+          "Epistemology"
+        ],
+        "host_venues": [
+          "Science and Engineering Ethics"
+        ],
+        "color": "#000000",
+        "size": 2
+      }
+    },
+    {
+      "source": "uid-jherkert",
+      "target": "https://orcid.org/0000-0001-8633-6952",
+      "attributes": {
+        "label": 2,
+        "weight": 2,
+        "collaboration_count": 2,
+        "departments": "Multidisciplinary Studies --- unknown",
+        "colleges": "College of Humanities and Social Sciences --- unknown",
+        "buildings": "1911 Bldg --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          2020,
+          2019
+        ],
+        "year_recent": 2020,
+        "dois": [
+          "10.1007/s11948-020-00252-y",
+          "10.1007/s11948-017-0006-0"
+        ],
+        "ncsu?": false,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          "Philosophy of science",
+          "Engineering ethics",
+          "Aeronautics",
+          "Engineering",
+          "Political science",
+          "Philosophy",
+          "Epistemology"
+        ],
+        "host_venues": [
+          "Science and Engineering Ethics"
+        ],
+        "color": "#000000",
+        "size": 2
+      }
+    },
+    {
+      "source": "uid-jherkert",
+      "target": "michaelcloui",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Multidisciplinary Studies --- unknown",
+        "colleges": "College of Humanities and Social Sciences --- unknown",
+        "buildings": "1911 Bldg --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          1999
+        ],
+        "year_recent": 1999,
+        "dois": [
+          "10.1109/mspec.1999.780996"
+        ],
+        "ncsu?": false,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          "IEEE Spectrum"
+        ],
+        "color": "#000000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-jherkert",
+      "target": "christinesnielsen",
+      "attributes": {
+        "label": 2,
+        "weight": 2,
+        "collaboration_count": 2,
+        "departments": "Multidisciplinary Studies --- unknown",
+        "colleges": "College of Humanities and Social Sciences --- unknown",
+        "buildings": "1911 Bldg --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          1998,
+          1998
+        ],
+        "year_recent": 1998,
+        "dois": [
+          "10.1016/S0040-1625(97)00077-2",
+          "10.3998/3336451.0004.201"
+        ],
+        "ncsu?": false,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          "Technological Forecasting and Social Change"
+        ],
+        "color": "#000000",
+        "size": 2
+      }
+    },
+    {
+      "source": "uid-jherkert",
+      "target": "wsweet",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Multidisciplinary Studies --- unknown",
+        "colleges": "College of Humanities and Social Sciences --- unknown",
+        "buildings": "1911 Bldg --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          1998
+        ],
+        "year_recent": 1998,
+        "dois": [
+          "10.1109/MSPEC.1998.681972"
+        ],
+        "ncsu?": false,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          "IEEE Spectrum"
+        ],
+        "color": "#000000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-jherkert",
+      "target": "mdavis",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Multidisciplinary Studies --- unknown",
+        "colleges": "College of Humanities and Social Sciences --- unknown",
+        "buildings": "1911 Bldg --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          1998
+        ],
+        "year_recent": 1998,
+        "dois": [
+          "10.1109/MSPEC.1998.681972"
+        ],
+        "ncsu?": null,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          "IEEE Spectrum"
+        ],
+        "color": "#000000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-jherkert",
+      "target": "charris",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Multidisciplinary Studies --- unknown",
+        "colleges": "College of Humanities and Social Sciences --- unknown",
+        "buildings": "1911 Bldg --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          1998
+        ],
+        "year_recent": 1998,
+        "dois": [
+          "10.1109/MSPEC.1998.681972"
+        ],
+        "ncsu?": null,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          "IEEE Spectrum"
+        ],
+        "color": "#000000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-jherkert",
+      "target": "al",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Multidisciplinary Studies --- unknown",
+        "colleges": "College of Humanities and Social Sciences --- unknown",
+        "buildings": "1911 Bldg --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          1998
+        ],
+        "year_recent": 1998,
+        "dois": [
+          "10.1109/MSPEC.1998.681972"
+        ],
+        "ncsu?": null,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          "IEEE Spectrum"
+        ],
+        "color": "#000000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-jherkert",
+      "target": "csnielsen",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Multidisciplinary Studies --- unknown",
+        "colleges": "College of Humanities and Social Sciences --- unknown",
+        "buildings": "1911 Bldg --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          1998
+        ],
+        "year_recent": 1998,
+        "dois": [
+
+        ],
+        "ncsu?": null,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          null
+        ],
+        "color": "#000000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-jherkert",
+      "target": "gphillipcartwright",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Multidisciplinary Studies --- unknown",
+        "colleges": "College of Humanities and Social Sciences --- unknown",
+        "buildings": "1911 Bldg --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          1998
+        ],
+        "year_recent": 1998,
+        "dois": [
+          "10.1080/00091389809602596"
+        ],
+        "ncsu?": false,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          "Change: The Magazine of Higher Learning"
+        ],
+        "color": "#000000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-jprober2",
+      "target": "uid-jkuzma",
+      "attributes": {
+        "label": 3,
+        "weight": 3,
+        "collaboration_count": 3,
+        "departments": "Genetic Engineering and Society == Genetic Engineering and Society",
+        "colleges": "NC State == NC State",
+        "buildings": "James B Hunt Jr Centennial Cam --- unknown",
+        "roles": "faculty -- student",
+        "years": [
+          2020,
+          2018,
+          2016
+        ],
+        "year_recent": 2020,
+        "dois": [
+          "10.1525/elementa.446",
+          "10.1080/23299460.2018.1511329",
+          "10.1007/s11051-016-3506-y"
+        ],
+        "ncsu?": true,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": true,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          "Stakeholder",
+          "Focus group",
+          "Corporate governance",
+          "Government (linguistics)",
+          "Public relations",
+          "Order (exchange)",
+          "Business",
+          "Political science",
+          "Marketing",
+          "Linguistics",
+          "Philosophy",
+          "Finance"
+        ],
+        "host_venues": [
+          "Elementa"
+        ],
+        "color": "#CC0000",
+        "size": 3
+      }
+    },
+    {
+      "source": "uid-jkuzma",
+      "target": "al",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Genetic Engineering and Society --- unknown",
+        "colleges": "NC State --- unknown",
+        "buildings": "James B Hunt Jr Centennial Cam --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          2017
+        ],
+        "year_recent": 2017,
+        "dois": [
+          "10.15252/embr.201744394"
+        ],
+        "ncsu?": null,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          "Genome editing",
+          "Corporate governance",
+          "Biology",
+          "Genome",
+          "Crop",
+          "Business",
+          "Biotechnology",
+          "Computational biology",
+          "Genetics",
+          "Gene",
+          "Ecology",
+          "Finance"
+        ],
+        "host_venues": [
+          "EMBO Reports"
+        ],
+        "color": "#000000",
+        "size": 1
+      }
+    }
+  ]
+}

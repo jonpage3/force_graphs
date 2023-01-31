@@ -1,0 +1,6736 @@
+{
+  "options": {
+    "type": "undirected",
+    "multi": false,
+    "allowSelfLoops": false
+  },
+  "attributes": {
+    "creator": "Citation Index",
+    "lastModifiedDate": "2023-01-15"
+  },
+  "nodes": [
+    {
+      "key": "uid-jfbaltze",
+      "attributes": {
+        "label": "J Baltzegar",
+        "name": "Jennifer Baltzegar",
+        "known?": true,
+        "orcid?": false,
+        "ncsu?": true,
+        "affiliations": [
+          "North Carolina State University"
+        ],
+        "countries": [
+          "US"
+        ],
+        "uid": "jfbaltze",
+        "url": "https://ci.lib.ncsu.edu/profiles/jfbaltze",
+        "active?": true,
+        "department": "Plant Pathology",
+        "college": "College of Agriculture and Life Sciences",
+        "ncsu_affiliations": [
+          "Plant Pathology",
+          "Genetic Engineering and Society"
+        ],
+        "cluster?": true,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "role": "staff",
+        "building": "James B Hunt Jr Centennial Cam",
+        "count": 3,
+        "oa_count": 2,
+        "years": [
+          2021,
+          2018,
+          2016
+        ],
+        "year_recent": 2021,
+        "article_concepts": [
+          "Aedes aegypti",
+          "Agriculture",
+          "Allele",
+          "Allele frequency",
+          "Biology",
+          "Botany",
+          "Business",
+          "CRISPR",
+          "Cyfluthrin",
+          "Demography",
+          "Dominance (genetics)",
+          "Ecology",
+          "Engineering",
+          "Evolutionary biology",
+          "Gene",
+          "Gene drive",
+          "Genetic diversity",
+          "Genetic variation",
+          "Genetics",
+          "Haplotype",
+          "Heliothis virescens",
+          "Inbreeding",
+          "Insecticide resistance",
+          "Knockdown resistance",
+          "Larva",
+          "Noctuidae",
+          "PEST analysis",
+          "Pesticide",
+          "Population",
+          "Population genetics",
+          "Pyrethroid",
+          "Sociology",
+          "Software deployment",
+          "Software engineering",
+          "Toxicology"
+        ],
+        "host_venues": [
+          "Evolutionary Applications",
+          "Insect Molecular Biology",
+          "Journal of Responsible Innovation"
+        ],
+        "color": "#6F7D1C",
+        "size": 20
+      }
+    },
+    {
+      "key": "uid-mrvella",
+      "attributes": {
+        "label": "M Vella",
+        "name": "Michael Vella",
+        "known?": true,
+        "orcid?": false,
+        "ncsu?": true,
+        "affiliations": [
+          "North Carolina State University"
+        ],
+        "countries": [
+          "US"
+        ],
+        "uid": "mrvella",
+        "url": "https://ci.lib.ncsu.edu/profiles/mrvella",
+        "active?": false,
+        "department": null,
+        "college": null,
+        "ncsu_affiliations": [
+
+        ],
+        "cluster?": false,
+        "clusters": [
+
+        ],
+        "role": "student",
+        "building": null,
+        "count": 3,
+        "oa_count": 3,
+        "years": [
+          2021,
+          2019
+        ],
+        "year_recent": 2021,
+        "article_concepts": [
+          "Aedes aegypti",
+          "Allele",
+          "Allele frequency",
+          "Biology",
+          "Biotechnology",
+          "Botany",
+          "CRISPR",
+          "Cas9",
+          "Computational biology",
+          "Computer science",
+          "Construct (python library)",
+          "Cyfluthrin",
+          "Demography",
+          "Dominance (genetics)",
+          "Ecology",
+          "Environmental health",
+          "Evolutionary biology",
+          "Gene",
+          "Gene drive",
+          "Genetic variation",
+          "Genetics",
+          "Haplotype",
+          "Insecticide resistance",
+          "Knockdown resistance",
+          "Larva",
+          "Locus (genetics)",
+          "Medicine",
+          "Offspring",
+          "PEST analysis",
+          "Pesticide",
+          "Population",
+          "Population genetics",
+          "Pregnancy",
+          "Programming language",
+          "Pyrethroid",
+          "Sociology",
+          "Sterile insect technique",
+          "Toxicology"
+        ],
+        "host_venues": [
+          "Evolutionary Applications",
+          "Scientific Reports"
+        ],
+        "color": "#000000",
+        "size": 10
+      }
+    },
+    {
+      "key": "uid-cegunnin",
+      "attributes": {
+        "label": "C Gunning",
+        "name": "Christian E Gunning",
+        "known?": true,
+        "orcid?": false,
+        "ncsu?": true,
+        "affiliations": [
+          "North Carolina State University"
+        ],
+        "countries": [
+          "US"
+        ],
+        "uid": "cegunnin",
+        "url": "https://ci.lib.ncsu.edu/profiles/cegunnin",
+        "active?": false,
+        "department": "Entomology and Plant Pathology",
+        "college": "College of Agriculture and Life Sciences",
+        "ncsu_affiliations": [
+          "Entomology and Plant Pathology"
+        ],
+        "cluster?": false,
+        "clusters": [
+
+        ],
+        "role": null,
+        "building": null,
+        "count": 3,
+        "oa_count": 2,
+        "years": [
+          2021,
+          2017,
+          2015
+        ],
+        "year_recent": 2021,
+        "article_concepts": [
+          "Aedes aegypti",
+          "Aerospace engineering",
+          "Allele",
+          "Allele frequency",
+          "Automotive engineering",
+          "Biology",
+          "CRISPR",
+          "Cas9",
+          "Computational biology",
+          "Computer science",
+          "Countermeasure",
+          "Cyfluthrin",
+          "Demography",
+          "Dominance (genetics)",
+          "Ecology",
+          "Engineering",
+          "Environmental health",
+          "Evolutionary biology",
+          "Gene",
+          "Gene drive",
+          "Genetic variation",
+          "Genetics",
+          "Haplotype",
+          "Insecticide resistance",
+          "Knockdown resistance",
+          "Larva",
+          "Limiting",
+          "Mechanical engineering",
+          "Mechanism (biology)",
+          "Medicine",
+          "Pesticide",
+          "Physics",
+          "Population",
+          "Population genetics",
+          "Pyrethroid",
+          "Quantum mechanics",
+          "Reversing",
+          "Sociology",
+          "Toxicology"
+        ],
+        "host_venues": [
+          "Evolutionary Applications",
+          "Scientific Reports"
+        ],
+        "color": "#6F7D1C",
+        "size": 10
+      }
+    },
+    {
+      "key": "gissellamvsquez",
+      "attributes": {
+        "label": "G Vasquez",
+        "name": "Gissella M. Vásquez",
+        "known?": false,
+        "orcid?": null,
+        "ncsu?": false,
+        "affiliations": [
+          "Naval Medical Research Unit Six"
+        ],
+        "countries": [
+          "PE"
+        ],
+        "color": "#BFBFBD",
+        "size": 10
+      }
+    },
+    {
+      "key": "helvioastete",
+      "attributes": {
+        "label": "H Astete",
+        "name": "Helvio Astete",
+        "known?": false,
+        "orcid?": null,
+        "ncsu?": false,
+        "affiliations": [
+          "Naval Medical Research Unit Six"
+        ],
+        "countries": [
+          "PE"
+        ],
+        "color": "#BFBFBD",
+        "size": 10
+      }
+    },
+    {
+      "key": "uid-fmstell",
+      "attributes": {
+        "label": "F Stell",
+        "name": "Frederick Michael Stell",
+        "known?": true,
+        "orcid?": false,
+        "ncsu?": true,
+        "affiliations": [
+          "North Carolina State University"
+        ],
+        "countries": [
+          "US"
+        ],
+        "uid": "fmstell",
+        "url": "https://ci.lib.ncsu.edu/profiles/fmstell",
+        "active?": false,
+        "department": "Entomology and Plant Pathology",
+        "college": "College of Agriculture and Life Sciences",
+        "ncsu_affiliations": [
+          "Entomology and Plant Pathology"
+        ],
+        "cluster?": false,
+        "clusters": [
+
+        ],
+        "role": null,
+        "building": null,
+        "count": 2,
+        "oa_count": 1,
+        "years": [
+          2021,
+          2013
+        ],
+        "year_recent": 2021,
+        "article_concepts": [
+          "Aedes aegypti",
+          "Allele",
+          "Allele frequency",
+          "Biology",
+          "Cyfluthrin",
+          "Demography",
+          "Dominance (genetics)",
+          "Ecology",
+          "Evolutionary biology",
+          "Gene",
+          "Genetic variation",
+          "Genetics",
+          "Haplotype",
+          "Insecticide resistance",
+          "Knockdown resistance",
+          "Larva",
+          "Pesticide",
+          "Population",
+          "Population genetics",
+          "Pyrethroid",
+          "Sociology",
+          "Toxicology"
+        ],
+        "host_venues": [
+          "Evolutionary Applications",
+          "Medical and Veterinary Entomology"
+        ],
+        "color": "#6F7D1C",
+        "size": 10
+      }
+    },
+    {
+      "key": "uid-mlfishe2",
+      "attributes": {
+        "label": "M Fisher",
+        "name": "Michael L. Fisher",
+        "known?": true,
+        "orcid?": false,
+        "ncsu?": true,
+        "affiliations": [
+          "North Carolina State University"
+        ],
+        "countries": [
+          "US"
+        ],
+        "uid": "mlfishe2",
+        "url": "https://ci.lib.ncsu.edu/profiles/mlfishe2",
+        "active?": false,
+        "department": "Entomology and Plant Pathology",
+        "college": "College of Agriculture and Life Sciences",
+        "ncsu_affiliations": [
+          "Entomology and Plant Pathology"
+        ],
+        "cluster?": false,
+        "clusters": [
+
+        ],
+        "role": null,
+        "building": null,
+        "count": 5,
+        "oa_count": 2,
+        "years": [
+          2021,
+          2019,
+          2017,
+          2015
+        ],
+        "year_recent": 2021,
+        "article_concepts": [
+          "Aedes aegypti",
+          "Allele",
+          "Allele frequency",
+          "Bed bug",
+          "Biology",
+          "Blood meal",
+          "Chikungunya",
+          "Cimex lectularius",
+          "Cyfluthrin",
+          "Demography",
+          "Dengue fever",
+          "Dominance (genetics)",
+          "Ecology",
+          "Evolutionary biology",
+          "Gene",
+          "Genetic variation",
+          "Genetics",
+          "Haplotype",
+          "Hemiptera",
+          "Host (biology)",
+          "Insecticide resistance",
+          "Knockdown resistance",
+          "Larva",
+          "Obligate",
+          "Pesticide",
+          "Population",
+          "Population genetics",
+          "Pyrethroid",
+          "Sociology",
+          "Toxicology",
+          "Virology",
+          "Wolbachia",
+          "Zoology"
+        ],
+        "host_venues": [
+          "Evolutionary Applications",
+          "Journal of Medical Entomology",
+          "Parasites & Vectors"
+        ],
+        "color": "#6F7D1C",
+        "size": 10
+      }
+    },
+    {
+      "key": "https://orcid.org/0000-0003-2947-8123",
+      "attributes": {
+        "label": "T Scott",
+        "name": "Thomas W. Scott",
+        "known?": false,
+        "orcid?": null,
+        "ncsu?": false,
+        "affiliations": [
+          "University of California, Davis"
+        ],
+        "countries": [
+          "US"
+        ],
+        "color": "#BFBFBD",
+        "size": 10
+      }
+    },
+    {
+      "key": "https://orcid.org/0000-0002-9156-4228",
+      "attributes": {
+        "label": "A Lenhart",
+        "name": "Audrey Lenhart",
+        "known?": false,
+        "orcid?": null,
+        "ncsu?": false,
+        "affiliations": [
+          "Division of Parasitic Diseases and Malaria, Centers for Disease Control and Prevention, Atlanta, GA, USA."
+        ],
+        "countries": [
+
+        ],
+        "color": "#BFBFBD",
+        "size": 10
+      }
+    },
+    {
+      "key": "uid-allloyd",
+      "attributes": {
+        "label": "A Lloyd",
+        "name": "Alun Lloyd",
+        "known?": true,
+        "orcid?": true,
+        "ncsu?": true,
+        "affiliations": [
+          "North Carolina State University"
+        ],
+        "countries": [
+          "US"
+        ],
+        "uid": "allloyd",
+        "url": "https://ci.lib.ncsu.edu/profiles/allloyd",
+        "orcid": "0000-0002-6389-6321",
+        "active?": true,
+        "department": "Mathematics",
+        "college": "College of Sciences",
+        "ncsu_affiliations": [
+          "Mathematics",
+          "Genetic Engineering and Society",
+          "NC State Experts on COVID-19",
+          "Genetics and Genomics Academy",
+          "Comparative Medicine Institute"
+        ],
+        "cluster?": true,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "role": "faculty",
+        "building": "Bureau of Mines",
+        "count": 154,
+        "oa_count": 95,
+        "years": [
+          2022,
+          2021,
+          2020,
+          2019,
+          2018,
+          2017,
+          2016,
+          2015,
+          2014,
+          2013,
+          2012,
+          2011,
+          2010,
+          2009,
+          2008,
+          2007,
+          2006,
+          2004,
+          2002,
+          2001,
+          2000,
+          1999,
+          1998,
+          1997,
+          1996,
+          1995,
+          1994,
+          1993,
+          1992,
+          1987
+        ],
+        "year_recent": 2022,
+        "article_concepts": [
+          "2019-20 coronavirus outbreak",
+          "Abundance (ecology)",
+          "Accounting",
+          "Adrenocortical carcinoma",
+          "Aedes",
+          "Aedes aegypti",
+          "Aerospace engineering",
+          "Agriculture",
+          "Algorithm",
+          "Allele",
+          "Allele frequency",
+          "Alternative oxidase",
+          "Ampicillin",
+          "Anatomy",
+          "Anopheles",
+          "Antibiotics",
+          "Antibody-dependent enhancement",
+          "Anticipation (artificial intelligence)",
+          "Antigen",
+          "Antiretroviral therapy",
+          "Antiviral drug",
+          "Applied mathematics",
+          "Archaeology",
+          "Aromatase",
+          "Aromatase inhibitor",
+          "Artemisinin",
+          "Artificial intelligence",
+          "Assortative mating",
+          "Asymptomatic",
+          "Asymptomatic carrier",
+          "Automotive engineering",
+          "BDNA test",
+          "Bacteria",
+          "Basic reproduction number",
+          "Bespoke",
+          "Biochemistry",
+          "Biodiversity",
+          "Bioinformatics",
+          "Biological dispersal",
+          "Biology",
+          "Bionomics",
+          "Biotechnology",
+          "Blood meal",
+          "Bootstrapping (finance)",
+          "Botany",
+          "Branching process",
+          "Breast cancer",
+          "Business",
+          "CD8",
+          "CRISPR",
+          "CTL*",
+          "Cage",
+          "Cancer",
+          "Cas9",
+          "Cell culture",
+          "Cell growth",
+          "Cellular model",
+          "Chaotic",
+          "Chemistry",
+          "Chikungunya",
+          "Ciprofloxacin",
+          "Colonization",
+          "Combinatorics",
+          "Communicable disease",
+          "Competition (biology)",
+          "Composite material",
+          "Computational biology",
+          "Computer science",
+          "Computer security",
+          "Computer vision",
+          "Connection (principal bundle)",
+          "Constant (computer programming)",
+          "Construct (python library)",
+          "Contact tracing",
+          "Container (type theory)",
+          "Context (archaeology)",
+          "Control (management)",
+          "Control theory (sociology)",
+          "Coronavirus disease 2019 (COVID-19)",
+          "Correlation",
+          "Counterintuitive",
+          "Countermeasure",
+          "Culex",
+          "Cyfluthrin",
+          "Data collection",
+          "Data mining",
+          "Data science",
+          "Demography",
+          "Dengue fever",
+          "Dengue virus",
+          "Density dependence",
+          "Deterministic simulation",
+          "Disease",
+          "Disease Eradication",
+          "Disease control",
+          "Disease transmission",
+          "Distribution (mathematics)",
+          "Dominance (genetics)",
+          "Downy mildew",
+          "Drug",
+          "Drug resistance",
+          "Dynamical systems theory",
+          "Ecology",
+          "Econometrics",
+          "Economics",
+          "Electrical engineering",
+          "Electronic engineering",
+          "Element (criminal law)",
+          "Endocrine system",
+          "Endocrinology",
+          "Endogeny",
+          "Endonuclease",
+          "Engineering",
+          "Entomology",
+          "Environmental health",
+          "Environmental planning",
+          "Environmental resource management",
+          "Environmental science",
+          "Enzyme",
+          "Epidemic model",
+          "Epidemiology",
+          "Epistemology",
+          "Escherichia coli",
+          "Estimation",
+          "Estimation theory",
+          "Ethanol",
+          "Evolutionary biology",
+          "Exit strategy",
+          "Exponential function",
+          "Exponential growth",
+          "Extinction (optical mineralogy)",
+          "Extinction probability",
+          "Fermentation",
+          "Fetus",
+          "Filter (signal processing)",
+          "Fixation (population genetics)",
+          "Food science",
+          "Food security",
+          "Forcing (mathematics)",
+          "Fraction (chemistry)",
+          "Gene",
+          "Gene drive",
+          "Gene flow",
+          "Generation time",
+          "Genetic load",
+          "Genetic structure",
+          "Genetic variation",
+          "Genetically engineered",
+          "Genetically modified crops",
+          "Genetically modified organism",
+          "Genetics",
+          "Genome",
+          "Genome editing",
+          "Genomics",
+          "Genotype",
+          "Gentamicin",
+          "Geography",
+          "Geometry",
+          "Geotechnical engineering",
+          "Germination",
+          "Graph",
+          "Haplotype",
+          "Hidden Markov model",
+          "Hidden node problem",
+          "Hidden variable theory",
+          "Homing (biology)",
+          "Homing endonuclease",
+          "Honeymoon",
+          "Hormone",
+          "Horticulture",
+          "Host (biology)",
+          "Human T-lymphotropic virus",
+          "Human T-lymphotropic virus 1",
+          "Human immunodeficiency virus (HIV)",
+          "Human leukocyte antigen",
+          "Hydrogenase",
+          "Hypothalamic–pituitary–gonadal axis",
+          "Identifiability",
+          "Identification (biology)",
+          "Image (mathematics)",
+          "Immune system",
+          "Immunity",
+          "Immunology",
+          "In vitro",
+          "In vivo",
+          "Inbreeding",
+          "Incidence (geometry)",
+          "Indoor residual spraying",
+          "Infectious disease (medical specialty)",
+          "Inference",
+          "Infrared",
+          "Inoculation",
+          "Insect",
+          "Insecticide resistance",
+          "Internal medicine",
+          "Intraspecific competition",
+          "Introgression",
+          "Inverse",
+          "Isolation (microbiology)",
+          "Isolation by distance",
+          "Kalman filter",
+          "Key (lock)",
+          "Knockdown resistance",
+          "Larva",
+          "Law",
+          "Leaf wetness",
+          "Lentivirus",
+          "Life span",
+          "Limiting",
+          "Linguistics",
+          "Locus (genetics)",
+          "Lorenz system",
+          "Loss of heterozygosity",
+          "Luteinizing hormone",
+          "Machine learning",
+          "Macroeconomics",
+          "Malaria",
+          "Management",
+          "Management science",
+          "Mark and recapture",
+          "Marketing",
+          "Materials science",
+          "Mathematical analysis",
+          "Mathematical modelling of infectious disease",
+          "Mathematical optimization",
+          "Mathematics",
+          "Mating",
+          "Matrix (chemical analysis)",
+          "Measles",
+          "Mechanical engineering",
+          "Mechanism (biology)",
+          "Medicine",
+          "Meiotic drive",
+          "Mendelian inheritance",
+          "Metapopulation",
+          "Metyrapone",
+          "Microbiology",
+          "Mosquito control",
+          "Multidisciplinary approach",
+          "Mutation",
+          "Myelopathy",
+          "Neglected tropical diseases",
+          "Network model",
+          "Network packet",
+          "Neuroscience",
+          "Node (physics)",
+          "Noise (video)",
+          "Nonlinear system",
+          "Nonparametric statistics",
+          "Nonsynonymous substitution",
+          "Nursing",
+          "Observational methods in psychology",
+          "Observational study",
+          "Odds ratio",
+          "Offspring",
+          "Operating system",
+          "Operations research",
+          "Optics",
+          "Organic chemistry",
+          "Outbreak",
+          "Oxidase test",
+          "Oxidoreductase",
+          "Oxygen",
+          "PEST analysis",
+          "Paleontology",
+          "Pandemic",
+          "Parameterized complexity",
+          "Parametric model",
+          "Parametric statistics",
+          "Parasite hosting",
+          "Pathogen",
+          "Pathogenesis",
+          "Pathology",
+          "Pattern recognition (psychology)",
+          "Payload (computing)",
+          "Penetrance",
+          "Penicillin",
+          "Periodic function",
+          "Persistence (discontinuity)",
+          "Pesticide",
+          "Pharmacology",
+          "Phenotype",
+          "Philosophy",
+          "Phycomycetes",
+          "Physics",
+          "Piecewise",
+          "Plasmodium (life cycle)",
+          "Plasmodium falciparum",
+          "Plasmodium knowlesi",
+          "Plasmodium vivax",
+          "Poliomyelitis",
+          "Political science",
+          "Population",
+          "Population density",
+          "Population genetics",
+          "Population genomics",
+          "Population model",
+          "Population size",
+          "Pregnancy",
+          "Process (computing)",
+          "Production (economics)",
+          "Programming language",
+          "Provirus",
+          "Pseudomonas aeruginosa",
+          "Pseudoperonospora cubensis",
+          "Psychiatry",
+          "Psychological intervention",
+          "Public health",
+          "Public relations",
+          "Pupa",
+          "Pyrethroid",
+          "Quantum",
+          "Quantum mechanics",
+          "Quarantine",
+          "RNA",
+          "RNA interference",
+          "Random graph",
+          "Range (aeronautics)",
+          "Real-time computing",
+          "Recombinant DNA",
+          "Reduction (mathematics)",
+          "Resilience (materials science)",
+          "Respiration",
+          "Reversing",
+          "Risk analysis (engineering)",
+          "Rural area",
+          "Sample (material)",
+          "Sampling (signal processing)",
+          "Schizogony",
+          "Sensitivity (control systems)",
+          "Serotype",
+          "Severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2)",
+          "Sign (mathematics)",
+          "Simple (philosophy)",
+          "Simulation",
+          "Social science",
+          "Sociology",
+          "Software deployment",
+          "Somatic evolution in cancer",
+          "Spatial epidemiology",
+          "Spatial heterogeneity",
+          "Spinal cord",
+          "Sporangium",
+          "Spore",
+          "Spore germination",
+          "Stakeholder",
+          "Staphylococcus aureus",
+          "Statistical model",
+          "Statistical physics",
+          "Statistics",
+          "Sterile insect technique",
+          "Steroid",
+          "Steroid biosynthesis",
+          "Steroid hormone",
+          "Stochastic modelling",
+          "Stochastic process",
+          "Stochastic simulation",
+          "Strain (injury)",
+          "Structural engineering",
+          "Susceptible individual",
+          "T-cell leukemia",
+          "TRACE (psycholinguistics)",
+          "Telecommunications",
+          "Temperate climate",
+          "Term (time)",
+          "Thermodynamics",
+          "Toxicology",
+          "Tracing",
+          "Transgene",
+          "Transmissibility (structural dynamics)",
+          "Transmission (telecommunications)",
+          "Transmission rate",
+          "Tritrichomonas foetus",
+          "Tropical spastic paraparesis",
+          "Type (biology)",
+          "Vaccination",
+          "Value (mathematics)",
+          "Variable (mathematics)",
+          "Variance (accounting)",
+          "Variety (cybernetics)",
+          "Vector (molecular biology)",
+          "Veterinary medicine",
+          "Vibration",
+          "Vibration isolation",
+          "Viral disease",
+          "Viral hepatitis",
+          "Viral infection",
+          "Viral life cycle",
+          "Viral load",
+          "Viral replication",
+          "Viremia",
+          "Virology",
+          "Virus",
+          "Virus latency",
+          "Voter model",
+          "Wi-Fi array",
+          "Wireless",
+          "Wireless network",
+          "Wolbachia",
+          "World Wide Web",
+          "Yellow fever",
+          "Zika virus",
+          "Zoology"
+        ],
+        "host_venues": [
+          "American Journal of Tropical Medicine and Hygiene",
+          "Annual Review of Ecology, Evolution, and Systematics",
+          "BMC Public Health",
+          "BioSystems",
+          "Biochemical Society Transactions",
+          "Biological Rhythm Research",
+          "Chaos",
+          "Chapman & Hall/CRC mathematical and computational biology series",
+          "Cold Spring Harbor Laboratory - medRxiv",
+          "Comparative Biochemistry and Physiology C-toxicology & Pharmacology",
+          "Contemporary mathematics",
+          "DIMACS series in discrete mathematics and theoretical computer science",
+          "Ecosphere",
+          "Epidemics",
+          "European Journal of Immunology",
+          "European Journal of Operational Research",
+          "Evolution",
+          "Evolutionary Applications",
+          "Fems Microbiology Letters",
+          "Insect Biochemistry and Molecular Biology",
+          "Inverse Problems",
+          "Journal of Acquired Immune Deficiency Syndromes",
+          "Journal of Difference Equations and Applications",
+          "Journal of Immunology",
+          "Journal of Inverse and Ill-posed Problems",
+          "Journal of Mathematical Biology",
+          "Journal of Medical Entomology",
+          "Journal of Theoretical Biology",
+          "Journal of the Royal Society Interface",
+          "Mathematical Biosciences and Engineering",
+          "Mathematical biosciences",
+          "Mathematics and Computers in Simulation",
+          "Microbiology",
+          "Nature",
+          "Nature Communications",
+          "PLOS Computational Biology",
+          "PLOS Currents",
+          "PLOS Neglected Tropical Diseases",
+          "PLOS ONE",
+          "PLOS Pathogens",
+          "Parasites & Vectors",
+          "Parasitology",
+          "Physical review",
+          "Phytopathology",
+          "Proceedings of The Royal Society B: Biological Sciences",
+          "Proceedings of the National Academy of Sciences of the United States of America",
+          "Science",
+          "Scientific American",
+          "Scientific Reports",
+          "Springer Netherlands eBooks",
+          "The American Naturalist",
+          "The Journal of Infectious Diseases",
+          "Theoretical Population Biology",
+          "Toxicological Sciences",
+          "Transactions of The Royal Society of Tropical Medicine and Hygiene",
+          "Trends in Biotechnology",
+          "Trends in Ecology and Evolution",
+          "Trends in Parasitology",
+          "World Scientific lecture notes in complex systems",
+          "bioRxiv",
+          "medRxiv"
+        ],
+        "color": "#4156A1",
+        "size": 10
+      }
+    },
+    {
+      "key": "https://orcid.org/0000-0001-6224-5984",
+      "attributes": {
+        "label": "A Morrison",
+        "name": "Amy C. Morrison",
+        "known?": false,
+        "orcid?": null,
+        "ncsu?": false,
+        "affiliations": [
+          "University of California, Davis"
+        ],
+        "countries": [
+          "US"
+        ],
+        "color": "#BFBFBD",
+        "size": 10
+      }
+    },
+    {
+      "key": "uid-fgould",
+      "attributes": {
+        "label": "F Gould",
+        "name": "Fred Gould",
+        "known?": true,
+        "orcid?": false,
+        "ncsu?": true,
+        "affiliations": [
+          "North Carolina State University"
+        ],
+        "countries": [
+          "US"
+        ],
+        "uid": "fgould",
+        "url": "https://ci.lib.ncsu.edu/profiles/fgould",
+        "active?": true,
+        "department": "Entomology and Plant Pathology",
+        "college": "College of Agriculture and Life Sciences",
+        "ncsu_affiliations": [
+          "Entomology and Plant Pathology",
+          "Genetic Engineering and Society",
+          "Genetics and Genomics Academy",
+          "Comparative Medicine Institute"
+        ],
+        "cluster?": true,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "role": "faculty",
+        "building": "Thomas Hall",
+        "count": 177,
+        "oa_count": 75,
+        "years": [
+          2022,
+          2021,
+          2020,
+          2019,
+          2018,
+          2017,
+          2016,
+          2015,
+          2014,
+          2013,
+          2012,
+          2011,
+          2010,
+          2009,
+          2008,
+          2007,
+          2006,
+          2005,
+          2004,
+          2003,
+          2002,
+          2001,
+          2000,
+          1999,
+          1998,
+          1997,
+          1996,
+          1995,
+          1994,
+          1991,
+          1990,
+          1987,
+          1984,
+          1980
+        ],
+        "year_recent": 2022,
+        "article_concepts": [
+          "Adaptation (eye)",
+          "Aedes",
+          "Aedes aegypti",
+          "Aedes albopictus",
+          "Aerospace engineering",
+          "Agricultural productivity",
+          "Agricultural science",
+          "Agriculture",
+          "Agroforestry",
+          "Agronomy",
+          "Alkaline phosphatase",
+          "Allele",
+          "Allele frequency",
+          "Anatomy",
+          "Animal ecology",
+          "Art history",
+          "Artemisinin",
+          "Artificial intelligence",
+          "Assortative mating",
+          "Astrophysics",
+          "Automotive engineering",
+          "Bacillus thuringiensis",
+          "Backcrossing",
+          "Bacteria",
+          "Balance (ability)",
+          "Bed nets",
+          "Beet armyworm",
+          "Binding site",
+          "Biochemistry",
+          "Bioinformatics",
+          "Biological dispersal",
+          "Biology",
+          "Biotechnology",
+          "Bollworm",
+          "Botany",
+          "Brassica oleracea",
+          "Brush border",
+          "Bt cotton",
+          "Business",
+          "CRISPR",
+          "Cage",
+          "Candidate gene",
+          "Cas9",
+          "Chemical communication",
+          "Chikungunya",
+          "Chilo suppressalis",
+          "Chloroplast",
+          "Colonization",
+          "Combinatorics",
+          "Competition (biology)",
+          "Computational biology",
+          "Computer science",
+          "Computer security",
+          "Construct (python library)",
+          "Container (type theory)",
+          "Context (archaeology)",
+          "Control (management)",
+          "Corporate governance",
+          "Countermeasure",
+          "Crambidae",
+          "Crop protection",
+          "Cry1Ac",
+          "Cyfluthrin",
+          "De novo transcriptome assembly",
+          "Demography",
+          "Dengue fever",
+          "Dengue virus",
+          "Density dependence",
+          "Diamondback moth",
+          "Directional selection",
+          "Disruptive selection",
+          "Distribution (mathematics)",
+          "Dominance (genetics)",
+          "Drosophila melanogaster",
+          "Ecological genetics",
+          "Ecology",
+          "Econometrics",
+          "Economic history",
+          "Economics",
+          "Electrical engineering",
+          "Electroantennography",
+          "Element (criminal law)",
+          "Endonuclease",
+          "Engineering",
+          "Engineering ethics",
+          "Environmental ethics",
+          "Environmental health",
+          "Enzyme",
+          "Epistasis",
+          "Epistemology",
+          "Evolutionary biology",
+          "Exigua",
+          "Experimental evolution",
+          "Fecundity",
+          "Female sex",
+          "Finance",
+          "Frame (networking)",
+          "Gene",
+          "Gene drive",
+          "Gene expression",
+          "Gene expression profiling",
+          "Gene flow",
+          "Generalist and specialist species",
+          "Genetic architecture",
+          "Genetic diversity",
+          "Genetic load",
+          "Genetic structure",
+          "Genetic variation",
+          "Genetically engineered",
+          "Genetically modified crops",
+          "Genetically modified maize",
+          "Genetically modified organism",
+          "Genetics",
+          "Genome",
+          "Genomics",
+          "Geographic variation",
+          "Geographical distance",
+          "Geography",
+          "Geometry",
+          "Glycosylation",
+          "Gossypium",
+          "Growing season",
+          "Habitat",
+          "Haplotype",
+          "Helicoverpa armigera",
+          "Helicoverpa zea",
+          "Heliothis",
+          "Heliothis virescens",
+          "Herbivore",
+          "Heritability",
+          "History",
+          "Homing (biology)",
+          "Homing endonuclease",
+          "Horticulture",
+          "Host (biology)",
+          "Illumina dye sequencing",
+          "Immunology",
+          "Inbreeding",
+          "Indoor residual spraying",
+          "Induction motor",
+          "Insect",
+          "Insecticide resistance",
+          "Instar",
+          "Integrated pest management",
+          "Internal medicine",
+          "Interspecific competition",
+          "Intraspecific competition",
+          "Introgression",
+          "Isolation by distance",
+          "Knockdown resistance",
+          "Larva",
+          "Law",
+          "Lectin",
+          "Lepidoptera genitalia",
+          "Ligand binding assay",
+          "Limiting",
+          "Local adaptation",
+          "Locus (genetics)",
+          "Macroeconomics",
+          "Malaria",
+          "Management",
+          "Mate choice",
+          "Mathematical analysis",
+          "Mathematics",
+          "Mating",
+          "Mating disruption",
+          "Mechanical engineering",
+          "Mechanism (biology)",
+          "Medicine",
+          "Meiotic drive",
+          "Membrane",
+          "Mendelian inheritance",
+          "Microbiology",
+          "Microsatellite",
+          "Midgut",
+          "Molecular biology",
+          "Mosquito control",
+          "Natural population growth",
+          "Natural selection",
+          "Neglected tropical diseases",
+          "Network packet",
+          "Neuroscience",
+          "Noctuidae",
+          "Nursing",
+          "Offspring",
+          "Olfaction",
+          "Olfactory receptor",
+          "Operating system",
+          "Overwintering",
+          "PEST analysis",
+          "Paleontology",
+          "Parametric statistics",
+          "Parasitism",
+          "Pathogen",
+          "Pathology",
+          "Payload (computing)",
+          "Penetrance",
+          "Pest control",
+          "Pesticide",
+          "Pesticide resistance",
+          "Phenotype",
+          "Pheromone",
+          "Philosophy",
+          "Physalis",
+          "Physics",
+          "Pink bollworm",
+          "Plasmodium falciparum",
+          "Plutella",
+          "Plutellidae",
+          "Political science",
+          "Population",
+          "Population density",
+          "Population genetics",
+          "Population genomics",
+          "Population model",
+          "Pregnancy",
+          "Process (computing)",
+          "Process management",
+          "Product (mathematics)",
+          "Production (economics)",
+          "Programming language",
+          "Public administration",
+          "Public engagement",
+          "Public health",
+          "Public relations",
+          "Pulmonary surfactant",
+          "Pupa",
+          "Pyralidae",
+          "Pyrethroid",
+          "Quantitative trait locus",
+          "Quantum mechanics",
+          "RNA",
+          "RNA interference",
+          "Range (aeronautics)",
+          "Receptor",
+          "Recombinant DNA",
+          "Red flour beetle",
+          "Reproductive isolation",
+          "Resistance (ecology)",
+          "Responsible Research and Innovation",
+          "Reversing",
+          "Science communication",
+          "Science education",
+          "Selection (genetic algorithm)",
+          "Sex pheromone",
+          "Sex ratio",
+          "Sexual selection",
+          "Sociology",
+          "Spatial heterogeneity",
+          "Spodoptera",
+          "Statistics",
+          "Sterile insect technique",
+          "Strain (injury)",
+          "Telecommunications",
+          "Temperate climate",
+          "Term (time)",
+          "Toxicology",
+          "Toxin",
+          "Trait",
+          "Transcriptome",
+          "Transgene",
+          "Type (biology)",
+          "Variation (astronomy)",
+          "Vector (molecular biology)",
+          "Vector control",
+          "Vesicle",
+          "Veterinary medicine",
+          "Virology",
+          "Voltage",
+          "Wolbachia",
+          "Zea mays",
+          "Zoology"
+        ],
+        "host_venues": [
+          "Agriculture and Human Values",
+          "American Entomologist",
+          "American Journal of Tropical Medicine and Hygiene",
+          "American Scientist",
+          "Annals of The Entomological Society of America",
+          "Annual Review of Ecology, Evolution, and Systematics",
+          "Annual Review of Entomology",
+          "Annual Review of Phytopathology",
+          "Applied and Environmental Microbiology",
+          "Biochemistry",
+          "Biocontrol Science and Technology",
+          "Biological Conservation",
+          "Biological Invasions",
+          "Biotechnology Advances",
+          "Bulletin of Entomological Research",
+          "Bulletin of the Entomological Society of America",
+          "Crop Protection",
+          "Current Microbiology",
+          "Ecological Entomology",
+          "Ecological Modelling",
+          "Ecology",
+          "Ecology and Evolution",
+          "Ecosphere",
+          "Entomologia Experimentalis Et Applicata",
+          "Environmental Entomology",
+          "Evolution",
+          "Evolutionary Applications",
+          "Evolutionary Biology-new York",
+          "Evolutionary Ecology",
+          "Genetics",
+          "Heredity",
+          "Insect Biochemistry and Molecular Biology",
+          "Insect Molecular Biology",
+          "Journal of Chemical Ecology",
+          "Journal of Economic Entomology",
+          "Journal of Entomological Science",
+          "Journal of Evolutionary Biology",
+          "Journal of Invertebrate Pathology",
+          "Journal of Medical Entomology",
+          "Journal of Responsible Innovation",
+          "Journal of Vector Ecology",
+          "Journal of insect science",
+          "Molecular Ecology",
+          "National Academies Press eBooks",
+          "Nature Biotechnology",
+          "Nature Reviews Genetics",
+          "PLOS Computational Biology",
+          "PLOS Neglected Tropical Diseases",
+          "PLOS ONE",
+          "Pest Management Science",
+          "Pesticide Biochemistry and Physiology",
+          "Pesticide Science",
+          "Proceedings of The Royal Society B: Biological Sciences",
+          "Proceedings of the National Academy of Sciences of the United States of America",
+          "Science",
+          "Scientific Reports"
+        ],
+        "color": "#6F7D1C",
+        "size": 10
+      }
+    },
+    {
+      "key": "https://orcid.org/0000-0002-3472-1100",
+      "attributes": {
+        "label": "J Barnes",
+        "name": "Jessica Cavin Barnes",
+        "known?": false,
+        "orcid?": null,
+        "ncsu?": true,
+        "affiliations": [
+          "North Carolina State University"
+        ],
+        "countries": [
+          "US"
+        ],
+        "color": "#000000",
+        "size": 10
+      }
+    },
+    {
+      "key": "uid-jeelsens",
+      "attributes": {
+        "label": "J Elsensohn",
+        "name": "Johanna E Elsensohn",
+        "known?": true,
+        "orcid?": false,
+        "ncsu?": true,
+        "affiliations": [
+          "North Carolina State University"
+        ],
+        "countries": [
+          "US"
+        ],
+        "uid": "jeelsens",
+        "url": "https://ci.lib.ncsu.edu/profiles/jeelsens",
+        "active?": false,
+        "department": "Plant Pathology",
+        "college": "College of Agriculture and Life Sciences",
+        "ncsu_affiliations": [
+          "Plant Pathology"
+        ],
+        "cluster?": false,
+        "clusters": [
+
+        ],
+        "role": "student",
+        "building": null,
+        "count": 8,
+        "oa_count": 3,
+        "years": [
+          2022,
+          2021,
+          2020,
+          2019,
+          2018
+        ],
+        "year_recent": 2022,
+        "article_concepts": [
+          "Adaptation (eye)",
+          "Agriculture",
+          "Agronomy",
+          "Artificial intelligence",
+          "Biochemistry",
+          "Biology",
+          "Blowing a raspberry",
+          "Botany",
+          "Business",
+          "CRISPR",
+          "Competition (biology)",
+          "Computer science",
+          "Crop",
+          "Cropping",
+          "Demography",
+          "Density dependence",
+          "Drosophila (subgenus)",
+          "Drosophila melanogaster",
+          "Drosophila suzukii",
+          "Drosophilidae",
+          "Ecological niche",
+          "Ecology",
+          "Economics",
+          "Engineering",
+          "Engineering ethics",
+          "Food preference",
+          "Food science",
+          "Gene",
+          "Gene drive",
+          "Genetics",
+          "Government (linguistics)",
+          "Habitat",
+          "Horticulture",
+          "Host (biology)",
+          "Ideal free distribution",
+          "Infestation",
+          "Interfacing",
+          "Intraspecific competition",
+          "Larva",
+          "Law",
+          "Legislation",
+          "Linguistics",
+          "Mechanical engineering",
+          "Microeconomics",
+          "Netting",
+          "Neuroscience",
+          "Niche",
+          "PEST analysis",
+          "Philosophy",
+          "Political science",
+          "Population",
+          "Population density",
+          "Predation",
+          "Predator",
+          "Preference",
+          "Public administration",
+          "Public policy",
+          "Public relations",
+          "Rubus",
+          "Science policy",
+          "Selection (genetic algorithm)",
+          "Sociology",
+          "Software deployment",
+          "Software engineering",
+          "Variety (cybernetics)",
+          "Work (physics)",
+          "Zoology"
+        ],
+        "host_venues": [
+          "Annals of The Entomological Society of America",
+          "Crop Protection",
+          "Insects",
+          "Journal of Economic Entomology",
+          "Journal of Environmental Management",
+          "Journal of Responsible Innovation",
+          "Scientific Reports"
+        ],
+        "color": "#6F7D1C",
+        "size": 10
+      }
+    },
+    {
+      "key": "uid-negutzma",
+      "attributes": {
+        "label": "N Gutzmann",
+        "name": "Nicole Gutzmann",
+        "known?": true,
+        "orcid?": false,
+        "ncsu?": true,
+        "affiliations": [
+          "North Carolina State University"
+        ],
+        "countries": [
+          "US"
+        ],
+        "uid": "negutzma",
+        "url": "https://ci.lib.ncsu.edu/profiles/negutzma",
+        "active?": true,
+        "department": "Plant Pathology",
+        "college": "College of Agriculture and Life Sciences",
+        "ncsu_affiliations": [
+          "Plant Pathology"
+        ],
+        "cluster?": false,
+        "clusters": [
+
+        ],
+        "role": "staff",
+        "building": "Thomas Hall",
+        "count": 1,
+        "oa_count": 1,
+        "years": [
+          2018
+        ],
+        "year_recent": 2018,
+        "article_concepts": [
+          "Agriculture",
+          "Biology",
+          "Business",
+          "CRISPR",
+          "Ecology",
+          "Engineering",
+          "Gene",
+          "Gene drive",
+          "Genetics",
+          "Software deployment",
+          "Software engineering"
+        ],
+        "host_venues": [
+          "Journal of Responsible Innovation"
+        ],
+        "color": "#6F7D1C",
+        "size": 10
+      }
+    },
+    {
+      "key": "uid-msjones2",
+      "attributes": {
+        "label": "M Jones",
+        "name": "Michael Jones",
+        "known?": true,
+        "orcid?": false,
+        "ncsu?": true,
+        "affiliations": [
+          "North Carolina State University"
+        ],
+        "countries": [
+          "US"
+        ],
+        "uid": "msjones2",
+        "url": "https://ci.lib.ncsu.edu/profiles/msjones2",
+        "active?": false,
+        "department": "Agricultural & Resource Economics",
+        "college": "College of Agriculture and Life Sciences",
+        "ncsu_affiliations": [
+          "Agricultural & Resource Economics",
+          "Genetic Engineering and Society",
+          "College of Agriculture and Life Sciences Administration"
+        ],
+        "cluster?": true,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "role": "student",
+        "building": null,
+        "count": 6,
+        "oa_count": 2,
+        "years": [
+          2021,
+          2020,
+          2018,
+          2015
+        ],
+        "year_recent": 2021,
+        "article_concepts": [
+          "Agriculture",
+          "Alternative medicine",
+          "Biology",
+          "Business",
+          "CRISPR",
+          "Confidence interval",
+          "Demography",
+          "Developing country",
+          "Ecology",
+          "Economic growth",
+          "Economics",
+          "Engineering",
+          "Gene",
+          "Gene drive",
+          "Genetics",
+          "High income countries",
+          "Informed consent",
+          "Internal medicine",
+          "Interquartile range",
+          "Medicine",
+          "Odds ratio",
+          "Pathology",
+          "Psychiatry",
+          "Psychological intervention",
+          "Randomized controlled trial",
+          "Sociology",
+          "Software deployment",
+          "Software engineering"
+        ],
+        "host_venues": [
+          "Clinical Pediatrics",
+          "Crop Protection",
+          "Journal of Responsible Innovation",
+          "PLOS ONE",
+          "Pest Management Science",
+          "Public Opinion Quarterly"
+        ],
+        "color": "#6F7D1C",
+        "size": 10
+      }
+    },
+    {
+      "key": "https://orcid.org/0000-0002-1642-7442",
+      "attributes": {
+        "label": "S King",
+        "name": "Sheron King",
+        "known?": false,
+        "orcid?": null,
+        "ncsu?": true,
+        "affiliations": [
+          "North Carolina State University"
+        ],
+        "countries": [
+          "US"
+        ],
+        "color": "#000000",
+        "size": 10
+      }
+    },
+    {
+      "key": "uid-jdsudwee",
+      "attributes": {
+        "label": "J Sudweeks",
+        "name": "Jayce Dean Sudweeks",
+        "known?": true,
+        "orcid?": false,
+        "ncsu?": true,
+        "affiliations": [
+          "North Carolina State University"
+        ],
+        "countries": [
+          "US"
+        ],
+        "uid": "jdsudwee",
+        "url": "https://ci.lib.ncsu.edu/profiles/jdsudwee",
+        "active?": false,
+        "department": "Public and International Affairs",
+        "college": "College of Humanities and Social Sciences",
+        "ncsu_affiliations": [
+          "Public and International Affairs"
+        ],
+        "cluster?": false,
+        "clusters": [
+
+        ],
+        "role": "student",
+        "building": null,
+        "count": 3,
+        "oa_count": 3,
+        "years": [
+          2019,
+          2018
+        ],
+        "year_recent": 2019,
+        "article_concepts": [
+          "Agriculture",
+          "Allele",
+          "Biology",
+          "Business",
+          "CRISPR",
+          "Cas9",
+          "Computational biology",
+          "Corporate governance",
+          "Ecology",
+          "Economics",
+          "Engineering",
+          "Environmental health",
+          "Evolutionary biology",
+          "Gene",
+          "Gene drive",
+          "Genetics",
+          "Management",
+          "Medicine",
+          "Political science",
+          "Population",
+          "Population genetics",
+          "Public relations",
+          "Responsible Research and Innovation",
+          "Software deployment",
+          "Software engineering"
+        ],
+        "host_venues": [
+          "Journal of Responsible Innovation",
+          "Scientific Reports"
+        ],
+        "color": "#FAC800",
+        "size": 10
+      }
+    },
+    {
+      "key": "uid-mlfritz",
+      "attributes": {
+        "label": "M Fritz",
+        "name": "Megan Lindsay Fritz",
+        "known?": true,
+        "orcid?": false,
+        "ncsu?": true,
+        "affiliations": [
+          "North Carolina State University"
+        ],
+        "countries": [
+          "US"
+        ],
+        "uid": "mlfritz",
+        "url": "https://ci.lib.ncsu.edu/profiles/mlfritz",
+        "active?": false,
+        "department": "Entomology and Plant Pathology",
+        "college": "College of Agriculture and Life Sciences",
+        "ncsu_affiliations": [
+          "Entomology and Plant Pathology"
+        ],
+        "cluster?": false,
+        "clusters": [
+
+        ],
+        "role": null,
+        "building": null,
+        "count": 3,
+        "oa_count": 1,
+        "years": [
+          2021,
+          2016,
+          2015
+        ],
+        "year_recent": 2021,
+        "article_concepts": [
+          "Agronomy",
+          "Allele",
+          "Bacillus thuringiensis",
+          "Bacteria",
+          "Biology",
+          "Biotechnology",
+          "Botany",
+          "Demography",
+          "Gene",
+          "Genetic architecture",
+          "Genetic diversity",
+          "Genetic variation",
+          "Genetically modified crops",
+          "Genetics",
+          "Genome",
+          "Helicoverpa zea",
+          "Heliothis virescens",
+          "Inbreeding",
+          "Noctuidae",
+          "PEST analysis",
+          "Pesticide",
+          "Pesticide resistance",
+          "Population",
+          "Quantitative trait locus",
+          "Sociology",
+          "Transgene"
+        ],
+        "host_venues": [
+          "Insect Molecular Biology",
+          "Proceedings of the National Academy of Sciences of the United States of America"
+        ],
+        "color": "#6F7D1C",
+        "size": 10
+      }
+    },
+    {
+      "key": "spaa",
+      "attributes": {
+        "label": "S Paa",
+        "name": "S. Paa",
+        "known?": false,
+        "orcid?": null,
+        "ncsu?": true,
+        "affiliations": [
+          "North Carolina State University"
+        ],
+        "countries": [
+          "US"
+        ],
+        "color": "#000000",
+        "size": 10
+      }
+    }
+  ],
+  "edges": [
+    {
+      "source": "uid-jfbaltze",
+      "target": "uid-mrvella",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Plant Pathology --- unknown",
+        "colleges": "College of Agriculture and Life Sciences --- unknown",
+        "buildings": "James B Hunt Jr Centennial Cam --- unknown",
+        "roles": "staff -- student",
+        "years": [
+          2021
+        ],
+        "year_recent": 2021,
+        "dois": [
+          "10.1111/eva.13269"
+        ],
+        "ncsu?": true,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          "Biology",
+          "Knockdown resistance",
+          "Aedes aegypti",
+          "Pyrethroid",
+          "Haplotype",
+          "Allele",
+          "Population",
+          "Insecticide resistance",
+          "Allele frequency",
+          "Population genetics",
+          "Evolutionary biology",
+          "Genetics",
+          "Dominance (genetics)",
+          "Genetic variation",
+          "Toxicology",
+          "Ecology",
+          "Pesticide",
+          "Demography",
+          "Gene",
+          "Larva",
+          "Cyfluthrin",
+          "Sociology"
+        ],
+        "host_venues": [
+          "Evolutionary Applications"
+        ],
+        "color": "#CC0000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-jfbaltze",
+      "target": "uid-cegunnin",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Entomology and Plant Pathology -- Plant Pathology",
+        "colleges": "College of Agriculture and Life Sciences == College of Agriculture and Life Sciences",
+        "buildings": "James B Hunt Jr Centennial Cam --- unknown",
+        "roles": "staff --- unknown",
+        "years": [
+          2021
+        ],
+        "year_recent": 2021,
+        "dois": [
+          "10.1111/eva.13269"
+        ],
+        "ncsu?": true,
+        "cross_college?": false,
+        "cross_department?": true,
+        "cross_unit?": true,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          "Biology",
+          "Knockdown resistance",
+          "Aedes aegypti",
+          "Pyrethroid",
+          "Haplotype",
+          "Allele",
+          "Population",
+          "Insecticide resistance",
+          "Allele frequency",
+          "Population genetics",
+          "Evolutionary biology",
+          "Genetics",
+          "Dominance (genetics)",
+          "Genetic variation",
+          "Toxicology",
+          "Ecology",
+          "Pesticide",
+          "Demography",
+          "Gene",
+          "Larva",
+          "Cyfluthrin",
+          "Sociology"
+        ],
+        "host_venues": [
+          "Evolutionary Applications"
+        ],
+        "color": "#CC0000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-jfbaltze",
+      "target": "gissellamvsquez",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Plant Pathology --- unknown",
+        "colleges": "College of Agriculture and Life Sciences --- unknown",
+        "buildings": "James B Hunt Jr Centennial Cam --- unknown",
+        "roles": "staff --- unknown",
+        "years": [
+          2021
+        ],
+        "year_recent": 2021,
+        "dois": [
+          "10.1111/eva.13269"
+        ],
+        "ncsu?": false,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          "Biology",
+          "Knockdown resistance",
+          "Aedes aegypti",
+          "Pyrethroid",
+          "Haplotype",
+          "Allele",
+          "Population",
+          "Insecticide resistance",
+          "Allele frequency",
+          "Population genetics",
+          "Evolutionary biology",
+          "Genetics",
+          "Dominance (genetics)",
+          "Genetic variation",
+          "Toxicology",
+          "Ecology",
+          "Pesticide",
+          "Demography",
+          "Gene",
+          "Larva",
+          "Cyfluthrin",
+          "Sociology"
+        ],
+        "host_venues": [
+          "Evolutionary Applications"
+        ],
+        "color": "#000000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-jfbaltze",
+      "target": "helvioastete",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Plant Pathology --- unknown",
+        "colleges": "College of Agriculture and Life Sciences --- unknown",
+        "buildings": "James B Hunt Jr Centennial Cam --- unknown",
+        "roles": "staff --- unknown",
+        "years": [
+          2021
+        ],
+        "year_recent": 2021,
+        "dois": [
+          "10.1111/eva.13269"
+        ],
+        "ncsu?": false,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          "Biology",
+          "Knockdown resistance",
+          "Aedes aegypti",
+          "Pyrethroid",
+          "Haplotype",
+          "Allele",
+          "Population",
+          "Insecticide resistance",
+          "Allele frequency",
+          "Population genetics",
+          "Evolutionary biology",
+          "Genetics",
+          "Dominance (genetics)",
+          "Genetic variation",
+          "Toxicology",
+          "Ecology",
+          "Pesticide",
+          "Demography",
+          "Gene",
+          "Larva",
+          "Cyfluthrin",
+          "Sociology"
+        ],
+        "host_venues": [
+          "Evolutionary Applications"
+        ],
+        "color": "#000000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-jfbaltze",
+      "target": "uid-fmstell",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Entomology and Plant Pathology -- Plant Pathology",
+        "colleges": "College of Agriculture and Life Sciences == College of Agriculture and Life Sciences",
+        "buildings": "James B Hunt Jr Centennial Cam --- unknown",
+        "roles": "staff --- unknown",
+        "years": [
+          2021
+        ],
+        "year_recent": 2021,
+        "dois": [
+          "10.1111/eva.13269"
+        ],
+        "ncsu?": true,
+        "cross_college?": false,
+        "cross_department?": true,
+        "cross_unit?": true,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          "Biology",
+          "Knockdown resistance",
+          "Aedes aegypti",
+          "Pyrethroid",
+          "Haplotype",
+          "Allele",
+          "Population",
+          "Insecticide resistance",
+          "Allele frequency",
+          "Population genetics",
+          "Evolutionary biology",
+          "Genetics",
+          "Dominance (genetics)",
+          "Genetic variation",
+          "Toxicology",
+          "Ecology",
+          "Pesticide",
+          "Demography",
+          "Gene",
+          "Larva",
+          "Cyfluthrin",
+          "Sociology"
+        ],
+        "host_venues": [
+          "Evolutionary Applications"
+        ],
+        "color": "#CC0000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-jfbaltze",
+      "target": "uid-mlfishe2",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Entomology and Plant Pathology -- Plant Pathology",
+        "colleges": "College of Agriculture and Life Sciences == College of Agriculture and Life Sciences",
+        "buildings": "James B Hunt Jr Centennial Cam --- unknown",
+        "roles": "staff --- unknown",
+        "years": [
+          2021
+        ],
+        "year_recent": 2021,
+        "dois": [
+          "10.1111/eva.13269"
+        ],
+        "ncsu?": true,
+        "cross_college?": false,
+        "cross_department?": true,
+        "cross_unit?": true,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          "Biology",
+          "Knockdown resistance",
+          "Aedes aegypti",
+          "Pyrethroid",
+          "Haplotype",
+          "Allele",
+          "Population",
+          "Insecticide resistance",
+          "Allele frequency",
+          "Population genetics",
+          "Evolutionary biology",
+          "Genetics",
+          "Dominance (genetics)",
+          "Genetic variation",
+          "Toxicology",
+          "Ecology",
+          "Pesticide",
+          "Demography",
+          "Gene",
+          "Larva",
+          "Cyfluthrin",
+          "Sociology"
+        ],
+        "host_venues": [
+          "Evolutionary Applications"
+        ],
+        "color": "#CC0000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-jfbaltze",
+      "target": "https://orcid.org/0000-0003-2947-8123",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Plant Pathology --- unknown",
+        "colleges": "College of Agriculture and Life Sciences --- unknown",
+        "buildings": "James B Hunt Jr Centennial Cam --- unknown",
+        "roles": "staff --- unknown",
+        "years": [
+          2021
+        ],
+        "year_recent": 2021,
+        "dois": [
+          "10.1111/eva.13269"
+        ],
+        "ncsu?": false,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          "Biology",
+          "Knockdown resistance",
+          "Aedes aegypti",
+          "Pyrethroid",
+          "Haplotype",
+          "Allele",
+          "Population",
+          "Insecticide resistance",
+          "Allele frequency",
+          "Population genetics",
+          "Evolutionary biology",
+          "Genetics",
+          "Dominance (genetics)",
+          "Genetic variation",
+          "Toxicology",
+          "Ecology",
+          "Pesticide",
+          "Demography",
+          "Gene",
+          "Larva",
+          "Cyfluthrin",
+          "Sociology"
+        ],
+        "host_venues": [
+          "Evolutionary Applications"
+        ],
+        "color": "#000000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-jfbaltze",
+      "target": "https://orcid.org/0000-0002-9156-4228",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Plant Pathology --- unknown",
+        "colleges": "College of Agriculture and Life Sciences --- unknown",
+        "buildings": "James B Hunt Jr Centennial Cam --- unknown",
+        "roles": "staff --- unknown",
+        "years": [
+          2021
+        ],
+        "year_recent": 2021,
+        "dois": [
+          "10.1111/eva.13269"
+        ],
+        "ncsu?": false,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          "Biology",
+          "Knockdown resistance",
+          "Aedes aegypti",
+          "Pyrethroid",
+          "Haplotype",
+          "Allele",
+          "Population",
+          "Insecticide resistance",
+          "Allele frequency",
+          "Population genetics",
+          "Evolutionary biology",
+          "Genetics",
+          "Dominance (genetics)",
+          "Genetic variation",
+          "Toxicology",
+          "Ecology",
+          "Pesticide",
+          "Demography",
+          "Gene",
+          "Larva",
+          "Cyfluthrin",
+          "Sociology"
+        ],
+        "host_venues": [
+          "Evolutionary Applications"
+        ],
+        "color": "#000000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-jfbaltze",
+      "target": "uid-allloyd",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Mathematics -- Plant Pathology",
+        "colleges": "College of Agriculture and Life Sciences -- College of Sciences",
+        "buildings": "Bureau of Mines -- James B Hunt Jr Centennial Cam",
+        "roles": "faculty -- staff",
+        "years": [
+          2021
+        ],
+        "year_recent": 2021,
+        "dois": [
+          "10.1111/eva.13269"
+        ],
+        "ncsu?": true,
+        "cross_college?": true,
+        "cross_department?": true,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": true,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": true,
+        "concepts": [
+          "Biology",
+          "Knockdown resistance",
+          "Aedes aegypti",
+          "Pyrethroid",
+          "Haplotype",
+          "Allele",
+          "Population",
+          "Insecticide resistance",
+          "Allele frequency",
+          "Population genetics",
+          "Evolutionary biology",
+          "Genetics",
+          "Dominance (genetics)",
+          "Genetic variation",
+          "Toxicology",
+          "Ecology",
+          "Pesticide",
+          "Demography",
+          "Gene",
+          "Larva",
+          "Cyfluthrin",
+          "Sociology"
+        ],
+        "host_venues": [
+          "Evolutionary Applications"
+        ],
+        "color": "#FAC800",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-jfbaltze",
+      "target": "https://orcid.org/0000-0001-6224-5984",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Plant Pathology --- unknown",
+        "colleges": "College of Agriculture and Life Sciences --- unknown",
+        "buildings": "James B Hunt Jr Centennial Cam --- unknown",
+        "roles": "staff --- unknown",
+        "years": [
+          2021
+        ],
+        "year_recent": 2021,
+        "dois": [
+          "10.1111/eva.13269"
+        ],
+        "ncsu?": false,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          "Biology",
+          "Knockdown resistance",
+          "Aedes aegypti",
+          "Pyrethroid",
+          "Haplotype",
+          "Allele",
+          "Population",
+          "Insecticide resistance",
+          "Allele frequency",
+          "Population genetics",
+          "Evolutionary biology",
+          "Genetics",
+          "Dominance (genetics)",
+          "Genetic variation",
+          "Toxicology",
+          "Ecology",
+          "Pesticide",
+          "Demography",
+          "Gene",
+          "Larva",
+          "Cyfluthrin",
+          "Sociology"
+        ],
+        "host_venues": [
+          "Evolutionary Applications"
+        ],
+        "color": "#000000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-jfbaltze",
+      "target": "uid-fgould",
+      "attributes": {
+        "label": 2,
+        "weight": 2,
+        "collaboration_count": 2,
+        "departments": "Entomology and Plant Pathology -- Plant Pathology",
+        "colleges": "College of Agriculture and Life Sciences == College of Agriculture and Life Sciences",
+        "buildings": "James B Hunt Jr Centennial Cam -- Thomas Hall",
+        "roles": "faculty -- staff",
+        "years": [
+          2021,
+          2016
+        ],
+        "year_recent": 2021,
+        "dois": [
+          "10.1111/eva.13269",
+          "10.1111/imb.12234"
+        ],
+        "ncsu?": true,
+        "cross_college?": false,
+        "cross_department?": true,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": true,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": true,
+        "concepts": [
+          "Biology",
+          "Knockdown resistance",
+          "Aedes aegypti",
+          "Pyrethroid",
+          "Haplotype",
+          "Allele",
+          "Population",
+          "Insecticide resistance",
+          "Allele frequency",
+          "Population genetics",
+          "Evolutionary biology",
+          "Genetics",
+          "Dominance (genetics)",
+          "Genetic variation",
+          "Toxicology",
+          "Ecology",
+          "Pesticide",
+          "Demography",
+          "Gene",
+          "Larva",
+          "Cyfluthrin",
+          "Sociology"
+        ],
+        "host_venues": [
+          "Evolutionary Applications"
+        ],
+        "color": "#CC0000",
+        "size": 2
+      }
+    },
+    {
+      "source": "uid-jfbaltze",
+      "target": "https://orcid.org/0000-0002-3472-1100",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Plant Pathology --- unknown",
+        "colleges": "College of Agriculture and Life Sciences --- unknown",
+        "buildings": "James B Hunt Jr Centennial Cam --- unknown",
+        "roles": "staff --- unknown",
+        "years": [
+          2018
+        ],
+        "year_recent": 2018,
+        "dois": [
+          "10.1080/23299460.2017.1407910"
+        ],
+        "ncsu?": true,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          "Software deployment",
+          "Gene drive",
+          "Agriculture",
+          "Business",
+          "Biology",
+          "Engineering",
+          "Ecology",
+          "Gene",
+          "Genetics",
+          "CRISPR",
+          "Software engineering"
+        ],
+        "host_venues": [
+          "Journal of Responsible Innovation"
+        ],
+        "color": "#CC0000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-jfbaltze",
+      "target": "uid-jeelsens",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Plant Pathology == Plant Pathology",
+        "colleges": "College of Agriculture and Life Sciences == College of Agriculture and Life Sciences",
+        "buildings": "James B Hunt Jr Centennial Cam --- unknown",
+        "roles": "staff -- student",
+        "years": [
+          2018
+        ],
+        "year_recent": 2018,
+        "dois": [
+          "10.1080/23299460.2017.1407910"
+        ],
+        "ncsu?": true,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          "Software deployment",
+          "Gene drive",
+          "Agriculture",
+          "Business",
+          "Biology",
+          "Engineering",
+          "Ecology",
+          "Gene",
+          "Genetics",
+          "CRISPR",
+          "Software engineering"
+        ],
+        "host_venues": [
+          "Journal of Responsible Innovation"
+        ],
+        "color": "#CC0000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-jfbaltze",
+      "target": "uid-negutzma",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Plant Pathology == Plant Pathology",
+        "colleges": "College of Agriculture and Life Sciences == College of Agriculture and Life Sciences",
+        "buildings": "James B Hunt Jr Centennial Cam -- Thomas Hall",
+        "roles": "staff == staff",
+        "years": [
+          2018
+        ],
+        "year_recent": 2018,
+        "dois": [
+          "10.1080/23299460.2017.1407910"
+        ],
+        "ncsu?": true,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": true,
+        "concepts": [
+          "Software deployment",
+          "Gene drive",
+          "Agriculture",
+          "Business",
+          "Biology",
+          "Engineering",
+          "Ecology",
+          "Gene",
+          "Genetics",
+          "CRISPR",
+          "Software engineering"
+        ],
+        "host_venues": [
+          "Journal of Responsible Innovation"
+        ],
+        "color": "#CC0000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-jfbaltze",
+      "target": "uid-msjones2",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Agricultural & Resource Economics -- Plant Pathology",
+        "colleges": "College of Agriculture and Life Sciences == College of Agriculture and Life Sciences",
+        "buildings": "James B Hunt Jr Centennial Cam --- unknown",
+        "roles": "staff -- student",
+        "years": [
+          2018
+        ],
+        "year_recent": 2018,
+        "dois": [
+          "10.1080/23299460.2017.1407910"
+        ],
+        "ncsu?": true,
+        "cross_college?": false,
+        "cross_department?": true,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": true,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          "Software deployment",
+          "Gene drive",
+          "Agriculture",
+          "Business",
+          "Biology",
+          "Engineering",
+          "Ecology",
+          "Gene",
+          "Genetics",
+          "CRISPR",
+          "Software engineering"
+        ],
+        "host_venues": [
+          "Journal of Responsible Innovation"
+        ],
+        "color": "#CC0000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-jfbaltze",
+      "target": "https://orcid.org/0000-0002-1642-7442",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Plant Pathology --- unknown",
+        "colleges": "College of Agriculture and Life Sciences --- unknown",
+        "buildings": "James B Hunt Jr Centennial Cam --- unknown",
+        "roles": "staff --- unknown",
+        "years": [
+          2018
+        ],
+        "year_recent": 2018,
+        "dois": [
+          "10.1080/23299460.2017.1407910"
+        ],
+        "ncsu?": true,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          "Software deployment",
+          "Gene drive",
+          "Agriculture",
+          "Business",
+          "Biology",
+          "Engineering",
+          "Ecology",
+          "Gene",
+          "Genetics",
+          "CRISPR",
+          "Software engineering"
+        ],
+        "host_venues": [
+          "Journal of Responsible Innovation"
+        ],
+        "color": "#CC0000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-jfbaltze",
+      "target": "uid-jdsudwee",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Plant Pathology -- Public and International Affairs",
+        "colleges": "College of Agriculture and Life Sciences -- College of Humanities and Social Sciences",
+        "buildings": "James B Hunt Jr Centennial Cam --- unknown",
+        "roles": "staff -- student",
+        "years": [
+          2018
+        ],
+        "year_recent": 2018,
+        "dois": [
+          "10.1080/23299460.2017.1407910"
+        ],
+        "ncsu?": true,
+        "cross_college?": true,
+        "cross_department?": true,
+        "cross_unit?": true,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          "Software deployment",
+          "Gene drive",
+          "Agriculture",
+          "Business",
+          "Biology",
+          "Engineering",
+          "Ecology",
+          "Gene",
+          "Genetics",
+          "CRISPR",
+          "Software engineering"
+        ],
+        "host_venues": [
+          "Journal of Responsible Innovation"
+        ],
+        "color": "#FAC800",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-jfbaltze",
+      "target": "uid-mlfritz",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Entomology and Plant Pathology -- Plant Pathology",
+        "colleges": "College of Agriculture and Life Sciences == College of Agriculture and Life Sciences",
+        "buildings": "James B Hunt Jr Centennial Cam --- unknown",
+        "roles": "staff --- unknown",
+        "years": [
+          2016
+        ],
+        "year_recent": 2016,
+        "dois": [
+          "10.1111/imb.12234"
+        ],
+        "ncsu?": true,
+        "cross_college?": false,
+        "cross_department?": true,
+        "cross_unit?": true,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          "Biology",
+          "Inbreeding",
+          "Genetic diversity",
+          "Heliothis virescens",
+          "Genetics",
+          "Genetic variation",
+          "Population",
+          "PEST analysis",
+          "Allele",
+          "Noctuidae",
+          "Botany",
+          "Gene",
+          "Demography",
+          "Sociology"
+        ],
+        "host_venues": [
+          "Insect Molecular Biology"
+        ],
+        "color": "#CC0000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-jfbaltze",
+      "target": "spaa",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Plant Pathology --- unknown",
+        "colleges": "College of Agriculture and Life Sciences --- unknown",
+        "buildings": "James B Hunt Jr Centennial Cam --- unknown",
+        "roles": "staff --- unknown",
+        "years": [
+          2016
+        ],
+        "year_recent": 2016,
+        "dois": [
+          "10.1111/imb.12234"
+        ],
+        "ncsu?": true,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          "Biology",
+          "Inbreeding",
+          "Genetic diversity",
+          "Heliothis virescens",
+          "Genetics",
+          "Genetic variation",
+          "Population",
+          "PEST analysis",
+          "Allele",
+          "Noctuidae",
+          "Botany",
+          "Gene",
+          "Demography",
+          "Sociology"
+        ],
+        "host_venues": [
+          "Insect Molecular Biology"
+        ],
+        "color": "#CC0000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-mrvella",
+      "target": "uid-fgould",
+      "attributes": {
+        "label": 3,
+        "weight": 3,
+        "collaboration_count": 3,
+        "departments": "Entomology and Plant Pathology --- unknown",
+        "colleges": "College of Agriculture and Life Sciences --- unknown",
+        "buildings": "Thomas Hall --- unknown",
+        "roles": "faculty -- student",
+        "years": [
+          2021,
+          2021,
+          2019
+        ],
+        "year_recent": 2021,
+        "dois": [
+          "10.1111/eva.13228",
+          "10.1111/eva.13269",
+          "10.1038/s41598-019-51994-0"
+        ],
+        "ncsu?": true,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          "Biology",
+          "Construct (python library)",
+          "Offspring",
+          "Population",
+          "Genetics",
+          "PEST analysis",
+          "Locus (genetics)",
+          "Population genetics",
+          "Sterile insect technique",
+          "Biotechnology",
+          "Computational biology",
+          "Evolutionary biology",
+          "Demography",
+          "Gene",
+          "Botany",
+          "Computer science",
+          "Pregnancy",
+          "Sociology",
+          "Programming language"
+        ],
+        "host_venues": [
+          "Evolutionary Applications"
+        ],
+        "color": "#CC0000",
+        "size": 3
+      }
+    },
+    {
+      "source": "uid-mrvella",
+      "target": "uid-allloyd",
+      "attributes": {
+        "label": 3,
+        "weight": 3,
+        "collaboration_count": 3,
+        "departments": "Mathematics --- unknown",
+        "colleges": "College of Sciences --- unknown",
+        "buildings": "Bureau of Mines --- unknown",
+        "roles": "faculty -- student",
+        "years": [
+          2021,
+          2021,
+          2019
+        ],
+        "year_recent": 2021,
+        "dois": [
+          "10.1111/eva.13228",
+          "10.1111/eva.13269",
+          "10.1038/s41598-019-51994-0"
+        ],
+        "ncsu?": true,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          "Biology",
+          "Construct (python library)",
+          "Offspring",
+          "Population",
+          "Genetics",
+          "PEST analysis",
+          "Locus (genetics)",
+          "Population genetics",
+          "Sterile insect technique",
+          "Biotechnology",
+          "Computational biology",
+          "Evolutionary biology",
+          "Demography",
+          "Gene",
+          "Botany",
+          "Computer science",
+          "Pregnancy",
+          "Sociology",
+          "Programming language"
+        ],
+        "host_venues": [
+          "Evolutionary Applications"
+        ],
+        "color": "#CC0000",
+        "size": 3
+      }
+    },
+    {
+      "source": "uid-mrvella",
+      "target": "uid-cegunnin",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Entomology and Plant Pathology --- unknown",
+        "colleges": "College of Agriculture and Life Sciences --- unknown",
+        "buildings": "unknown --- unknown",
+        "roles": "student --- unknown",
+        "years": [
+          2021
+        ],
+        "year_recent": 2021,
+        "dois": [
+          "10.1111/eva.13269"
+        ],
+        "ncsu?": true,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": false,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+
+        ],
+        "cross_building?": false,
+        "concepts": [
+          "Biology",
+          "Knockdown resistance",
+          "Aedes aegypti",
+          "Pyrethroid",
+          "Haplotype",
+          "Allele",
+          "Population",
+          "Insecticide resistance",
+          "Allele frequency",
+          "Population genetics",
+          "Evolutionary biology",
+          "Genetics",
+          "Dominance (genetics)",
+          "Genetic variation",
+          "Toxicology",
+          "Ecology",
+          "Pesticide",
+          "Demography",
+          "Gene",
+          "Larva",
+          "Cyfluthrin",
+          "Sociology"
+        ],
+        "host_venues": [
+          "Evolutionary Applications"
+        ],
+        "color": "#CC0000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-mrvella",
+      "target": "gissellamvsquez",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "unknown --- unknown",
+        "colleges": "unknown --- unknown",
+        "buildings": "unknown --- unknown",
+        "roles": "student --- unknown",
+        "years": [
+          2021
+        ],
+        "year_recent": 2021,
+        "dois": [
+          "10.1111/eva.13269"
+        ],
+        "ncsu?": false,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": false,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+
+        ],
+        "cross_building?": false,
+        "concepts": [
+          "Biology",
+          "Knockdown resistance",
+          "Aedes aegypti",
+          "Pyrethroid",
+          "Haplotype",
+          "Allele",
+          "Population",
+          "Insecticide resistance",
+          "Allele frequency",
+          "Population genetics",
+          "Evolutionary biology",
+          "Genetics",
+          "Dominance (genetics)",
+          "Genetic variation",
+          "Toxicology",
+          "Ecology",
+          "Pesticide",
+          "Demography",
+          "Gene",
+          "Larva",
+          "Cyfluthrin",
+          "Sociology"
+        ],
+        "host_venues": [
+          "Evolutionary Applications"
+        ],
+        "color": "#000000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-mrvella",
+      "target": "helvioastete",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "unknown --- unknown",
+        "colleges": "unknown --- unknown",
+        "buildings": "unknown --- unknown",
+        "roles": "student --- unknown",
+        "years": [
+          2021
+        ],
+        "year_recent": 2021,
+        "dois": [
+          "10.1111/eva.13269"
+        ],
+        "ncsu?": false,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": false,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+
+        ],
+        "cross_building?": false,
+        "concepts": [
+          "Biology",
+          "Knockdown resistance",
+          "Aedes aegypti",
+          "Pyrethroid",
+          "Haplotype",
+          "Allele",
+          "Population",
+          "Insecticide resistance",
+          "Allele frequency",
+          "Population genetics",
+          "Evolutionary biology",
+          "Genetics",
+          "Dominance (genetics)",
+          "Genetic variation",
+          "Toxicology",
+          "Ecology",
+          "Pesticide",
+          "Demography",
+          "Gene",
+          "Larva",
+          "Cyfluthrin",
+          "Sociology"
+        ],
+        "host_venues": [
+          "Evolutionary Applications"
+        ],
+        "color": "#000000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-mrvella",
+      "target": "uid-fmstell",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Entomology and Plant Pathology --- unknown",
+        "colleges": "College of Agriculture and Life Sciences --- unknown",
+        "buildings": "unknown --- unknown",
+        "roles": "student --- unknown",
+        "years": [
+          2021
+        ],
+        "year_recent": 2021,
+        "dois": [
+          "10.1111/eva.13269"
+        ],
+        "ncsu?": true,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": false,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+
+        ],
+        "cross_building?": false,
+        "concepts": [
+          "Biology",
+          "Knockdown resistance",
+          "Aedes aegypti",
+          "Pyrethroid",
+          "Haplotype",
+          "Allele",
+          "Population",
+          "Insecticide resistance",
+          "Allele frequency",
+          "Population genetics",
+          "Evolutionary biology",
+          "Genetics",
+          "Dominance (genetics)",
+          "Genetic variation",
+          "Toxicology",
+          "Ecology",
+          "Pesticide",
+          "Demography",
+          "Gene",
+          "Larva",
+          "Cyfluthrin",
+          "Sociology"
+        ],
+        "host_venues": [
+          "Evolutionary Applications"
+        ],
+        "color": "#CC0000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-mrvella",
+      "target": "uid-mlfishe2",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Entomology and Plant Pathology --- unknown",
+        "colleges": "College of Agriculture and Life Sciences --- unknown",
+        "buildings": "unknown --- unknown",
+        "roles": "student --- unknown",
+        "years": [
+          2021
+        ],
+        "year_recent": 2021,
+        "dois": [
+          "10.1111/eva.13269"
+        ],
+        "ncsu?": true,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": false,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+
+        ],
+        "cross_building?": false,
+        "concepts": [
+          "Biology",
+          "Knockdown resistance",
+          "Aedes aegypti",
+          "Pyrethroid",
+          "Haplotype",
+          "Allele",
+          "Population",
+          "Insecticide resistance",
+          "Allele frequency",
+          "Population genetics",
+          "Evolutionary biology",
+          "Genetics",
+          "Dominance (genetics)",
+          "Genetic variation",
+          "Toxicology",
+          "Ecology",
+          "Pesticide",
+          "Demography",
+          "Gene",
+          "Larva",
+          "Cyfluthrin",
+          "Sociology"
+        ],
+        "host_venues": [
+          "Evolutionary Applications"
+        ],
+        "color": "#CC0000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-mrvella",
+      "target": "https://orcid.org/0000-0003-2947-8123",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "unknown --- unknown",
+        "colleges": "unknown --- unknown",
+        "buildings": "unknown --- unknown",
+        "roles": "student --- unknown",
+        "years": [
+          2021
+        ],
+        "year_recent": 2021,
+        "dois": [
+          "10.1111/eva.13269"
+        ],
+        "ncsu?": false,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": false,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+
+        ],
+        "cross_building?": false,
+        "concepts": [
+          "Biology",
+          "Knockdown resistance",
+          "Aedes aegypti",
+          "Pyrethroid",
+          "Haplotype",
+          "Allele",
+          "Population",
+          "Insecticide resistance",
+          "Allele frequency",
+          "Population genetics",
+          "Evolutionary biology",
+          "Genetics",
+          "Dominance (genetics)",
+          "Genetic variation",
+          "Toxicology",
+          "Ecology",
+          "Pesticide",
+          "Demography",
+          "Gene",
+          "Larva",
+          "Cyfluthrin",
+          "Sociology"
+        ],
+        "host_venues": [
+          "Evolutionary Applications"
+        ],
+        "color": "#000000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-mrvella",
+      "target": "https://orcid.org/0000-0002-9156-4228",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "unknown --- unknown",
+        "colleges": "unknown --- unknown",
+        "buildings": "unknown --- unknown",
+        "roles": "student --- unknown",
+        "years": [
+          2021
+        ],
+        "year_recent": 2021,
+        "dois": [
+          "10.1111/eva.13269"
+        ],
+        "ncsu?": false,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": false,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+
+        ],
+        "cross_building?": false,
+        "concepts": [
+          "Biology",
+          "Knockdown resistance",
+          "Aedes aegypti",
+          "Pyrethroid",
+          "Haplotype",
+          "Allele",
+          "Population",
+          "Insecticide resistance",
+          "Allele frequency",
+          "Population genetics",
+          "Evolutionary biology",
+          "Genetics",
+          "Dominance (genetics)",
+          "Genetic variation",
+          "Toxicology",
+          "Ecology",
+          "Pesticide",
+          "Demography",
+          "Gene",
+          "Larva",
+          "Cyfluthrin",
+          "Sociology"
+        ],
+        "host_venues": [
+          "Evolutionary Applications"
+        ],
+        "color": "#000000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-mrvella",
+      "target": "https://orcid.org/0000-0001-6224-5984",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "unknown --- unknown",
+        "colleges": "unknown --- unknown",
+        "buildings": "unknown --- unknown",
+        "roles": "student --- unknown",
+        "years": [
+          2021
+        ],
+        "year_recent": 2021,
+        "dois": [
+          "10.1111/eva.13269"
+        ],
+        "ncsu?": false,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": false,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+
+        ],
+        "cross_building?": false,
+        "concepts": [
+          "Biology",
+          "Knockdown resistance",
+          "Aedes aegypti",
+          "Pyrethroid",
+          "Haplotype",
+          "Allele",
+          "Population",
+          "Insecticide resistance",
+          "Allele frequency",
+          "Population genetics",
+          "Evolutionary biology",
+          "Genetics",
+          "Dominance (genetics)",
+          "Genetic variation",
+          "Toxicology",
+          "Ecology",
+          "Pesticide",
+          "Demography",
+          "Gene",
+          "Larva",
+          "Cyfluthrin",
+          "Sociology"
+        ],
+        "host_venues": [
+          "Evolutionary Applications"
+        ],
+        "color": "#000000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-cegunnin",
+      "target": "gissellamvsquez",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Entomology and Plant Pathology --- unknown",
+        "colleges": "College of Agriculture and Life Sciences --- unknown",
+        "buildings": "unknown --- unknown",
+        "roles": "unknown == unknown",
+        "years": [
+          2021
+        ],
+        "year_recent": 2021,
+        "dois": [
+          "10.1111/eva.13269"
+        ],
+        "ncsu?": false,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": false,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+
+        ],
+        "cross_building?": false,
+        "concepts": [
+          "Biology",
+          "Knockdown resistance",
+          "Aedes aegypti",
+          "Pyrethroid",
+          "Haplotype",
+          "Allele",
+          "Population",
+          "Insecticide resistance",
+          "Allele frequency",
+          "Population genetics",
+          "Evolutionary biology",
+          "Genetics",
+          "Dominance (genetics)",
+          "Genetic variation",
+          "Toxicology",
+          "Ecology",
+          "Pesticide",
+          "Demography",
+          "Gene",
+          "Larva",
+          "Cyfluthrin",
+          "Sociology"
+        ],
+        "host_venues": [
+          "Evolutionary Applications"
+        ],
+        "color": "#000000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-cegunnin",
+      "target": "helvioastete",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Entomology and Plant Pathology --- unknown",
+        "colleges": "College of Agriculture and Life Sciences --- unknown",
+        "buildings": "unknown --- unknown",
+        "roles": "unknown == unknown",
+        "years": [
+          2021
+        ],
+        "year_recent": 2021,
+        "dois": [
+          "10.1111/eva.13269"
+        ],
+        "ncsu?": false,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": false,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+
+        ],
+        "cross_building?": false,
+        "concepts": [
+          "Biology",
+          "Knockdown resistance",
+          "Aedes aegypti",
+          "Pyrethroid",
+          "Haplotype",
+          "Allele",
+          "Population",
+          "Insecticide resistance",
+          "Allele frequency",
+          "Population genetics",
+          "Evolutionary biology",
+          "Genetics",
+          "Dominance (genetics)",
+          "Genetic variation",
+          "Toxicology",
+          "Ecology",
+          "Pesticide",
+          "Demography",
+          "Gene",
+          "Larva",
+          "Cyfluthrin",
+          "Sociology"
+        ],
+        "host_venues": [
+          "Evolutionary Applications"
+        ],
+        "color": "#000000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-cegunnin",
+      "target": "uid-fmstell",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Entomology and Plant Pathology == Entomology and Plant Pathology",
+        "colleges": "College of Agriculture and Life Sciences == College of Agriculture and Life Sciences",
+        "buildings": "unknown --- unknown",
+        "roles": "unknown == unknown",
+        "years": [
+          2021
+        ],
+        "year_recent": 2021,
+        "dois": [
+          "10.1111/eva.13269"
+        ],
+        "ncsu?": true,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": false,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+
+        ],
+        "cross_building?": false,
+        "concepts": [
+          "Biology",
+          "Knockdown resistance",
+          "Aedes aegypti",
+          "Pyrethroid",
+          "Haplotype",
+          "Allele",
+          "Population",
+          "Insecticide resistance",
+          "Allele frequency",
+          "Population genetics",
+          "Evolutionary biology",
+          "Genetics",
+          "Dominance (genetics)",
+          "Genetic variation",
+          "Toxicology",
+          "Ecology",
+          "Pesticide",
+          "Demography",
+          "Gene",
+          "Larva",
+          "Cyfluthrin",
+          "Sociology"
+        ],
+        "host_venues": [
+          "Evolutionary Applications"
+        ],
+        "color": "#CC0000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-cegunnin",
+      "target": "uid-mlfishe2",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Entomology and Plant Pathology == Entomology and Plant Pathology",
+        "colleges": "College of Agriculture and Life Sciences == College of Agriculture and Life Sciences",
+        "buildings": "unknown --- unknown",
+        "roles": "unknown == unknown",
+        "years": [
+          2021
+        ],
+        "year_recent": 2021,
+        "dois": [
+          "10.1111/eva.13269"
+        ],
+        "ncsu?": true,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": false,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+
+        ],
+        "cross_building?": false,
+        "concepts": [
+          "Biology",
+          "Knockdown resistance",
+          "Aedes aegypti",
+          "Pyrethroid",
+          "Haplotype",
+          "Allele",
+          "Population",
+          "Insecticide resistance",
+          "Allele frequency",
+          "Population genetics",
+          "Evolutionary biology",
+          "Genetics",
+          "Dominance (genetics)",
+          "Genetic variation",
+          "Toxicology",
+          "Ecology",
+          "Pesticide",
+          "Demography",
+          "Gene",
+          "Larva",
+          "Cyfluthrin",
+          "Sociology"
+        ],
+        "host_venues": [
+          "Evolutionary Applications"
+        ],
+        "color": "#CC0000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-cegunnin",
+      "target": "https://orcid.org/0000-0003-2947-8123",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Entomology and Plant Pathology --- unknown",
+        "colleges": "College of Agriculture and Life Sciences --- unknown",
+        "buildings": "unknown --- unknown",
+        "roles": "unknown == unknown",
+        "years": [
+          2021
+        ],
+        "year_recent": 2021,
+        "dois": [
+          "10.1111/eva.13269"
+        ],
+        "ncsu?": false,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": false,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+
+        ],
+        "cross_building?": false,
+        "concepts": [
+          "Biology",
+          "Knockdown resistance",
+          "Aedes aegypti",
+          "Pyrethroid",
+          "Haplotype",
+          "Allele",
+          "Population",
+          "Insecticide resistance",
+          "Allele frequency",
+          "Population genetics",
+          "Evolutionary biology",
+          "Genetics",
+          "Dominance (genetics)",
+          "Genetic variation",
+          "Toxicology",
+          "Ecology",
+          "Pesticide",
+          "Demography",
+          "Gene",
+          "Larva",
+          "Cyfluthrin",
+          "Sociology"
+        ],
+        "host_venues": [
+          "Evolutionary Applications"
+        ],
+        "color": "#000000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-cegunnin",
+      "target": "https://orcid.org/0000-0002-9156-4228",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Entomology and Plant Pathology --- unknown",
+        "colleges": "College of Agriculture and Life Sciences --- unknown",
+        "buildings": "unknown --- unknown",
+        "roles": "unknown == unknown",
+        "years": [
+          2021
+        ],
+        "year_recent": 2021,
+        "dois": [
+          "10.1111/eva.13269"
+        ],
+        "ncsu?": false,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": false,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+
+        ],
+        "cross_building?": false,
+        "concepts": [
+          "Biology",
+          "Knockdown resistance",
+          "Aedes aegypti",
+          "Pyrethroid",
+          "Haplotype",
+          "Allele",
+          "Population",
+          "Insecticide resistance",
+          "Allele frequency",
+          "Population genetics",
+          "Evolutionary biology",
+          "Genetics",
+          "Dominance (genetics)",
+          "Genetic variation",
+          "Toxicology",
+          "Ecology",
+          "Pesticide",
+          "Demography",
+          "Gene",
+          "Larva",
+          "Cyfluthrin",
+          "Sociology"
+        ],
+        "host_venues": [
+          "Evolutionary Applications"
+        ],
+        "color": "#000000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-cegunnin",
+      "target": "uid-allloyd",
+      "attributes": {
+        "label": 2,
+        "weight": 2,
+        "collaboration_count": 2,
+        "departments": "Entomology and Plant Pathology -- Mathematics",
+        "colleges": "College of Agriculture and Life Sciences -- College of Sciences",
+        "buildings": "Bureau of Mines --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          2021,
+          2017
+        ],
+        "year_recent": 2021,
+        "dois": [
+          "10.1111/eva.13269",
+          "10.1038/s41598-017-10633-2"
+        ],
+        "ncsu?": true,
+        "cross_college?": true,
+        "cross_department?": true,
+        "cross_unit?": true,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          "Biology",
+          "Knockdown resistance",
+          "Aedes aegypti",
+          "Pyrethroid",
+          "Haplotype",
+          "Allele",
+          "Population",
+          "Insecticide resistance",
+          "Allele frequency",
+          "Population genetics",
+          "Evolutionary biology",
+          "Genetics",
+          "Dominance (genetics)",
+          "Genetic variation",
+          "Toxicology",
+          "Ecology",
+          "Pesticide",
+          "Demography",
+          "Gene",
+          "Larva",
+          "Cyfluthrin",
+          "Sociology"
+        ],
+        "host_venues": [
+          "Evolutionary Applications"
+        ],
+        "color": "#FAC800",
+        "size": 2
+      }
+    },
+    {
+      "source": "uid-cegunnin",
+      "target": "https://orcid.org/0000-0001-6224-5984",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Entomology and Plant Pathology --- unknown",
+        "colleges": "College of Agriculture and Life Sciences --- unknown",
+        "buildings": "unknown --- unknown",
+        "roles": "unknown == unknown",
+        "years": [
+          2021
+        ],
+        "year_recent": 2021,
+        "dois": [
+          "10.1111/eva.13269"
+        ],
+        "ncsu?": false,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": false,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+
+        ],
+        "cross_building?": false,
+        "concepts": [
+          "Biology",
+          "Knockdown resistance",
+          "Aedes aegypti",
+          "Pyrethroid",
+          "Haplotype",
+          "Allele",
+          "Population",
+          "Insecticide resistance",
+          "Allele frequency",
+          "Population genetics",
+          "Evolutionary biology",
+          "Genetics",
+          "Dominance (genetics)",
+          "Genetic variation",
+          "Toxicology",
+          "Ecology",
+          "Pesticide",
+          "Demography",
+          "Gene",
+          "Larva",
+          "Cyfluthrin",
+          "Sociology"
+        ],
+        "host_venues": [
+          "Evolutionary Applications"
+        ],
+        "color": "#000000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-cegunnin",
+      "target": "uid-fgould",
+      "attributes": {
+        "label": 2,
+        "weight": 2,
+        "collaboration_count": 2,
+        "departments": "Entomology and Plant Pathology == Entomology and Plant Pathology",
+        "colleges": "College of Agriculture and Life Sciences == College of Agriculture and Life Sciences",
+        "buildings": "Thomas Hall --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          2021,
+          2017
+        ],
+        "year_recent": 2021,
+        "dois": [
+          "10.1111/eva.13269",
+          "10.1038/s41598-017-10633-2"
+        ],
+        "ncsu?": true,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          "Biology",
+          "Knockdown resistance",
+          "Aedes aegypti",
+          "Pyrethroid",
+          "Haplotype",
+          "Allele",
+          "Population",
+          "Insecticide resistance",
+          "Allele frequency",
+          "Population genetics",
+          "Evolutionary biology",
+          "Genetics",
+          "Dominance (genetics)",
+          "Genetic variation",
+          "Toxicology",
+          "Ecology",
+          "Pesticide",
+          "Demography",
+          "Gene",
+          "Larva",
+          "Cyfluthrin",
+          "Sociology"
+        ],
+        "host_venues": [
+          "Evolutionary Applications"
+        ],
+        "color": "#CC0000",
+        "size": 2
+      }
+    },
+    {
+      "source": "uid-fmstell",
+      "target": "gissellamvsquez",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Entomology and Plant Pathology --- unknown",
+        "colleges": "College of Agriculture and Life Sciences --- unknown",
+        "buildings": "unknown --- unknown",
+        "roles": "unknown == unknown",
+        "years": [
+          2021
+        ],
+        "year_recent": 2021,
+        "dois": [
+          "10.1111/eva.13269"
+        ],
+        "ncsu?": false,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": false,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+
+        ],
+        "cross_building?": false,
+        "concepts": [
+          "Biology",
+          "Knockdown resistance",
+          "Aedes aegypti",
+          "Pyrethroid",
+          "Haplotype",
+          "Allele",
+          "Population",
+          "Insecticide resistance",
+          "Allele frequency",
+          "Population genetics",
+          "Evolutionary biology",
+          "Genetics",
+          "Dominance (genetics)",
+          "Genetic variation",
+          "Toxicology",
+          "Ecology",
+          "Pesticide",
+          "Demography",
+          "Gene",
+          "Larva",
+          "Cyfluthrin",
+          "Sociology"
+        ],
+        "host_venues": [
+          "Evolutionary Applications"
+        ],
+        "color": "#000000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-fmstell",
+      "target": "helvioastete",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Entomology and Plant Pathology --- unknown",
+        "colleges": "College of Agriculture and Life Sciences --- unknown",
+        "buildings": "unknown --- unknown",
+        "roles": "unknown == unknown",
+        "years": [
+          2021
+        ],
+        "year_recent": 2021,
+        "dois": [
+          "10.1111/eva.13269"
+        ],
+        "ncsu?": false,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": false,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+
+        ],
+        "cross_building?": false,
+        "concepts": [
+          "Biology",
+          "Knockdown resistance",
+          "Aedes aegypti",
+          "Pyrethroid",
+          "Haplotype",
+          "Allele",
+          "Population",
+          "Insecticide resistance",
+          "Allele frequency",
+          "Population genetics",
+          "Evolutionary biology",
+          "Genetics",
+          "Dominance (genetics)",
+          "Genetic variation",
+          "Toxicology",
+          "Ecology",
+          "Pesticide",
+          "Demography",
+          "Gene",
+          "Larva",
+          "Cyfluthrin",
+          "Sociology"
+        ],
+        "host_venues": [
+          "Evolutionary Applications"
+        ],
+        "color": "#000000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-fmstell",
+      "target": "uid-mlfishe2",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Entomology and Plant Pathology == Entomology and Plant Pathology",
+        "colleges": "College of Agriculture and Life Sciences == College of Agriculture and Life Sciences",
+        "buildings": "unknown --- unknown",
+        "roles": "unknown == unknown",
+        "years": [
+          2021
+        ],
+        "year_recent": 2021,
+        "dois": [
+          "10.1111/eva.13269"
+        ],
+        "ncsu?": true,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": false,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+
+        ],
+        "cross_building?": false,
+        "concepts": [
+          "Biology",
+          "Knockdown resistance",
+          "Aedes aegypti",
+          "Pyrethroid",
+          "Haplotype",
+          "Allele",
+          "Population",
+          "Insecticide resistance",
+          "Allele frequency",
+          "Population genetics",
+          "Evolutionary biology",
+          "Genetics",
+          "Dominance (genetics)",
+          "Genetic variation",
+          "Toxicology",
+          "Ecology",
+          "Pesticide",
+          "Demography",
+          "Gene",
+          "Larva",
+          "Cyfluthrin",
+          "Sociology"
+        ],
+        "host_venues": [
+          "Evolutionary Applications"
+        ],
+        "color": "#CC0000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-fmstell",
+      "target": "https://orcid.org/0000-0003-2947-8123",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Entomology and Plant Pathology --- unknown",
+        "colleges": "College of Agriculture and Life Sciences --- unknown",
+        "buildings": "unknown --- unknown",
+        "roles": "unknown == unknown",
+        "years": [
+          2021
+        ],
+        "year_recent": 2021,
+        "dois": [
+          "10.1111/eva.13269"
+        ],
+        "ncsu?": false,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": false,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+
+        ],
+        "cross_building?": false,
+        "concepts": [
+          "Biology",
+          "Knockdown resistance",
+          "Aedes aegypti",
+          "Pyrethroid",
+          "Haplotype",
+          "Allele",
+          "Population",
+          "Insecticide resistance",
+          "Allele frequency",
+          "Population genetics",
+          "Evolutionary biology",
+          "Genetics",
+          "Dominance (genetics)",
+          "Genetic variation",
+          "Toxicology",
+          "Ecology",
+          "Pesticide",
+          "Demography",
+          "Gene",
+          "Larva",
+          "Cyfluthrin",
+          "Sociology"
+        ],
+        "host_venues": [
+          "Evolutionary Applications"
+        ],
+        "color": "#000000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-fmstell",
+      "target": "https://orcid.org/0000-0002-9156-4228",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Entomology and Plant Pathology --- unknown",
+        "colleges": "College of Agriculture and Life Sciences --- unknown",
+        "buildings": "unknown --- unknown",
+        "roles": "unknown == unknown",
+        "years": [
+          2021
+        ],
+        "year_recent": 2021,
+        "dois": [
+          "10.1111/eva.13269"
+        ],
+        "ncsu?": false,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": false,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+
+        ],
+        "cross_building?": false,
+        "concepts": [
+          "Biology",
+          "Knockdown resistance",
+          "Aedes aegypti",
+          "Pyrethroid",
+          "Haplotype",
+          "Allele",
+          "Population",
+          "Insecticide resistance",
+          "Allele frequency",
+          "Population genetics",
+          "Evolutionary biology",
+          "Genetics",
+          "Dominance (genetics)",
+          "Genetic variation",
+          "Toxicology",
+          "Ecology",
+          "Pesticide",
+          "Demography",
+          "Gene",
+          "Larva",
+          "Cyfluthrin",
+          "Sociology"
+        ],
+        "host_venues": [
+          "Evolutionary Applications"
+        ],
+        "color": "#000000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-fmstell",
+      "target": "uid-allloyd",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Entomology and Plant Pathology -- Mathematics",
+        "colleges": "College of Agriculture and Life Sciences -- College of Sciences",
+        "buildings": "Bureau of Mines --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          2021
+        ],
+        "year_recent": 2021,
+        "dois": [
+          "10.1111/eva.13269"
+        ],
+        "ncsu?": true,
+        "cross_college?": true,
+        "cross_department?": true,
+        "cross_unit?": true,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          "Biology",
+          "Knockdown resistance",
+          "Aedes aegypti",
+          "Pyrethroid",
+          "Haplotype",
+          "Allele",
+          "Population",
+          "Insecticide resistance",
+          "Allele frequency",
+          "Population genetics",
+          "Evolutionary biology",
+          "Genetics",
+          "Dominance (genetics)",
+          "Genetic variation",
+          "Toxicology",
+          "Ecology",
+          "Pesticide",
+          "Demography",
+          "Gene",
+          "Larva",
+          "Cyfluthrin",
+          "Sociology"
+        ],
+        "host_venues": [
+          "Evolutionary Applications"
+        ],
+        "color": "#FAC800",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-fmstell",
+      "target": "https://orcid.org/0000-0001-6224-5984",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Entomology and Plant Pathology --- unknown",
+        "colleges": "College of Agriculture and Life Sciences --- unknown",
+        "buildings": "unknown --- unknown",
+        "roles": "unknown == unknown",
+        "years": [
+          2021
+        ],
+        "year_recent": 2021,
+        "dois": [
+          "10.1111/eva.13269"
+        ],
+        "ncsu?": false,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": false,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+
+        ],
+        "cross_building?": false,
+        "concepts": [
+          "Biology",
+          "Knockdown resistance",
+          "Aedes aegypti",
+          "Pyrethroid",
+          "Haplotype",
+          "Allele",
+          "Population",
+          "Insecticide resistance",
+          "Allele frequency",
+          "Population genetics",
+          "Evolutionary biology",
+          "Genetics",
+          "Dominance (genetics)",
+          "Genetic variation",
+          "Toxicology",
+          "Ecology",
+          "Pesticide",
+          "Demography",
+          "Gene",
+          "Larva",
+          "Cyfluthrin",
+          "Sociology"
+        ],
+        "host_venues": [
+          "Evolutionary Applications"
+        ],
+        "color": "#000000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-fmstell",
+      "target": "uid-fgould",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Entomology and Plant Pathology == Entomology and Plant Pathology",
+        "colleges": "College of Agriculture and Life Sciences == College of Agriculture and Life Sciences",
+        "buildings": "Thomas Hall --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          2021
+        ],
+        "year_recent": 2021,
+        "dois": [
+          "10.1111/eva.13269"
+        ],
+        "ncsu?": true,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          "Biology",
+          "Knockdown resistance",
+          "Aedes aegypti",
+          "Pyrethroid",
+          "Haplotype",
+          "Allele",
+          "Population",
+          "Insecticide resistance",
+          "Allele frequency",
+          "Population genetics",
+          "Evolutionary biology",
+          "Genetics",
+          "Dominance (genetics)",
+          "Genetic variation",
+          "Toxicology",
+          "Ecology",
+          "Pesticide",
+          "Demography",
+          "Gene",
+          "Larva",
+          "Cyfluthrin",
+          "Sociology"
+        ],
+        "host_venues": [
+          "Evolutionary Applications"
+        ],
+        "color": "#CC0000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-mlfishe2",
+      "target": "gissellamvsquez",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Entomology and Plant Pathology --- unknown",
+        "colleges": "College of Agriculture and Life Sciences --- unknown",
+        "buildings": "unknown --- unknown",
+        "roles": "unknown == unknown",
+        "years": [
+          2021
+        ],
+        "year_recent": 2021,
+        "dois": [
+          "10.1111/eva.13269"
+        ],
+        "ncsu?": false,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": false,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+
+        ],
+        "cross_building?": false,
+        "concepts": [
+          "Biology",
+          "Knockdown resistance",
+          "Aedes aegypti",
+          "Pyrethroid",
+          "Haplotype",
+          "Allele",
+          "Population",
+          "Insecticide resistance",
+          "Allele frequency",
+          "Population genetics",
+          "Evolutionary biology",
+          "Genetics",
+          "Dominance (genetics)",
+          "Genetic variation",
+          "Toxicology",
+          "Ecology",
+          "Pesticide",
+          "Demography",
+          "Gene",
+          "Larva",
+          "Cyfluthrin",
+          "Sociology"
+        ],
+        "host_venues": [
+          "Evolutionary Applications"
+        ],
+        "color": "#000000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-mlfishe2",
+      "target": "helvioastete",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Entomology and Plant Pathology --- unknown",
+        "colleges": "College of Agriculture and Life Sciences --- unknown",
+        "buildings": "unknown --- unknown",
+        "roles": "unknown == unknown",
+        "years": [
+          2021
+        ],
+        "year_recent": 2021,
+        "dois": [
+          "10.1111/eva.13269"
+        ],
+        "ncsu?": false,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": false,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+
+        ],
+        "cross_building?": false,
+        "concepts": [
+          "Biology",
+          "Knockdown resistance",
+          "Aedes aegypti",
+          "Pyrethroid",
+          "Haplotype",
+          "Allele",
+          "Population",
+          "Insecticide resistance",
+          "Allele frequency",
+          "Population genetics",
+          "Evolutionary biology",
+          "Genetics",
+          "Dominance (genetics)",
+          "Genetic variation",
+          "Toxicology",
+          "Ecology",
+          "Pesticide",
+          "Demography",
+          "Gene",
+          "Larva",
+          "Cyfluthrin",
+          "Sociology"
+        ],
+        "host_venues": [
+          "Evolutionary Applications"
+        ],
+        "color": "#000000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-mlfishe2",
+      "target": "https://orcid.org/0000-0003-2947-8123",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Entomology and Plant Pathology --- unknown",
+        "colleges": "College of Agriculture and Life Sciences --- unknown",
+        "buildings": "unknown --- unknown",
+        "roles": "unknown == unknown",
+        "years": [
+          2021
+        ],
+        "year_recent": 2021,
+        "dois": [
+          "10.1111/eva.13269"
+        ],
+        "ncsu?": false,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": false,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+
+        ],
+        "cross_building?": false,
+        "concepts": [
+          "Biology",
+          "Knockdown resistance",
+          "Aedes aegypti",
+          "Pyrethroid",
+          "Haplotype",
+          "Allele",
+          "Population",
+          "Insecticide resistance",
+          "Allele frequency",
+          "Population genetics",
+          "Evolutionary biology",
+          "Genetics",
+          "Dominance (genetics)",
+          "Genetic variation",
+          "Toxicology",
+          "Ecology",
+          "Pesticide",
+          "Demography",
+          "Gene",
+          "Larva",
+          "Cyfluthrin",
+          "Sociology"
+        ],
+        "host_venues": [
+          "Evolutionary Applications"
+        ],
+        "color": "#000000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-mlfishe2",
+      "target": "https://orcid.org/0000-0002-9156-4228",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Entomology and Plant Pathology --- unknown",
+        "colleges": "College of Agriculture and Life Sciences --- unknown",
+        "buildings": "unknown --- unknown",
+        "roles": "unknown == unknown",
+        "years": [
+          2021
+        ],
+        "year_recent": 2021,
+        "dois": [
+          "10.1111/eva.13269"
+        ],
+        "ncsu?": false,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": false,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+
+        ],
+        "cross_building?": false,
+        "concepts": [
+          "Biology",
+          "Knockdown resistance",
+          "Aedes aegypti",
+          "Pyrethroid",
+          "Haplotype",
+          "Allele",
+          "Population",
+          "Insecticide resistance",
+          "Allele frequency",
+          "Population genetics",
+          "Evolutionary biology",
+          "Genetics",
+          "Dominance (genetics)",
+          "Genetic variation",
+          "Toxicology",
+          "Ecology",
+          "Pesticide",
+          "Demography",
+          "Gene",
+          "Larva",
+          "Cyfluthrin",
+          "Sociology"
+        ],
+        "host_venues": [
+          "Evolutionary Applications"
+        ],
+        "color": "#000000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-mlfishe2",
+      "target": "uid-allloyd",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Entomology and Plant Pathology -- Mathematics",
+        "colleges": "College of Agriculture and Life Sciences -- College of Sciences",
+        "buildings": "Bureau of Mines --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          2021
+        ],
+        "year_recent": 2021,
+        "dois": [
+          "10.1111/eva.13269"
+        ],
+        "ncsu?": true,
+        "cross_college?": true,
+        "cross_department?": true,
+        "cross_unit?": true,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          "Biology",
+          "Knockdown resistance",
+          "Aedes aegypti",
+          "Pyrethroid",
+          "Haplotype",
+          "Allele",
+          "Population",
+          "Insecticide resistance",
+          "Allele frequency",
+          "Population genetics",
+          "Evolutionary biology",
+          "Genetics",
+          "Dominance (genetics)",
+          "Genetic variation",
+          "Toxicology",
+          "Ecology",
+          "Pesticide",
+          "Demography",
+          "Gene",
+          "Larva",
+          "Cyfluthrin",
+          "Sociology"
+        ],
+        "host_venues": [
+          "Evolutionary Applications"
+        ],
+        "color": "#FAC800",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-mlfishe2",
+      "target": "https://orcid.org/0000-0001-6224-5984",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Entomology and Plant Pathology --- unknown",
+        "colleges": "College of Agriculture and Life Sciences --- unknown",
+        "buildings": "unknown --- unknown",
+        "roles": "unknown == unknown",
+        "years": [
+          2021
+        ],
+        "year_recent": 2021,
+        "dois": [
+          "10.1111/eva.13269"
+        ],
+        "ncsu?": false,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": false,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+
+        ],
+        "cross_building?": false,
+        "concepts": [
+          "Biology",
+          "Knockdown resistance",
+          "Aedes aegypti",
+          "Pyrethroid",
+          "Haplotype",
+          "Allele",
+          "Population",
+          "Insecticide resistance",
+          "Allele frequency",
+          "Population genetics",
+          "Evolutionary biology",
+          "Genetics",
+          "Dominance (genetics)",
+          "Genetic variation",
+          "Toxicology",
+          "Ecology",
+          "Pesticide",
+          "Demography",
+          "Gene",
+          "Larva",
+          "Cyfluthrin",
+          "Sociology"
+        ],
+        "host_venues": [
+          "Evolutionary Applications"
+        ],
+        "color": "#000000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-mlfishe2",
+      "target": "uid-fgould",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Entomology and Plant Pathology == Entomology and Plant Pathology",
+        "colleges": "College of Agriculture and Life Sciences == College of Agriculture and Life Sciences",
+        "buildings": "Thomas Hall --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          2021
+        ],
+        "year_recent": 2021,
+        "dois": [
+          "10.1111/eva.13269"
+        ],
+        "ncsu?": true,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          "Biology",
+          "Knockdown resistance",
+          "Aedes aegypti",
+          "Pyrethroid",
+          "Haplotype",
+          "Allele",
+          "Population",
+          "Insecticide resistance",
+          "Allele frequency",
+          "Population genetics",
+          "Evolutionary biology",
+          "Genetics",
+          "Dominance (genetics)",
+          "Genetic variation",
+          "Toxicology",
+          "Ecology",
+          "Pesticide",
+          "Demography",
+          "Gene",
+          "Larva",
+          "Cyfluthrin",
+          "Sociology"
+        ],
+        "host_venues": [
+          "Evolutionary Applications"
+        ],
+        "color": "#CC0000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-allloyd",
+      "target": "https://orcid.org/0000-0001-6224-5984",
+      "attributes": {
+        "label": 11,
+        "weight": 11,
+        "collaboration_count": 11,
+        "departments": "Mathematics --- unknown",
+        "colleges": "College of Sciences --- unknown",
+        "buildings": "Bureau of Mines --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          2022,
+          2021,
+          2021,
+          2020,
+          2019,
+          2018,
+          2018,
+          2018,
+          2014,
+          2012,
+          2011
+        ],
+        "year_recent": 2022,
+        "dois": [
+          "10.1371/journal.pntd.0010863",
+          "10.1371/journal.pcbi.1008627",
+          "10.1111/eva.13269",
+          "10.1371/journal.pcbi.1007743",
+          "10.1101/19007971",
+          "10.1371/journal.ppat.1006965",
+          "10.1371/journal.pntd.0006378",
+          "10.1073/pnas.1314933111",
+          "10.1371/journal.pone.0052235",
+          "10.1371/journal.pone.0022701"
+        ],
+        "ncsu?": false,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          "PLOS Neglected Tropical Diseases"
+        ],
+        "color": "#000000",
+        "size": 11
+      }
+    },
+    {
+      "source": "uid-allloyd",
+      "target": "https://orcid.org/0000-0003-2947-8123",
+      "attributes": {
+        "label": 19,
+        "weight": 19,
+        "collaboration_count": 19,
+        "departments": "Mathematics --- unknown",
+        "colleges": "College of Sciences --- unknown",
+        "buildings": "Bureau of Mines --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          2022,
+          2021,
+          2021,
+          2021,
+          2020,
+          2019,
+          2018,
+          2018,
+          2016,
+          2014,
+          2014,
+          2014,
+          2013,
+          2013,
+          2013,
+          2012,
+          2012,
+          2011,
+          2009
+        ],
+        "year_recent": 2022,
+        "dois": [
+          "10.1371/journal.pntd.0010863",
+          "10.1101/2021.10.03.462931",
+          "10.1371/journal.pcbi.1008627",
+          "10.1111/eva.13269",
+          "10.1371/journal.pcbi.1007743",
+          "10.1101/19007971",
+          "10.1371/journal.ppat.1006965",
+          "10.1371/journal.pntd.0006378",
+          "10.1016/j.pt.2016.01.001",
+          "10.1186/1756-3305-7-276",
+          "10.1093/trstmh/tru026",
+          "10.1073/pnas.1314933111",
+          "10.1371/journal.pntd.0002001",
+          "10.1371/journal.pone.0083354",
+          "10.4269/ajtmh.12-0378",
+          "10.1371/journal.pone.0052235",
+          "10.1603/me11205",
+          "10.1371/journal.pone.0022701",
+          "10.1371/journal.pntd.0000508"
+        ],
+        "ncsu?": false,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          "PLOS Neglected Tropical Diseases"
+        ],
+        "color": "#000000",
+        "size": 19
+      }
+    },
+    {
+      "source": "uid-allloyd",
+      "target": "helvioastete",
+      "attributes": {
+        "label": 9,
+        "weight": 9,
+        "collaboration_count": 9,
+        "departments": "Mathematics --- unknown",
+        "colleges": "College of Sciences --- unknown",
+        "buildings": "Bureau of Mines --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          2022,
+          2021,
+          2021,
+          2020,
+          2019,
+          2018,
+          2018,
+          2014,
+          2014
+        ],
+        "year_recent": 2022,
+        "dois": [
+          "10.1371/journal.pntd.0010863",
+          "10.1101/2021.10.03.462931",
+          "10.1111/eva.13269",
+          "10.1371/journal.pcbi.1007743",
+          "10.1101/19007971",
+          "10.1371/journal.pntd.0006378",
+          "10.1073/pnas.1314933111"
+        ],
+        "ncsu?": false,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          "PLOS Neglected Tropical Diseases"
+        ],
+        "color": "#000000",
+        "size": 9
+      }
+    },
+    {
+      "source": "uid-allloyd",
+      "target": "gissellamvsquez",
+      "attributes": {
+        "label": 4,
+        "weight": 4,
+        "collaboration_count": 4,
+        "departments": "Mathematics --- unknown",
+        "colleges": "College of Sciences --- unknown",
+        "buildings": "Bureau of Mines --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          2022,
+          2021,
+          2021,
+          2018
+        ],
+        "year_recent": 2022,
+        "dois": [
+          "10.1371/journal.pntd.0010863",
+          "10.1101/2021.10.03.462931",
+          "10.1111/eva.13269",
+          "10.1371/journal.pntd.0006378"
+        ],
+        "ncsu?": false,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          "PLOS Neglected Tropical Diseases"
+        ],
+        "color": "#000000",
+        "size": 4
+      }
+    },
+    {
+      "source": "uid-allloyd",
+      "target": "uid-fgould",
+      "attributes": {
+        "label": 35,
+        "weight": 35,
+        "collaboration_count": 35,
+        "departments": "Entomology and Plant Pathology -- Mathematics",
+        "colleges": "College of Agriculture and Life Sciences -- College of Sciences",
+        "buildings": "Bureau of Mines -- Thomas Hall",
+        "roles": "faculty == faculty",
+        "years": [
+          2022,
+          2021,
+          2021,
+          2021,
+          2021,
+          2020,
+          2019,
+          2019,
+          2019,
+          2018,
+          2018,
+          2017,
+          2017,
+          2016,
+          2016,
+          2014,
+          2014,
+          2013,
+          2013,
+          2013,
+          2013,
+          2013,
+          2012,
+          2012,
+          2011,
+          2010,
+          2010,
+          2010,
+          2009,
+          2009,
+          2009,
+          2009,
+          2008,
+          2007,
+          2007
+        ],
+        "year_recent": 2022,
+        "dois": [
+          "10.1371/journal.pntd.0010863",
+          "10.1101/2021.10.03.462931",
+          "10.1111/eva.13228",
+          "10.1111/eva.13210",
+          "10.1111/eva.13269",
+          "10.1146/annurev-ecolsys-031120-101013",
+          "10.1038/s41598-019-51994-0",
+          "10.1073/pnas.1901886116",
+          "10.1111/eva.12827",
+          "10.1371/journal.pntd.0006378",
+          "10.1111/eva.12583",
+          "10.1038/s41598-017-10633-2",
+          "10.1101/144097",
+          "10.1002/ecs2.1515",
+          "10.1371/journal.pcbi.1004695",
+          "10.1111/eva.12219",
+          "10.1371/journal.pntd.0002827",
+          "10.1371/journal.pone.0081860",
+          "10.1371/journal.pone.0073233",
+          "10.1371/journal.pntd.0002001",
+          "10.1371/journal.pone.0083354",
+          "10.4269/ajtmh.12-0378",
+          "10.1371/journal.pone.0052235",
+          "10.1603/me11205",
+          "10.1371/journal.pone.0022701",
+          "10.1111/j.1752-4571.2010.00153.x",
+          "10.1111/j.1558-5646.2010.01186.x",
+          "10.1371/journal.pntd.0000830",
+          "10.1603/033.046.0301",
+          "10.1111/j.1752-4571.2008.00049.x",
+          "http://dx.doi.org/10.1111/j.1752-4571.2008.00049.x",
+          "10.1371/journal.pntd.0000508",
+          "10.1098/rspb.2008.0846",
+          "10.1111/j.1558-5646.2007.00075.x",
+          "10.1016/j.ibmb.2007.06.002"
+        ],
+        "ncsu?": true,
+        "cross_college?": true,
+        "cross_department?": true,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": true,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": true,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          "PLOS Neglected Tropical Diseases"
+        ],
+        "color": "#FAC800",
+        "size": 35
+      }
+    },
+    {
+      "source": "uid-allloyd",
+      "target": "https://orcid.org/0000-0002-9156-4228",
+      "attributes": {
+        "label": 2,
+        "weight": 2,
+        "collaboration_count": 2,
+        "departments": "Mathematics --- unknown",
+        "colleges": "College of Sciences --- unknown",
+        "buildings": "Bureau of Mines --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          2021,
+          2014
+        ],
+        "year_recent": 2021,
+        "dois": [
+          "10.1111/eva.13269",
+          "10.1073/pnas.1314933111"
+        ],
+        "ncsu?": false,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          "Biology",
+          "Knockdown resistance",
+          "Aedes aegypti",
+          "Pyrethroid",
+          "Haplotype",
+          "Allele",
+          "Population",
+          "Insecticide resistance",
+          "Allele frequency",
+          "Population genetics",
+          "Evolutionary biology",
+          "Genetics",
+          "Dominance (genetics)",
+          "Genetic variation",
+          "Toxicology",
+          "Ecology",
+          "Pesticide",
+          "Demography",
+          "Gene",
+          "Larva",
+          "Cyfluthrin",
+          "Sociology"
+        ],
+        "host_venues": [
+          "Evolutionary Applications"
+        ],
+        "color": "#000000",
+        "size": 2
+      }
+    },
+    {
+      "source": "uid-fgould",
+      "target": "uid-mlfritz",
+      "attributes": {
+        "label": 3,
+        "weight": 3,
+        "collaboration_count": 3,
+        "departments": "Entomology and Plant Pathology == Entomology and Plant Pathology",
+        "colleges": "College of Agriculture and Life Sciences == College of Agriculture and Life Sciences",
+        "buildings": "Thomas Hall --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          2021,
+          2018,
+          2016
+        ],
+        "year_recent": 2021,
+        "dois": [
+          "10.1073/pnas.2020853118",
+          "10.1111/mec.14430",
+          "10.1111/imb.12234"
+        ],
+        "ncsu?": true,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          "Biology",
+          "Quantitative trait locus",
+          "PEST analysis",
+          "Bacillus thuringiensis",
+          "Genetically modified crops",
+          "Genetic architecture",
+          "Biotechnology",
+          "Genome",
+          "Genetics",
+          "Helicoverpa zea",
+          "Pesticide resistance",
+          "Gene",
+          "Transgene",
+          "Agronomy",
+          "Pesticide",
+          "Noctuidae",
+          "Botany",
+          "Bacteria"
+        ],
+        "host_venues": [
+          "Proceedings of the National Academy of Sciences of the United States of America"
+        ],
+        "color": "#CC0000",
+        "size": 3
+      }
+    },
+    {
+      "source": "uid-fgould",
+      "target": "gissellamvsquez",
+      "attributes": {
+        "label": 4,
+        "weight": 4,
+        "collaboration_count": 4,
+        "departments": "Entomology and Plant Pathology --- unknown",
+        "colleges": "College of Agriculture and Life Sciences --- unknown",
+        "buildings": "Thomas Hall --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          2021,
+          2018,
+          2010,
+          2010
+        ],
+        "year_recent": 2021,
+        "dois": [
+          "10.1111/eva.13269",
+          "10.1371/journal.pntd.0006378",
+          "10.1007/s10886-010-9863-6",
+          "10.1111/j.1365-2583.2010.01045.x"
+        ],
+        "ncsu?": false,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          "Biology",
+          "Knockdown resistance",
+          "Aedes aegypti",
+          "Pyrethroid",
+          "Haplotype",
+          "Allele",
+          "Population",
+          "Insecticide resistance",
+          "Allele frequency",
+          "Population genetics",
+          "Evolutionary biology",
+          "Genetics",
+          "Dominance (genetics)",
+          "Genetic variation",
+          "Toxicology",
+          "Ecology",
+          "Pesticide",
+          "Demography",
+          "Gene",
+          "Larva",
+          "Cyfluthrin",
+          "Sociology"
+        ],
+        "host_venues": [
+          "Evolutionary Applications"
+        ],
+        "color": "#000000",
+        "size": 4
+      }
+    },
+    {
+      "source": "uid-fgould",
+      "target": "helvioastete",
+      "attributes": {
+        "label": 2,
+        "weight": 2,
+        "collaboration_count": 2,
+        "departments": "Entomology and Plant Pathology --- unknown",
+        "colleges": "College of Agriculture and Life Sciences --- unknown",
+        "buildings": "Thomas Hall --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          2021,
+          2018
+        ],
+        "year_recent": 2021,
+        "dois": [
+          "10.1111/eva.13269",
+          "10.1371/journal.pntd.0006378"
+        ],
+        "ncsu?": false,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          "Biology",
+          "Knockdown resistance",
+          "Aedes aegypti",
+          "Pyrethroid",
+          "Haplotype",
+          "Allele",
+          "Population",
+          "Insecticide resistance",
+          "Allele frequency",
+          "Population genetics",
+          "Evolutionary biology",
+          "Genetics",
+          "Dominance (genetics)",
+          "Genetic variation",
+          "Toxicology",
+          "Ecology",
+          "Pesticide",
+          "Demography",
+          "Gene",
+          "Larva",
+          "Cyfluthrin",
+          "Sociology"
+        ],
+        "host_venues": [
+          "Evolutionary Applications"
+        ],
+        "color": "#000000",
+        "size": 2
+      }
+    },
+    {
+      "source": "uid-fgould",
+      "target": "https://orcid.org/0000-0003-2947-8123",
+      "attributes": {
+        "label": 9,
+        "weight": 9,
+        "collaboration_count": 9,
+        "departments": "Entomology and Plant Pathology --- unknown",
+        "colleges": "College of Agriculture and Life Sciences --- unknown",
+        "buildings": "Thomas Hall --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          2021,
+          2018,
+          2015,
+          2013,
+          2013,
+          2013,
+          2012,
+          2011,
+          2009
+        ],
+        "year_recent": 2021,
+        "dois": [
+          "10.1111/eva.13269",
+          "10.1371/journal.pntd.0006378",
+          "10.1371/journal.pntd.0003655",
+          "10.1371/journal.pntd.0002001",
+          "10.1371/journal.pone.0083354",
+          "10.4269/ajtmh.12-0378",
+          "10.1371/journal.pone.0052235",
+          "10.1371/journal.pone.0022701",
+          "10.1371/journal.pntd.0000508"
+        ],
+        "ncsu?": false,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          "Biology",
+          "Knockdown resistance",
+          "Aedes aegypti",
+          "Pyrethroid",
+          "Haplotype",
+          "Allele",
+          "Population",
+          "Insecticide resistance",
+          "Allele frequency",
+          "Population genetics",
+          "Evolutionary biology",
+          "Genetics",
+          "Dominance (genetics)",
+          "Genetic variation",
+          "Toxicology",
+          "Ecology",
+          "Pesticide",
+          "Demography",
+          "Gene",
+          "Larva",
+          "Cyfluthrin",
+          "Sociology"
+        ],
+        "host_venues": [
+          "Evolutionary Applications"
+        ],
+        "color": "#000000",
+        "size": 9
+      }
+    },
+    {
+      "source": "uid-fgould",
+      "target": "https://orcid.org/0000-0002-9156-4228",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Entomology and Plant Pathology --- unknown",
+        "colleges": "College of Agriculture and Life Sciences --- unknown",
+        "buildings": "Thomas Hall --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          2021
+        ],
+        "year_recent": 2021,
+        "dois": [
+          "10.1111/eva.13269"
+        ],
+        "ncsu?": false,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          "Biology",
+          "Knockdown resistance",
+          "Aedes aegypti",
+          "Pyrethroid",
+          "Haplotype",
+          "Allele",
+          "Population",
+          "Insecticide resistance",
+          "Allele frequency",
+          "Population genetics",
+          "Evolutionary biology",
+          "Genetics",
+          "Dominance (genetics)",
+          "Genetic variation",
+          "Toxicology",
+          "Ecology",
+          "Pesticide",
+          "Demography",
+          "Gene",
+          "Larva",
+          "Cyfluthrin",
+          "Sociology"
+        ],
+        "host_venues": [
+          "Evolutionary Applications"
+        ],
+        "color": "#000000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-fgould",
+      "target": "https://orcid.org/0000-0001-6224-5984",
+      "attributes": {
+        "label": 5,
+        "weight": 5,
+        "collaboration_count": 5,
+        "departments": "Entomology and Plant Pathology --- unknown",
+        "colleges": "College of Agriculture and Life Sciences --- unknown",
+        "buildings": "Thomas Hall --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          2021,
+          2018,
+          2015,
+          2012,
+          2011
+        ],
+        "year_recent": 2021,
+        "dois": [
+          "10.1111/eva.13269",
+          "10.1371/journal.pntd.0006378",
+          "10.1371/journal.pntd.0003655",
+          "10.1371/journal.pone.0052235",
+          "10.1371/journal.pone.0022701"
+        ],
+        "ncsu?": false,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          "Biology",
+          "Knockdown resistance",
+          "Aedes aegypti",
+          "Pyrethroid",
+          "Haplotype",
+          "Allele",
+          "Population",
+          "Insecticide resistance",
+          "Allele frequency",
+          "Population genetics",
+          "Evolutionary biology",
+          "Genetics",
+          "Dominance (genetics)",
+          "Genetic variation",
+          "Toxicology",
+          "Ecology",
+          "Pesticide",
+          "Demography",
+          "Gene",
+          "Larva",
+          "Cyfluthrin",
+          "Sociology"
+        ],
+        "host_venues": [
+          "Evolutionary Applications"
+        ],
+        "color": "#000000",
+        "size": 5
+      }
+    },
+    {
+      "source": "uid-fgould",
+      "target": "uid-jdsudwee",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Entomology and Plant Pathology -- Public and International Affairs",
+        "colleges": "College of Agriculture and Life Sciences -- College of Humanities and Social Sciences",
+        "buildings": "Thomas Hall --- unknown",
+        "roles": "faculty -- student",
+        "years": [
+          2018
+        ],
+        "year_recent": 2018,
+        "dois": [
+          "10.1080/23299460.2017.1419413"
+        ],
+        "ncsu?": true,
+        "cross_college?": true,
+        "cross_department?": true,
+        "cross_unit?": true,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          "Corporate governance",
+          "Responsible Research and Innovation",
+          "Political science",
+          "Business",
+          "Public relations",
+          "Management",
+          "Economics"
+        ],
+        "host_venues": [
+          "Journal of Responsible Innovation"
+        ],
+        "color": "#FAC800",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-fgould",
+      "target": "spaa",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Entomology and Plant Pathology --- unknown",
+        "colleges": "College of Agriculture and Life Sciences --- unknown",
+        "buildings": "Thomas Hall --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          2016
+        ],
+        "year_recent": 2016,
+        "dois": [
+          "10.1111/imb.12234"
+        ],
+        "ncsu?": true,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          "Biology",
+          "Inbreeding",
+          "Genetic diversity",
+          "Heliothis virescens",
+          "Genetics",
+          "Genetic variation",
+          "Population",
+          "PEST analysis",
+          "Allele",
+          "Noctuidae",
+          "Botany",
+          "Gene",
+          "Demography",
+          "Sociology"
+        ],
+        "host_venues": [
+          "Insect Molecular Biology"
+        ],
+        "color": "#CC0000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-jeelsens",
+      "target": "https://orcid.org/0000-0002-3472-1100",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Plant Pathology --- unknown",
+        "colleges": "College of Agriculture and Life Sciences --- unknown",
+        "buildings": "unknown --- unknown",
+        "roles": "student --- unknown",
+        "years": [
+          2018
+        ],
+        "year_recent": 2018,
+        "dois": [
+          "10.1080/23299460.2017.1407910"
+        ],
+        "ncsu?": true,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": false,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+
+        ],
+        "cross_building?": false,
+        "concepts": [
+          "Software deployment",
+          "Gene drive",
+          "Agriculture",
+          "Business",
+          "Biology",
+          "Engineering",
+          "Ecology",
+          "Gene",
+          "Genetics",
+          "CRISPR",
+          "Software engineering"
+        ],
+        "host_venues": [
+          "Journal of Responsible Innovation"
+        ],
+        "color": "#CC0000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-jeelsens",
+      "target": "uid-negutzma",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Plant Pathology == Plant Pathology",
+        "colleges": "College of Agriculture and Life Sciences == College of Agriculture and Life Sciences",
+        "buildings": "Thomas Hall --- unknown",
+        "roles": "staff -- student",
+        "years": [
+          2018
+        ],
+        "year_recent": 2018,
+        "dois": [
+          "10.1080/23299460.2017.1407910"
+        ],
+        "ncsu?": true,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": false,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+
+        ],
+        "cross_building?": false,
+        "concepts": [
+          "Software deployment",
+          "Gene drive",
+          "Agriculture",
+          "Business",
+          "Biology",
+          "Engineering",
+          "Ecology",
+          "Gene",
+          "Genetics",
+          "CRISPR",
+          "Software engineering"
+        ],
+        "host_venues": [
+          "Journal of Responsible Innovation"
+        ],
+        "color": "#CC0000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-jeelsens",
+      "target": "uid-msjones2",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Agricultural & Resource Economics -- Plant Pathology",
+        "colleges": "College of Agriculture and Life Sciences == College of Agriculture and Life Sciences",
+        "buildings": "unknown --- unknown",
+        "roles": "student == student",
+        "years": [
+          2018
+        ],
+        "year_recent": 2018,
+        "dois": [
+          "10.1080/23299460.2017.1407910"
+        ],
+        "ncsu?": true,
+        "cross_college?": false,
+        "cross_department?": true,
+        "cross_unit?": true,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          "Software deployment",
+          "Gene drive",
+          "Agriculture",
+          "Business",
+          "Biology",
+          "Engineering",
+          "Ecology",
+          "Gene",
+          "Genetics",
+          "CRISPR",
+          "Software engineering"
+        ],
+        "host_venues": [
+          "Journal of Responsible Innovation"
+        ],
+        "color": "#CC0000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-jeelsens",
+      "target": "https://orcid.org/0000-0002-1642-7442",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Plant Pathology --- unknown",
+        "colleges": "College of Agriculture and Life Sciences --- unknown",
+        "buildings": "unknown --- unknown",
+        "roles": "student --- unknown",
+        "years": [
+          2018
+        ],
+        "year_recent": 2018,
+        "dois": [
+          "10.1080/23299460.2017.1407910"
+        ],
+        "ncsu?": true,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": false,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+
+        ],
+        "cross_building?": false,
+        "concepts": [
+          "Software deployment",
+          "Gene drive",
+          "Agriculture",
+          "Business",
+          "Biology",
+          "Engineering",
+          "Ecology",
+          "Gene",
+          "Genetics",
+          "CRISPR",
+          "Software engineering"
+        ],
+        "host_venues": [
+          "Journal of Responsible Innovation"
+        ],
+        "color": "#CC0000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-jeelsens",
+      "target": "uid-jdsudwee",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Plant Pathology -- Public and International Affairs",
+        "colleges": "College of Agriculture and Life Sciences -- College of Humanities and Social Sciences",
+        "buildings": "unknown --- unknown",
+        "roles": "student == student",
+        "years": [
+          2018
+        ],
+        "year_recent": 2018,
+        "dois": [
+          "10.1080/23299460.2017.1407910"
+        ],
+        "ncsu?": true,
+        "cross_college?": true,
+        "cross_department?": true,
+        "cross_unit?": true,
+        "cluster?": false,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+
+        ],
+        "cross_building?": false,
+        "concepts": [
+          "Software deployment",
+          "Gene drive",
+          "Agriculture",
+          "Business",
+          "Biology",
+          "Engineering",
+          "Ecology",
+          "Gene",
+          "Genetics",
+          "CRISPR",
+          "Software engineering"
+        ],
+        "host_venues": [
+          "Journal of Responsible Innovation"
+        ],
+        "color": "#FAC800",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-negutzma",
+      "target": "https://orcid.org/0000-0002-3472-1100",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Plant Pathology --- unknown",
+        "colleges": "College of Agriculture and Life Sciences --- unknown",
+        "buildings": "Thomas Hall --- unknown",
+        "roles": "staff --- unknown",
+        "years": [
+          2018
+        ],
+        "year_recent": 2018,
+        "dois": [
+          "10.1080/23299460.2017.1407910"
+        ],
+        "ncsu?": true,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": false,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+
+        ],
+        "cross_building?": false,
+        "concepts": [
+          "Software deployment",
+          "Gene drive",
+          "Agriculture",
+          "Business",
+          "Biology",
+          "Engineering",
+          "Ecology",
+          "Gene",
+          "Genetics",
+          "CRISPR",
+          "Software engineering"
+        ],
+        "host_venues": [
+          "Journal of Responsible Innovation"
+        ],
+        "color": "#CC0000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-negutzma",
+      "target": "uid-msjones2",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Agricultural & Resource Economics -- Plant Pathology",
+        "colleges": "College of Agriculture and Life Sciences == College of Agriculture and Life Sciences",
+        "buildings": "Thomas Hall --- unknown",
+        "roles": "staff -- student",
+        "years": [
+          2018
+        ],
+        "year_recent": 2018,
+        "dois": [
+          "10.1080/23299460.2017.1407910"
+        ],
+        "ncsu?": true,
+        "cross_college?": false,
+        "cross_department?": true,
+        "cross_unit?": true,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          "Software deployment",
+          "Gene drive",
+          "Agriculture",
+          "Business",
+          "Biology",
+          "Engineering",
+          "Ecology",
+          "Gene",
+          "Genetics",
+          "CRISPR",
+          "Software engineering"
+        ],
+        "host_venues": [
+          "Journal of Responsible Innovation"
+        ],
+        "color": "#CC0000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-negutzma",
+      "target": "https://orcid.org/0000-0002-1642-7442",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Plant Pathology --- unknown",
+        "colleges": "College of Agriculture and Life Sciences --- unknown",
+        "buildings": "Thomas Hall --- unknown",
+        "roles": "staff --- unknown",
+        "years": [
+          2018
+        ],
+        "year_recent": 2018,
+        "dois": [
+          "10.1080/23299460.2017.1407910"
+        ],
+        "ncsu?": true,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": false,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+
+        ],
+        "cross_building?": false,
+        "concepts": [
+          "Software deployment",
+          "Gene drive",
+          "Agriculture",
+          "Business",
+          "Biology",
+          "Engineering",
+          "Ecology",
+          "Gene",
+          "Genetics",
+          "CRISPR",
+          "Software engineering"
+        ],
+        "host_venues": [
+          "Journal of Responsible Innovation"
+        ],
+        "color": "#CC0000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-negutzma",
+      "target": "uid-jdsudwee",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Plant Pathology -- Public and International Affairs",
+        "colleges": "College of Agriculture and Life Sciences -- College of Humanities and Social Sciences",
+        "buildings": "Thomas Hall --- unknown",
+        "roles": "staff -- student",
+        "years": [
+          2018
+        ],
+        "year_recent": 2018,
+        "dois": [
+          "10.1080/23299460.2017.1407910"
+        ],
+        "ncsu?": true,
+        "cross_college?": true,
+        "cross_department?": true,
+        "cross_unit?": true,
+        "cluster?": false,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+
+        ],
+        "cross_building?": false,
+        "concepts": [
+          "Software deployment",
+          "Gene drive",
+          "Agriculture",
+          "Business",
+          "Biology",
+          "Engineering",
+          "Ecology",
+          "Gene",
+          "Genetics",
+          "CRISPR",
+          "Software engineering"
+        ],
+        "host_venues": [
+          "Journal of Responsible Innovation"
+        ],
+        "color": "#FAC800",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-msjones2",
+      "target": "https://orcid.org/0000-0002-3472-1100",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Agricultural & Resource Economics --- unknown",
+        "colleges": "College of Agriculture and Life Sciences --- unknown",
+        "buildings": "unknown --- unknown",
+        "roles": "student --- unknown",
+        "years": [
+          2018
+        ],
+        "year_recent": 2018,
+        "dois": [
+          "10.1080/23299460.2017.1407910"
+        ],
+        "ncsu?": true,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          "Software deployment",
+          "Gene drive",
+          "Agriculture",
+          "Business",
+          "Biology",
+          "Engineering",
+          "Ecology",
+          "Gene",
+          "Genetics",
+          "CRISPR",
+          "Software engineering"
+        ],
+        "host_venues": [
+          "Journal of Responsible Innovation"
+        ],
+        "color": "#CC0000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-msjones2",
+      "target": "https://orcid.org/0000-0002-1642-7442",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Agricultural & Resource Economics --- unknown",
+        "colleges": "College of Agriculture and Life Sciences --- unknown",
+        "buildings": "unknown --- unknown",
+        "roles": "student --- unknown",
+        "years": [
+          2018
+        ],
+        "year_recent": 2018,
+        "dois": [
+          "10.1080/23299460.2017.1407910"
+        ],
+        "ncsu?": true,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          "Software deployment",
+          "Gene drive",
+          "Agriculture",
+          "Business",
+          "Biology",
+          "Engineering",
+          "Ecology",
+          "Gene",
+          "Genetics",
+          "CRISPR",
+          "Software engineering"
+        ],
+        "host_venues": [
+          "Journal of Responsible Innovation"
+        ],
+        "color": "#CC0000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-msjones2",
+      "target": "uid-jdsudwee",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Agricultural & Resource Economics -- Public and International Affairs",
+        "colleges": "College of Agriculture and Life Sciences -- College of Humanities and Social Sciences",
+        "buildings": "unknown --- unknown",
+        "roles": "student == student",
+        "years": [
+          2018
+        ],
+        "year_recent": 2018,
+        "dois": [
+          "10.1080/23299460.2017.1407910"
+        ],
+        "ncsu?": true,
+        "cross_college?": true,
+        "cross_department?": true,
+        "cross_unit?": true,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          "Software deployment",
+          "Gene drive",
+          "Agriculture",
+          "Business",
+          "Biology",
+          "Engineering",
+          "Ecology",
+          "Gene",
+          "Genetics",
+          "CRISPR",
+          "Software engineering"
+        ],
+        "host_venues": [
+          "Journal of Responsible Innovation"
+        ],
+        "color": "#FAC800",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-jdsudwee",
+      "target": "uid-mrvella",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Public and International Affairs --- unknown",
+        "colleges": "College of Humanities and Social Sciences --- unknown",
+        "buildings": "unknown --- unknown",
+        "roles": "student == student",
+        "years": [
+          2019
+        ],
+        "year_recent": 2019,
+        "dois": [
+          "10.1038/s41598-019-51994-0"
+        ],
+        "ncsu?": true,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": false,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+
+        ],
+        "cross_building?": false,
+        "concepts": [
+          "Gene drive",
+          "Allele",
+          "Population",
+          "Biology",
+          "CRISPR",
+          "Cas9",
+          "Genetics",
+          "Population genetics",
+          "Evolutionary biology",
+          "Computational biology",
+          "Gene",
+          "Medicine",
+          "Environmental health"
+        ],
+        "host_venues": [
+          "Scientific Reports"
+        ],
+        "color": "#CC0000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-jdsudwee",
+      "target": "uid-allloyd",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Mathematics -- Public and International Affairs",
+        "colleges": "College of Humanities and Social Sciences -- College of Sciences",
+        "buildings": "Bureau of Mines --- unknown",
+        "roles": "faculty -- student",
+        "years": [
+          2019
+        ],
+        "year_recent": 2019,
+        "dois": [
+          "10.1038/s41598-019-51994-0"
+        ],
+        "ncsu?": true,
+        "cross_college?": true,
+        "cross_department?": true,
+        "cross_unit?": true,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          "Gene drive",
+          "Allele",
+          "Population",
+          "Biology",
+          "CRISPR",
+          "Cas9",
+          "Genetics",
+          "Population genetics",
+          "Evolutionary biology",
+          "Computational biology",
+          "Gene",
+          "Medicine",
+          "Environmental health"
+        ],
+        "host_venues": [
+          "Scientific Reports"
+        ],
+        "color": "#FAC800",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-jdsudwee",
+      "target": "https://orcid.org/0000-0002-3472-1100",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Public and International Affairs --- unknown",
+        "colleges": "College of Humanities and Social Sciences --- unknown",
+        "buildings": "unknown --- unknown",
+        "roles": "student --- unknown",
+        "years": [
+          2018
+        ],
+        "year_recent": 2018,
+        "dois": [
+          "10.1080/23299460.2017.1407910"
+        ],
+        "ncsu?": true,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": false,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+
+        ],
+        "cross_building?": false,
+        "concepts": [
+          "Software deployment",
+          "Gene drive",
+          "Agriculture",
+          "Business",
+          "Biology",
+          "Engineering",
+          "Ecology",
+          "Gene",
+          "Genetics",
+          "CRISPR",
+          "Software engineering"
+        ],
+        "host_venues": [
+          "Journal of Responsible Innovation"
+        ],
+        "color": "#CC0000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-jdsudwee",
+      "target": "https://orcid.org/0000-0002-1642-7442",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Public and International Affairs --- unknown",
+        "colleges": "College of Humanities and Social Sciences --- unknown",
+        "buildings": "unknown --- unknown",
+        "roles": "student --- unknown",
+        "years": [
+          2018
+        ],
+        "year_recent": 2018,
+        "dois": [
+          "10.1080/23299460.2017.1407910"
+        ],
+        "ncsu?": true,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": false,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+
+        ],
+        "cross_building?": false,
+        "concepts": [
+          "Software deployment",
+          "Gene drive",
+          "Agriculture",
+          "Business",
+          "Biology",
+          "Engineering",
+          "Ecology",
+          "Gene",
+          "Genetics",
+          "CRISPR",
+          "Software engineering"
+        ],
+        "host_venues": [
+          "Journal of Responsible Innovation"
+        ],
+        "color": "#CC0000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-mlfritz",
+      "target": "spaa",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Entomology and Plant Pathology --- unknown",
+        "colleges": "College of Agriculture and Life Sciences --- unknown",
+        "buildings": "unknown --- unknown",
+        "roles": "unknown == unknown",
+        "years": [
+          2016
+        ],
+        "year_recent": 2016,
+        "dois": [
+          "10.1111/imb.12234"
+        ],
+        "ncsu?": true,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": false,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+
+        ],
+        "cross_building?": false,
+        "concepts": [
+          "Biology",
+          "Inbreeding",
+          "Genetic diversity",
+          "Heliothis virescens",
+          "Genetics",
+          "Genetic variation",
+          "Population",
+          "PEST analysis",
+          "Allele",
+          "Noctuidae",
+          "Botany",
+          "Gene",
+          "Demography",
+          "Sociology"
+        ],
+        "host_venues": [
+          "Insect Molecular Biology"
+        ],
+        "color": "#CC0000",
+        "size": 1
+      }
+    }
+  ]
+}

@@ -1,0 +1,136 @@
+{
+  "options": {
+    "type": "undirected",
+    "multi": false,
+    "allowSelfLoops": false
+  },
+  "attributes": {
+    "creator": "Citation Index",
+    "lastModifiedDate": "2023-01-14"
+  },
+  "nodes": [
+    {
+      "key": "uid-auerbach",
+      "attributes": {
+        "label": "D Auerbach",
+        "name": "David Auerbach",
+        "known?": true,
+        "orcid?": true,
+        "ncsu?": true,
+        "affiliations": [
+          "North Carolina State University"
+        ],
+        "countries": [
+          "US"
+        ],
+        "uid": "auerbach",
+        "url": "https://ci.lib.ncsu.edu/profiles/auerbach",
+        "orcid": "0000-0003-1761-8993",
+        "active?": true,
+        "department": "Philosophy & Religious Studies",
+        "college": "College of Humanities and Social Sciences",
+        "ncsu_affiliations": [
+          "Philosophy & Religious Studies",
+          "Genetic Engineering and Society"
+        ],
+        "cluster?": true,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "role": "faculty",
+        "building": "Withers Hall",
+        "count": 6,
+        "oa_count": 3,
+        "years": [
+          2005,
+          1994,
+          1992,
+          1985,
+          1979
+        ],
+        "year_recent": 2005,
+        "article_concepts": [
+          "Arithmetic",
+          "Artificial intelligence",
+          "Computer science",
+          "Database",
+          "Epistemology",
+          "GRASP",
+          "Linguistics",
+          "Mathematics",
+          "Natural language processing",
+          "Numeral system",
+          "Philosophy",
+          "Programming language",
+          "Relation (database)"
+        ],
+        "host_venues": [
+          "Notre Dame Journal of Formal Logic",
+          "Philosophical Studies",
+          "Tulane Studies in Philosophy"
+        ],
+        "color": "#FAC800",
+        "size": 20
+      }
+    },
+    {
+      "key": "wrcarter",
+      "attributes": {
+        "label": "W Carter",
+        "name": "W. R. Carter",
+        "known?": false,
+        "orcid?": null,
+        "ncsu?": false,
+        "affiliations": [
+
+        ],
+        "countries": [
+
+        ],
+        "color": "#BFBFBD",
+        "size": 10
+      }
+    }
+  ],
+  "edges": [
+    {
+      "source": "uid-auerbach",
+      "target": "wrcarter",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Philosophy & Religious Studies --- unknown",
+        "colleges": "College of Humanities and Social Sciences --- unknown",
+        "buildings": "Withers Hall --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          1979
+        ],
+        "year_recent": 1979,
+        "dois": [
+          "10.5840/tulane1979281"
+        ],
+        "ncsu?": false,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": true,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+          "Genetic Engineering and Society"
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          "Tulane Studies in Philosophy"
+        ],
+        "color": "#000000",
+        "size": 1
+      }
+    }
+  ]
+}
