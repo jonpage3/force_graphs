@@ -1,0 +1,622 @@
+{
+  "options": {
+    "type": "undirected",
+    "multi": false,
+    "allowSelfLoops": false
+  },
+  "attributes": {
+    "creator": "Citation Index",
+    "lastModifiedDate": "2023-01-15"
+  },
+  "nodes": [
+    {
+      "key": "u-3407",
+      "attributes": {
+        "label": "G Guryanov",
+        "name": "Georgiy M. Guryanov",
+        "known?": true,
+        "orcid?": false,
+        "ncsu?": true,
+        "affiliations": [
+          "North Carolina State University"
+        ],
+        "countries": [
+          "US"
+        ],
+        "url": "https://ci.lib.ncsu.edu/profiles/3407",
+        "active?": false,
+        "department": "Analytical Instrumentation Facility",
+        "college": "College of Engineering",
+        "ncsu_affiliations": [
+          "Analytical Instrumentation Facility"
+        ],
+        "cluster?": false,
+        "clusters": [
+
+        ],
+        "role": null,
+        "building": null,
+        "count": 2,
+        "oa_count": 0,
+        "years": [
+          2002,
+          2000
+        ],
+        "year_recent": 2002,
+        "article_concepts": [
+
+        ],
+        "host_venues": [
+          "Journal of vacuum science & technology"
+        ],
+        "color": "#990000",
+        "size": 20
+      }
+    },
+    {
+      "key": "u-3406",
+      "attributes": {
+        "label": "R Loesing",
+        "name": "Rainer Loesing",
+        "known?": true,
+        "orcid?": false,
+        "ncsu?": true,
+        "affiliations": [
+          "North Carolina State University"
+        ],
+        "countries": [
+          "US"
+        ],
+        "url": "https://ci.lib.ncsu.edu/profiles/3406",
+        "active?": false,
+        "department": "Materials Science & Engineering",
+        "college": "College of Engineering",
+        "ncsu_affiliations": [
+          "Materials Science & Engineering"
+        ],
+        "cluster?": false,
+        "clusters": [
+
+        ],
+        "role": null,
+        "building": null,
+        "count": 3,
+        "oa_count": 0,
+        "years": [
+          2002,
+          2000
+        ],
+        "year_recent": 2002,
+        "article_concepts": [
+
+        ],
+        "host_venues": [
+          "Journal of vacuum science & technology"
+        ],
+        "color": "#990000",
+        "size": 10
+      }
+    },
+    {
+      "key": "u-4120",
+      "attributes": {
+        "label": "M Phillips",
+        "name": "Michael S. Phillips",
+        "known?": true,
+        "orcid?": false,
+        "ncsu?": true,
+        "affiliations": [
+          "North Carolina State University"
+        ],
+        "countries": [
+          "US"
+        ],
+        "url": "https://ci.lib.ncsu.edu/profiles/4120",
+        "active?": false,
+        "department": "Materials Science & Engineering",
+        "college": "College of Engineering",
+        "ncsu_affiliations": [
+          "Materials Science & Engineering"
+        ],
+        "cluster?": false,
+        "clusters": [
+
+        ],
+        "role": null,
+        "building": null,
+        "count": 1,
+        "oa_count": 0,
+        "years": [
+          2002
+        ],
+        "year_recent": 2002,
+        "article_concepts": [
+
+        ],
+        "host_venues": [
+          "Journal of vacuum science & technology"
+        ],
+        "color": "#990000",
+        "size": 10
+      }
+    },
+    {
+      "key": "uid-dgriffis",
+      "attributes": {
+        "label": "D Griffis",
+        "name": "Dieter Griffis",
+        "known?": true,
+        "orcid?": false,
+        "ncsu?": true,
+        "affiliations": [
+          "North Carolina State University"
+        ],
+        "countries": [
+          "US"
+        ],
+        "uid": "dgriffis",
+        "url": "https://ci.lib.ncsu.edu/profiles/dgriffis",
+        "active?": true,
+        "department": "Materials Science & Engineering",
+        "college": "College of Engineering",
+        "ncsu_affiliations": [
+          "Materials Science & Engineering",
+          "Textile Engineering, Chemistry & Science",
+          "Analytical Instrumentation Facility"
+        ],
+        "cluster?": false,
+        "clusters": [
+
+        ],
+        "role": "faculty",
+        "building": "Textiles Complex",
+        "count": 38,
+        "oa_count": 6,
+        "years": [
+          2014,
+          2013,
+          2012,
+          2011,
+          2010,
+          2008,
+          2007,
+          2006,
+          2004,
+          2003,
+          2002,
+          2001,
+          2000,
+          1999,
+          1998
+        ],
+        "year_recent": 2014,
+        "article_concepts": [
+          "Alternative medicine",
+          "Analytical Chemistry (journal)",
+          "Carbon fibers",
+          "Chemistry",
+          "Chromatography",
+          "Composite material",
+          "Composite number",
+          "Copper",
+          "Environmental chemistry",
+          "Fabrication",
+          "Focused ion beam",
+          "Fractionation",
+          "Hydrogen",
+          "Ion",
+          "Ion beam",
+          "Ionization",
+          "Mass spectrometry",
+          "Materials science",
+          "Medicine",
+          "Metallurgy",
+          "Nanotechnology",
+          "Organic chemistry",
+          "Pathology",
+          "Secondary ion mass spectrometry",
+          "Sputtering",
+          "Static secondary-ion mass spectrometry",
+          "Surface micromachining",
+          "Thermal ionization mass spectrometry",
+          "Thin film"
+        ],
+        "host_venues": [
+          "Analytical Chemistry",
+          "Applied Physics Letters",
+          "Applied Surface Science",
+          "Journal of Electronic Materials",
+          "Journal of Microscopy",
+          "Journal of vacuum science & technology",
+          "Journal of vacuum science and technology",
+          "Microscopy and Microanalysis",
+          "Physical Review Special Topics-accelerators and Beams",
+          "Semiconductor Science and Technology",
+          "Surface and Interface Analysis"
+        ],
+        "color": "#990000",
+        "size": 10
+      }
+    },
+    {
+      "key": "jlhunter",
+      "attributes": {
+        "label": "J Hunter",
+        "name": "J. L. Hunter",
+        "known?": false,
+        "orcid?": null,
+        "ncsu?": false,
+        "affiliations": [
+
+        ],
+        "countries": [
+
+        ],
+        "color": "#BFBFBD",
+        "size": 10
+      }
+    }
+  ],
+  "edges": [
+    {
+      "source": "u-3407",
+      "target": "u-3406",
+      "attributes": {
+        "label": 2,
+        "weight": 2,
+        "collaboration_count": 2,
+        "departments": "Analytical Instrumentation Facility -- Materials Science & Engineering",
+        "colleges": "College of Engineering == College of Engineering",
+        "buildings": "unknown --- unknown",
+        "roles": "unknown == unknown",
+        "years": [
+          2002,
+          2000
+        ],
+        "year_recent": 2002,
+        "dois": [
+          "10.1116/1.1450588",
+          "10.1116/1.591222"
+        ],
+        "ncsu?": true,
+        "cross_college?": false,
+        "cross_department?": true,
+        "cross_unit?": true,
+        "cluster?": false,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          "Journal of vacuum science & technology"
+        ],
+        "color": "#CC0000",
+        "size": 2
+      }
+    },
+    {
+      "source": "u-3407",
+      "target": "u-4120",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Analytical Instrumentation Facility -- Materials Science & Engineering",
+        "colleges": "College of Engineering == College of Engineering",
+        "buildings": "unknown --- unknown",
+        "roles": "unknown == unknown",
+        "years": [
+          2002
+        ],
+        "year_recent": 2002,
+        "dois": [
+          "10.1116/1.1450588"
+        ],
+        "ncsu?": true,
+        "cross_college?": false,
+        "cross_department?": true,
+        "cross_unit?": true,
+        "cluster?": false,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          "Journal of vacuum science & technology"
+        ],
+        "color": "#CC0000",
+        "size": 1
+      }
+    },
+    {
+      "source": "u-3407",
+      "target": "uid-dgriffis",
+      "attributes": {
+        "label": 2,
+        "weight": 2,
+        "collaboration_count": 2,
+        "departments": "Analytical Instrumentation Facility -- Materials Science & Engineering",
+        "colleges": "College of Engineering == College of Engineering",
+        "buildings": "Textiles Complex --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          2002,
+          2000
+        ],
+        "year_recent": 2002,
+        "dois": [
+          "10.1116/1.1450588",
+          "10.1116/1.591222"
+        ],
+        "ncsu?": true,
+        "cross_college?": false,
+        "cross_department?": true,
+        "cross_unit?": false,
+        "cluster?": false,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          "Journal of vacuum science & technology"
+        ],
+        "color": "#CC0000",
+        "size": 2
+      }
+    },
+    {
+      "source": "u-3407",
+      "target": "jlhunter",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Analytical Instrumentation Facility --- unknown",
+        "colleges": "College of Engineering --- unknown",
+        "buildings": "unknown --- unknown",
+        "roles": "unknown == unknown",
+        "years": [
+          2000
+        ],
+        "year_recent": 2000,
+        "dois": [
+          "10.1116/1.591222"
+        ],
+        "ncsu?": false,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": false,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          "Journal of vacuum science & technology"
+        ],
+        "color": "#000000",
+        "size": 1
+      }
+    },
+    {
+      "source": "u-3406",
+      "target": "u-4120",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Materials Science & Engineering == Materials Science & Engineering",
+        "colleges": "College of Engineering == College of Engineering",
+        "buildings": "unknown --- unknown",
+        "roles": "unknown == unknown",
+        "years": [
+          2002
+        ],
+        "year_recent": 2002,
+        "dois": [
+          "10.1116/1.1450588"
+        ],
+        "ncsu?": true,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": false,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          "Journal of vacuum science & technology"
+        ],
+        "color": "#CC0000",
+        "size": 1
+      }
+    },
+    {
+      "source": "u-3406",
+      "target": "uid-dgriffis",
+      "attributes": {
+        "label": 3,
+        "weight": 3,
+        "collaboration_count": 3,
+        "departments": "Materials Science & Engineering == Materials Science & Engineering",
+        "colleges": "College of Engineering == College of Engineering",
+        "buildings": "Textiles Complex --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          2002,
+          2000,
+          2000
+        ],
+        "year_recent": 2002,
+        "dois": [
+          "10.1116/1.1450588",
+          "10.1116/1.591222"
+        ],
+        "ncsu?": true,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": false,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          "Journal of vacuum science & technology"
+        ],
+        "color": "#CC0000",
+        "size": 3
+      }
+    },
+    {
+      "source": "u-3406",
+      "target": "jlhunter",
+      "attributes": {
+        "label": 2,
+        "weight": 2,
+        "collaboration_count": 2,
+        "departments": "Materials Science & Engineering --- unknown",
+        "colleges": "College of Engineering --- unknown",
+        "buildings": "unknown --- unknown",
+        "roles": "unknown == unknown",
+        "years": [
+          2000,
+          2000
+        ],
+        "year_recent": 2000,
+        "dois": [
+          "10.1116/1.591222"
+        ],
+        "ncsu?": false,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": false,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          null
+        ],
+        "color": "#000000",
+        "size": 2
+      }
+    },
+    {
+      "source": "u-4120",
+      "target": "uid-dgriffis",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Materials Science & Engineering == Materials Science & Engineering",
+        "colleges": "College of Engineering == College of Engineering",
+        "buildings": "Textiles Complex --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          2002
+        ],
+        "year_recent": 2002,
+        "dois": [
+          "10.1116/1.1450588"
+        ],
+        "ncsu?": true,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": false,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          "Journal of vacuum science & technology"
+        ],
+        "color": "#CC0000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-dgriffis",
+      "target": "jlhunter",
+      "attributes": {
+        "label": 2,
+        "weight": 2,
+        "collaboration_count": 2,
+        "departments": "Materials Science & Engineering --- unknown",
+        "colleges": "College of Engineering --- unknown",
+        "buildings": "Textiles Complex --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          2000,
+          2000
+        ],
+        "year_recent": 2000,
+        "dois": [
+          "10.1116/1.591222"
+        ],
+        "ncsu?": false,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": false,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          null
+        ],
+        "color": "#000000",
+        "size": 2
+      }
+    }
+  ]
+}

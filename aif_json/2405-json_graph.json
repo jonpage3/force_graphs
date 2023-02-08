@@ -1,0 +1,2195 @@
+{
+  "options": {
+    "type": "undirected",
+    "multi": false,
+    "allowSelfLoops": false
+  },
+  "attributes": {
+    "creator": "Citation Index",
+    "lastModifiedDate": "2023-01-15"
+  },
+  "nodes": [
+    {
+      "key": "u-2405",
+      "attributes": {
+        "label": "D Ricks",
+        "name": "David A. Ricks",
+        "known?": true,
+        "orcid?": false,
+        "ncsu?": true,
+        "affiliations": [
+          "North Carolina State University"
+        ],
+        "countries": [
+          "US"
+        ],
+        "url": "https://ci.lib.ncsu.edu/profiles/2405",
+        "active?": false,
+        "department": "Analytical Instrumentation Facility",
+        "college": "College of Engineering",
+        "ncsu_affiliations": [
+          "Analytical Instrumentation Facility"
+        ],
+        "cluster?": false,
+        "clusters": [
+
+        ],
+        "role": null,
+        "building": null,
+        "count": 1,
+        "oa_count": 0,
+        "years": [
+          1998
+        ],
+        "year_recent": 1998,
+        "article_concepts": [
+
+        ],
+        "host_venues": [
+          "Journal of Electronic Materials"
+        ],
+        "color": "#990000",
+        "size": 20
+      }
+    },
+    {
+      "key": "u-670",
+      "attributes": {
+        "label": "M Bremser",
+        "name": "Michael D. Bremser",
+        "known?": true,
+        "orcid?": false,
+        "ncsu?": true,
+        "affiliations": [
+          "North Carolina State University"
+        ],
+        "countries": [
+          "US"
+        ],
+        "url": "https://ci.lib.ncsu.edu/profiles/670",
+        "active?": false,
+        "department": "Materials Science & Engineering",
+        "college": "College of Engineering",
+        "ncsu_affiliations": [
+          "Materials Science & Engineering"
+        ],
+        "cluster?": false,
+        "clusters": [
+
+        ],
+        "role": null,
+        "building": null,
+        "count": 42,
+        "oa_count": 21,
+        "years": [
+          2005,
+          2003,
+          2001,
+          2000,
+          1999,
+          1998,
+          1997,
+          1996
+        ],
+        "year_recent": 2005,
+        "article_concepts": [
+          "Alloy",
+          "Alternative medicine",
+          "Aluminium",
+          "Aluminium nitride",
+          "Analytical Chemistry (journal)",
+          "Annealing (glass)",
+          "Asymmetry",
+          "Band gap",
+          "Biochemistry",
+          "Buffer (optical fiber)",
+          "Cathode",
+          "Chemical vapor deposition",
+          "Chemistry",
+          "Chromatography",
+          "Composite material",
+          "Computer science",
+          "Condensed matter physics",
+          "Creep",
+          "Crystallography",
+          "Diffraction",
+          "Dislocation",
+          "Dopant",
+          "Doping",
+          "Effective mass (spring–mass system)",
+          "Electrical engineering",
+          "Electron",
+          "Engineering",
+          "Epitaxy",
+          "Etch pit density",
+          "Etching (microfabrication)",
+          "Exciton",
+          "Fabrication",
+          "Far infrared",
+          "Fluence",
+          "Gallium",
+          "Gallium nitride",
+          "Gene",
+          "Geology",
+          "Geometry",
+          "Heterojunction",
+          "Impurity",
+          "Inductively coupled plasma",
+          "Infrared",
+          "Infrared spectroscopy",
+          "Internal medicine",
+          "Ion",
+          "Ion implantation",
+          "Laser",
+          "Layer (electronics)",
+          "Line (geometry)",
+          "Linguistics",
+          "Materials science",
+          "Mathematical analysis",
+          "Mathematics",
+          "Medicine",
+          "Metallurgy",
+          "Metalorganic vapour phase epitaxy",
+          "Metastability",
+          "Microstructure",
+          "Mole fraction",
+          "Molecular physics",
+          "Nanotechnology",
+          "Nitride",
+          "Oceanography",
+          "Ohmic contact",
+          "Optics",
+          "Optoelectronics",
+          "Organic chemistry",
+          "Pathology",
+          "Phase (matter)",
+          "Philosophy",
+          "Phonon",
+          "Photoconductivity",
+          "Photoluminescence",
+          "Physical chemistry",
+          "Physics",
+          "Plasma",
+          "Plasma etching",
+          "Psychology",
+          "Quantum mechanics",
+          "Raman scattering",
+          "Raman spectroscopy",
+          "Range (aeronautics)",
+          "Reactive-ion etching",
+          "Reciprocal lattice",
+          "Recombination",
+          "Reduction (mathematics)",
+          "Reflectivity",
+          "Relaxation (psychology)",
+          "Residual stress",
+          "Sapphire",
+          "Scattering",
+          "Shallow donor",
+          "Silicon",
+          "Social psychology",
+          "Spectroscopy",
+          "Strain (injury)",
+          "Stress (linguistics)",
+          "Stress relaxation",
+          "Substrate (aquarium)",
+          "Superlattice",
+          "Telecommunications",
+          "Tensile strain",
+          "Thin film",
+          "Transversal (combinatorics)",
+          "Ultimate tensile strength",
+          "Valence (chemistry)",
+          "Volumetric flow rate",
+          "Wide-bandgap semiconductor"
+        ],
+        "host_venues": [
+          "Acta Physica Polonica A",
+          "Applied Physics Letters",
+          "Diamond and Related Materials",
+          "Japanese Journal of Applied Physics",
+          "Journal of Applied Physics",
+          "Journal of Electronic Materials",
+          "Journal of The European Ceramic Society",
+          "MRS Proceedings",
+          "Materials Science And Engineering: B",
+          "Mrs Internet Journal of Nitride Semiconductor Research",
+          "Nuclear Instruments & Methods in Physics Research Section B-beam Interactions With Materials and Atoms",
+          "Solid-state Electronics",
+          "Thin Solid Films"
+        ],
+        "color": "#990000",
+        "size": 10
+      }
+    },
+    {
+      "key": "u-1159",
+      "attributes": {
+        "label": "W Perry",
+        "name": "William G. Perry",
+        "known?": true,
+        "orcid?": false,
+        "ncsu?": true,
+        "affiliations": [
+          "North Carolina State University"
+        ],
+        "countries": [
+          "US"
+        ],
+        "url": "https://ci.lib.ncsu.edu/profiles/1159",
+        "active?": false,
+        "department": "Materials Science & Engineering",
+        "college": "College of Engineering",
+        "ncsu_affiliations": [
+          "Materials Science & Engineering"
+        ],
+        "cluster?": false,
+        "clusters": [
+
+        ],
+        "role": null,
+        "building": null,
+        "count": 10,
+        "oa_count": 1,
+        "years": [
+          1999,
+          1998,
+          1997
+        ],
+        "year_recent": 1999,
+        "article_concepts": [
+          "Alloy",
+          "Analytical Chemistry (journal)",
+          "Asymmetry",
+          "Chemical vapor deposition",
+          "Chemistry",
+          "Chromatography",
+          "Composite material",
+          "Condensed matter physics",
+          "Geometry",
+          "Line (geometry)",
+          "Materials science",
+          "Mathematics",
+          "Metallurgy",
+          "Molecular physics",
+          "Optics",
+          "Optoelectronics",
+          "Physics",
+          "Quantum mechanics",
+          "Raman scattering",
+          "Raman spectroscopy",
+          "Range (aeronautics)",
+          "Scattering",
+          "Superlattice"
+        ],
+        "host_venues": [
+          "Applied Physics Letters",
+          "Diamond and Related Materials",
+          "Journal of Applied Physics",
+          "Journal of Electronic Materials",
+          "Journal of The European Ceramic Society",
+          "Solid-state Electronics",
+          "Thin Solid Films"
+        ],
+        "color": "#990000",
+        "size": 10
+      }
+    },
+    {
+      "key": "https://orcid.org/0000-0001-5651-2791",
+      "attributes": {
+        "label": "O Nam",
+        "name": "Ok-Hyun Nam",
+        "known?": true,
+        "orcid?": false,
+        "ncsu?": true,
+        "affiliations": [
+          "North Carolina State University"
+        ],
+        "countries": [
+          "US"
+        ],
+        "url": "https://ci.lib.ncsu.edu/profiles/1110",
+        "active?": false,
+        "department": "Materials Science & Engineering",
+        "college": "College of Engineering",
+        "ncsu_affiliations": [
+          "Materials Science & Engineering"
+        ],
+        "cluster?": false,
+        "clusters": [
+
+        ],
+        "role": null,
+        "building": null,
+        "count": 22,
+        "oa_count": 9,
+        "years": [
+          2003,
+          2002,
+          2001,
+          2000,
+          1999,
+          1998,
+          1997
+        ],
+        "year_recent": 2003,
+        "article_concepts": [
+          "Acceptor",
+          "Cathodoluminescence",
+          "Chemistry",
+          "Composite material",
+          "Compression (physics)",
+          "Compressive strength",
+          "Condensed matter physics",
+          "Creep",
+          "Diamond",
+          "Diffraction",
+          "Dislocation",
+          "Electron",
+          "Electron affinity (data page)",
+          "Epitaxy",
+          "Exciton",
+          "Field electron emission",
+          "Geology",
+          "Heterojunction",
+          "Layer (electronics)",
+          "Linguistics",
+          "Luminescence",
+          "Materials science",
+          "Metalorganic vapour phase epitaxy",
+          "Molecular physics",
+          "Molecule",
+          "Nanotechnology",
+          "Nitride",
+          "Oceanography",
+          "Optics",
+          "Optoelectronics",
+          "Organic chemistry",
+          "Philosophy",
+          "Photoluminescence",
+          "Physics",
+          "Quantum mechanics",
+          "Raman spectroscopy",
+          "Reciprocal lattice",
+          "Reflectivity",
+          "Residual stress",
+          "Stress (linguistics)",
+          "Stress relaxation",
+          "Substrate (aquarium)",
+          "Thermal expansion",
+          "Thin film",
+          "Ultimate tensile strength",
+          "Valence (chemistry)",
+          "Wide-bandgap semiconductor"
+        ],
+        "host_venues": [
+          "Applied Physics Letters",
+          "Applied Surface Science",
+          "Diamond and Related Materials",
+          "Japanese Journal of Applied Physics",
+          "Journal of Applied Physics",
+          "Journal of Crystal Growth",
+          "Journal of Electronic Materials",
+          "Solid-state Electronics"
+        ],
+        "color": "#990000",
+        "size": 10
+      }
+    },
+    {
+      "key": "uid-dgriffis",
+      "attributes": {
+        "label": "D Griffis",
+        "name": "Dieter Griffis",
+        "known?": true,
+        "orcid?": false,
+        "ncsu?": true,
+        "affiliations": [
+          "North Carolina State University"
+        ],
+        "countries": [
+          "US"
+        ],
+        "uid": "dgriffis",
+        "url": "https://ci.lib.ncsu.edu/profiles/dgriffis",
+        "active?": true,
+        "department": "Materials Science & Engineering",
+        "college": "College of Engineering",
+        "ncsu_affiliations": [
+          "Materials Science & Engineering",
+          "Textile Engineering, Chemistry & Science",
+          "Analytical Instrumentation Facility"
+        ],
+        "cluster?": false,
+        "clusters": [
+
+        ],
+        "role": "faculty",
+        "building": "Textiles Complex",
+        "count": 38,
+        "oa_count": 6,
+        "years": [
+          2014,
+          2013,
+          2012,
+          2011,
+          2010,
+          2008,
+          2007,
+          2006,
+          2004,
+          2003,
+          2002,
+          2001,
+          2000,
+          1999,
+          1998
+        ],
+        "year_recent": 2014,
+        "article_concepts": [
+          "Alternative medicine",
+          "Analytical Chemistry (journal)",
+          "Carbon fibers",
+          "Chemistry",
+          "Chromatography",
+          "Composite material",
+          "Composite number",
+          "Copper",
+          "Environmental chemistry",
+          "Fabrication",
+          "Focused ion beam",
+          "Fractionation",
+          "Hydrogen",
+          "Ion",
+          "Ion beam",
+          "Ionization",
+          "Mass spectrometry",
+          "Materials science",
+          "Medicine",
+          "Metallurgy",
+          "Nanotechnology",
+          "Organic chemistry",
+          "Pathology",
+          "Secondary ion mass spectrometry",
+          "Sputtering",
+          "Static secondary-ion mass spectrometry",
+          "Surface micromachining",
+          "Thermal ionization mass spectrometry",
+          "Thin film"
+        ],
+        "host_venues": [
+          "Analytical Chemistry",
+          "Applied Physics Letters",
+          "Applied Surface Science",
+          "Journal of Electronic Materials",
+          "Journal of Microscopy",
+          "Journal of vacuum science & technology",
+          "Journal of vacuum science and technology",
+          "Microscopy and Microanalysis",
+          "Physical Review Special Topics-accelerators and Beams",
+          "Semiconductor Science and Technology",
+          "Surface and Interface Analysis"
+        ],
+        "color": "#990000",
+        "size": 10
+      }
+    },
+    {
+      "key": "rloesing",
+      "attributes": {
+        "label": "R Loesing",
+        "name": "R. Loesing",
+        "known?": false,
+        "orcid?": null,
+        "ncsu?": true,
+        "affiliations": [
+          "North Carolina State University"
+        ],
+        "countries": [
+          "US"
+        ],
+        "color": "#000000",
+        "size": 10
+      }
+    },
+    {
+      "key": "uid-rfd",
+      "attributes": {
+        "label": "R Davis",
+        "name": "Robert F. Davis",
+        "known?": true,
+        "orcid?": false,
+        "ncsu?": true,
+        "affiliations": [
+          "North Carolina State University"
+        ],
+        "countries": [
+          "US"
+        ],
+        "uid": "rfd",
+        "url": "https://ci.lib.ncsu.edu/profiles/rfd",
+        "active?": false,
+        "department": "Materials Science & Engineering",
+        "college": "College of Engineering",
+        "ncsu_affiliations": [
+          "Materials Science & Engineering"
+        ],
+        "cluster?": false,
+        "clusters": [
+
+        ],
+        "role": null,
+        "building": null,
+        "count": 268,
+        "oa_count": 95,
+        "years": [
+          2015,
+          2014,
+          2010,
+          2009,
+          2008,
+          2007,
+          2006,
+          2005,
+          2004,
+          2003,
+          2002,
+          2001,
+          2000,
+          1999,
+          1998,
+          1997,
+          1996,
+          1995,
+          1994,
+          1993,
+          1992,
+          1991,
+          1990,
+          1989
+        ],
+        "year_recent": 2015,
+        "article_concepts": [
+          "Absorption (acoustics)",
+          "Absorption edge",
+          "Acceptor",
+          "Activation energy",
+          "Adsorption",
+          "Alloy",
+          "Alternative medicine",
+          "Aluminium",
+          "Aluminium nitride",
+          "Ammonia",
+          "Ammonium hydroxide",
+          "Analytical Chemistry (journal)",
+          "Anatomy",
+          "Annealing (glass)",
+          "Astronomy",
+          "Asymmetry",
+          "Atomic physics",
+          "Auger electron spectroscopy",
+          "Band bending",
+          "Band gap",
+          "Band offset",
+          "Beryllium",
+          "Biochemistry",
+          "Biology",
+          "Boron nitride",
+          "Buffer (optical fiber)",
+          "Capacitance",
+          "Capillary action",
+          "Capillary number",
+          "Catalysis",
+          "Cathode",
+          "Cathode ray",
+          "Cathodoluminescence",
+          "Chemical engineering",
+          "Chemical vapor deposition",
+          "Chemistry",
+          "Chromatography",
+          "Composite material",
+          "Compression (physics)",
+          "Compressive strength",
+          "Computer science",
+          "Computer security",
+          "Computer vision",
+          "Condensed matter physics",
+          "Continuous wave",
+          "Creep",
+          "Crystallite",
+          "Crystallography",
+          "Density of states",
+          "Desorption",
+          "Diamond",
+          "Diffraction",
+          "Diffusion",
+          "Diode",
+          "Dislocation",
+          "Dopant",
+          "Doping",
+          "Effective mass (spring–mass system)",
+          "Electrical engineering",
+          "Electrode",
+          "Electron",
+          "Electron affinity (data page)",
+          "Electron diffraction",
+          "Electron microscope",
+          "Electron mobility",
+          "Engineering",
+          "Epitaxy",
+          "Etch pit density",
+          "Etching (microfabrication)",
+          "Evaporation",
+          "Excitation",
+          "Exciton",
+          "Fabrication",
+          "Far infrared",
+          "Fermi gas",
+          "Field electron emission",
+          "Field-effect transistor",
+          "Fluence",
+          "Flux (metallurgy)",
+          "Gallium",
+          "Gallium arsenide",
+          "Gallium nitride",
+          "Gene",
+          "Geology",
+          "Geometry",
+          "Grain boundary",
+          "Heterojunction",
+          "Hydrocarbon",
+          "Hydrogen",
+          "Hydroxide",
+          "Impurity",
+          "Indium",
+          "Inductively coupled plasma",
+          "Infrared",
+          "Infrared spectroscopy",
+          "Inorganic chemistry",
+          "Intensity (physics)",
+          "Interface (matter)",
+          "Internal medicine",
+          "Ion",
+          "Ion implantation",
+          "Ionization",
+          "Ionization energy",
+          "Irradiation",
+          "Jet (fluid)",
+          "Kikuchi line",
+          "Laser",
+          "Lattice constant",
+          "Layer (electronics)",
+          "Light-emitting diode",
+          "Line (geometry)",
+          "Linguistics",
+          "Low-energy electron diffraction",
+          "Luminescence",
+          "MESFET",
+          "Materials science",
+          "Mathematical analysis",
+          "Mathematics",
+          "Medicine",
+          "Metallurgy",
+          "Metalorganic vapour phase epitaxy",
+          "Metal–semiconductor junction",
+          "Metastability",
+          "Microelectronics",
+          "Microstructure",
+          "Misorientation",
+          "Mole fraction",
+          "Molecular beam epitaxy",
+          "Molecular physics",
+          "Molecule",
+          "Monochromatic color",
+          "Monocrystalline silicon",
+          "Nanotechnology",
+          "Nickel",
+          "Nitride",
+          "Nuclear magnetic resonance",
+          "Nuclear physics",
+          "Nucleation",
+          "Oceanography",
+          "Offset (computer science)",
+          "Ohmic contact",
+          "Optical microscope",
+          "Optics",
+          "Optoelectronics",
+          "Organic chemistry",
+          "Oxygen",
+          "Pathology",
+          "Phase (matter)",
+          "Philosophy",
+          "Phonon",
+          "Photoconductivity",
+          "Photoemission spectroscopy",
+          "Photoluminescence",
+          "Photon",
+          "Physical chemistry",
+          "Physics",
+          "Plasma",
+          "Plasma etching",
+          "Polarization (electrochemistry)",
+          "Programming language",
+          "Psychology",
+          "Psychotherapist",
+          "Quantum mechanics",
+          "RADIUS",
+          "Raman scattering",
+          "Raman spectroscopy",
+          "Range (aeronautics)",
+          "Reactive-ion etching",
+          "Reciprocal lattice",
+          "Recombination",
+          "Reduction (mathematics)",
+          "Reflection high-energy electron diffraction",
+          "Reflectivity",
+          "Reflectometry",
+          "Relaxation (psychology)",
+          "Remote plasma",
+          "Residual stress",
+          "Sapphire",
+          "Scanning electron microscope",
+          "Scattering",
+          "Schottky barrier",
+          "Schottky diode",
+          "Secondary ion mass spectrometry",
+          "Selectivity",
+          "Semiconductor",
+          "Shallow donor",
+          "Silane",
+          "Silicon",
+          "Silicon carbide",
+          "Social psychology",
+          "Spectral line",
+          "Spectroscopy",
+          "Stoichiometry",
+          "Strain (injury)",
+          "Stress (linguistics)",
+          "Stress relaxation",
+          "Sublimation (psychology)",
+          "Substrate (aquarium)",
+          "Superlattice",
+          "Supersonic speed",
+          "Surface layer",
+          "Telecommunications",
+          "Tensile strain",
+          "Thermal desorption",
+          "Thermal expansion",
+          "Thermodynamics",
+          "Thin film",
+          "Tilt (camera)",
+          "Time domain",
+          "Torr",
+          "Transistor",
+          "Transmission electron microscopy",
+          "Transversal (combinatorics)",
+          "Triethylgallium",
+          "Ultimate tensile strength",
+          "Ultraviolet",
+          "Valence (chemistry)",
+          "Valence band",
+          "Vicinal",
+          "Voltage",
+          "Volumetric flow rate",
+          "Wafer",
+          "Wide-bandgap semiconductor",
+          "Wurtzite crystal structure",
+          "X-ray crystallography",
+          "X-ray photoelectron spectroscopy",
+          "Zinc",
+          "Zinc hydroxide"
+        ],
+        "host_venues": [
+          "Acta Materialia",
+          "Acta Physica Polonica A",
+          "Applied Physics Letters",
+          "Applied Surface Science",
+          "Diamond and Related Materials",
+          "IEEE Electron Device Letters",
+          "IEEE Journal of Quantum Electronics",
+          "Japanese Journal of Applied Physics",
+          "Journal of Applied Electrochemistry",
+          "Journal of Applied Physics",
+          "Journal of Crystal Growth",
+          "Journal of Electronic Materials",
+          "Journal of Materials Research",
+          "Journal of The Electrochemical Society",
+          "Journal of The European Ceramic Society",
+          "Journal of vacuum science & technology",
+          "MRS Proceedings",
+          "Materials Science And Engineering: B",
+          "Materials Science Forum",
+          "Materials Science in Semiconductor Processing",
+          "Microelectronic Engineering",
+          "Mrs Internet Journal of Nitride Semiconductor Research",
+          "Nuclear Instruments & Methods in Physics Research Section B-beam Interactions With Materials and Atoms",
+          "Physica Status Solidi B-basic Solid State Physics",
+          "Physica status solidi",
+          "Physical review",
+          "Physics Reports",
+          "Proceedings of the IEEE",
+          "Semiconductors and Semimetals",
+          "Solid-state Electronics",
+          "Surface & Coatings Technology",
+          "Surface Review and Letters",
+          "Surface Science",
+          "Surface and Interface Analysis",
+          "Thin Solid Films",
+          "Ultramicroscopy",
+          "Vacuum"
+        ],
+        "color": "#990000",
+        "size": 10
+      }
+    },
+    {
+      "key": "u-1110",
+      "attributes": {
+        "label": "O Nam",
+        "name": "Ok-Hyun Nam",
+        "known?": true,
+        "orcid?": false,
+        "ncsu?": true,
+        "affiliations": [
+          "North Carolina State University"
+        ],
+        "countries": [
+          "US"
+        ],
+        "url": "https://ci.lib.ncsu.edu/profiles/1110",
+        "active?": false,
+        "department": "Materials Science & Engineering",
+        "college": "College of Engineering",
+        "ncsu_affiliations": [
+          "Materials Science & Engineering"
+        ],
+        "cluster?": false,
+        "clusters": [
+
+        ],
+        "role": null,
+        "building": null,
+        "count": 22,
+        "oa_count": 9,
+        "years": [
+          2003,
+          2002,
+          2001,
+          2000,
+          1999,
+          1998,
+          1997
+        ],
+        "year_recent": 2003,
+        "article_concepts": [
+          "Acceptor",
+          "Cathodoluminescence",
+          "Chemistry",
+          "Composite material",
+          "Compression (physics)",
+          "Compressive strength",
+          "Condensed matter physics",
+          "Creep",
+          "Diamond",
+          "Diffraction",
+          "Dislocation",
+          "Electron",
+          "Electron affinity (data page)",
+          "Epitaxy",
+          "Exciton",
+          "Field electron emission",
+          "Geology",
+          "Heterojunction",
+          "Layer (electronics)",
+          "Linguistics",
+          "Luminescence",
+          "Materials science",
+          "Metalorganic vapour phase epitaxy",
+          "Molecular physics",
+          "Molecule",
+          "Nanotechnology",
+          "Nitride",
+          "Oceanography",
+          "Optics",
+          "Optoelectronics",
+          "Organic chemistry",
+          "Philosophy",
+          "Photoluminescence",
+          "Physics",
+          "Quantum mechanics",
+          "Raman spectroscopy",
+          "Reciprocal lattice",
+          "Reflectivity",
+          "Residual stress",
+          "Stress (linguistics)",
+          "Stress relaxation",
+          "Substrate (aquarium)",
+          "Thermal expansion",
+          "Thin film",
+          "Ultimate tensile strength",
+          "Valence (chemistry)",
+          "Wide-bandgap semiconductor"
+        ],
+        "host_venues": [
+          "Applied Physics Letters",
+          "Applied Surface Science",
+          "Diamond and Related Materials",
+          "Japanese Journal of Applied Physics",
+          "Journal of Applied Physics",
+          "Journal of Crystal Growth",
+          "Journal of Electronic Materials",
+          "Solid-state Electronics"
+        ],
+        "color": "#990000",
+        "size": 10
+      }
+    }
+  ],
+  "edges": [
+    {
+      "source": "u-2405",
+      "target": "u-670",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Analytical Instrumentation Facility -- Materials Science & Engineering",
+        "colleges": "College of Engineering == College of Engineering",
+        "buildings": "unknown --- unknown",
+        "roles": "unknown == unknown",
+        "years": [
+          1998
+        ],
+        "year_recent": 1998,
+        "dois": [
+          "10.1007/s11664-998-0392-9"
+        ],
+        "ncsu?": true,
+        "cross_college?": false,
+        "cross_department?": true,
+        "cross_unit?": true,
+        "cluster?": false,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          "Journal of Electronic Materials"
+        ],
+        "color": "#CC0000",
+        "size": 1
+      }
+    },
+    {
+      "source": "u-2405",
+      "target": "u-1159",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Analytical Instrumentation Facility -- Materials Science & Engineering",
+        "colleges": "College of Engineering == College of Engineering",
+        "buildings": "unknown --- unknown",
+        "roles": "unknown == unknown",
+        "years": [
+          1998
+        ],
+        "year_recent": 1998,
+        "dois": [
+          "10.1007/s11664-998-0392-9"
+        ],
+        "ncsu?": true,
+        "cross_college?": false,
+        "cross_department?": true,
+        "cross_unit?": true,
+        "cluster?": false,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          "Journal of Electronic Materials"
+        ],
+        "color": "#CC0000",
+        "size": 1
+      }
+    },
+    {
+      "source": "u-2405",
+      "target": "https://orcid.org/0000-0001-5651-2791",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Analytical Instrumentation Facility -- Materials Science & Engineering",
+        "colleges": "College of Engineering == College of Engineering",
+        "buildings": "unknown --- unknown",
+        "roles": "unknown == unknown",
+        "years": [
+          1998
+        ],
+        "year_recent": 1998,
+        "dois": [
+          "10.1007/s11664-998-0392-9"
+        ],
+        "ncsu?": true,
+        "cross_college?": false,
+        "cross_department?": true,
+        "cross_unit?": true,
+        "cluster?": false,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          "Journal of Electronic Materials"
+        ],
+        "color": "#CC0000",
+        "size": 1
+      }
+    },
+    {
+      "source": "u-2405",
+      "target": "uid-dgriffis",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Analytical Instrumentation Facility -- Materials Science & Engineering",
+        "colleges": "College of Engineering == College of Engineering",
+        "buildings": "Textiles Complex --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          1998
+        ],
+        "year_recent": 1998,
+        "dois": [
+          "10.1007/s11664-998-0392-9"
+        ],
+        "ncsu?": true,
+        "cross_college?": false,
+        "cross_department?": true,
+        "cross_unit?": false,
+        "cluster?": false,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          "Journal of Electronic Materials"
+        ],
+        "color": "#CC0000",
+        "size": 1
+      }
+    },
+    {
+      "source": "u-2405",
+      "target": "rloesing",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Analytical Instrumentation Facility --- unknown",
+        "colleges": "College of Engineering --- unknown",
+        "buildings": "unknown --- unknown",
+        "roles": "unknown == unknown",
+        "years": [
+          1998
+        ],
+        "year_recent": 1998,
+        "dois": [
+          "10.1007/s11664-998-0392-9"
+        ],
+        "ncsu?": true,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": false,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          "Journal of Electronic Materials"
+        ],
+        "color": "#CC0000",
+        "size": 1
+      }
+    },
+    {
+      "source": "u-2405",
+      "target": "uid-rfd",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Analytical Instrumentation Facility -- Materials Science & Engineering",
+        "colleges": "College of Engineering == College of Engineering",
+        "buildings": "unknown --- unknown",
+        "roles": "unknown == unknown",
+        "years": [
+          1998
+        ],
+        "year_recent": 1998,
+        "dois": [
+          "10.1007/s11664-998-0392-9"
+        ],
+        "ncsu?": true,
+        "cross_college?": false,
+        "cross_department?": true,
+        "cross_unit?": true,
+        "cluster?": false,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          "Journal of Electronic Materials"
+        ],
+        "color": "#CC0000",
+        "size": 1
+      }
+    },
+    {
+      "source": "u-670",
+      "target": "uid-rfd",
+      "attributes": {
+        "label": 41,
+        "weight": 41,
+        "collaboration_count": 41,
+        "departments": "Materials Science & Engineering == Materials Science & Engineering",
+        "colleges": "College of Engineering == College of Engineering",
+        "buildings": "unknown --- unknown",
+        "roles": "unknown == unknown",
+        "years": [
+          2003,
+          2003,
+          2001,
+          2001,
+          2000,
+          2000,
+          1999,
+          1999,
+          1999,
+          1999,
+          1999,
+          1999,
+          1999,
+          1999,
+          1998,
+          1998,
+          1998,
+          1998,
+          1998,
+          1998,
+          1998,
+          1998,
+          1998,
+          1998,
+          1998,
+          1997,
+          1997,
+          1997,
+          1997,
+          1997,
+          1997,
+          1997,
+          1997,
+          1997,
+          1997,
+          1997,
+          1997,
+          1997,
+          1997,
+          1997,
+          1996
+        ],
+        "year_recent": 2003,
+        "dois": [
+          "10.1063/1.1350421",
+          "10.1016/S0040-6090(99)00903-7",
+          "10.1063/1.124195",
+          "10.1016/S0925-9635(98)00341-0",
+          "10.1557/s1092578300002830",
+          "10.1063/1.369325",
+          "10.1007/s11664-998-0392-9",
+          "10.1063/1.366716",
+          "10.1063/1.368814",
+          "10.12693/APhysPolA.94.383",
+          "10.1063/1.366660",
+          "10.1063/1.122273",
+          "10.1007/s11664-998-0393-8",
+          "10.1063/1.368463",
+          "10.1007/s11664-998-0182-4",
+          "10.1016/S0040-6090(97)00815-8",
+          "10.1063/1.122597",
+          "10.1063/1.120091",
+          "10.1016/S0038-1101(96)00152-9",
+          "10.1016/S0955-2219(97)00077-0",
+          "10.1143/JJAP.36.L532",
+          "10.1016/S0925-9635(96)00626-7",
+          "10.1063/1.120463",
+          "10.1016/S0168-583X(97)00076-1",
+          "10.1557/proc-449-835",
+          "10.12693/APhysPolA.92.819",
+          "10.1063/1.119367",
+          "10.1016/s0921-5107(97)00151-7",
+          "10.1063/1.120052",
+          "10.1063/1.119089",
+          "10.1557/proc-449-781"
+        ],
+        "ncsu?": true,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": false,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          null
+        ],
+        "color": "#CC0000",
+        "size": 41
+      }
+    },
+    {
+      "source": "u-670",
+      "target": "https://orcid.org/0000-0001-5651-2791",
+      "attributes": {
+        "label": 12,
+        "weight": 12,
+        "collaboration_count": 12,
+        "departments": "Materials Science & Engineering == Materials Science & Engineering",
+        "colleges": "College of Engineering == College of Engineering",
+        "buildings": "unknown --- unknown",
+        "roles": "unknown == unknown",
+        "years": [
+          2003,
+          2003,
+          2000,
+          1999,
+          1998,
+          1998,
+          1998,
+          1997,
+          1997,
+          1997,
+          1997,
+          1997
+        ],
+        "year_recent": 2003,
+        "dois": [
+          "10.1016/S0925-9635(98)00341-0",
+          "10.1007/s11664-998-0392-9",
+          "10.1007/s11664-998-0393-8",
+          "10.1007/s11664-998-0182-4",
+          "10.1063/1.120091",
+          "10.1143/JJAP.36.L532",
+          "10.1016/S0925-9635(96)00626-7",
+          "10.1063/1.119089"
+        ],
+        "ncsu?": true,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": false,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          null
+        ],
+        "color": "#CC0000",
+        "size": 12
+      }
+    },
+    {
+      "source": "u-670",
+      "target": "u-1159",
+      "attributes": {
+        "label": 7,
+        "weight": 7,
+        "collaboration_count": 7,
+        "departments": "Materials Science & Engineering == Materials Science & Engineering",
+        "colleges": "College of Engineering == College of Engineering",
+        "buildings": "unknown --- unknown",
+        "roles": "unknown == unknown",
+        "years": [
+          1999,
+          1998,
+          1998,
+          1998,
+          1997,
+          1997,
+          1997
+        ],
+        "year_recent": 1999,
+        "dois": [
+          "10.1063/1.369325",
+          "10.1007/s11664-998-0392-9",
+          "10.1063/1.366716",
+          "10.1063/1.366660",
+          "10.1016/S0955-2219(97)00077-0",
+          "10.1016/S0925-9635(96)00626-7",
+          "10.1063/1.119367"
+        ],
+        "ncsu?": true,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": false,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          "Journal of Applied Physics"
+        ],
+        "color": "#CC0000",
+        "size": 7
+      }
+    },
+    {
+      "source": "u-670",
+      "target": "uid-dgriffis",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Materials Science & Engineering == Materials Science & Engineering",
+        "colleges": "College of Engineering == College of Engineering",
+        "buildings": "Textiles Complex --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          1998
+        ],
+        "year_recent": 1998,
+        "dois": [
+          "10.1007/s11664-998-0392-9"
+        ],
+        "ncsu?": true,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": false,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          "Journal of Electronic Materials"
+        ],
+        "color": "#CC0000",
+        "size": 1
+      }
+    },
+    {
+      "source": "u-670",
+      "target": "rloesing",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Materials Science & Engineering --- unknown",
+        "colleges": "College of Engineering --- unknown",
+        "buildings": "unknown --- unknown",
+        "roles": "unknown == unknown",
+        "years": [
+          1998
+        ],
+        "year_recent": 1998,
+        "dois": [
+          "10.1007/s11664-998-0392-9"
+        ],
+        "ncsu?": true,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": false,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          "Journal of Electronic Materials"
+        ],
+        "color": "#CC0000",
+        "size": 1
+      }
+    },
+    {
+      "source": "u-1159",
+      "target": "uid-rfd",
+      "attributes": {
+        "label": 10,
+        "weight": 10,
+        "collaboration_count": 10,
+        "departments": "Materials Science & Engineering == Materials Science & Engineering",
+        "colleges": "College of Engineering == College of Engineering",
+        "buildings": "unknown --- unknown",
+        "roles": "unknown == unknown",
+        "years": [
+          1999,
+          1998,
+          1998,
+          1998,
+          1998,
+          1998,
+          1997,
+          1997,
+          1997,
+          1997
+        ],
+        "year_recent": 1999,
+        "dois": [
+          "10.1063/1.369325",
+          "10.1007/s11664-998-0392-9",
+          "10.1007/s11664-998-0394-7",
+          "10.1016/S0040-6090(97)01217-0",
+          "10.1063/1.366716",
+          "10.1063/1.366660",
+          "10.1016/S0038-1101(96)00152-9",
+          "10.1016/S0955-2219(97)00077-0",
+          "10.1016/S0925-9635(96)00626-7",
+          "10.1063/1.119367"
+        ],
+        "ncsu?": true,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": false,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          "Journal of Applied Physics"
+        ],
+        "color": "#CC0000",
+        "size": 10
+      }
+    },
+    {
+      "source": "u-1159",
+      "target": "https://orcid.org/0000-0001-5651-2791",
+      "attributes": {
+        "label": 2,
+        "weight": 2,
+        "collaboration_count": 2,
+        "departments": "Materials Science & Engineering == Materials Science & Engineering",
+        "colleges": "College of Engineering == College of Engineering",
+        "buildings": "unknown --- unknown",
+        "roles": "unknown == unknown",
+        "years": [
+          1998,
+          1997
+        ],
+        "year_recent": 1998,
+        "dois": [
+          "10.1007/s11664-998-0392-9",
+          "10.1016/S0925-9635(96)00626-7"
+        ],
+        "ncsu?": true,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": false,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          "Journal of Electronic Materials"
+        ],
+        "color": "#CC0000",
+        "size": 2
+      }
+    },
+    {
+      "source": "u-1159",
+      "target": "uid-dgriffis",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Materials Science & Engineering == Materials Science & Engineering",
+        "colleges": "College of Engineering == College of Engineering",
+        "buildings": "Textiles Complex --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          1998
+        ],
+        "year_recent": 1998,
+        "dois": [
+          "10.1007/s11664-998-0392-9"
+        ],
+        "ncsu?": true,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": false,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          "Journal of Electronic Materials"
+        ],
+        "color": "#CC0000",
+        "size": 1
+      }
+    },
+    {
+      "source": "u-1159",
+      "target": "rloesing",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Materials Science & Engineering --- unknown",
+        "colleges": "College of Engineering --- unknown",
+        "buildings": "unknown --- unknown",
+        "roles": "unknown == unknown",
+        "years": [
+          1998
+        ],
+        "year_recent": 1998,
+        "dois": [
+          "10.1007/s11664-998-0392-9"
+        ],
+        "ncsu?": true,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": false,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          "Journal of Electronic Materials"
+        ],
+        "color": "#CC0000",
+        "size": 1
+      }
+    },
+    {
+      "source": "u-1110",
+      "target": "uid-rfd",
+      "attributes": {
+        "label": 22,
+        "weight": 22,
+        "collaboration_count": 22,
+        "departments": "Materials Science & Engineering == Materials Science & Engineering",
+        "colleges": "College of Engineering == College of Engineering",
+        "buildings": "unknown --- unknown",
+        "roles": "unknown == unknown",
+        "years": [
+          2003,
+          2003,
+          2003,
+          2002,
+          2001,
+          2000,
+          2000,
+          2000,
+          1999,
+          1999,
+          1999,
+          1998,
+          1998,
+          1998,
+          1998,
+          1998,
+          1998,
+          1998,
+          1997,
+          1997,
+          1997,
+          1997
+        ],
+        "year_recent": 2003,
+        "dois": [
+          "10.1016/S0038-1101(01)00346-X",
+          "10.1016/S0022-0248(00)00832-0",
+          "10.1016/S0925-9635(98)00341-0",
+          "10.1063/1.123017",
+          "10.1007/s11664-998-0392-9",
+          "10.1063/1.368775",
+          "10.1016/s0169-4332(98)00140-8",
+          "10.1007/s11664-998-0393-8",
+          "10.1063/1.121517",
+          "10.1007/s11664-998-0182-4",
+          "10.1143/JJAP.36.L532",
+          "10.1016/S0925-9635(96)00626-7",
+          "10.1063/1.119089"
+        ],
+        "ncsu?": true,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": false,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          null
+        ],
+        "color": "#CC0000",
+        "size": 22
+      }
+    },
+    {
+      "source": "u-1110",
+      "target": "u-670",
+      "attributes": {
+        "label": 11,
+        "weight": 11,
+        "collaboration_count": 11,
+        "departments": "Materials Science & Engineering == Materials Science & Engineering",
+        "colleges": "College of Engineering == College of Engineering",
+        "buildings": "unknown --- unknown",
+        "roles": "unknown == unknown",
+        "years": [
+          2003,
+          2003,
+          2000,
+          1999,
+          1998,
+          1998,
+          1998,
+          1997,
+          1997,
+          1997,
+          1997
+        ],
+        "year_recent": 2003,
+        "dois": [
+          "10.1016/S0925-9635(98)00341-0",
+          "10.1007/s11664-998-0392-9",
+          "10.1007/s11664-998-0393-8",
+          "10.1007/s11664-998-0182-4",
+          "10.1143/JJAP.36.L532",
+          "10.1016/S0925-9635(96)00626-7",
+          "10.1063/1.119089"
+        ],
+        "ncsu?": true,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": false,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          null
+        ],
+        "color": "#CC0000",
+        "size": 11
+      }
+    },
+    {
+      "source": "u-1110",
+      "target": "https://orcid.org/0000-0001-5651-2791",
+      "attributes": {
+        "label": 13,
+        "weight": 13,
+        "collaboration_count": 13,
+        "departments": "Materials Science & Engineering == Materials Science & Engineering",
+        "colleges": "College of Engineering == College of Engineering",
+        "buildings": "unknown --- unknown",
+        "roles": "unknown == unknown",
+        "years": [
+          2002,
+          2001,
+          1999,
+          1999,
+          1998,
+          1998,
+          1998,
+          1998,
+          1998,
+          1998,
+          1997,
+          1997,
+          1997
+        ],
+        "year_recent": 2002,
+        "dois": [
+          "10.1016/S0038-1101(01)00346-X",
+          "10.1016/S0022-0248(00)00832-0",
+          "10.1016/S0925-9635(98)00341-0",
+          "10.1063/1.123017",
+          "10.1007/s11664-998-0392-9",
+          "10.1063/1.368775",
+          "10.1016/s0169-4332(98)00140-8",
+          "10.1007/s11664-998-0393-8",
+          "10.1063/1.121517",
+          "10.1007/s11664-998-0182-4",
+          "10.1143/JJAP.36.L532",
+          "10.1016/S0925-9635(96)00626-7",
+          "10.1063/1.119089"
+        ],
+        "ncsu?": true,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": false,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          "Solid-state Electronics"
+        ],
+        "color": "#CC0000",
+        "size": 13
+      }
+    },
+    {
+      "source": "u-1110",
+      "target": "u-1159",
+      "attributes": {
+        "label": 2,
+        "weight": 2,
+        "collaboration_count": 2,
+        "departments": "Materials Science & Engineering == Materials Science & Engineering",
+        "colleges": "College of Engineering == College of Engineering",
+        "buildings": "unknown --- unknown",
+        "roles": "unknown == unknown",
+        "years": [
+          1998,
+          1997
+        ],
+        "year_recent": 1998,
+        "dois": [
+          "10.1007/s11664-998-0392-9",
+          "10.1016/S0925-9635(96)00626-7"
+        ],
+        "ncsu?": true,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": false,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          "Journal of Electronic Materials"
+        ],
+        "color": "#CC0000",
+        "size": 2
+      }
+    },
+    {
+      "source": "u-1110",
+      "target": "uid-dgriffis",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Materials Science & Engineering == Materials Science & Engineering",
+        "colleges": "College of Engineering == College of Engineering",
+        "buildings": "Textiles Complex --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          1998
+        ],
+        "year_recent": 1998,
+        "dois": [
+          "10.1007/s11664-998-0392-9"
+        ],
+        "ncsu?": true,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": false,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          "Journal of Electronic Materials"
+        ],
+        "color": "#CC0000",
+        "size": 1
+      }
+    },
+    {
+      "source": "u-1110",
+      "target": "rloesing",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Materials Science & Engineering --- unknown",
+        "colleges": "College of Engineering --- unknown",
+        "buildings": "unknown --- unknown",
+        "roles": "unknown == unknown",
+        "years": [
+          1998
+        ],
+        "year_recent": 1998,
+        "dois": [
+          "10.1007/s11664-998-0392-9"
+        ],
+        "ncsu?": true,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": false,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          "Journal of Electronic Materials"
+        ],
+        "color": "#CC0000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-dgriffis",
+      "target": "https://orcid.org/0000-0001-5651-2791",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Materials Science & Engineering == Materials Science & Engineering",
+        "colleges": "College of Engineering == College of Engineering",
+        "buildings": "Textiles Complex --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          1998
+        ],
+        "year_recent": 1998,
+        "dois": [
+          "10.1007/s11664-998-0392-9"
+        ],
+        "ncsu?": true,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": false,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          "Journal of Electronic Materials"
+        ],
+        "color": "#CC0000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-dgriffis",
+      "target": "rloesing",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Materials Science & Engineering --- unknown",
+        "colleges": "College of Engineering --- unknown",
+        "buildings": "Textiles Complex --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          1998
+        ],
+        "year_recent": 1998,
+        "dois": [
+          "10.1007/s11664-998-0392-9"
+        ],
+        "ncsu?": true,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": false,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          "Journal of Electronic Materials"
+        ],
+        "color": "#CC0000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-dgriffis",
+      "target": "uid-rfd",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Materials Science & Engineering == Materials Science & Engineering",
+        "colleges": "College of Engineering == College of Engineering",
+        "buildings": "Textiles Complex --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          1998
+        ],
+        "year_recent": 1998,
+        "dois": [
+          "10.1007/s11664-998-0392-9"
+        ],
+        "ncsu?": true,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": false,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          "Journal of Electronic Materials"
+        ],
+        "color": "#CC0000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-rfd",
+      "target": "https://orcid.org/0000-0001-5651-2791",
+      "attributes": {
+        "label": 23,
+        "weight": 23,
+        "collaboration_count": 23,
+        "departments": "Materials Science & Engineering == Materials Science & Engineering",
+        "colleges": "College of Engineering == College of Engineering",
+        "buildings": "unknown --- unknown",
+        "roles": "unknown == unknown",
+        "years": [
+          2003,
+          2003,
+          2003,
+          2002,
+          2001,
+          2000,
+          2000,
+          2000,
+          1999,
+          1999,
+          1999,
+          1998,
+          1998,
+          1998,
+          1998,
+          1998,
+          1998,
+          1998,
+          1997,
+          1997,
+          1997,
+          1997,
+          1997
+        ],
+        "year_recent": 2003,
+        "dois": [
+          "10.1016/S0038-1101(01)00346-X",
+          "10.1016/S0022-0248(00)00832-0",
+          "10.1016/S0925-9635(98)00341-0",
+          "10.1063/1.123017",
+          "10.1007/s11664-998-0392-9",
+          "10.1063/1.368775",
+          "10.1016/s0169-4332(98)00140-8",
+          "10.1007/s11664-998-0393-8",
+          "10.1063/1.121517",
+          "10.1007/s11664-998-0182-4",
+          "10.1063/1.120091",
+          "10.1143/JJAP.36.L532",
+          "10.1016/S0925-9635(96)00626-7",
+          "10.1063/1.119089"
+        ],
+        "ncsu?": true,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": false,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          null
+        ],
+        "color": "#CC0000",
+        "size": 23
+      }
+    },
+    {
+      "source": "uid-rfd",
+      "target": "rloesing",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Materials Science & Engineering --- unknown",
+        "colleges": "College of Engineering --- unknown",
+        "buildings": "unknown --- unknown",
+        "roles": "unknown == unknown",
+        "years": [
+          1998
+        ],
+        "year_recent": 1998,
+        "dois": [
+          "10.1007/s11664-998-0392-9"
+        ],
+        "ncsu?": true,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": false,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          "Journal of Electronic Materials"
+        ],
+        "color": "#CC0000",
+        "size": 1
+      }
+    }
+  ]
+}

@@ -223,8 +223,8 @@ function CircularGraph ({
 
   d3.selectAll("svg").remove();
   
-  c(nodes);
-  c(edges);
+  //c(nodes);
+  //c(edges);
   
   const N = d3.map(nodes, nodeId).map(intern);
   
@@ -245,8 +245,8 @@ function CircularGraph ({
   
   nodes = d3.map(nodes, (_, i) => ({id: N[i]}));
   edges = d3.map(edges, (_, i) => ({source: LS[i], target: LT[i]}));
-  c(nodes);
-  c(edges);
+  //c(nodes);
+  //c(edges);
   // Compute default domains.
   if (G && nodeGroups === undefined) nodeGroups = d3.sort(G);
   const color = nodeGroup == null ? null : d3.scaleOrdinal(nodeGroups, colors);

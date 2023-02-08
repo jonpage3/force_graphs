@@ -1,0 +1,1660 @@
+{
+  "options": {
+    "type": "undirected",
+    "multi": false,
+    "allowSelfLoops": false
+  },
+  "attributes": {
+    "creator": "Citation Index",
+    "lastModifiedDate": "2023-01-15"
+  },
+  "nodes": [
+    {
+      "key": "u-3092",
+      "attributes": {
+        "label": "B Neves",
+        "name": "B. R. A. Neves",
+        "known?": true,
+        "orcid?": false,
+        "ncsu?": true,
+        "affiliations": [
+          "North Carolina State University"
+        ],
+        "countries": [
+          "US"
+        ],
+        "url": "https://ci.lib.ncsu.edu/profiles/3092",
+        "active?": false,
+        "department": "Analytical Instrumentation Facility",
+        "college": "College of Engineering",
+        "ncsu_affiliations": [
+          "Analytical Instrumentation Facility"
+        ],
+        "cluster?": false,
+        "clusters": [
+
+        ],
+        "role": null,
+        "building": null,
+        "count": 7,
+        "oa_count": 1,
+        "years": [
+          2001,
+          2000,
+          1999
+        ],
+        "year_recent": 2001,
+        "article_concepts": [
+
+        ],
+        "host_venues": [
+          "Applied Physics Letters",
+          "Langmuir",
+          "Microscopy and Microanalysis",
+          "Nanotechnology"
+        ],
+        "color": "#990000",
+        "size": 20
+      }
+    },
+    {
+      "key": "https://orcid.org/0000-0003-0464-4754",
+      "attributes": {
+        "label": "B Neves",
+        "name": "B. R. A. Neves",
+        "known?": true,
+        "orcid?": false,
+        "ncsu?": true,
+        "affiliations": [
+          "North Carolina State University"
+        ],
+        "countries": [
+          "US"
+        ],
+        "url": "https://ci.lib.ncsu.edu/profiles/3092",
+        "active?": false,
+        "department": "Analytical Instrumentation Facility",
+        "college": "College of Engineering",
+        "ncsu_affiliations": [
+          "Analytical Instrumentation Facility"
+        ],
+        "cluster?": false,
+        "clusters": [
+
+        ],
+        "role": null,
+        "building": null,
+        "count": 7,
+        "oa_count": 1,
+        "years": [
+          2001,
+          2000,
+          1999
+        ],
+        "year_recent": 2001,
+        "article_concepts": [
+
+        ],
+        "host_venues": [
+          "Applied Physics Letters",
+          "Langmuir",
+          "Microscopy and Microanalysis",
+          "Nanotechnology"
+        ],
+        "color": "#990000",
+        "size": 20
+      }
+    },
+    {
+      "key": "u-3300",
+      "attributes": {
+        "label": "M Salmon",
+        "name": "Michael E. Salmon",
+        "known?": true,
+        "orcid?": false,
+        "ncsu?": true,
+        "affiliations": [
+          "North Carolina State University"
+        ],
+        "countries": [
+          "US"
+        ],
+        "url": "https://ci.lib.ncsu.edu/profiles/3300",
+        "active?": false,
+        "department": "Materials Science & Engineering",
+        "college": "College of Engineering",
+        "ncsu_affiliations": [
+          "Materials Science & Engineering"
+        ],
+        "cluster?": false,
+        "clusters": [
+
+        ],
+        "role": null,
+        "building": null,
+        "count": 7,
+        "oa_count": 1,
+        "years": [
+          2003,
+          2001,
+          2000,
+          1999
+        ],
+        "year_recent": 2003,
+        "article_concepts": [
+
+        ],
+        "host_venues": [
+          "Langmuir",
+          "Microscopy and Microanalysis",
+          "Nanotechnology"
+        ],
+        "color": "#990000",
+        "size": 10
+      }
+    },
+    {
+      "key": "ebtroughton",
+      "attributes": {
+        "label": "E Troughton",
+        "name": "E. B. Troughton",
+        "known?": false,
+        "orcid?": null,
+        "ncsu?": false,
+        "affiliations": [
+          "Lord Corporation"
+        ],
+        "countries": [
+          "US"
+        ],
+        "color": "#BFBFBD",
+        "size": 10
+      }
+    },
+    {
+      "key": "u-1220",
+      "attributes": {
+        "label": "P Russell",
+        "name": "Phillip E. Russell",
+        "known?": true,
+        "orcid?": false,
+        "ncsu?": true,
+        "affiliations": [
+          "North Carolina State University"
+        ],
+        "countries": [
+          "US"
+        ],
+        "url": "https://ci.lib.ncsu.edu/profiles/1220",
+        "active?": false,
+        "department": "Materials Science & Engineering",
+        "college": "College of Engineering",
+        "ncsu_affiliations": [
+          "Materials Science & Engineering"
+        ],
+        "cluster?": false,
+        "clusters": [
+
+        ],
+        "role": null,
+        "building": null,
+        "count": 32,
+        "oa_count": 10,
+        "years": [
+          2008,
+          2007,
+          2006,
+          2005,
+          2004,
+          2003,
+          2002,
+          2001,
+          2000,
+          1999,
+          1998,
+          1992
+        ],
+        "year_recent": 2008,
+        "article_concepts": [
+          "Alternative medicine",
+          "Beam (structure)",
+          "Chemistry",
+          "Classification of discontinuities",
+          "Composite material",
+          "Condensed matter physics",
+          "Copper",
+          "Creep",
+          "Crystallography",
+          "Dislocation",
+          "Elastic modulus",
+          "Elasticity (physics)",
+          "Fabrication",
+          "Focused ion beam",
+          "Grain boundary",
+          "Indentation",
+          "Ion",
+          "Ion beam",
+          "Linguistics",
+          "Materials science",
+          "Mathematical analysis",
+          "Mathematics",
+          "Medicine",
+          "Metal",
+          "Metallurgy",
+          "Microstructure",
+          "Nanoindentation",
+          "Nanostructure",
+          "Nanotechnology",
+          "Optical fiber",
+          "Optics",
+          "Optoelectronics",
+          "Organic chemistry",
+          "Pathology",
+          "Philosophy",
+          "Physics",
+          "Plasticity",
+          "Psychology",
+          "Relaxation (psychology)",
+          "Social psychology",
+          "Stress (linguistics)",
+          "Stress relaxation",
+          "Surface micromachining",
+          "Thin film",
+          "Yield (engineering)",
+          "Young's modulus"
+        ],
+        "host_venues": [
+          "Applied Physics Letters",
+          "Journal of Materials Research",
+          "Journal of Microscopy",
+          "Journal of vacuum science & technology",
+          "Langmuir",
+          "Macromolecular Rapid Communications",
+          "Microelectronics Journal",
+          "Microscopy and Microanalysis",
+          "Nanotechnology",
+          "Polymer",
+          "Semiconductor Science and Technology",
+          "Ultramicroscopy"
+        ],
+        "color": "#990000",
+        "size": 10
+      }
+    },
+    {
+      "key": "jrebtroughton",
+      "attributes": {
+        "label": "E Troughton",
+        "name": "Jr.‖ E. B. Troughton",
+        "known?": false,
+        "orcid?": null,
+        "ncsu?": true,
+        "affiliations": [
+          "North Carolina State University"
+        ],
+        "countries": [
+          "US"
+        ],
+        "color": "#000000",
+        "size": 10
+      }
+    },
+    {
+      "key": "https://orcid.org/0000-0002-1806-4526",
+      "attributes": {
+        "label": "D Leonard",
+        "name": "Donovan Nicholas Leonard",
+        "known?": true,
+        "orcid?": false,
+        "ncsu?": true,
+        "affiliations": [
+          "North Carolina State University"
+        ],
+        "countries": [
+          "US"
+        ],
+        "url": "https://ci.lib.ncsu.edu/profiles/3345",
+        "active?": false,
+        "department": "Materials Science & Engineering",
+        "college": "College of Engineering",
+        "ncsu_affiliations": [
+          "Materials Science & Engineering"
+        ],
+        "cluster?": false,
+        "clusters": [
+
+        ],
+        "role": null,
+        "building": null,
+        "count": 17,
+        "oa_count": 2,
+        "years": [
+          2013,
+          2011,
+          2009,
+          2008,
+          2007,
+          2006,
+          2005,
+          2002,
+          2000,
+          1999
+        ],
+        "year_recent": 2013,
+        "article_concepts": [
+          "Alloy",
+          "Alternative medicine",
+          "Analytical Chemistry (journal)",
+          "Beam (structure)",
+          "Chemistry",
+          "Chromatography",
+          "Computer science",
+          "Crystallite",
+          "Crystallography",
+          "Diffusion",
+          "Fabrication",
+          "Flux (metallurgy)",
+          "Focused ion beam",
+          "Ilmenite",
+          "Inert",
+          "Inorganic chemistry",
+          "Ion",
+          "Ion beam",
+          "Materials science",
+          "Medicine",
+          "Metal",
+          "Metallurgy",
+          "Mineralogy",
+          "Nanoscopic scale",
+          "Nanostructure",
+          "Nanotechnology",
+          "Optical fiber",
+          "Optics",
+          "Optoelectronics",
+          "Organic chemistry",
+          "Oxide",
+          "Pathology",
+          "Physics",
+          "Plasmon",
+          "Programming language",
+          "Solid solution",
+          "Ternary operation",
+          "Thermodynamics",
+          "Wafer"
+        ],
+        "host_venues": [
+          "Analytical Chemistry",
+          "Journal of Applied Physics",
+          "Journal of Physical Chemistry C",
+          "Journal of the American Chemical Society",
+          "Journal of vacuum science & technology",
+          "Langmuir",
+          "Macromolecular Rapid Communications",
+          "Metallurgical and Materials Transactions",
+          "Nanotechnology",
+          "Polymer",
+          "Small"
+        ],
+        "color": "#990000",
+        "size": 10
+      }
+    },
+    {
+      "key": "ebarrytroughton",
+      "attributes": {
+        "label": "E Troughton",
+        "name": "E. Barry Troughton",
+        "known?": false,
+        "orcid?": null,
+        "ncsu?": false,
+        "affiliations": [
+          "Lord Corporation"
+        ],
+        "countries": [
+          "US"
+        ],
+        "color": "#BFBFBD",
+        "size": 10
+      }
+    },
+    {
+      "key": "msandrade",
+      "attributes": {
+        "label": "M Andrade",
+        "name": "M. S. Andrade",
+        "known?": false,
+        "orcid?": null,
+        "ncsu?": true,
+        "affiliations": [
+          "North Carolina State University"
+        ],
+        "countries": [
+          "US"
+        ],
+        "color": "#000000",
+        "size": 10
+      }
+    },
+    {
+      "key": "u-3345",
+      "attributes": {
+        "label": "D Leonard",
+        "name": "Donovan Nicholas Leonard",
+        "known?": true,
+        "orcid?": false,
+        "ncsu?": true,
+        "affiliations": [
+          "North Carolina State University"
+        ],
+        "countries": [
+          "US"
+        ],
+        "url": "https://ci.lib.ncsu.edu/profiles/3345",
+        "active?": false,
+        "department": "Materials Science & Engineering",
+        "college": "College of Engineering",
+        "ncsu_affiliations": [
+          "Materials Science & Engineering"
+        ],
+        "cluster?": false,
+        "clusters": [
+
+        ],
+        "role": null,
+        "building": null,
+        "count": 17,
+        "oa_count": 2,
+        "years": [
+          2013,
+          2011,
+          2009,
+          2008,
+          2007,
+          2006,
+          2005,
+          2002,
+          2000,
+          1999
+        ],
+        "year_recent": 2013,
+        "article_concepts": [
+          "Alloy",
+          "Alternative medicine",
+          "Analytical Chemistry (journal)",
+          "Beam (structure)",
+          "Chemistry",
+          "Chromatography",
+          "Computer science",
+          "Crystallite",
+          "Crystallography",
+          "Diffusion",
+          "Fabrication",
+          "Flux (metallurgy)",
+          "Focused ion beam",
+          "Ilmenite",
+          "Inert",
+          "Inorganic chemistry",
+          "Ion",
+          "Ion beam",
+          "Materials science",
+          "Medicine",
+          "Metal",
+          "Metallurgy",
+          "Mineralogy",
+          "Nanoscopic scale",
+          "Nanostructure",
+          "Nanotechnology",
+          "Optical fiber",
+          "Optics",
+          "Optoelectronics",
+          "Organic chemistry",
+          "Oxide",
+          "Pathology",
+          "Physics",
+          "Plasmon",
+          "Programming language",
+          "Solid solution",
+          "Ternary operation",
+          "Thermodynamics",
+          "Wafer"
+        ],
+        "host_venues": [
+          "Analytical Chemistry",
+          "Journal of Applied Physics",
+          "Journal of Physical Chemistry C",
+          "Journal of the American Chemical Society",
+          "Journal of vacuum science & technology",
+          "Langmuir",
+          "Macromolecular Rapid Communications",
+          "Metallurgical and Materials Transactions",
+          "Nanotechnology",
+          "Polymer",
+          "Small"
+        ],
+        "color": "#990000",
+        "size": 10
+      }
+    }
+  ],
+  "edges": [
+    {
+      "source": "u-3092",
+      "target": "https://orcid.org/0000-0003-0464-4754",
+      "attributes": {
+        "label": 5,
+        "weight": 5,
+        "collaboration_count": 5,
+        "departments": "Analytical Instrumentation Facility == Analytical Instrumentation Facility",
+        "colleges": "College of Engineering == College of Engineering",
+        "buildings": "unknown --- unknown",
+        "roles": "unknown == unknown",
+        "years": [
+          2001,
+          2001,
+          1999,
+          1999,
+          1999
+        ],
+        "year_recent": 2001,
+        "dois": [
+          "10.1088/0957-4484/12/3/315",
+          "10.1021/la010909a",
+          "10.1017/S1431927699990475",
+          "10.1063/1.123767",
+          "10.1088/0957-4484/10/4/307"
+        ],
+        "ncsu?": true,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": false,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          "Nanotechnology"
+        ],
+        "color": "#CC0000",
+        "size": 5
+      }
+    },
+    {
+      "source": "u-3092",
+      "target": "u-3300",
+      "attributes": {
+        "label": 6,
+        "weight": 6,
+        "collaboration_count": 6,
+        "departments": "Analytical Instrumentation Facility -- Materials Science & Engineering",
+        "colleges": "College of Engineering == College of Engineering",
+        "buildings": "unknown --- unknown",
+        "roles": "unknown == unknown",
+        "years": [
+          2001,
+          2001,
+          2000,
+          2000,
+          1999,
+          1999
+        ],
+        "year_recent": 2001,
+        "dois": [
+          "10.1088/0957-4484/12/3/315",
+          "10.1021/la010909a",
+          "10.1017/S1431927699990475",
+          "10.1088/0957-4484/10/4/307"
+        ],
+        "ncsu?": true,
+        "cross_college?": false,
+        "cross_department?": true,
+        "cross_unit?": true,
+        "cluster?": false,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          "Nanotechnology"
+        ],
+        "color": "#CC0000",
+        "size": 6
+      }
+    },
+    {
+      "source": "u-3092",
+      "target": "ebtroughton",
+      "attributes": {
+        "label": 4,
+        "weight": 4,
+        "collaboration_count": 4,
+        "departments": "Analytical Instrumentation Facility --- unknown",
+        "colleges": "College of Engineering --- unknown",
+        "buildings": "unknown --- unknown",
+        "roles": "unknown == unknown",
+        "years": [
+          2001,
+          2000,
+          2000,
+          1999
+        ],
+        "year_recent": 2001,
+        "dois": [
+          "10.1088/0957-4484/12/3/315",
+          "10.1088/0957-4484/10/4/307"
+        ],
+        "ncsu?": false,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": false,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          "Nanotechnology"
+        ],
+        "color": "#000000",
+        "size": 4
+      }
+    },
+    {
+      "source": "u-3092",
+      "target": "u-1220",
+      "attributes": {
+        "label": 6,
+        "weight": 6,
+        "collaboration_count": 6,
+        "departments": "Analytical Instrumentation Facility -- Materials Science & Engineering",
+        "colleges": "College of Engineering == College of Engineering",
+        "buildings": "unknown --- unknown",
+        "roles": "unknown == unknown",
+        "years": [
+          2001,
+          2001,
+          2000,
+          2000,
+          1999,
+          1999
+        ],
+        "year_recent": 2001,
+        "dois": [
+          "10.1088/0957-4484/12/3/315",
+          "10.1021/la010909a",
+          "10.1017/S1431927699990475",
+          "10.1088/0957-4484/10/4/307"
+        ],
+        "ncsu?": true,
+        "cross_college?": false,
+        "cross_department?": true,
+        "cross_unit?": true,
+        "cluster?": false,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          "Nanotechnology"
+        ],
+        "color": "#CC0000",
+        "size": 6
+      }
+    },
+    {
+      "source": "u-3092",
+      "target": "jrebtroughton",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Analytical Instrumentation Facility --- unknown",
+        "colleges": "College of Engineering --- unknown",
+        "buildings": "unknown --- unknown",
+        "roles": "unknown == unknown",
+        "years": [
+          2001
+        ],
+        "year_recent": 2001,
+        "dois": [
+          "10.1021/la010909a"
+        ],
+        "ncsu?": true,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": false,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          "Langmuir"
+        ],
+        "color": "#CC0000",
+        "size": 1
+      }
+    },
+    {
+      "source": "u-3092",
+      "target": "https://orcid.org/0000-0002-1806-4526",
+      "attributes": {
+        "label": 2,
+        "weight": 2,
+        "collaboration_count": 2,
+        "departments": "Analytical Instrumentation Facility -- Materials Science & Engineering",
+        "colleges": "College of Engineering == College of Engineering",
+        "buildings": "unknown --- unknown",
+        "roles": "unknown == unknown",
+        "years": [
+          2000,
+          1999
+        ],
+        "year_recent": 2000,
+        "dois": [
+          "10.1088/0957-4484/10/4/307"
+        ],
+        "ncsu?": true,
+        "cross_college?": false,
+        "cross_department?": true,
+        "cross_unit?": true,
+        "cluster?": false,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          null
+        ],
+        "color": "#CC0000",
+        "size": 2
+      }
+    },
+    {
+      "source": "u-3092",
+      "target": "ebarrytroughton",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Analytical Instrumentation Facility --- unknown",
+        "colleges": "College of Engineering --- unknown",
+        "buildings": "unknown --- unknown",
+        "roles": "unknown == unknown",
+        "years": [
+          1999
+        ],
+        "year_recent": 1999,
+        "dois": [
+          "10.1017/S1431927699990475"
+        ],
+        "ncsu?": false,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": false,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          "Microscopy and Microanalysis"
+        ],
+        "color": "#000000",
+        "size": 1
+      }
+    },
+    {
+      "source": "u-3092",
+      "target": "msandrade",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Analytical Instrumentation Facility --- unknown",
+        "colleges": "College of Engineering --- unknown",
+        "buildings": "unknown --- unknown",
+        "roles": "unknown == unknown",
+        "years": [
+          1999
+        ],
+        "year_recent": 1999,
+        "dois": [
+          "10.1063/1.123767"
+        ],
+        "ncsu?": true,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": false,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          "Applied Physics Letters"
+        ],
+        "color": "#CC0000",
+        "size": 1
+      }
+    },
+    {
+      "source": "u-3300",
+      "target": "u-1220",
+      "attributes": {
+        "label": 7,
+        "weight": 7,
+        "collaboration_count": 7,
+        "departments": "Materials Science & Engineering == Materials Science & Engineering",
+        "colleges": "College of Engineering == College of Engineering",
+        "buildings": "unknown --- unknown",
+        "roles": "unknown == unknown",
+        "years": [
+          2003,
+          2001,
+          2001,
+          2000,
+          2000,
+          1999,
+          1999
+        ],
+        "year_recent": 2003,
+        "dois": [
+          "10.1088/0957-4484/12/3/315",
+          "10.1021/la010909a",
+          "10.1017/S1431927699990475",
+          "10.1088/0957-4484/10/4/307"
+        ],
+        "ncsu?": true,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": false,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          null
+        ],
+        "color": "#CC0000",
+        "size": 7
+      }
+    },
+    {
+      "source": "u-3300",
+      "target": "https://orcid.org/0000-0003-0464-4754",
+      "attributes": {
+        "label": 6,
+        "weight": 6,
+        "collaboration_count": 6,
+        "departments": "Analytical Instrumentation Facility -- Materials Science & Engineering",
+        "colleges": "College of Engineering == College of Engineering",
+        "buildings": "unknown --- unknown",
+        "roles": "unknown == unknown",
+        "years": [
+          2001,
+          2001,
+          2000,
+          2000,
+          1999,
+          1999
+        ],
+        "year_recent": 2001,
+        "dois": [
+          "10.1088/0957-4484/12/3/315",
+          "10.1021/la010909a",
+          "10.1017/S1431927699990475",
+          "10.1088/0957-4484/10/4/307"
+        ],
+        "ncsu?": true,
+        "cross_college?": false,
+        "cross_department?": true,
+        "cross_unit?": true,
+        "cluster?": false,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          "Nanotechnology"
+        ],
+        "color": "#CC0000",
+        "size": 6
+      }
+    },
+    {
+      "source": "u-3300",
+      "target": "ebtroughton",
+      "attributes": {
+        "label": 4,
+        "weight": 4,
+        "collaboration_count": 4,
+        "departments": "Materials Science & Engineering --- unknown",
+        "colleges": "College of Engineering --- unknown",
+        "buildings": "unknown --- unknown",
+        "roles": "unknown == unknown",
+        "years": [
+          2001,
+          2000,
+          2000,
+          1999
+        ],
+        "year_recent": 2001,
+        "dois": [
+          "10.1088/0957-4484/12/3/315",
+          "10.1088/0957-4484/10/4/307"
+        ],
+        "ncsu?": false,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": false,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          "Nanotechnology"
+        ],
+        "color": "#000000",
+        "size": 4
+      }
+    },
+    {
+      "source": "u-3300",
+      "target": "jrebtroughton",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Materials Science & Engineering --- unknown",
+        "colleges": "College of Engineering --- unknown",
+        "buildings": "unknown --- unknown",
+        "roles": "unknown == unknown",
+        "years": [
+          2001
+        ],
+        "year_recent": 2001,
+        "dois": [
+          "10.1021/la010909a"
+        ],
+        "ncsu?": true,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": false,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          "Langmuir"
+        ],
+        "color": "#CC0000",
+        "size": 1
+      }
+    },
+    {
+      "source": "u-3300",
+      "target": "https://orcid.org/0000-0002-1806-4526",
+      "attributes": {
+        "label": 2,
+        "weight": 2,
+        "collaboration_count": 2,
+        "departments": "Materials Science & Engineering == Materials Science & Engineering",
+        "colleges": "College of Engineering == College of Engineering",
+        "buildings": "unknown --- unknown",
+        "roles": "unknown == unknown",
+        "years": [
+          2000,
+          1999
+        ],
+        "year_recent": 2000,
+        "dois": [
+          "10.1088/0957-4484/10/4/307"
+        ],
+        "ncsu?": true,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": false,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          null
+        ],
+        "color": "#CC0000",
+        "size": 2
+      }
+    },
+    {
+      "source": "u-3300",
+      "target": "ebarrytroughton",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Materials Science & Engineering --- unknown",
+        "colleges": "College of Engineering --- unknown",
+        "buildings": "unknown --- unknown",
+        "roles": "unknown == unknown",
+        "years": [
+          1999
+        ],
+        "year_recent": 1999,
+        "dois": [
+          "10.1017/S1431927699990475"
+        ],
+        "ncsu?": false,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": false,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          "Microscopy and Microanalysis"
+        ],
+        "color": "#000000",
+        "size": 1
+      }
+    },
+    {
+      "source": "u-1220",
+      "target": "https://orcid.org/0000-0002-1806-4526",
+      "attributes": {
+        "label": 6,
+        "weight": 6,
+        "collaboration_count": 6,
+        "departments": "Materials Science & Engineering == Materials Science & Engineering",
+        "colleges": "College of Engineering == College of Engineering",
+        "buildings": "unknown --- unknown",
+        "roles": "unknown == unknown",
+        "years": [
+          2008,
+          2002,
+          2002,
+          2000,
+          2000,
+          1999
+        ],
+        "year_recent": 2008,
+        "dois": [
+          "10.1116/1.3013329",
+          "10.1002/1521-3927(20020201)23:3<205::AID-MARC205>3.0.CO;2-X",
+          "10.1016/S0032-3861(02)00640-7",
+          "10.1088/0957-4484/10/4/307"
+        ],
+        "ncsu?": true,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": false,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+
+        ],
+        "cross_building?": false,
+        "concepts": [
+          "Fabrication",
+          "Materials science",
+          "Focused ion beam",
+          "Nanostructure",
+          "Optical fiber",
+          "Beam (structure)",
+          "Metal",
+          "Nanotechnology",
+          "Ion beam",
+          "Optoelectronics",
+          "Ion",
+          "Optics",
+          "Chemistry",
+          "Physics",
+          "Metallurgy",
+          "Medicine",
+          "Alternative medicine",
+          "Organic chemistry",
+          "Pathology"
+        ],
+        "host_venues": [
+          "Journal of vacuum science & technology"
+        ],
+        "color": "#CC0000",
+        "size": 6
+      }
+    },
+    {
+      "source": "u-1220",
+      "target": "https://orcid.org/0000-0003-0464-4754",
+      "attributes": {
+        "label": 7,
+        "weight": 7,
+        "collaboration_count": 7,
+        "departments": "Analytical Instrumentation Facility -- Materials Science & Engineering",
+        "colleges": "College of Engineering == College of Engineering",
+        "buildings": "unknown --- unknown",
+        "roles": "unknown == unknown",
+        "years": [
+          2001,
+          2001,
+          2000,
+          2000,
+          1999,
+          1999,
+          1999
+        ],
+        "year_recent": 2001,
+        "dois": [
+          "10.1088/0957-4484/12/3/315",
+          "10.1021/la010909a",
+          "10.1017/S1431927699990475",
+          "10.1016/S0304-3991(98)00071-0",
+          "10.1088/0957-4484/10/4/307"
+        ],
+        "ncsu?": true,
+        "cross_college?": false,
+        "cross_department?": true,
+        "cross_unit?": true,
+        "cluster?": false,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          "Nanotechnology"
+        ],
+        "color": "#CC0000",
+        "size": 7
+      }
+    },
+    {
+      "source": "u-1220",
+      "target": "ebtroughton",
+      "attributes": {
+        "label": 4,
+        "weight": 4,
+        "collaboration_count": 4,
+        "departments": "Materials Science & Engineering --- unknown",
+        "colleges": "College of Engineering --- unknown",
+        "buildings": "unknown --- unknown",
+        "roles": "unknown == unknown",
+        "years": [
+          2001,
+          2000,
+          2000,
+          1999
+        ],
+        "year_recent": 2001,
+        "dois": [
+          "10.1088/0957-4484/12/3/315",
+          "10.1088/0957-4484/10/4/307"
+        ],
+        "ncsu?": false,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": false,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          "Nanotechnology"
+        ],
+        "color": "#000000",
+        "size": 4
+      }
+    },
+    {
+      "source": "u-1220",
+      "target": "jrebtroughton",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Materials Science & Engineering --- unknown",
+        "colleges": "College of Engineering --- unknown",
+        "buildings": "unknown --- unknown",
+        "roles": "unknown == unknown",
+        "years": [
+          2001
+        ],
+        "year_recent": 2001,
+        "dois": [
+          "10.1021/la010909a"
+        ],
+        "ncsu?": true,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": false,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          "Langmuir"
+        ],
+        "color": "#CC0000",
+        "size": 1
+      }
+    },
+    {
+      "source": "u-1220",
+      "target": "ebarrytroughton",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Materials Science & Engineering --- unknown",
+        "colleges": "College of Engineering --- unknown",
+        "buildings": "unknown --- unknown",
+        "roles": "unknown == unknown",
+        "years": [
+          1999
+        ],
+        "year_recent": 1999,
+        "dois": [
+          "10.1017/S1431927699990475"
+        ],
+        "ncsu?": false,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": false,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          "Microscopy and Microanalysis"
+        ],
+        "color": "#000000",
+        "size": 1
+      }
+    },
+    {
+      "source": "u-1220",
+      "target": "msandrade",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Materials Science & Engineering --- unknown",
+        "colleges": "College of Engineering --- unknown",
+        "buildings": "unknown --- unknown",
+        "roles": "unknown == unknown",
+        "years": [
+          1999
+        ],
+        "year_recent": 1999,
+        "dois": [
+          "10.1016/S0304-3991(98)00071-0"
+        ],
+        "ncsu?": false,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": false,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          "Ultramicroscopy"
+        ],
+        "color": "#000000",
+        "size": 1
+      }
+    },
+    {
+      "source": "u-3345",
+      "target": "https://orcid.org/0000-0002-1806-4526",
+      "attributes": {
+        "label": 13,
+        "weight": 13,
+        "collaboration_count": 13,
+        "departments": "Materials Science & Engineering == Materials Science & Engineering",
+        "colleges": "College of Engineering == College of Engineering",
+        "buildings": "unknown --- unknown",
+        "roles": "unknown == unknown",
+        "years": [
+          2009,
+          2008,
+          2008,
+          2008,
+          2007,
+          2006,
+          2006,
+          2005,
+          2005,
+          2002,
+          2002,
+          2002,
+          1999
+        ],
+        "year_recent": 2009,
+        "dois": [
+          "10.1021/jp903417r",
+          "10.1116/1.3013329",
+          "10.1021/la801039j",
+          "10.1088/0957-4484/19/13/135603",
+          "10.1021/ja076054r",
+          "10.1021/ac0600555",
+          "10.1063/1.2222070",
+          "10.1007/s11661-005-0265-2",
+          "10.1007/s11661-005-0266-1",
+          "10.1021/la026117d",
+          "10.1002/1521-3927(20020201)23:3<205::AID-MARC205>3.0.CO;2-X",
+          "10.1016/S0032-3861(02)00640-7",
+          "10.1088/0957-4484/10/4/307"
+        ],
+        "ncsu?": true,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": false,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          "Journal of Physical Chemistry C"
+        ],
+        "color": "#CC0000",
+        "size": 13
+      }
+    },
+    {
+      "source": "u-3345",
+      "target": "u-1220",
+      "attributes": {
+        "label": 6,
+        "weight": 6,
+        "collaboration_count": 6,
+        "departments": "Materials Science & Engineering == Materials Science & Engineering",
+        "colleges": "College of Engineering == College of Engineering",
+        "buildings": "unknown --- unknown",
+        "roles": "unknown == unknown",
+        "years": [
+          2008,
+          2002,
+          2002,
+          2000,
+          2000,
+          1999
+        ],
+        "year_recent": 2008,
+        "dois": [
+          "10.1116/1.3013329",
+          "10.1002/1521-3927(20020201)23:3<205::AID-MARC205>3.0.CO;2-X",
+          "10.1016/S0032-3861(02)00640-7",
+          "10.1088/0957-4484/10/4/307"
+        ],
+        "ncsu?": true,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": false,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+
+        ],
+        "cross_building?": false,
+        "concepts": [
+          "Fabrication",
+          "Materials science",
+          "Focused ion beam",
+          "Nanostructure",
+          "Optical fiber",
+          "Beam (structure)",
+          "Metal",
+          "Nanotechnology",
+          "Ion beam",
+          "Optoelectronics",
+          "Ion",
+          "Optics",
+          "Chemistry",
+          "Physics",
+          "Metallurgy",
+          "Medicine",
+          "Alternative medicine",
+          "Organic chemistry",
+          "Pathology"
+        ],
+        "host_venues": [
+          "Journal of vacuum science & technology"
+        ],
+        "color": "#CC0000",
+        "size": 6
+      }
+    },
+    {
+      "source": "u-3345",
+      "target": "https://orcid.org/0000-0003-0464-4754",
+      "attributes": {
+        "label": 2,
+        "weight": 2,
+        "collaboration_count": 2,
+        "departments": "Analytical Instrumentation Facility -- Materials Science & Engineering",
+        "colleges": "College of Engineering == College of Engineering",
+        "buildings": "unknown --- unknown",
+        "roles": "unknown == unknown",
+        "years": [
+          2000,
+          1999
+        ],
+        "year_recent": 2000,
+        "dois": [
+          "10.1088/0957-4484/10/4/307"
+        ],
+        "ncsu?": true,
+        "cross_college?": false,
+        "cross_department?": true,
+        "cross_unit?": true,
+        "cluster?": false,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          null
+        ],
+        "color": "#CC0000",
+        "size": 2
+      }
+    },
+    {
+      "source": "u-3345",
+      "target": "u-3300",
+      "attributes": {
+        "label": 2,
+        "weight": 2,
+        "collaboration_count": 2,
+        "departments": "Materials Science & Engineering == Materials Science & Engineering",
+        "colleges": "College of Engineering == College of Engineering",
+        "buildings": "unknown --- unknown",
+        "roles": "unknown == unknown",
+        "years": [
+          2000,
+          1999
+        ],
+        "year_recent": 2000,
+        "dois": [
+          "10.1088/0957-4484/10/4/307"
+        ],
+        "ncsu?": true,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": false,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          null
+        ],
+        "color": "#CC0000",
+        "size": 2
+      }
+    },
+    {
+      "source": "u-3345",
+      "target": "ebtroughton",
+      "attributes": {
+        "label": 2,
+        "weight": 2,
+        "collaboration_count": 2,
+        "departments": "Materials Science & Engineering --- unknown",
+        "colleges": "College of Engineering --- unknown",
+        "buildings": "unknown --- unknown",
+        "roles": "unknown == unknown",
+        "years": [
+          2000,
+          1999
+        ],
+        "year_recent": 2000,
+        "dois": [
+          "10.1088/0957-4484/10/4/307"
+        ],
+        "ncsu?": false,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": false,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          null
+        ],
+        "color": "#000000",
+        "size": 2
+      }
+    }
+  ]
+}

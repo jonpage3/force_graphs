@@ -1,0 +1,7044 @@
+{
+  "options": {
+    "type": "undirected",
+    "multi": false,
+    "allowSelfLoops": false
+  },
+  "attributes": {
+    "creator": "Citation Index",
+    "lastModifiedDate": "2023-01-16"
+  },
+  "nodes": [
+    {
+      "key": "u-6000",
+      "attributes": {
+        "label": "C Mooney",
+        "name": "Charles B. Mooney",
+        "known?": true,
+        "orcid?": false,
+        "ncsu?": true,
+        "affiliations": [
+          "North Carolina State University"
+        ],
+        "countries": [
+          "US"
+        ],
+        "url": "https://ci.lib.ncsu.edu/profiles/6000",
+        "active?": false,
+        "department": "Analytical Instrumentation Facility",
+        "college": "College of Engineering",
+        "ncsu_affiliations": [
+          "Analytical Instrumentation Facility"
+        ],
+        "cluster?": false,
+        "clusters": [
+
+        ],
+        "role": null,
+        "building": null,
+        "count": 10,
+        "oa_count": 2,
+        "years": [
+          2020,
+          2019,
+          2017,
+          2016,
+          2014,
+          2013,
+          2012,
+          2010,
+          2005
+        ],
+        "year_recent": 2020,
+        "article_concepts": [
+          "Adsorption",
+          "Analytical Chemistry (journal)",
+          "Archaeology",
+          "Biocomposite",
+          "Biodiversity",
+          "Biological dispersal",
+          "Biology",
+          "Biomass (ecology)",
+          "Bioprocess",
+          "Bioreactor",
+          "Cellulase",
+          "Cellulose",
+          "Chemical engineering",
+          "Chemistry",
+          "Chromatography",
+          "Climate change",
+          "Clostridium thermocellum",
+          "Composite material",
+          "Composite number",
+          "Demography",
+          "Ecology",
+          "Ecosystem",
+          "Engineering",
+          "Extinction (optical mineralogy)",
+          "Extinction event",
+          "Geography",
+          "Geology",
+          "Materials science",
+          "Megafauna",
+          "Organic chemistry",
+          "Paleontology",
+          "Physical geography",
+          "Physics",
+          "Pleistocene",
+          "Population",
+          "Quantum mechanics",
+          "Sedimentary rock",
+          "Sociology",
+          "Volume (thermodynamics)",
+          "Volume fraction"
+        ],
+        "host_venues": [
+          "Biotechnology and Bioengineering",
+          "Journal of Coatings Technology and Research",
+          "Journal of Zoo and Wildlife Medicine",
+          "Precision Engineering-journal of The International Societies for Precision Engineering and Nanotechnology",
+          "Quaternary Research",
+          "Scientific Reports"
+        ],
+        "color": "#990000",
+        "size": 20
+      }
+    },
+    {
+      "key": "https://orcid.org/0000-0002-4627-3990",
+      "attributes": {
+        "label": "J Teller",
+        "name": "James T. Teller",
+        "known?": false,
+        "orcid?": null,
+        "ncsu?": false,
+        "affiliations": [
+          "University of Manitoba"
+        ],
+        "countries": [
+          "CA"
+        ],
+        "color": "#BFBFBD",
+        "size": 10
+      }
+    },
+    {
+      "key": "matthewboyd",
+      "attributes": {
+        "label": "M Boyd",
+        "name": "Matthew Boyd",
+        "known?": false,
+        "orcid?": null,
+        "ncsu?": false,
+        "affiliations": [
+          "Lakehead University"
+        ],
+        "countries": [
+          "CA"
+        ],
+        "color": "#BFBFBD",
+        "size": 10
+      }
+    },
+    {
+      "key": "malcolmalecompte",
+      "attributes": {
+        "label": "M LeCompte",
+        "name": "Malcolm A. LeCompte",
+        "known?": false,
+        "orcid?": null,
+        "ncsu?": false,
+        "affiliations": [
+          "Elizabeth City State University"
+        ],
+        "countries": [
+          "US"
+        ],
+        "color": "#BFBFBD",
+        "size": 10
+      }
+    },
+    {
+      "key": "jameskennett",
+      "attributes": {
+        "label": "J Kennett",
+        "name": "James Kennett",
+        "known?": false,
+        "orcid?": null,
+        "ncsu?": false,
+        "affiliations": [
+          "University of California"
+        ],
+        "countries": [
+
+        ],
+        "color": "#BFBFBD",
+        "size": 10
+      }
+    },
+    {
+      "key": "allenwest",
+      "attributes": {
+        "label": "A West",
+        "name": "Allen West",
+        "known?": false,
+        "orcid?": null,
+        "ncsu?": false,
+        "affiliations": [
+
+        ],
+        "countries": [
+
+        ],
+        "color": "#BFBFBD",
+        "size": 10
+      }
+    },
+    {
+      "key": "alicemtelka",
+      "attributes": {
+        "label": "A Telka",
+        "name": "Alice M. Telka",
+        "known?": false,
+        "orcid?": null,
+        "ncsu?": false,
+        "affiliations": [
+
+        ],
+        "countries": [
+
+        ],
+        "color": "#BFBFBD",
+        "size": 10
+      }
+    },
+    {
+      "key": "auradiaz",
+      "attributes": {
+        "label": "A Diaz",
+        "name": "Aura Diaz",
+        "known?": false,
+        "orcid?": null,
+        "ncsu?": false,
+        "affiliations": [
+          "University of Manitoba"
+        ],
+        "countries": [
+          "CA"
+        ],
+        "color": "#BFBFBD",
+        "size": 10
+      }
+    },
+    {
+      "key": "victoradedeji",
+      "attributes": {
+        "label": "V Adedeji",
+        "name": "Victor Adedeji",
+        "known?": false,
+        "orcid?": null,
+        "ncsu?": false,
+        "affiliations": [
+          "Elizabeth City State University"
+        ],
+        "countries": [
+          "US"
+        ],
+        "color": "#BFBFBD",
+        "size": 10
+      }
+    },
+    {
+      "key": "dalebatchelor",
+      "attributes": {
+        "label": "D Batchelor",
+        "name": "Dale Batchelor",
+        "known?": false,
+        "orcid?": null,
+        "ncsu?": false,
+        "affiliations": [
+
+        ],
+        "countries": [
+
+        ],
+        "color": "#BFBFBD",
+        "size": 10
+      }
+    },
+    {
+      "key": "uid-rgarcia",
+      "attributes": {
+        "label": "R Garcia",
+        "name": "Roberto Garcia",
+        "known?": true,
+        "orcid?": false,
+        "ncsu?": true,
+        "affiliations": [
+          "North Carolina State University"
+        ],
+        "countries": [
+          "US"
+        ],
+        "uid": "rgarcia",
+        "url": "https://ci.lib.ncsu.edu/profiles/rgarcia",
+        "active?": true,
+        "department": "Analytical Instrumentation Facility",
+        "college": "College of Engineering",
+        "ncsu_affiliations": [
+          "Analytical Instrumentation Facility",
+          "Engineering Research"
+        ],
+        "cluster?": false,
+        "clusters": [
+
+        ],
+        "role": "staff",
+        "building": "Monteith Engineering Res.Ctr.",
+        "count": 20,
+        "oa_count": 3,
+        "years": [
+          2022,
+          2020,
+          2019,
+          2018,
+          2014,
+          2012,
+          2007,
+          2006,
+          2005,
+          2004
+        ],
+        "year_recent": 2022,
+        "article_concepts": [
+          "Agronomy",
+          "Analytical Chemistry (journal)",
+          "Biology",
+          "Chemical engineering",
+          "Chemistry",
+          "Chromatography",
+          "Composite material",
+          "Computer science",
+          "Engineering",
+          "Fiber",
+          "Geometry",
+          "Ion",
+          "Mass spectrometry",
+          "Materials science",
+          "Mathematics",
+          "Nanofiber",
+          "Organic chemistry",
+          "Permethrin",
+          "Pesticide",
+          "Sample (material)",
+          "Sample preparation",
+          "Secondary ion mass spectrometry",
+          "Surface (topology)",
+          "Textile",
+          "X-ray photoelectron spectroscopy"
+        ],
+        "host_venues": [
+          "ACS applied electronic materials",
+          "Analytical Chemistry",
+          "Analytical Methods",
+          "Applied Physics Letters",
+          "Applied Surface Science",
+          "ECS Journal of Solid State Science and Technology",
+          "Electrochimica Acta",
+          "International Journal of Hydrogen Energy",
+          "Journal of vacuum science & technology",
+          "Journal of vacuum science and technology",
+          "Microscopy Today",
+          "PLOS ONE",
+          "Quaternary Research",
+          "Surface and Interface Analysis",
+          "Thin Solid Films"
+        ],
+        "color": "#990000",
+        "size": 10
+      }
+    },
+    {
+      "key": "https://orcid.org/0000-0001-6181-353X",
+      "attributes": {
+        "label": "M Pino",
+        "name": "Mario Pino",
+        "known?": false,
+        "orcid?": null,
+        "ncsu?": false,
+        "affiliations": [
+          "Austral University of Chile"
+        ],
+        "countries": [
+          "CL"
+        ],
+        "color": "#BFBFBD",
+        "size": 10
+      }
+    },
+    {
+      "key": "anamabarza",
+      "attributes": {
+        "label": "A Abarzua",
+        "name": "Ana M. Abarzúa",
+        "known?": false,
+        "orcid?": null,
+        "ncsu?": false,
+        "affiliations": [
+          "Austral University of Chile"
+        ],
+        "countries": [
+          "CL"
+        ],
+        "color": "#BFBFBD",
+        "size": 10
+      }
+    },
+    {
+      "key": "giselleastorga",
+      "attributes": {
+        "label": "G Astorga",
+        "name": "Giselle Astorga",
+        "known?": false,
+        "orcid?": null,
+        "ncsu?": false,
+        "affiliations": [
+          "Austral University of Chile"
+        ],
+        "countries": [
+          "CL"
+        ],
+        "color": "#BFBFBD",
+        "size": 10
+      }
+    },
+    {
+      "key": "https://orcid.org/0000-0001-8132-3765",
+      "attributes": {
+        "label": "A Martel-Cea",
+        "name": "Alejandra Martel-Cea",
+        "known?": false,
+        "orcid?": null,
+        "ncsu?": false,
+        "affiliations": [
+          "Austral University of Chile"
+        ],
+        "countries": [
+          "CL"
+        ],
+        "color": "#BFBFBD",
+        "size": 10
+      }
+    },
+    {
+      "key": "nathaliecossiomontecinos",
+      "attributes": {
+        "label": "N Cossio-Montecinos",
+        "name": "Nathalie Cossio-Montecinos",
+        "known?": false,
+        "orcid?": null,
+        "ncsu?": false,
+        "affiliations": [
+          "Austral University of Chile"
+        ],
+        "countries": [
+          "CL"
+        ],
+        "color": "#BFBFBD",
+        "size": 10
+      }
+    },
+    {
+      "key": "rximenanavarro",
+      "attributes": {
+        "label": "R Navarro",
+        "name": "R. Ximena Navarro",
+        "known?": false,
+        "orcid?": null,
+        "ncsu?": false,
+        "affiliations": [
+          "Temuco Catholic University"
+        ],
+        "countries": [
+          "CL"
+        ],
+        "color": "#BFBFBD",
+        "size": 10
+      }
+    },
+    {
+      "key": "marapazlira",
+      "attributes": {
+        "label": "M Lira",
+        "name": "María Paz Lira",
+        "known?": false,
+        "orcid?": null,
+        "ncsu?": false,
+        "affiliations": [
+          "Austral University of Chile"
+        ],
+        "countries": [
+          "CL"
+        ],
+        "color": "#BFBFBD",
+        "size": 10
+      }
+    },
+    {
+      "key": "https://orcid.org/0000-0002-5791-5522",
+      "attributes": {
+        "label": "R Labarca",
+        "name": "Rafael Labarca",
+        "known?": false,
+        "orcid?": null,
+        "ncsu?": false,
+        "affiliations": [
+          "Austral University of Chile"
+        ],
+        "countries": [
+          "CL"
+        ],
+        "color": "#BFBFBD",
+        "size": 10
+      }
+    },
+    {
+      "key": "christopherrmoore",
+      "attributes": {
+        "label": "C Moore",
+        "name": "Christopher R. Moore",
+        "known?": false,
+        "orcid?": null,
+        "ncsu?": false,
+        "affiliations": [
+          "Savannah River Archaeological Research Program, South Carolina Institute of Archaeology and Anthropology, University of South Carolina, Columbia, USA"
+        ],
+        "countries": [
+
+        ],
+        "color": "#BFBFBD",
+        "size": 10
+      }
+    },
+    {
+      "key": "tedebunch",
+      "attributes": {
+        "label": "T Bunch",
+        "name": "Ted E. Bunch",
+        "known?": false,
+        "orcid?": null,
+        "ncsu?": false,
+        "affiliations": [
+          "Northern Arizona University"
+        ],
+        "countries": [
+          "US"
+        ],
+        "color": "#BFBFBD",
+        "size": 10
+      }
+    },
+    {
+      "key": "https://orcid.org/0000-0003-4398-8269",
+      "attributes": {
+        "label": "W Wolbach",
+        "name": "Wendy S. Wolbach",
+        "known?": false,
+        "orcid?": null,
+        "ncsu?": false,
+        "affiliations": [
+          "DePaul University"
+        ],
+        "countries": [
+          "US"
+        ],
+        "color": "#BFBFBD",
+        "size": 10
+      }
+    },
+    {
+      "key": "jamespkennett",
+      "attributes": {
+        "label": "J Kennett",
+        "name": "James P. Kennett",
+        "known?": false,
+        "orcid?": null,
+        "ncsu?": false,
+        "affiliations": [
+          "Marine Science Institute"
+        ],
+        "countries": [
+          "PH"
+        ],
+        "color": "#BFBFBD",
+        "size": 10
+      }
+    },
+    {
+      "key": "uid-mcflicki",
+      "attributes": {
+        "label": "M Flickinger",
+        "name": "Michael Flickinger",
+        "known?": true,
+        "orcid?": true,
+        "ncsu?": true,
+        "affiliations": [
+          "North Carolina State University"
+        ],
+        "countries": [
+          "US"
+        ],
+        "uid": "mcflicki",
+        "url": "https://ci.lib.ncsu.edu/profiles/mcflicki",
+        "orcid": "0000-0002-6814-0427",
+        "active?": true,
+        "department": "Chemical and Biomolecular Engineering",
+        "college": "College of Engineering",
+        "ncsu_affiliations": [
+          "Chemical and Biomolecular Engineering"
+        ],
+        "cluster?": false,
+        "clusters": [
+
+        ],
+        "role": "faculty",
+        "building": "Engineering Building I (EB1)",
+        "count": 140,
+        "oa_count": 10,
+        "years": [
+          2022,
+          2020,
+          2019,
+          2017,
+          2016,
+          2015,
+          2014,
+          2013,
+          2012,
+          2011,
+          2010,
+          2009,
+          2008,
+          2007,
+          2006,
+          2005,
+          2003,
+          2001,
+          2000,
+          1999,
+          1998,
+          1997,
+          1996,
+          1995,
+          1994,
+          1993,
+          1985,
+          1984,
+          1981,
+          1980,
+          1975,
+          0
+        ],
+        "year_recent": 2022,
+        "article_concepts": [
+          "Adsorption",
+          "Agronomy",
+          "Amino acid",
+          "Analytical Chemistry (journal)",
+          "Antibiotics",
+          "Astrobiology",
+          "Bacteria",
+          "Biochemical engineering",
+          "Biochemistry",
+          "Biocomposite",
+          "Biology",
+          "Biomass (ecology)",
+          "Bioprocess",
+          "Bioprocess engineering",
+          "Bioreactor",
+          "Biotechnology",
+          "Botany",
+          "Carbon dioxide",
+          "Cellulase",
+          "Cellulose",
+          "Cellulose acetate",
+          "Chemical engineering",
+          "Chemistry",
+          "Chromatography",
+          "Clostridium thermocellum",
+          "Coalescence (physics)",
+          "Coating",
+          "Composite material",
+          "Composite number",
+          "Computer science",
+          "Cross-flow filtration",
+          "Cyanobacteria",
+          "Dry weight",
+          "Engineering",
+          "Environmental biotechnology",
+          "Environmental chemistry",
+          "Environmental science",
+          "Enzyme",
+          "Erythromycin",
+          "Fiber",
+          "Filtration (mathematics)",
+          "Food science",
+          "Genetics",
+          "Hardwood",
+          "Homotopy",
+          "Humidity",
+          "Josamycin",
+          "Layer (electronics)",
+          "Materials science",
+          "Mathematics",
+          "Membrane",
+          "Microbiology",
+          "Microfiltration",
+          "Microorganism",
+          "Microstructure",
+          "Nanotechnology",
+          "Oleandomycin",
+          "Operating system",
+          "Organic chemistry",
+          "Osmoprotectant",
+          "Paleontology",
+          "Papermaking",
+          "Physics",
+          "Polymer",
+          "Porosity",
+          "Process (computing)",
+          "Process engineering",
+          "Proline",
+          "Pseudomonas",
+          "Pulp and paper industry",
+          "Pure mathematics",
+          "Quantum mechanics",
+          "Relative humidity",
+          "Rhodopseudomonas palustris",
+          "Slurry",
+          "Softwood",
+          "Sorbitol",
+          "Statistics",
+          "Suspension (topology)",
+          "Synthetic membrane",
+          "Thermal diffusivity",
+          "Thermodynamics",
+          "Trehalose",
+          "Tylosin",
+          "Volume (thermodynamics)",
+          "Volume fraction",
+          "Yeast"
+        ],
+        "host_venues": [
+          "Applied Biochemistry and Biotechnology",
+          "Applied Microbiology and Biotechnology",
+          "Biochemical Engineering Journal",
+          "Bioresources",
+          "Biotechnology Progress",
+          "Biotechnology and Bioengineering",
+          "Chemical Engineering Science",
+          "Chemical Engineering and Processing",
+          "Cryobiology",
+          "Extremophiles",
+          "Industrial & Engineering Chemistry Research",
+          "Journal of Biomechanics",
+          "Journal of CO2 utilization",
+          "Journal of Chromatography A",
+          "Journal of Coatings Technology and Research",
+          "Journal of Colloid and Interface Science",
+          "Journal of Industrial Microbiology & Biotechnology",
+          "Journal of Materials Science",
+          "Langmuir",
+          "Materials",
+          "Measurement Science and Technology",
+          "Microbial biotechnology",
+          "PLOS ONE",
+          "The Journal of Antibiotics"
+        ],
+        "color": "#990000",
+        "size": 10
+      }
+    },
+    {
+      "key": "oscaribernal",
+      "attributes": {
+        "label": "O Bernal",
+        "name": "Oscar I. Bernal",
+        "known?": false,
+        "orcid?": null,
+        "ncsu?": true,
+        "affiliations": [
+          "North Carolina State University"
+        ],
+        "countries": [
+          "US"
+        ],
+        "color": "#000000",
+        "size": 10
+      }
+    },
+    {
+      "key": "markjschulte",
+      "attributes": {
+        "label": "M Schulte",
+        "name": "Mark J. Schulte",
+        "known?": false,
+        "orcid?": null,
+        "ncsu?": true,
+        "affiliations": [
+          "North Carolina State University"
+        ],
+        "countries": [
+          "US",
+          "US"
+        ],
+        "color": "#000000",
+        "size": 10
+      }
+    },
+    {
+      "key": "jessicajenkinsbroglie",
+      "attributes": {
+        "label": "J Broglie",
+        "name": "Jessica Jenkins Broglie",
+        "known?": false,
+        "orcid?": null,
+        "ncsu?": true,
+        "affiliations": [
+          "North Carolina State University"
+        ],
+        "countries": [
+          "US"
+        ],
+        "color": "#000000",
+        "size": 10
+      }
+    },
+    {
+      "key": "uid-cjduran",
+      "attributes": {
+        "label": "C Duran",
+        "name": "Christopher J. Duran",
+        "known?": true,
+        "orcid?": false,
+        "ncsu?": true,
+        "affiliations": [
+          "North Carolina State University"
+        ],
+        "countries": [
+          "US"
+        ],
+        "uid": "cjduran",
+        "url": "https://ci.lib.ncsu.edu/profiles/cjduran",
+        "active?": false,
+        "department": "Chemical and Biomolecular Engineering",
+        "college": "College of Engineering",
+        "ncsu_affiliations": [
+          "Chemical and Biomolecular Engineering"
+        ],
+        "cluster?": false,
+        "clusters": [
+
+        ],
+        "role": "student",
+        "building": null,
+        "count": 3,
+        "oa_count": 0,
+        "years": [
+          2020,
+          2019,
+          2017
+        ],
+        "year_recent": 2020,
+        "article_concepts": [
+
+        ],
+        "host_venues": [
+          "Chemical Engineering Science",
+          "Journal of Coatings Technology and Research"
+        ],
+        "color": "#990000",
+        "size": 10
+      }
+    },
+    {
+      "key": "uid-adwalla3",
+      "attributes": {
+        "label": "A Wallace",
+        "name": "Adam D. Wallace",
+        "known?": true,
+        "orcid?": false,
+        "ncsu?": true,
+        "affiliations": [
+          "North Carolina State University"
+        ],
+        "countries": [
+          "US"
+        ],
+        "uid": "adwalla3",
+        "url": "https://ci.lib.ncsu.edu/profiles/adwalla3",
+        "active?": false,
+        "department": "Chemical and Biomolecular Engineering",
+        "college": "College of Engineering",
+        "ncsu_affiliations": [
+          "Chemical and Biomolecular Engineering"
+        ],
+        "cluster?": false,
+        "clusters": [
+
+        ],
+        "role": "student",
+        "building": null,
+        "count": 3,
+        "oa_count": 0,
+        "years": [
+          2020,
+          2019,
+          2017
+        ],
+        "year_recent": 2020,
+        "article_concepts": [
+          "Bacteria",
+          "Biology",
+          "Botany",
+          "Carbon dioxide",
+          "Chemistry",
+          "Cyanobacteria",
+          "Engineering",
+          "Environmental chemistry",
+          "Environmental science",
+          "Organic chemistry",
+          "Paleontology",
+          "Pulp and paper industry"
+        ],
+        "host_venues": [
+          "Industrial & Engineering Chemistry Research",
+          "Journal of CO2 utilization",
+          "Journal of Coatings Technology and Research"
+        ],
+        "color": "#990000",
+        "size": 10
+      }
+    },
+    {
+      "key": "uid-odvelev",
+      "attributes": {
+        "label": "O Velev",
+        "name": "Orlin Velev",
+        "known?": true,
+        "orcid?": true,
+        "ncsu?": true,
+        "affiliations": [
+          "North Carolina State University"
+        ],
+        "countries": [
+          "US"
+        ],
+        "uid": "odvelev",
+        "url": "https://ci.lib.ncsu.edu/profiles/odvelev",
+        "orcid": "0000-0003-0473-8056",
+        "active?": true,
+        "department": "Chemical and Biomolecular Engineering",
+        "college": "College of Engineering",
+        "ncsu_affiliations": [
+          "Chemical and Biomolecular Engineering"
+        ],
+        "cluster?": false,
+        "clusters": [
+
+        ],
+        "role": "faculty",
+        "building": "Engineering Building I (EB1)",
+        "count": 264,
+        "oa_count": 55,
+        "years": [
+          2022,
+          2021,
+          2020,
+          2019,
+          2018,
+          2017,
+          2016,
+          2015,
+          2014,
+          2013,
+          2012,
+          2011,
+          2010,
+          2009,
+          2008,
+          2007,
+          2006,
+          2005,
+          2004,
+          2003,
+          2002,
+          2001,
+          2000,
+          1999,
+          1998,
+          1997,
+          1996,
+          1995,
+          1994,
+          1993,
+          1992,
+          0
+        ],
+        "year_recent": 2022,
+        "article_concepts": [
+          "3D printing",
+          "Active matter",
+          "Actuator",
+          "Adhesion",
+          "Adsorption",
+          "Agglomerate",
+          "Agglutination (biology)",
+          "Algae",
+          "Alternative medicine",
+          "Amorphous solid",
+          "Analyte",
+          "Analytical Chemistry (journal)",
+          "Anisotropy",
+          "Antibody",
+          "Aqueous solution",
+          "Artificial intelligence",
+          "Astronomy",
+          "Bacteria",
+          "Band gap",
+          "Bending",
+          "Bilayer",
+          "Bioaccumulation",
+          "Biochemistry",
+          "Biocomposite",
+          "Biological system",
+          "Biology",
+          "Biomanufacturing",
+          "Biomass (ecology)",
+          "Biomedical engineering",
+          "Biomimetics",
+          "Biophysics",
+          "Biopolymer",
+          "Biotechnology",
+          "Botany",
+          "Brownian dynamics",
+          "Brownian motion",
+          "Bubble",
+          "Buoyancy",
+          "Capacitance",
+          "Capillary action",
+          "Capsid",
+          "Catalysis",
+          "Cationic polymerization",
+          "Cell",
+          "Cell biology",
+          "Cellulose",
+          "Channel (broadcasting)",
+          "Characterization (materials science)",
+          "Charge (physics)",
+          "Charge carrier",
+          "Charged particle",
+          "Chemical engineering",
+          "Chemical physics",
+          "Chemistry",
+          "Chip",
+          "Chitosan",
+          "Chlamydomonas reinhardtii",
+          "Chlorophyll fluorescence",
+          "Chromatography",
+          "Class (philosophy)",
+          "Cluster (spacecraft)",
+          "Coating",
+          "Colloid",
+          "Colloidal crystal",
+          "Colloidal gold",
+          "Colloidal particle",
+          "Composite material",
+          "Composite number",
+          "Computer graphics (images)",
+          "Computer network",
+          "Computer science",
+          "Condensed matter physics",
+          "Contact angle",
+          "Control reconfiguration",
+          "Copolymer",
+          "Copper",
+          "Crystallography",
+          "Current (fluid)",
+          "Cyanide",
+          "Cyanobacteria",
+          "Database",
+          "Decomposition",
+          "Degradation (telecommunications)",
+          "Deposition (geology)",
+          "Diatom",
+          "Dielectric",
+          "Dielectrophoresis",
+          "Diffusion",
+          "Digital microfluidics",
+          "Diode",
+          "Dipole",
+          "Dispersion (optics)",
+          "Dispersity",
+          "Dissolved organic carbon",
+          "Doping",
+          "Dynamic light scattering",
+          "Dynamic mechanical analysis",
+          "Ecology",
+          "Elastomer",
+          "Electric field",
+          "Electrical engineering",
+          "Electrical impedance",
+          "Electrode",
+          "Electrode array",
+          "Electrokinetic phenomena",
+          "Electrolyte",
+          "Electron",
+          "Electronic circuit",
+          "Electronics",
+          "Electrophoresis",
+          "Electrostatics",
+          "Electrowetting",
+          "Embedded system",
+          "Emulsion",
+          "Engineering",
+          "Environmental chemistry",
+          "Enzyme",
+          "Evaporation",
+          "Fabrication",
+          "Fluorescence",
+          "Folding (DSP implementation)",
+          "Gel electrophoresis",
+          "Gene",
+          "Genetics",
+          "Geology",
+          "Geometry",
+          "Homotopy",
+          "Hydrogen",
+          "Hydrogen production",
+          "Immunology",
+          "In vivo",
+          "Infectivity",
+          "Inorganic chemistry",
+          "Interconnection",
+          "Internal medicine",
+          "Ion",
+          "Ionic bonding",
+          "Ionic strength",
+          "Ising model",
+          "Isotropy",
+          "Janus",
+          "Janus particles",
+          "Lab-on-a-chip",
+          "Layer (electronics)",
+          "Lignin",
+          "Lower critical solution temperature",
+          "Lubrication",
+          "Magnetic field",
+          "Magnetic nanoparticles",
+          "Materials science",
+          "Mathematics",
+          "Matrix (chemical analysis)",
+          "Mechanical engineering",
+          "Mechanics",
+          "Medicine",
+          "Membrane",
+          "Mercury (programming language)",
+          "Metal",
+          "Metal ions in aqueous solution",
+          "Metallurgy",
+          "Meteorology",
+          "Methylmercury",
+          "Micelle",
+          "Microchannel",
+          "Microelectrode",
+          "Microfabrication",
+          "Microfluidics",
+          "Microparticle",
+          "Microporous material",
+          "Microreactor",
+          "Microstructure",
+          "Mineralogy",
+          "Mixing (physics)",
+          "Modulus",
+          "Molecule",
+          "Monolayer",
+          "Mutant",
+          "Nanoparticle",
+          "Nanostructure",
+          "Nanotechnology",
+          "Norovirus",
+          "Nuclear chemistry",
+          "Nucleation",
+          "Nutrient",
+          "Oceanography",
+          "Oil droplet",
+          "Optics",
+          "Optoelectronics",
+          "Organic chemistry",
+          "Organic component",
+          "Organic solar cell",
+          "Organosolv",
+          "Oxidative stress",
+          "Paleontology",
+          "Particle (ecology)",
+          "Particle size",
+          "Passivation",
+          "Pathology",
+          "Perpendicular",
+          "Phase (matter)",
+          "Phase transition",
+          "Photobioreactor",
+          "Photon",
+          "Photon energy",
+          "Photosynthesis",
+          "Photovoltaic system",
+          "Physical chemistry",
+          "Physics",
+          "Phytoplankton",
+          "Planar",
+          "Polarizability",
+          "Polarization (electrochemistry)",
+          "Polyacrylamide gel electrophoresis",
+          "Polydimethylsiloxane",
+          "Polyelectrolyte",
+          "Polymer",
+          "Polymer chemistry",
+          "Polystyrene",
+          "Porosity",
+          "Precipitation",
+          "Programming language",
+          "Propulsion",
+          "Pulmonary surfactant",
+          "Pure mathematics",
+          "Quantum mechanics",
+          "Raman scattering",
+          "Raman spectroscopy",
+          "Reactive oxygen species",
+          "Reagent",
+          "Rectification",
+          "Regeneration (biology)",
+          "Rheology",
+          "Robot",
+          "Rod",
+          "SPHERES",
+          "SWEAT",
+          "Scaffold",
+          "Sediment",
+          "Sedimentation",
+          "Self-assembly",
+          "Self-healing hydrogels",
+          "Semiconductor",
+          "Separator (oil production)",
+          "Sequence (biology)",
+          "Silicon",
+          "Silicone",
+          "Silver nanoparticle",
+          "Silver nitrate",
+          "Soft materials",
+          "Soft matter",
+          "Soft robotics",
+          "Spectroscopy",
+          "Square lattice",
+          "Stabilizer (aeronautics)",
+          "Statistical physics",
+          "Stiffness",
+          "Surface charge",
+          "Surface modification",
+          "Surface tension",
+          "Surface-enhanced Raman spectroscopy",
+          "Suspension (topology)",
+          "Swelling",
+          "Synechocystis",
+          "Telecommunications",
+          "Thermodynamics",
+          "Thin film",
+          "Toxicity",
+          "Transistor",
+          "Upper critical solution temperature",
+          "Vesicle",
+          "Viability assay",
+          "Virology",
+          "Virus",
+          "Viscoelasticity",
+          "Voltage",
+          "Volume fraction",
+          "Zebrafish",
+          "Zeta potential",
+          "van der Waals force"
+        ],
+        "host_venues": [
+          "2021 43rd Annual International Conference of the IEEE Engineering in Medicine &amp; Biology Society (EMBC)",
+          "ACS Applied Materials & Interfaces",
+          "ACS Infectious Diseases",
+          "ACS Nano",
+          "ACS Sensors",
+          "ACS applied polymer materials",
+          "APL Materials",
+          "Advanced Functional Materials",
+          "Advanced Materials",
+          "Advanced Materials Interfaces",
+          "Advanced materials and technologies",
+          "Advances in Biophysics",
+          "Aiche Journal",
+          "Analytical Chemistry",
+          "Angewandte Chemie",
+          "Annual reports on the progress of chemistry",
+          "Antibiotics",
+          "Applied Physics Letters",
+          "Applied Spectroscopy",
+          "Applied Surface Science",
+          "Biomicrofluidics",
+          "Biosensors",
+          "Cambridge University Press eBooks",
+          "Chem",
+          "ChemPhysChem",
+          "Chemical Communications",
+          "Chemical Science",
+          "Chemistry of Materials",
+          "Colloid Stability and Application in Pharmacy",
+          "Colloids and Surfaces",
+          "Colloids and Surfaces A: Physicochemical and Engineering Aspects",
+          "Colloids and Surfaces B: Biointerfaces",
+          "Crystal Growth & Design",
+          "Current Opinion in Colloid and Interface Science",
+          "Environmental Science & Technology",
+          "Faraday Discussions",
+          "Food Chemistry",
+          "Food Hydrocolloids",
+          "Green Chemistry",
+          "Journal of Agricultural and Food Chemistry",
+          "Journal of Chemical Physics",
+          "Journal of Coatings Technology and Research",
+          "Journal of Colloid and Interface Science",
+          "Journal of Materials Chemistry",
+          "Journal of Physical Chemistry B",
+          "Journal of Physics: Condensed Matter",
+          "Journal of The Electrochemical Society",
+          "Journal of The Institute of Brewing",
+          "Journal of materials chemistry. A, Materials for energy and sustainability",
+          "Journal of the American Chemical Society",
+          "Journal of the Chemical Society, Faraday Transactions",
+          "Lab on a Chip",
+          "Langmuir",
+          "Macromolecular Rapid Communications",
+          "Materials",
+          "Materials Chemistry Frontiers",
+          "Micromachines",
+          "Nanomaterials",
+          "Nanoscale",
+          "Nature",
+          "Nature Communications",
+          "Nature Materials",
+          "Nature Nanotechnology",
+          "Nature digest",
+          "Particle & Particle Systems Characterization",
+          "Physical Chemistry Chemical Physics",
+          "Physical Review E",
+          "Physical Review Letters",
+          "Physical review applied",
+          "Polymer Chemistry",
+          "Proceedings of SPIE - The International Society for Optical Engineering",
+          "Process Biochemistry",
+          "Science",
+          "Science Advances",
+          "Scientific Reports",
+          "Small",
+          "Smart Structures and Systems",
+          "Soft Matter",
+          "Surface & Coatings Technology",
+          "WORLD SCIENTIFIC eBooks",
+          "Zeitschrift für Physikalische Chemie"
+        ],
+        "color": "#990000",
+        "size": 10
+      }
+    },
+    {
+      "key": "jeffwiltgen",
+      "attributes": {
+        "label": "J Wiltgen",
+        "name": "Jeff Wiltgen",
+        "known?": false,
+        "orcid?": null,
+        "ncsu?": true,
+        "affiliations": [
+          "North Carolina State University"
+        ],
+        "countries": [
+          "US"
+        ],
+        "color": "#000000",
+        "size": 10
+      }
+    },
+    {
+      "key": "johnritter",
+      "attributes": {
+        "label": "J Ritter",
+        "name": "John Ritter",
+        "known?": false,
+        "orcid?": null,
+        "ncsu?": true,
+        "affiliations": [
+          "North Carolina State University"
+        ],
+        "countries": [
+          "US"
+        ],
+        "color": "#000000",
+        "size": 10
+      }
+    },
+    {
+      "key": "uid-jnniemut",
+      "attributes": {
+        "label": "J Niemuth",
+        "name": "Jennifer Niemuth",
+        "known?": true,
+        "orcid?": true,
+        "ncsu?": true,
+        "affiliations": [
+          "North Carolina State University"
+        ],
+        "countries": [
+          "US"
+        ],
+        "uid": "jnniemut",
+        "url": "https://ci.lib.ncsu.edu/profiles/jnniemut",
+        "orcid": "0000-0003-3412-475X",
+        "active?": false,
+        "department": "Clinical Sciences",
+        "college": "College of Veterinary Medicine",
+        "ncsu_affiliations": [
+          "Clinical Sciences"
+        ],
+        "cluster?": false,
+        "clusters": [
+
+        ],
+        "role": "student",
+        "building": null,
+        "count": 21,
+        "oa_count": 10,
+        "years": [
+          2022,
+          2020,
+          2019,
+          2018,
+          2017,
+          2015,
+          2014,
+          2013,
+          2012,
+          2010,
+          2009,
+          0
+        ],
+        "year_recent": 2022,
+        "article_concepts": [
+          "Acrylic acid",
+          "Allele",
+          "Amino acid",
+          "Animal science",
+          "Anthozoa",
+          "Bacteria",
+          "Biochemistry",
+          "Biodiversity",
+          "Biology",
+          "Chemistry",
+          "Chromatography",
+          "Climatology",
+          "Coral",
+          "Coral bleaching",
+          "Coral reef",
+          "Demography",
+          "Digenea",
+          "Dimethylsulfoniopropionate",
+          "Ecology",
+          "Endocrinology",
+          "Environmental chemistry",
+          "Environmental science",
+          "Evolutionary biology",
+          "Fishery",
+          "Food science",
+          "Gene",
+          "Genetic diversity",
+          "Genetics",
+          "Geography",
+          "Geology",
+          "Hatching",
+          "Hatchling",
+          "Helminths",
+          "Immunology",
+          "Metabolite",
+          "Metabolome",
+          "Metabolomics",
+          "Microsatellite",
+          "Monomer",
+          "Nutrient",
+          "Oceanography",
+          "Organic chemistry",
+          "Osmolyte",
+          "Passerine",
+          "Phytoplankton",
+          "Polyethylene glycol",
+          "Polymer",
+          "Polyvinyl alcohol",
+          "Population",
+          "Population bottleneck",
+          "Sea turtle",
+          "Seawater",
+          "Skeletal muscle",
+          "Sociology",
+          "Starling",
+          "Symbiosis",
+          "Taurine",
+          "Trematoda",
+          "Turtle (robot)",
+          "Whole blood",
+          "Zoology",
+          "Zooxanthellae"
+        ],
+        "host_venues": [
+          "Case reports in Veterinary Medicine",
+          "Conservation Genetics",
+          "Facets",
+          "Journal of Fish and Wildlife Management",
+          "Journal of Medical Primatology",
+          "Journal of Zoo and Wildlife Medicine",
+          "Journal of integrated OMICS",
+          "Metabolites",
+          "Royal Society Open Science",
+          "Wildlife Biology",
+          "Wildlife biology in practice"
+        ],
+        "color": "#509CFE",
+        "size": 10
+      }
+    },
+    {
+      "key": "https://orcid.org/0000-0002-5711-2324",
+      "attributes": {
+        "label": "C Sanders",
+        "name": "Charles W. Sanders",
+        "known?": false,
+        "orcid?": null,
+        "ncsu?": false,
+        "affiliations": [
+
+        ],
+        "countries": [
+
+        ],
+        "color": "#BFBFBD",
+        "size": 10
+      }
+    },
+    {
+      "key": "colleenolfenbuttel",
+      "attributes": {
+        "label": "C Olfenbuttel",
+        "name": "Colleen Olfenbuttel",
+        "known?": false,
+        "orcid?": null,
+        "ncsu?": false,
+        "affiliations": [
+
+        ],
+        "countries": [
+
+        ],
+        "color": "#BFBFBD",
+        "size": 10
+      }
+    },
+    {
+      "key": "uid-csdepern",
+      "attributes": {
+        "label": "C DePerno",
+        "name": "Christopher DePerno",
+        "known?": true,
+        "orcid?": false,
+        "ncsu?": true,
+        "affiliations": [
+          "North Carolina State University"
+        ],
+        "countries": [
+          "US"
+        ],
+        "uid": "csdepern",
+        "url": "https://ci.lib.ncsu.edu/profiles/csdepern",
+        "active?": true,
+        "department": "Forestry & Environmental Resources",
+        "college": "College of Natural Resources",
+        "ncsu_affiliations": [
+          "Forestry & Environmental Resources"
+        ],
+        "cluster?": false,
+        "clusters": [
+
+        ],
+        "role": "faculty",
+        "building": "Turner House",
+        "count": 212,
+        "oa_count": 47,
+        "years": [
+          2022,
+          2021,
+          2020,
+          2019,
+          2018,
+          2017,
+          2016,
+          2015,
+          2014,
+          2013,
+          2012,
+          2011,
+          2010,
+          2009,
+          2008,
+          2007,
+          2006,
+          2005,
+          2004,
+          2003,
+          2002,
+          2001,
+          2000,
+          1999,
+          1997,
+          1996,
+          1995,
+          1994,
+          1993,
+          0
+        ],
+        "year_recent": 2022,
+        "article_concepts": [
+          "Abundance (ecology)",
+          "Adaptation (eye)",
+          "Adult male",
+          "Aeronautics",
+          "Aerospace engineering",
+          "Aggression",
+          "Agroforestry",
+          "Agronomy",
+          "Akaike information criterion",
+          "Algorithm",
+          "Amphibian",
+          "Anaplasma",
+          "Anaplasma phagocytophilum",
+          "Animal ecology",
+          "Animal science",
+          "Antibody",
+          "Archaeology",
+          "Artificial intelligence",
+          "Astronomy",
+          "Atmospheric sciences",
+          "Bacteria",
+          "Bartonella",
+          "Bartonella henselae",
+          "Behavioral ecology",
+          "Biochemistry",
+          "Biodiversity",
+          "Biological dispersal",
+          "Biology",
+          "Biomass (ecology)",
+          "Borrelia burgdorferi",
+          "Branta",
+          "Camera trap",
+          "Canis",
+          "Canopy",
+          "Carnivore",
+          "Cattle grazing",
+          "Chemistry",
+          "Chromatography",
+          "Chronic stress",
+          "Chronic wasting disease",
+          "Composite material",
+          "Computer science",
+          "Computer vision",
+          "Confounding",
+          "Context (archaeology)",
+          "Crepuscular",
+          "Data mining",
+          "Daytime",
+          "Demography",
+          "Developmental psychology",
+          "Direct agglutination test",
+          "Disease",
+          "Distance sampling",
+          "Distribution (mathematics)",
+          "Domestication",
+          "Ecology",
+          "Economics",
+          "Ecosystem",
+          "Endangered species",
+          "Endocrinology",
+          "Engineering",
+          "Entomology",
+          "Environmental health",
+          "Environmental resource management",
+          "Environmental science",
+          "Estimation",
+          "Ethnic group",
+          "Evolutionary biology",
+          "Exclosure",
+          "Filter (signal processing)",
+          "Fire ecology",
+          "Fire regime",
+          "Fishery",
+          "Flyway",
+          "Forage",
+          "Foraging",
+          "Forestry",
+          "Full moon",
+          "Gene",
+          "Genetics",
+          "Geography",
+          "Geolocation",
+          "Geology",
+          "Geotechnical engineering",
+          "Goose",
+          "Grazing",
+          "Habitat",
+          "Hardwood",
+          "Herbivore",
+          "Herd",
+          "Home range",
+          "Hunting season",
+          "Hydrology (agriculture)",
+          "Immunology",
+          "Internal medicine",
+          "Juvenile",
+          "Kalman filter",
+          "Law",
+          "Leptospira",
+          "Leptospira interrogans",
+          "Linguistics",
+          "Listeria",
+          "Listeria monocytogenes",
+          "Livestock",
+          "Logistic regression",
+          "Machine learning",
+          "Macroeconomics",
+          "Management",
+          "Mark and recapture",
+          "Materials science",
+          "Mathematical analysis",
+          "Mathematics",
+          "Mechanical engineering",
+          "Medicine",
+          "Mesopredator release hypothesis",
+          "Meteorology",
+          "Microbiology",
+          "Microclimate",
+          "Microeconomics",
+          "Mongoose",
+          "National park",
+          "Nest (protein structural motif)",
+          "Nesting (process)",
+          "Neuroscience",
+          "New moon",
+          "Nocturnal",
+          "Nursing",
+          "Nutrient",
+          "Obligate",
+          "Occupancy",
+          "Odds",
+          "Odocoileus",
+          "Omnivore",
+          "Pairwise comparison",
+          "Paleontology",
+          "Pasture",
+          "Pathogen",
+          "Pathology",
+          "Phenology",
+          "Philosophy",
+          "Physical geography",
+          "Physics",
+          "Physiology",
+          "Political science",
+          "Population",
+          "Population size",
+          "Predation",
+          "Predator",
+          "Preference",
+          "Prescribed burn",
+          "Prion protein",
+          "Productivity",
+          "Psychology",
+          "Public health",
+          "Pure mathematics",
+          "Rabies",
+          "Range (aeronautics)",
+          "Salamander",
+          "Sample (material)",
+          "Sample size determination",
+          "Sampling (signal processing)",
+          "Sciurus",
+          "Sciurus carolinensis",
+          "Scrapie",
+          "Seasonal breeder",
+          "Selection (genetic algorithm)",
+          "Serology",
+          "Serotype",
+          "Sexual dimorphism",
+          "Sheaf",
+          "Sibling",
+          "Snag",
+          "Sociology",
+          "Soil quality",
+          "Soil water",
+          "Sparrow",
+          "Species richness",
+          "Statistical power",
+          "Statistics",
+          "Stress (linguistics)",
+          "Stress measures",
+          "Survival analysis",
+          "Sympatric speciation",
+          "Systems engineering",
+          "Telecommunications",
+          "Telemetry",
+          "Tick",
+          "Training (meteorology)",
+          "Transect",
+          "Transmission (telecommunications)",
+          "Trap (plumbing)",
+          "Trapping",
+          "Understory",
+          "Ungulate",
+          "Ursus",
+          "Vaccination",
+          "Vegetation (pathology)",
+          "Veterinary medicine",
+          "Vigilance (psychology)",
+          "Virology",
+          "Waterfowl",
+          "White (mutation)",
+          "Wildlife",
+          "Wildlife disease",
+          "Wildlife management",
+          "Woodland",
+          "Woody plant",
+          "World Wide Web",
+          "Zoology",
+          "Zoonosis",
+          "Zoonotic disease"
+        ],
+        "host_venues": [
+          "American Midland Naturalist",
+          "Amphibia-reptilia",
+          "Anthrozoos",
+          "Applied Vegetation Science",
+          "Applied turfgrass science",
+          "Behavioural Processes",
+          "Canadian Journal of Zoology",
+          "Castanea",
+          "Chemoecology",
+          "Comparative Immunology Microbiology and Infectious Diseases",
+          "Conservation Biology",
+          "Diversity",
+          "Ecography",
+          "Ecological Indicators",
+          "Ecology and Evolution",
+          "Emerging Infectious Diseases",
+          "Environmental Education Research",
+          "Environmental Monitoring and Assessment",
+          "Fire Ecology",
+          "Forest Ecology and Management",
+          "Functional Ecology",
+          "Human Dimensions of Wildlife",
+          "Infection ecology & epidemiology",
+          "Journal of Avian Medicine and Surgery",
+          "Journal of Chemical Ecology",
+          "Journal of Ethology",
+          "Journal of Field Ornithology",
+          "Journal of Herpetology",
+          "Journal of Mammalogy",
+          "Journal of Range Management",
+          "Journal of Wildlife Diseases",
+          "Journal of Wildlife Management",
+          "Journal of Zoo and Wildlife Medicine",
+          "Microbial biotechnology",
+          "PLOS ONE",
+          "Parasitology Research",
+          "Restoration Ecology",
+          "Scientific Reports",
+          "Sensors",
+          "Southeastern Naturalist",
+          "The Condor",
+          "Tropical Medicine and Infectious Disease",
+          "Wildlife Biology",
+          "Wildlife Research",
+          "Wildlife Society Bulletin",
+          "Wildlife Society bulletin",
+          "Wildlife biology in practice",
+          "Zoo Biology"
+        ],
+        "color": "#855735",
+        "size": 10
+      }
+    },
+    {
+      "key": "uid-mkstosko",
+      "attributes": {
+        "label": "M Stoskopf",
+        "name": "Michael Stoskopf",
+        "known?": true,
+        "orcid?": false,
+        "ncsu?": true,
+        "affiliations": [
+          "North Carolina State University"
+        ],
+        "countries": [
+          "US"
+        ],
+        "uid": "mkstosko",
+        "url": "https://ci.lib.ncsu.edu/profiles/mkstosko",
+        "active?": true,
+        "department": "Clinical Sciences",
+        "college": "College of Veterinary Medicine",
+        "ncsu_affiliations": [
+          "Clinical Sciences",
+          "Coastal and Marine Sciences Program",
+          "Comparative Medicine Institute",
+          "Environmental Medicine Consortium"
+        ],
+        "cluster?": false,
+        "clusters": [
+
+        ],
+        "role": "faculty",
+        "building": "CVM Main Building",
+        "count": 167,
+        "oa_count": 82,
+        "years": [
+          2022,
+          2021,
+          2020,
+          2019,
+          2018,
+          2017,
+          2016,
+          2015,
+          2014,
+          2013,
+          2012,
+          2011,
+          2010,
+          2009,
+          2008,
+          2007,
+          2006,
+          2005,
+          2004,
+          2003,
+          2002,
+          2001,
+          2000,
+          1999,
+          1998,
+          1997,
+          1996,
+          1995,
+          1994,
+          1993,
+          0
+        ],
+        "year_recent": 2022,
+        "article_concepts": [
+          "18S ribosomal RNA",
+          "Absorbable suture",
+          "Acetylcholinesterase",
+          "Aché",
+          "Adductor muscles",
+          "Adult male",
+          "African elephant",
+          "Agriculture",
+          "Alanine",
+          "Allele",
+          "Amikacin",
+          "Amino acid",
+          "Aminoglycoside",
+          "Amphibian",
+          "Anaplasma",
+          "Anaplasma phagocytophilum",
+          "Anas",
+          "Anatidae",
+          "Anatomy",
+          "Animal health",
+          "Animal husbandry",
+          "Animal science",
+          "Antibiotics",
+          "Antibody",
+          "Antibody titer",
+          "Aquatic animal",
+          "Aquatic plant",
+          "Aqueous solution",
+          "Arctic",
+          "Artificial intelligence",
+          "Artificial tears",
+          "Astronomy",
+          "Avian malaria",
+          "Bacteria",
+          "Barnacle",
+          "Bass (fish)",
+          "Behenic acid",
+          "Beluga",
+          "Beluga Whale",
+          "Bentonite",
+          "Bioavailability",
+          "Biochemistry",
+          "Biodiversity",
+          "Bioinformatics",
+          "Biology",
+          "Biosecurity",
+          "Biotechnology",
+          "Biotelemetry",
+          "Bivalvia",
+          "Blood collection",
+          "Blood flow",
+          "Blood plasma",
+          "Blood pressure",
+          "Body cavity",
+          "Borrelia burgdorferi",
+          "Botany",
+          "Breaking strength",
+          "Bufo marinus",
+          "Butyrylcholinesterase",
+          "Calcium",
+          "Campylobacter",
+          "Campylobacter jejuni",
+          "Canis",
+          "Carboxylesterase",
+          "Cardiology",
+          "Catheter",
+          "Cell biology",
+          "Cetacea",
+          "Chagas disease",
+          "Channel (broadcasting)",
+          "Chemical engineering",
+          "Chemistry",
+          "Chloroform",
+          "Chromatography",
+          "Citric acid cycle",
+          "Climatology",
+          "Coccidiosis",
+          "Coelom",
+          "Cognitive science",
+          "Composite material",
+          "Computational biology",
+          "Computer science",
+          "Cottidae",
+          "CpG site",
+          "Crassostrea",
+          "Creatine",
+          "Crustacean",
+          "Curiosity",
+          "Curriculum",
+          "Cuttlefish",
+          "DNA methylation",
+          "Data science",
+          "Degradation (telecommunications)",
+          "Demography",
+          "Dermatology",
+          "Direct agglutination test",
+          "Discipline",
+          "Dissemination",
+          "Diversity of fish",
+          "Docosapentaenoic acid",
+          "Doppler effect",
+          "Doppler ultrasound",
+          "Dorsum",
+          "Dried blood",
+          "Dried blood spot",
+          "Earthworm",
+          "Eastern oyster",
+          "Ecology",
+          "Economics",
+          "Ecotoxicology",
+          "Eicosapentaenoic acid",
+          "Eimeria",
+          "Eisenia fetida",
+          "Emaciation",
+          "Emergency medicine",
+          "Endangered species",
+          "Endocrinology",
+          "Energy metabolism",
+          "Engineering",
+          "Engineering ethics",
+          "Environmental chemistry",
+          "Environmental health",
+          "Environmental resource management",
+          "Environmental science",
+          "Enzyme",
+          "Epistemology",
+          "Esterase",
+          "Etiology",
+          "Evolution of mammals",
+          "Evolutionary biology",
+          "Excellence",
+          "Fatty acid",
+          "Feces",
+          "Fetus",
+          "Fibrous joint",
+          "Financial economics",
+          "Fish <Actinopterygii>",
+          "Fishery",
+          "Florfenicol",
+          "Flounder",
+          "Food science",
+          "Forestry",
+          "Foundation (evidence)",
+          "Gametocyte",
+          "Gene",
+          "Gene expression",
+          "Genetic diversity",
+          "Genetics",
+          "Genomic imprinting",
+          "Genus",
+          "Geography",
+          "Geology",
+          "Gill",
+          "Glycine",
+          "Glycine cleavage system",
+          "Glycogen",
+          "Glycolysis",
+          "Gorilla",
+          "Growth factor",
+          "Habitat",
+          "Hatching",
+          "Hatchling",
+          "Heart rate",
+          "Helminths",
+          "Hematocrit",
+          "Hemolymph",
+          "Herd",
+          "Highly pathogenic",
+          "Hybrid",
+          "Hydrilla",
+          "Hydrolysis",
+          "Hypotaurine",
+          "Identification (biology)",
+          "Iliac artery",
+          "Image (mathematics)",
+          "Immunology",
+          "Imprinting (psychology)",
+          "In vivo",
+          "Influenza A virus subtype H5N1",
+          "Insulin-like growth factor 1 receptor",
+          "Insulin-like growth factor 2 receptor",
+          "Internal medicine",
+          "Introgression",
+          "Intron",
+          "Juvenile",
+          "KERATOCONJUNCTIVITIS SICCA",
+          "Keratoconjunctivitis",
+          "Kinetics",
+          "LEAPS",
+          "Latex fixation test",
+          "Latrine",
+          "Law",
+          "Leishmania",
+          "Leishmaniasis",
+          "Leptospira",
+          "Leptospira interrogans",
+          "Leucas",
+          "Linguistics",
+          "Livestock",
+          "Lumbricus terrestris",
+          "Lumen (anatomy)",
+          "MEDLINE",
+          "Macrophyte",
+          "Magnetic resonance imaging",
+          "Magnetic resonance spectroscopic imaging",
+          "Malaria",
+          "Malathion",
+          "Mantle (geology)",
+          "Marsupial",
+          "Materials science",
+          "Mechanical engineering",
+          "Medical education",
+          "Medicine",
+          "Metabolic pathway",
+          "Metabolism",
+          "Metabolite",
+          "Metabolome",
+          "Metabolomics",
+          "Methionine",
+          "Microbiology",
+          "Microsatellite",
+          "Mollusca",
+          "Monodelphis domestica",
+          "Morone saxatilis",
+          "Mussel",
+          "Mustela putorius",
+          "Mustelidae",
+          "Myristic acid",
+          "Neuroscience",
+          "Noise (video)",
+          "Nuclear chemistry",
+          "Nuclear magnetic resonance",
+          "Nuclear magnetic resonance spectroscopy",
+          "Nuclear medicine",
+          "Nursing",
+          "Oceanography",
+          "Odocoileus",
+          "Operating system",
+          "Ophthalmology",
+          "Organic chemistry",
+          "Organic matter",
+          "Organism",
+          "Organophosphate",
+          "Osmolyte",
+          "Otter",
+          "Outbreak",
+          "Oxytetracycline",
+          "Oyster",
+          "Paleontology",
+          "Palmitic acid",
+          "Paralichthys",
+          "Parasite hosting",
+          "Pathology",
+          "Patience",
+          "Perception",
+          "Pesticide",
+          "Pharmacokinetics",
+          "Pharmacology",
+          "Philosophy",
+          "Phosphocreatine",
+          "Phylogenetics",
+          "Physics",
+          "Physiology",
+          "Placenta",
+          "Placentation",
+          "Plasmodium (life cycle)",
+          "Plasmodium falciparum",
+          "Plumage",
+          "Polar",
+          "Political science",
+          "Polyethylene glycol",
+          "Polymerase chain reaction",
+          "Polyunsaturated fatty acid",
+          "Polyvinyl alcohol",
+          "Population",
+          "Population bottleneck",
+          "Positron emission tomography",
+          "Preclinical imaging",
+          "Predation",
+          "Pregnancy",
+          "Preparedness",
+          "Professional development",
+          "Psychology",
+          "Public health",
+          "Quantum mechanics",
+          "Quarantine",
+          "Radiology",
+          "Receptor",
+          "Ribosomal DNA",
+          "Ribosomal RNA",
+          "Risk communication",
+          "Sanitation",
+          "Schizogony",
+          "Scientific discovery",
+          "Sculpin",
+          "Sea turtle",
+          "Seawater",
+          "Serendipity",
+          "Serology",
+          "Seroprevalence",
+          "Serotype",
+          "Shellfish",
+          "Shoal",
+          "Sinus (botany)",
+          "Sinus venosus",
+          "Skeletal muscle",
+          "Social psychology",
+          "Social science",
+          "Sociology",
+          "Space (punctuation)",
+          "Specialty",
+          "Spectroscopy",
+          "Stereochemistry",
+          "Substrate (aquarium)",
+          "Surgery",
+          "Taurine",
+          "Telecommunications",
+          "Telemetry",
+          "Tick",
+          "Titer",
+          "Toad",
+          "Toxicology",
+          "Toxoplasma gondii",
+          "Toxoplasmosis",
+          "Transmitter",
+          "Trichinella",
+          "Trichinella spiralis",
+          "Trypanosoma cruzi",
+          "Turtle (robot)",
+          "Ultimate tensile strength",
+          "Ultrasonography",
+          "Ultrasound",
+          "Unionidae",
+          "Ursus",
+          "Variety (cybernetics)",
+          "Vernal keratoconjunctivitis",
+          "Veterinary medicine",
+          "Veterinary public health",
+          "Virology",
+          "Virus",
+          "Vocabulary",
+          "Volume of distribution",
+          "Voxel",
+          "Vulpes",
+          "Waterfowl",
+          "Whale",
+          "White (mutation)",
+          "White paper",
+          "Whole blood",
+          "Wildlife",
+          "Work (physics)",
+          "World Wide Web",
+          "Xenobiotic",
+          "Zebrafish",
+          "Zoology",
+          "Zoonosis"
+        ],
+        "host_venues": [
+          "American Journal of Primatology",
+          "American Journal of Veterinary Research",
+          "American Malacological Bulletin",
+          "Anaerobe",
+          "Anatomical Record-advances in Integrative Anatomy and Evolutionary Biology",
+          "Aquacultural Engineering",
+          "Aquaculture",
+          "Archives of Environmental Contamination and Toxicology",
+          "Biophysical Journal",
+          "Bulletin of Environmental Contamination and Toxicology",
+          "Comparative Immunology Microbiology and Infectious Diseases",
+          "Conservation Genetics",
+          "Conservation Physiology",
+          "Current Zoology",
+          "Diseases of Aquatic Organisms",
+          "Ecotoxicology",
+          "Environmental Modeling & Assessment",
+          "Environmental Toxicology and Pharmacology",
+          "Facets",
+          "Ilar Journal",
+          "Infection ecology & epidemiology",
+          "International Journal of Infectious Diseases",
+          "Javma-journal of The American Veterinary Medical Association",
+          "Journal of Aquatic Animal Health",
+          "Journal of Avian Medicine and Surgery",
+          "Journal of Fish Biology",
+          "Journal of Fish Diseases",
+          "Journal of Fish and Wildlife Management",
+          "Journal of Mammalogy",
+          "Journal of Parasitology",
+          "Journal of Radiology Nursing",
+          "Journal of The American Association for Laboratory Animal Science",
+          "Journal of The Medical Library Association",
+          "Journal of Thermal Biology",
+          "Journal of Vertebrate Paleontology",
+          "Journal of Veterinary Medical Education",
+          "Journal of Veterinary Pharmacology and Therapeutics",
+          "Journal of Virological Methods",
+          "Journal of Wildlife Diseases",
+          "Journal of Wildlife Management",
+          "Journal of Zoo and Aquarium Research",
+          "Journal of Zoo and Wildlife Medicine",
+          "Journal of education and training studies",
+          "Journal of herpetological medicine and surgery",
+          "Lab Animal",
+          "Mammalia",
+          "Marine Drugs",
+          "Metabolites",
+          "Molecular Cell",
+          "Molecular Ecology",
+          "Naturwissenschaften",
+          "North American Journal of Aquaculture",
+          "Oecologia",
+          "Parasitology",
+          "PeerJ",
+          "Royal Society Open Science",
+          "Science",
+          "Southeastern Naturalist",
+          "The Condor",
+          "Ursus",
+          "Veterinary Clinical Pathology",
+          "Veterinary Medicine International",
+          "Veterinary Quarterly",
+          "Veterinary Radiology & Ultrasound",
+          "Veterinary Record",
+          "Wildlife Society Bulletin",
+          "Wildlife Society bulletin",
+          "Wildlife biology in practice",
+          "Zoo Biology"
+        ],
+        "color": "#509CFE",
+        "size": 10
+      }
+    },
+    {
+      "key": "malecompte",
+      "attributes": {
+        "label": "M LeCompte",
+        "name": "M. A. LeCompte",
+        "known?": false,
+        "orcid?": null,
+        "ncsu?": null,
+        "affiliations": null,
+        "countries": null,
+        "color": "#BFBFBD",
+        "size": 10
+      }
+    },
+    {
+      "key": "dbatchelor",
+      "attributes": {
+        "label": "D Batchelor",
+        "name": "D. Batchelor",
+        "known?": false,
+        "orcid?": null,
+        "ncsu?": null,
+        "affiliations": null,
+        "countries": null,
+        "color": "#BFBFBD",
+        "size": 10
+      }
+    },
+    {
+      "key": "mndemitroff",
+      "attributes": {
+        "label": "M Demitroff",
+        "name": "M. N. Demitroff",
+        "known?": false,
+        "orcid?": null,
+        "ncsu?": null,
+        "affiliations": null,
+        "countries": null,
+        "color": "#BFBFBD",
+        "size": 10
+      }
+    },
+    {
+      "key": "ekvogel",
+      "attributes": {
+        "label": "E Vogel",
+        "name": "E. K. Vogel",
+        "known?": false,
+        "orcid?": null,
+        "ncsu?": null,
+        "affiliations": null,
+        "countries": null,
+        "color": "#BFBFBD",
+        "size": 10
+      }
+    },
+    {
+      "key": "bnrock",
+      "attributes": {
+        "label": "B Rock",
+        "name": "B. N. Rock",
+        "known?": false,
+        "orcid?": null,
+        "ncsu?": null,
+        "affiliations": null,
+        "countries": null,
+        "color": "#BFBFBD",
+        "size": 10
+      }
+    },
+    {
+      "key": "awseidel",
+      "attributes": {
+        "label": "A Seidel",
+        "name": "A. W. Seidel",
+        "known?": false,
+        "orcid?": null,
+        "ncsu?": null,
+        "affiliations": null,
+        "countries": null,
+        "color": "#BFBFBD",
+        "size": 10
+      }
+    },
+    {
+      "key": "acgoodyear",
+      "attributes": {
+        "label": "A Goodyear",
+        "name": "A. C. Goodyear",
+        "known?": false,
+        "orcid?": null,
+        "ncsu?": null,
+        "affiliations": null,
+        "countries": null,
+        "color": "#BFBFBD",
+        "size": 10
+      }
+    },
+    {
+      "key": "mshi",
+      "attributes": {
+        "label": "M Shi",
+        "name": "M. Shi",
+        "known?": false,
+        "orcid?": null,
+        "ncsu?": true,
+        "affiliations": [
+          "North Carolina State University"
+        ],
+        "countries": [
+          "US"
+        ],
+        "color": "#000000",
+        "size": 10
+      }
+    },
+    {
+      "key": "uid-bmlane",
+      "attributes": {
+        "label": "B Lane",
+        "name": "Brandon M. Lane",
+        "known?": true,
+        "orcid?": false,
+        "ncsu?": true,
+        "affiliations": [
+          "North Carolina State University"
+        ],
+        "countries": [
+          "US"
+        ],
+        "uid": "bmlane",
+        "url": "https://ci.lib.ncsu.edu/profiles/bmlane",
+        "active?": false,
+        "department": "Precision Engineering Center",
+        "college": "College of Engineering",
+        "ncsu_affiliations": [
+          "Precision Engineering Center"
+        ],
+        "cluster?": false,
+        "clusters": [
+
+        ],
+        "role": null,
+        "building": null,
+        "count": 3,
+        "oa_count": 0,
+        "years": [
+          2013,
+          2010
+        ],
+        "year_recent": 2013,
+        "article_concepts": [
+
+        ],
+        "host_venues": [
+          "Precision Engineering-journal of The International Societies for Precision Engineering and Nanotechnology",
+          "Wear"
+        ],
+        "color": "#990000",
+        "size": 10
+      }
+    },
+    {
+      "key": "uid-dow",
+      "attributes": {
+        "label": "T Dow",
+        "name": "Thomas Dow",
+        "known?": true,
+        "orcid?": false,
+        "ncsu?": true,
+        "affiliations": [
+          "North Carolina State University"
+        ],
+        "countries": [
+          "US"
+        ],
+        "uid": "dow",
+        "url": "https://ci.lib.ncsu.edu/profiles/dow",
+        "active?": true,
+        "department": "Mechanical & Aerospace Engineering",
+        "college": "College of Engineering",
+        "ncsu_affiliations": [
+          "Mechanical & Aerospace Engineering",
+          "Precision Engineering Center"
+        ],
+        "cluster?": false,
+        "clusters": [
+
+        ],
+        "role": "faculty",
+        "building": "Research Building I",
+        "count": 24,
+        "oa_count": 4,
+        "years": [
+          2018,
+          2016,
+          2013,
+          2012,
+          2011,
+          2010,
+          2008,
+          2006,
+          2005,
+          2004,
+          2001,
+          1999,
+          1998,
+          1997,
+          1995
+        ],
+        "year_recent": 2018,
+        "article_concepts": [
+          "Acoustics",
+          "Actuator",
+          "Aerospace engineering",
+          "Alternative medicine",
+          "Amplifier",
+          "Artificial intelligence",
+          "CMOS",
+          "Chemistry",
+          "Chromatography",
+          "Composite material",
+          "Computer science",
+          "Design of experiments",
+          "Diamond",
+          "Diamond turning",
+          "Die (integrated circuit)",
+          "Electronic engineering",
+          "Electrospray",
+          "Electrospray ionization",
+          "Engineering",
+          "Fabrication",
+          "Factorial experiment",
+          "Fractional factorial design",
+          "Indentation",
+          "Machine learning",
+          "Mass spectrometry",
+          "Materials science",
+          "Mathematics",
+          "Mechanical engineering",
+          "Medicine",
+          "Mold",
+          "Nanotechnology",
+          "Operating system",
+          "Optics",
+          "Optoelectronics",
+          "Pathology",
+          "Physics",
+          "Piezoelectricity",
+          "Process (computing)",
+          "Range (aeronautics)",
+          "Statistics",
+          "Ultrasonic motor",
+          "Ultrasonic sensor",
+          "Wavelength"
+        ],
+        "host_venues": [
+          "Forensic Science International",
+          "Fusion Technology",
+          "International Journal of Mass Spectrometry",
+          "Journal of Applied Mechanics",
+          "Journal of Astronomical Telescopes, Instruments, and Systems",
+          "Journal of Manufacturing Science and Engineering-transactions of The Asme",
+          "Nanotechnology",
+          "Precision Engineering-journal of The International Societies for Precision Engineering and Nanotechnology",
+          "Proceedings of SPIE",
+          "Wear"
+        ],
+        "color": "#990000",
+        "size": 10
+      }
+    },
+    {
+      "key": "uid-scatterg",
+      "attributes": {
+        "label": "R Scattergood",
+        "name": "Ron Scattergood",
+        "known?": true,
+        "orcid?": false,
+        "ncsu?": true,
+        "affiliations": [
+          "North Carolina State University"
+        ],
+        "countries": [
+          "US"
+        ],
+        "uid": "scatterg",
+        "url": "https://ci.lib.ncsu.edu/profiles/scatterg",
+        "active?": true,
+        "department": "Materials Science & Engineering",
+        "college": "College of Engineering",
+        "ncsu_affiliations": [
+          "Materials Science & Engineering"
+        ],
+        "cluster?": false,
+        "clusters": [
+
+        ],
+        "role": "faculty",
+        "building": "Engineering Building I (EB1)",
+        "count": 126,
+        "oa_count": 5,
+        "years": [
+          2021,
+          2020,
+          2019,
+          2018,
+          2017,
+          2016,
+          2015,
+          2014,
+          2013,
+          2012,
+          2011,
+          2010,
+          2009,
+          2008,
+          2007,
+          2006,
+          2005,
+          2004,
+          2003,
+          2002,
+          2000,
+          1997,
+          0
+        ],
+        "year_recent": 2021,
+        "article_concepts": [
+          "Alloy",
+          "Analytical Chemistry (journal)",
+          "Annealing (glass)",
+          "Atmospheric temperature range",
+          "Brittleness",
+          "Ceramic",
+          "Chemistry",
+          "Chromatography",
+          "Chromium",
+          "Chromium oxide",
+          "Component (thermodynamics)",
+          "Composite material",
+          "Creep",
+          "Crystallography",
+          "Cubic zirconia",
+          "Deformation (meteorology)",
+          "Deformation mechanism",
+          "Dental ceramics",
+          "Diffusion creep",
+          "Dislocation",
+          "Dispersion (optics)",
+          "Elasticity (physics)",
+          "Environmental chemistry",
+          "Fracture toughness",
+          "Grain Boundary Sliding",
+          "Grain boundary",
+          "Grain boundary diffusion coefficient",
+          "Grain growth",
+          "Grain size",
+          "Grinding",
+          "In situ",
+          "Infrared",
+          "Iron oxide",
+          "Irradiation",
+          "Linguistics",
+          "Magnesium",
+          "Magnesium alloy",
+          "Mass spectrometry",
+          "Materials science",
+          "Metallurgy",
+          "Meteorology",
+          "Microstructure",
+          "Mineralogy",
+          "Nano-",
+          "Nanocrystalline material",
+          "Nanoscopic scale",
+          "Nanotechnology",
+          "Nuclear physics",
+          "Optics",
+          "Oxide",
+          "Particle size",
+          "Philosophy",
+          "Physical chemistry",
+          "Physics",
+          "Radiation",
+          "Radiation resistance",
+          "Radiochemistry",
+          "Scandium",
+          "Shear (geology)",
+          "Solid mechanics",
+          "Stress (linguistics)",
+          "Thermodynamics",
+          "Toughness",
+          "Yttria-stabilized zirconia"
+        ],
+        "host_venues": [
+          "Acta Materialia",
+          "Advanced Engineering Materials",
+          "Applied Physics Letters",
+          "Dental Materials",
+          "Intermetallics",
+          "International Journal of Machine Tools & Manufacture",
+          "International Journal of Plasticity",
+          "JOM",
+          "Journal of Alloys and Compounds",
+          "Journal of Applied Physics",
+          "Journal of Magnetism and Magnetic Materials",
+          "Journal of Manufacturing Science and Engineering-transactions of The Asme",
+          "Journal of Materials Engineering and Performance",
+          "Journal of Materials Processing Technology",
+          "Journal of Materials Research",
+          "Journal of Materials Science",
+          "Journal of Nuclear Materials",
+          "Journal of the American Ceramic Society",
+          "Materials Science Forum",
+          "Materials Science and Engineering A-structural Materials Properties Microstructure and Processing",
+          "Materials in engineering",
+          "Materials research letters",
+          "Mechanics of Materials",
+          "Metallography, Microstructure, and Analysis",
+          "Metallurgical and Materials Transactions",
+          "Nanotechnology",
+          "Philosophical Magazine",
+          "Precision Engineering-journal of The International Societies for Precision Engineering and Nanotechnology",
+          "Scripta Materialia",
+          "Surface & Coatings Technology",
+          "Transactions of the Indian Institute of Metals",
+          "Wear"
+        ],
+        "color": "#990000",
+        "size": 10
+      }
+    },
+    {
+      "key": "skitamura",
+      "attributes": {
+        "label": "S Kitamura",
+        "name": "S. Kitamura",
+        "known?": false,
+        "orcid?": null,
+        "ncsu?": null,
+        "affiliations": null,
+        "countries": null,
+        "color": "#BFBFBD",
+        "size": 10
+      }
+    },
+    {
+      "key": "kyonei",
+      "attributes": {
+        "label": "K Yonei",
+        "name": "K. Yonei",
+        "known?": false,
+        "orcid?": null,
+        "ncsu?": null,
+        "affiliations": null,
+        "countries": null,
+        "color": "#BFBFBD",
+        "size": 10
+      }
+    },
+    {
+      "key": "miwatsuki",
+      "attributes": {
+        "label": "M Iwatsuki",
+        "name": "M. Iwatsuki",
+        "known?": false,
+        "orcid?": null,
+        "ncsu?": null,
+        "affiliations": null,
+        "countries": null,
+        "color": "#BFBFBD",
+        "size": 10
+      }
+    },
+    {
+      "key": "yfukuda",
+      "attributes": {
+        "label": "Y Fukuda",
+        "name": "Y. Fukuda",
+        "known?": false,
+        "orcid?": null,
+        "ncsu?": null,
+        "affiliations": null,
+        "countries": null,
+        "color": "#BFBFBD",
+        "size": 10
+      }
+    }
+  ],
+  "edges": [
+    {
+      "source": "u-6000",
+      "target": "https://orcid.org/0000-0002-4627-3990",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Analytical Instrumentation Facility --- unknown",
+        "colleges": "College of Engineering --- unknown",
+        "buildings": "unknown --- unknown",
+        "roles": "unknown == unknown",
+        "years": [
+          2020
+        ],
+        "year_recent": 2020,
+        "dois": [
+          "10.1017/qua.2019.46"
+        ],
+        "ncsu?": false,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": false,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          "Quaternary Research"
+        ],
+        "color": "#000000",
+        "size": 1
+      }
+    },
+    {
+      "source": "u-6000",
+      "target": "matthewboyd",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Analytical Instrumentation Facility --- unknown",
+        "colleges": "College of Engineering --- unknown",
+        "buildings": "unknown --- unknown",
+        "roles": "unknown == unknown",
+        "years": [
+          2020
+        ],
+        "year_recent": 2020,
+        "dois": [
+          "10.1017/qua.2019.46"
+        ],
+        "ncsu?": false,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": false,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          "Quaternary Research"
+        ],
+        "color": "#000000",
+        "size": 1
+      }
+    },
+    {
+      "source": "u-6000",
+      "target": "malcolmalecompte",
+      "attributes": {
+        "label": 2,
+        "weight": 2,
+        "collaboration_count": 2,
+        "departments": "Analytical Instrumentation Facility --- unknown",
+        "colleges": "College of Engineering --- unknown",
+        "buildings": "unknown --- unknown",
+        "roles": "unknown == unknown",
+        "years": [
+          2020,
+          2019
+        ],
+        "year_recent": 2020,
+        "dois": [
+          "10.1017/qua.2019.46",
+          "10.1038/s41598-018-38089-y"
+        ],
+        "ncsu?": false,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": false,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          "Quaternary Research"
+        ],
+        "color": "#000000",
+        "size": 2
+      }
+    },
+    {
+      "source": "u-6000",
+      "target": "jameskennett",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Analytical Instrumentation Facility --- unknown",
+        "colleges": "College of Engineering --- unknown",
+        "buildings": "unknown --- unknown",
+        "roles": "unknown == unknown",
+        "years": [
+          2020
+        ],
+        "year_recent": 2020,
+        "dois": [
+          "10.1017/qua.2019.46"
+        ],
+        "ncsu?": false,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": false,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          "Quaternary Research"
+        ],
+        "color": "#000000",
+        "size": 1
+      }
+    },
+    {
+      "source": "u-6000",
+      "target": "allenwest",
+      "attributes": {
+        "label": 2,
+        "weight": 2,
+        "collaboration_count": 2,
+        "departments": "Analytical Instrumentation Facility --- unknown",
+        "colleges": "College of Engineering --- unknown",
+        "buildings": "unknown --- unknown",
+        "roles": "unknown == unknown",
+        "years": [
+          2020,
+          2019
+        ],
+        "year_recent": 2020,
+        "dois": [
+          "10.1017/qua.2019.46",
+          "10.1038/s41598-018-38089-y"
+        ],
+        "ncsu?": false,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": false,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          "Quaternary Research"
+        ],
+        "color": "#000000",
+        "size": 2
+      }
+    },
+    {
+      "source": "u-6000",
+      "target": "alicemtelka",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Analytical Instrumentation Facility --- unknown",
+        "colleges": "College of Engineering --- unknown",
+        "buildings": "unknown --- unknown",
+        "roles": "unknown == unknown",
+        "years": [
+          2020
+        ],
+        "year_recent": 2020,
+        "dois": [
+          "10.1017/qua.2019.46"
+        ],
+        "ncsu?": false,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": false,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          "Quaternary Research"
+        ],
+        "color": "#000000",
+        "size": 1
+      }
+    },
+    {
+      "source": "u-6000",
+      "target": "auradiaz",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Analytical Instrumentation Facility --- unknown",
+        "colleges": "College of Engineering --- unknown",
+        "buildings": "unknown --- unknown",
+        "roles": "unknown == unknown",
+        "years": [
+          2020
+        ],
+        "year_recent": 2020,
+        "dois": [
+          "10.1017/qua.2019.46"
+        ],
+        "ncsu?": false,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": false,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          "Quaternary Research"
+        ],
+        "color": "#000000",
+        "size": 1
+      }
+    },
+    {
+      "source": "u-6000",
+      "target": "victoradedeji",
+      "attributes": {
+        "label": 2,
+        "weight": 2,
+        "collaboration_count": 2,
+        "departments": "Analytical Instrumentation Facility --- unknown",
+        "colleges": "College of Engineering --- unknown",
+        "buildings": "unknown --- unknown",
+        "roles": "unknown == unknown",
+        "years": [
+          2020,
+          2019
+        ],
+        "year_recent": 2020,
+        "dois": [
+          "10.1017/qua.2019.46",
+          "10.1038/s41598-018-38089-y"
+        ],
+        "ncsu?": false,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": false,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          "Quaternary Research"
+        ],
+        "color": "#000000",
+        "size": 2
+      }
+    },
+    {
+      "source": "u-6000",
+      "target": "dalebatchelor",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Analytical Instrumentation Facility --- unknown",
+        "colleges": "College of Engineering --- unknown",
+        "buildings": "unknown --- unknown",
+        "roles": "unknown == unknown",
+        "years": [
+          2020
+        ],
+        "year_recent": 2020,
+        "dois": [
+          "10.1017/qua.2019.46"
+        ],
+        "ncsu?": false,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": false,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          "Quaternary Research"
+        ],
+        "color": "#000000",
+        "size": 1
+      }
+    },
+    {
+      "source": "u-6000",
+      "target": "uid-rgarcia",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Analytical Instrumentation Facility == Analytical Instrumentation Facility",
+        "colleges": "College of Engineering == College of Engineering",
+        "buildings": "Monteith Engineering Res.Ctr. --- unknown",
+        "roles": "staff --- unknown",
+        "years": [
+          2020
+        ],
+        "year_recent": 2020,
+        "dois": [
+          "10.1017/qua.2019.46"
+        ],
+        "ncsu?": true,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": false,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          "Quaternary Research"
+        ],
+        "color": "#CC0000",
+        "size": 1
+      }
+    },
+    {
+      "source": "u-6000",
+      "target": "https://orcid.org/0000-0001-6181-353X",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Analytical Instrumentation Facility --- unknown",
+        "colleges": "College of Engineering --- unknown",
+        "buildings": "unknown --- unknown",
+        "roles": "unknown == unknown",
+        "years": [
+          2019
+        ],
+        "year_recent": 2019,
+        "dois": [
+          "10.1038/s41598-018-38089-y"
+        ],
+        "ncsu?": false,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": false,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+
+        ],
+        "cross_building?": false,
+        "concepts": [
+          "Megafauna",
+          "Climate change",
+          "Biomass (ecology)",
+          "Ecology",
+          "Extinction (optical mineralogy)",
+          "Biodiversity",
+          "Sedimentary rock",
+          "Extinction event",
+          "Ecosystem",
+          "Geography",
+          "Physical geography",
+          "Geology",
+          "Paleontology",
+          "Biology",
+          "Archaeology",
+          "Pleistocene",
+          "Biological dispersal",
+          "Population",
+          "Demography",
+          "Sociology"
+        ],
+        "host_venues": [
+          "Scientific Reports"
+        ],
+        "color": "#000000",
+        "size": 1
+      }
+    },
+    {
+      "source": "u-6000",
+      "target": "anamabarza",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Analytical Instrumentation Facility --- unknown",
+        "colleges": "College of Engineering --- unknown",
+        "buildings": "unknown --- unknown",
+        "roles": "unknown == unknown",
+        "years": [
+          2019
+        ],
+        "year_recent": 2019,
+        "dois": [
+          "10.1038/s41598-018-38089-y"
+        ],
+        "ncsu?": false,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": false,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+
+        ],
+        "cross_building?": false,
+        "concepts": [
+          "Megafauna",
+          "Climate change",
+          "Biomass (ecology)",
+          "Ecology",
+          "Extinction (optical mineralogy)",
+          "Biodiversity",
+          "Sedimentary rock",
+          "Extinction event",
+          "Ecosystem",
+          "Geography",
+          "Physical geography",
+          "Geology",
+          "Paleontology",
+          "Biology",
+          "Archaeology",
+          "Pleistocene",
+          "Biological dispersal",
+          "Population",
+          "Demography",
+          "Sociology"
+        ],
+        "host_venues": [
+          "Scientific Reports"
+        ],
+        "color": "#000000",
+        "size": 1
+      }
+    },
+    {
+      "source": "u-6000",
+      "target": "giselleastorga",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Analytical Instrumentation Facility --- unknown",
+        "colleges": "College of Engineering --- unknown",
+        "buildings": "unknown --- unknown",
+        "roles": "unknown == unknown",
+        "years": [
+          2019
+        ],
+        "year_recent": 2019,
+        "dois": [
+          "10.1038/s41598-018-38089-y"
+        ],
+        "ncsu?": false,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": false,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+
+        ],
+        "cross_building?": false,
+        "concepts": [
+          "Megafauna",
+          "Climate change",
+          "Biomass (ecology)",
+          "Ecology",
+          "Extinction (optical mineralogy)",
+          "Biodiversity",
+          "Sedimentary rock",
+          "Extinction event",
+          "Ecosystem",
+          "Geography",
+          "Physical geography",
+          "Geology",
+          "Paleontology",
+          "Biology",
+          "Archaeology",
+          "Pleistocene",
+          "Biological dispersal",
+          "Population",
+          "Demography",
+          "Sociology"
+        ],
+        "host_venues": [
+          "Scientific Reports"
+        ],
+        "color": "#000000",
+        "size": 1
+      }
+    },
+    {
+      "source": "u-6000",
+      "target": "https://orcid.org/0000-0001-8132-3765",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Analytical Instrumentation Facility --- unknown",
+        "colleges": "College of Engineering --- unknown",
+        "buildings": "unknown --- unknown",
+        "roles": "unknown == unknown",
+        "years": [
+          2019
+        ],
+        "year_recent": 2019,
+        "dois": [
+          "10.1038/s41598-018-38089-y"
+        ],
+        "ncsu?": false,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": false,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+
+        ],
+        "cross_building?": false,
+        "concepts": [
+          "Megafauna",
+          "Climate change",
+          "Biomass (ecology)",
+          "Ecology",
+          "Extinction (optical mineralogy)",
+          "Biodiversity",
+          "Sedimentary rock",
+          "Extinction event",
+          "Ecosystem",
+          "Geography",
+          "Physical geography",
+          "Geology",
+          "Paleontology",
+          "Biology",
+          "Archaeology",
+          "Pleistocene",
+          "Biological dispersal",
+          "Population",
+          "Demography",
+          "Sociology"
+        ],
+        "host_venues": [
+          "Scientific Reports"
+        ],
+        "color": "#000000",
+        "size": 1
+      }
+    },
+    {
+      "source": "u-6000",
+      "target": "nathaliecossiomontecinos",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Analytical Instrumentation Facility --- unknown",
+        "colleges": "College of Engineering --- unknown",
+        "buildings": "unknown --- unknown",
+        "roles": "unknown == unknown",
+        "years": [
+          2019
+        ],
+        "year_recent": 2019,
+        "dois": [
+          "10.1038/s41598-018-38089-y"
+        ],
+        "ncsu?": false,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": false,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+
+        ],
+        "cross_building?": false,
+        "concepts": [
+          "Megafauna",
+          "Climate change",
+          "Biomass (ecology)",
+          "Ecology",
+          "Extinction (optical mineralogy)",
+          "Biodiversity",
+          "Sedimentary rock",
+          "Extinction event",
+          "Ecosystem",
+          "Geography",
+          "Physical geography",
+          "Geology",
+          "Paleontology",
+          "Biology",
+          "Archaeology",
+          "Pleistocene",
+          "Biological dispersal",
+          "Population",
+          "Demography",
+          "Sociology"
+        ],
+        "host_venues": [
+          "Scientific Reports"
+        ],
+        "color": "#000000",
+        "size": 1
+      }
+    },
+    {
+      "source": "u-6000",
+      "target": "rximenanavarro",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Analytical Instrumentation Facility --- unknown",
+        "colleges": "College of Engineering --- unknown",
+        "buildings": "unknown --- unknown",
+        "roles": "unknown == unknown",
+        "years": [
+          2019
+        ],
+        "year_recent": 2019,
+        "dois": [
+          "10.1038/s41598-018-38089-y"
+        ],
+        "ncsu?": false,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": false,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+
+        ],
+        "cross_building?": false,
+        "concepts": [
+          "Megafauna",
+          "Climate change",
+          "Biomass (ecology)",
+          "Ecology",
+          "Extinction (optical mineralogy)",
+          "Biodiversity",
+          "Sedimentary rock",
+          "Extinction event",
+          "Ecosystem",
+          "Geography",
+          "Physical geography",
+          "Geology",
+          "Paleontology",
+          "Biology",
+          "Archaeology",
+          "Pleistocene",
+          "Biological dispersal",
+          "Population",
+          "Demography",
+          "Sociology"
+        ],
+        "host_venues": [
+          "Scientific Reports"
+        ],
+        "color": "#000000",
+        "size": 1
+      }
+    },
+    {
+      "source": "u-6000",
+      "target": "marapazlira",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Analytical Instrumentation Facility --- unknown",
+        "colleges": "College of Engineering --- unknown",
+        "buildings": "unknown --- unknown",
+        "roles": "unknown == unknown",
+        "years": [
+          2019
+        ],
+        "year_recent": 2019,
+        "dois": [
+          "10.1038/s41598-018-38089-y"
+        ],
+        "ncsu?": false,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": false,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+
+        ],
+        "cross_building?": false,
+        "concepts": [
+          "Megafauna",
+          "Climate change",
+          "Biomass (ecology)",
+          "Ecology",
+          "Extinction (optical mineralogy)",
+          "Biodiversity",
+          "Sedimentary rock",
+          "Extinction event",
+          "Ecosystem",
+          "Geography",
+          "Physical geography",
+          "Geology",
+          "Paleontology",
+          "Biology",
+          "Archaeology",
+          "Pleistocene",
+          "Biological dispersal",
+          "Population",
+          "Demography",
+          "Sociology"
+        ],
+        "host_venues": [
+          "Scientific Reports"
+        ],
+        "color": "#000000",
+        "size": 1
+      }
+    },
+    {
+      "source": "u-6000",
+      "target": "https://orcid.org/0000-0002-5791-5522",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Analytical Instrumentation Facility --- unknown",
+        "colleges": "College of Engineering --- unknown",
+        "buildings": "unknown --- unknown",
+        "roles": "unknown == unknown",
+        "years": [
+          2019
+        ],
+        "year_recent": 2019,
+        "dois": [
+          "10.1038/s41598-018-38089-y"
+        ],
+        "ncsu?": false,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": false,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+
+        ],
+        "cross_building?": false,
+        "concepts": [
+          "Megafauna",
+          "Climate change",
+          "Biomass (ecology)",
+          "Ecology",
+          "Extinction (optical mineralogy)",
+          "Biodiversity",
+          "Sedimentary rock",
+          "Extinction event",
+          "Ecosystem",
+          "Geography",
+          "Physical geography",
+          "Geology",
+          "Paleontology",
+          "Biology",
+          "Archaeology",
+          "Pleistocene",
+          "Biological dispersal",
+          "Population",
+          "Demography",
+          "Sociology"
+        ],
+        "host_venues": [
+          "Scientific Reports"
+        ],
+        "color": "#000000",
+        "size": 1
+      }
+    },
+    {
+      "source": "u-6000",
+      "target": "christopherrmoore",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Analytical Instrumentation Facility --- unknown",
+        "colleges": "College of Engineering --- unknown",
+        "buildings": "unknown --- unknown",
+        "roles": "unknown == unknown",
+        "years": [
+          2019
+        ],
+        "year_recent": 2019,
+        "dois": [
+          "10.1038/s41598-018-38089-y"
+        ],
+        "ncsu?": false,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": false,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+
+        ],
+        "cross_building?": false,
+        "concepts": [
+          "Megafauna",
+          "Climate change",
+          "Biomass (ecology)",
+          "Ecology",
+          "Extinction (optical mineralogy)",
+          "Biodiversity",
+          "Sedimentary rock",
+          "Extinction event",
+          "Ecosystem",
+          "Geography",
+          "Physical geography",
+          "Geology",
+          "Paleontology",
+          "Biology",
+          "Archaeology",
+          "Pleistocene",
+          "Biological dispersal",
+          "Population",
+          "Demography",
+          "Sociology"
+        ],
+        "host_venues": [
+          "Scientific Reports"
+        ],
+        "color": "#000000",
+        "size": 1
+      }
+    },
+    {
+      "source": "u-6000",
+      "target": "tedebunch",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Analytical Instrumentation Facility --- unknown",
+        "colleges": "College of Engineering --- unknown",
+        "buildings": "unknown --- unknown",
+        "roles": "unknown == unknown",
+        "years": [
+          2019
+        ],
+        "year_recent": 2019,
+        "dois": [
+          "10.1038/s41598-018-38089-y"
+        ],
+        "ncsu?": false,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": false,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+
+        ],
+        "cross_building?": false,
+        "concepts": [
+          "Megafauna",
+          "Climate change",
+          "Biomass (ecology)",
+          "Ecology",
+          "Extinction (optical mineralogy)",
+          "Biodiversity",
+          "Sedimentary rock",
+          "Extinction event",
+          "Ecosystem",
+          "Geography",
+          "Physical geography",
+          "Geology",
+          "Paleontology",
+          "Biology",
+          "Archaeology",
+          "Pleistocene",
+          "Biological dispersal",
+          "Population",
+          "Demography",
+          "Sociology"
+        ],
+        "host_venues": [
+          "Scientific Reports"
+        ],
+        "color": "#000000",
+        "size": 1
+      }
+    },
+    {
+      "source": "u-6000",
+      "target": "https://orcid.org/0000-0003-4398-8269",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Analytical Instrumentation Facility --- unknown",
+        "colleges": "College of Engineering --- unknown",
+        "buildings": "unknown --- unknown",
+        "roles": "unknown == unknown",
+        "years": [
+          2019
+        ],
+        "year_recent": 2019,
+        "dois": [
+          "10.1038/s41598-018-38089-y"
+        ],
+        "ncsu?": false,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": false,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+
+        ],
+        "cross_building?": false,
+        "concepts": [
+          "Megafauna",
+          "Climate change",
+          "Biomass (ecology)",
+          "Ecology",
+          "Extinction (optical mineralogy)",
+          "Biodiversity",
+          "Sedimentary rock",
+          "Extinction event",
+          "Ecosystem",
+          "Geography",
+          "Physical geography",
+          "Geology",
+          "Paleontology",
+          "Biology",
+          "Archaeology",
+          "Pleistocene",
+          "Biological dispersal",
+          "Population",
+          "Demography",
+          "Sociology"
+        ],
+        "host_venues": [
+          "Scientific Reports"
+        ],
+        "color": "#000000",
+        "size": 1
+      }
+    },
+    {
+      "source": "u-6000",
+      "target": "jamespkennett",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Analytical Instrumentation Facility --- unknown",
+        "colleges": "College of Engineering --- unknown",
+        "buildings": "unknown --- unknown",
+        "roles": "unknown == unknown",
+        "years": [
+          2019
+        ],
+        "year_recent": 2019,
+        "dois": [
+          "10.1038/s41598-018-38089-y"
+        ],
+        "ncsu?": false,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": false,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+
+        ],
+        "cross_building?": false,
+        "concepts": [
+          "Megafauna",
+          "Climate change",
+          "Biomass (ecology)",
+          "Ecology",
+          "Extinction (optical mineralogy)",
+          "Biodiversity",
+          "Sedimentary rock",
+          "Extinction event",
+          "Ecosystem",
+          "Geography",
+          "Physical geography",
+          "Geology",
+          "Paleontology",
+          "Biology",
+          "Archaeology",
+          "Pleistocene",
+          "Biological dispersal",
+          "Population",
+          "Demography",
+          "Sociology"
+        ],
+        "host_venues": [
+          "Scientific Reports"
+        ],
+        "color": "#000000",
+        "size": 1
+      }
+    },
+    {
+      "source": "u-6000",
+      "target": "uid-mcflicki",
+      "attributes": {
+        "label": 3,
+        "weight": 3,
+        "collaboration_count": 3,
+        "departments": "Analytical Instrumentation Facility -- Chemical and Biomolecular Engineering",
+        "colleges": "College of Engineering == College of Engineering",
+        "buildings": "Engineering Building I (EB1) --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          2017,
+          2016,
+          2014
+        ],
+        "year_recent": 2017,
+        "dois": [
+          "10.1007/s11998-017-9933-6",
+          "10.1002/bit.25966",
+          "10.1002/bit.25280"
+        ],
+        "ncsu?": true,
+        "cross_college?": false,
+        "cross_department?": true,
+        "cross_unit?": true,
+        "cluster?": false,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          "Journal of Coatings Technology and Research"
+        ],
+        "color": "#CC0000",
+        "size": 3
+      }
+    },
+    {
+      "source": "u-6000",
+      "target": "oscaribernal",
+      "attributes": {
+        "label": 2,
+        "weight": 2,
+        "collaboration_count": 2,
+        "departments": "Analytical Instrumentation Facility --- unknown",
+        "colleges": "College of Engineering --- unknown",
+        "buildings": "unknown --- unknown",
+        "roles": "unknown == unknown",
+        "years": [
+          2017,
+          2014
+        ],
+        "year_recent": 2017,
+        "dois": [
+          "10.1007/s11998-017-9933-6",
+          "10.1002/bit.25280"
+        ],
+        "ncsu?": true,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": false,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          "Journal of Coatings Technology and Research"
+        ],
+        "color": "#CC0000",
+        "size": 2
+      }
+    },
+    {
+      "source": "u-6000",
+      "target": "markjschulte",
+      "attributes": {
+        "label": 2,
+        "weight": 2,
+        "collaboration_count": 2,
+        "departments": "Analytical Instrumentation Facility --- unknown",
+        "colleges": "College of Engineering --- unknown",
+        "buildings": "unknown --- unknown",
+        "roles": "unknown == unknown",
+        "years": [
+          2017,
+          2016
+        ],
+        "year_recent": 2017,
+        "dois": [
+          "10.1007/s11998-017-9933-6",
+          "10.1002/bit.25966"
+        ],
+        "ncsu?": true,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": false,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          "Journal of Coatings Technology and Research"
+        ],
+        "color": "#CC0000",
+        "size": 2
+      }
+    },
+    {
+      "source": "u-6000",
+      "target": "jessicajenkinsbroglie",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Analytical Instrumentation Facility --- unknown",
+        "colleges": "College of Engineering --- unknown",
+        "buildings": "unknown --- unknown",
+        "roles": "unknown == unknown",
+        "years": [
+          2017
+        ],
+        "year_recent": 2017,
+        "dois": [
+          "10.1007/s11998-017-9933-6"
+        ],
+        "ncsu?": true,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": false,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          "Journal of Coatings Technology and Research"
+        ],
+        "color": "#CC0000",
+        "size": 1
+      }
+    },
+    {
+      "source": "u-6000",
+      "target": "uid-cjduran",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Analytical Instrumentation Facility -- Chemical and Biomolecular Engineering",
+        "colleges": "College of Engineering == College of Engineering",
+        "buildings": "unknown --- unknown",
+        "roles": "student --- unknown",
+        "years": [
+          2017
+        ],
+        "year_recent": 2017,
+        "dois": [
+          "10.1007/s11998-017-9933-6"
+        ],
+        "ncsu?": true,
+        "cross_college?": false,
+        "cross_department?": true,
+        "cross_unit?": true,
+        "cluster?": false,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          "Journal of Coatings Technology and Research"
+        ],
+        "color": "#CC0000",
+        "size": 1
+      }
+    },
+    {
+      "source": "u-6000",
+      "target": "uid-adwalla3",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Analytical Instrumentation Facility -- Chemical and Biomolecular Engineering",
+        "colleges": "College of Engineering == College of Engineering",
+        "buildings": "unknown --- unknown",
+        "roles": "student --- unknown",
+        "years": [
+          2017
+        ],
+        "year_recent": 2017,
+        "dois": [
+          "10.1007/s11998-017-9933-6"
+        ],
+        "ncsu?": true,
+        "cross_college?": false,
+        "cross_department?": true,
+        "cross_unit?": true,
+        "cluster?": false,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          "Journal of Coatings Technology and Research"
+        ],
+        "color": "#CC0000",
+        "size": 1
+      }
+    },
+    {
+      "source": "u-6000",
+      "target": "uid-odvelev",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Analytical Instrumentation Facility -- Chemical and Biomolecular Engineering",
+        "colleges": "College of Engineering == College of Engineering",
+        "buildings": "Engineering Building I (EB1) --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          2017
+        ],
+        "year_recent": 2017,
+        "dois": [
+          "10.1007/s11998-017-9933-6"
+        ],
+        "ncsu?": true,
+        "cross_college?": false,
+        "cross_department?": true,
+        "cross_unit?": true,
+        "cluster?": false,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          "Journal of Coatings Technology and Research"
+        ],
+        "color": "#CC0000",
+        "size": 1
+      }
+    },
+    {
+      "source": "u-6000",
+      "target": "jeffwiltgen",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Analytical Instrumentation Facility --- unknown",
+        "colleges": "College of Engineering --- unknown",
+        "buildings": "unknown --- unknown",
+        "roles": "unknown == unknown",
+        "years": [
+          2016
+        ],
+        "year_recent": 2016,
+        "dois": [
+          "10.1002/bit.25966"
+        ],
+        "ncsu?": true,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": false,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+
+        ],
+        "cross_building?": false,
+        "concepts": [
+          "Biocomposite",
+          "Bioprocess",
+          "Clostridium thermocellum",
+          "Materials science",
+          "Chromatography",
+          "Chemical engineering",
+          "Volume fraction",
+          "Volume (thermodynamics)",
+          "Bioreactor",
+          "Adsorption",
+          "Chemistry",
+          "Analytical Chemistry (journal)",
+          "Composite material",
+          "Cellulose",
+          "Organic chemistry",
+          "Physics",
+          "Quantum mechanics",
+          "Composite number",
+          "Engineering",
+          "Cellulase"
+        ],
+        "host_venues": [
+          "Biotechnology and Bioengineering"
+        ],
+        "color": "#CC0000",
+        "size": 1
+      }
+    },
+    {
+      "source": "u-6000",
+      "target": "johnritter",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Analytical Instrumentation Facility --- unknown",
+        "colleges": "College of Engineering --- unknown",
+        "buildings": "unknown --- unknown",
+        "roles": "unknown == unknown",
+        "years": [
+          2016
+        ],
+        "year_recent": 2016,
+        "dois": [
+          "10.1002/bit.25966"
+        ],
+        "ncsu?": true,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": false,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+
+        ],
+        "cross_building?": false,
+        "concepts": [
+          "Biocomposite",
+          "Bioprocess",
+          "Clostridium thermocellum",
+          "Materials science",
+          "Chromatography",
+          "Chemical engineering",
+          "Volume fraction",
+          "Volume (thermodynamics)",
+          "Bioreactor",
+          "Adsorption",
+          "Chemistry",
+          "Analytical Chemistry (journal)",
+          "Composite material",
+          "Cellulose",
+          "Organic chemistry",
+          "Physics",
+          "Quantum mechanics",
+          "Composite number",
+          "Engineering",
+          "Cellulase"
+        ],
+        "host_venues": [
+          "Biotechnology and Bioengineering"
+        ],
+        "color": "#CC0000",
+        "size": 1
+      }
+    },
+    {
+      "source": "u-6000",
+      "target": "uid-jnniemut",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Analytical Instrumentation Facility -- Clinical Sciences",
+        "colleges": "College of Engineering -- College of Veterinary Medicine",
+        "buildings": "unknown --- unknown",
+        "roles": "student --- unknown",
+        "years": [
+          2014
+        ],
+        "year_recent": 2014,
+        "dois": [
+          "10.1638/2013-0135r2.1"
+        ],
+        "ncsu?": true,
+        "cross_college?": true,
+        "cross_department?": true,
+        "cross_unit?": true,
+        "cluster?": false,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          "Journal of Zoo and Wildlife Medicine"
+        ],
+        "color": "#FAC800",
+        "size": 1
+      }
+    },
+    {
+      "source": "u-6000",
+      "target": "https://orcid.org/0000-0002-5711-2324",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Analytical Instrumentation Facility --- unknown",
+        "colleges": "College of Engineering --- unknown",
+        "buildings": "unknown --- unknown",
+        "roles": "unknown == unknown",
+        "years": [
+          2014
+        ],
+        "year_recent": 2014,
+        "dois": [
+          "10.1638/2013-0135r2.1"
+        ],
+        "ncsu?": false,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": false,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          "Journal of Zoo and Wildlife Medicine"
+        ],
+        "color": "#000000",
+        "size": 1
+      }
+    },
+    {
+      "source": "u-6000",
+      "target": "colleenolfenbuttel",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Analytical Instrumentation Facility --- unknown",
+        "colleges": "College of Engineering --- unknown",
+        "buildings": "unknown --- unknown",
+        "roles": "unknown == unknown",
+        "years": [
+          2014
+        ],
+        "year_recent": 2014,
+        "dois": [
+          "10.1638/2013-0135r2.1"
+        ],
+        "ncsu?": false,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": false,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          "Journal of Zoo and Wildlife Medicine"
+        ],
+        "color": "#000000",
+        "size": 1
+      }
+    },
+    {
+      "source": "u-6000",
+      "target": "uid-csdepern",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Analytical Instrumentation Facility -- Forestry & Environmental Resources",
+        "colleges": "College of Engineering -- College of Natural Resources",
+        "buildings": "Turner House --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          2014
+        ],
+        "year_recent": 2014,
+        "dois": [
+          "10.1638/2013-0135r2.1"
+        ],
+        "ncsu?": true,
+        "cross_college?": true,
+        "cross_department?": true,
+        "cross_unit?": true,
+        "cluster?": false,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          "Journal of Zoo and Wildlife Medicine"
+        ],
+        "color": "#FAC800",
+        "size": 1
+      }
+    },
+    {
+      "source": "u-6000",
+      "target": "uid-mkstosko",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Analytical Instrumentation Facility -- Clinical Sciences",
+        "colleges": "College of Engineering -- College of Veterinary Medicine",
+        "buildings": "CVM Main Building --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          2014
+        ],
+        "year_recent": 2014,
+        "dois": [
+          "10.1638/2013-0135r2.1"
+        ],
+        "ncsu?": true,
+        "cross_college?": true,
+        "cross_department?": true,
+        "cross_unit?": true,
+        "cluster?": false,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          "Journal of Zoo and Wildlife Medicine"
+        ],
+        "color": "#FAC800",
+        "size": 1
+      }
+    },
+    {
+      "source": "u-6000",
+      "target": "malecompte",
+      "attributes": {
+        "label": 2,
+        "weight": 2,
+        "collaboration_count": 2,
+        "departments": "Analytical Instrumentation Facility --- unknown",
+        "colleges": "College of Engineering --- unknown",
+        "buildings": "unknown --- unknown",
+        "roles": "unknown == unknown",
+        "years": [
+          2013,
+          2012
+        ],
+        "year_recent": 2013,
+        "dois": [
+
+        ],
+        "ncsu?": null,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": false,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          null
+        ],
+        "color": "#000000",
+        "size": 2
+      }
+    },
+    {
+      "source": "u-6000",
+      "target": "dbatchelor",
+      "attributes": {
+        "label": 2,
+        "weight": 2,
+        "collaboration_count": 2,
+        "departments": "Analytical Instrumentation Facility --- unknown",
+        "colleges": "College of Engineering --- unknown",
+        "buildings": "unknown --- unknown",
+        "roles": "unknown == unknown",
+        "years": [
+          2013,
+          2012
+        ],
+        "year_recent": 2013,
+        "dois": [
+
+        ],
+        "ncsu?": null,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": false,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          null
+        ],
+        "color": "#000000",
+        "size": 2
+      }
+    },
+    {
+      "source": "u-6000",
+      "target": "mndemitroff",
+      "attributes": {
+        "label": 2,
+        "weight": 2,
+        "collaboration_count": 2,
+        "departments": "Analytical Instrumentation Facility --- unknown",
+        "colleges": "College of Engineering --- unknown",
+        "buildings": "unknown --- unknown",
+        "roles": "unknown == unknown",
+        "years": [
+          2013,
+          2012
+        ],
+        "year_recent": 2013,
+        "dois": [
+
+        ],
+        "ncsu?": null,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": false,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          null
+        ],
+        "color": "#000000",
+        "size": 2
+      }
+    },
+    {
+      "source": "u-6000",
+      "target": "ekvogel",
+      "attributes": {
+        "label": 2,
+        "weight": 2,
+        "collaboration_count": 2,
+        "departments": "Analytical Instrumentation Facility --- unknown",
+        "colleges": "College of Engineering --- unknown",
+        "buildings": "unknown --- unknown",
+        "roles": "unknown == unknown",
+        "years": [
+          2013,
+          2012
+        ],
+        "year_recent": 2013,
+        "dois": [
+
+        ],
+        "ncsu?": null,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": false,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          null
+        ],
+        "color": "#000000",
+        "size": 2
+      }
+    },
+    {
+      "source": "u-6000",
+      "target": "bnrock",
+      "attributes": {
+        "label": 2,
+        "weight": 2,
+        "collaboration_count": 2,
+        "departments": "Analytical Instrumentation Facility --- unknown",
+        "colleges": "College of Engineering --- unknown",
+        "buildings": "unknown --- unknown",
+        "roles": "unknown == unknown",
+        "years": [
+          2013,
+          2012
+        ],
+        "year_recent": 2013,
+        "dois": [
+
+        ],
+        "ncsu?": null,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": false,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          null
+        ],
+        "color": "#000000",
+        "size": 2
+      }
+    },
+    {
+      "source": "u-6000",
+      "target": "awseidel",
+      "attributes": {
+        "label": 2,
+        "weight": 2,
+        "collaboration_count": 2,
+        "departments": "Analytical Instrumentation Facility --- unknown",
+        "colleges": "College of Engineering --- unknown",
+        "buildings": "unknown --- unknown",
+        "roles": "unknown == unknown",
+        "years": [
+          2013,
+          2012
+        ],
+        "year_recent": 2013,
+        "dois": [
+
+        ],
+        "ncsu?": null,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": false,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          null
+        ],
+        "color": "#000000",
+        "size": 2
+      }
+    },
+    {
+      "source": "u-6000",
+      "target": "acgoodyear",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Analytical Instrumentation Facility --- unknown",
+        "colleges": "College of Engineering --- unknown",
+        "buildings": "unknown --- unknown",
+        "roles": "unknown == unknown",
+        "years": [
+          2012
+        ],
+        "year_recent": 2012,
+        "dois": [
+
+        ],
+        "ncsu?": null,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": false,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          null
+        ],
+        "color": "#000000",
+        "size": 1
+      }
+    },
+    {
+      "source": "u-6000",
+      "target": "mshi",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Analytical Instrumentation Facility --- unknown",
+        "colleges": "College of Engineering --- unknown",
+        "buildings": "unknown --- unknown",
+        "roles": "unknown == unknown",
+        "years": [
+          2010
+        ],
+        "year_recent": 2010,
+        "dois": [
+          "10.1016/j.precisioneng.2010.03.009"
+        ],
+        "ncsu?": true,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": false,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          "Precision Engineering-journal of The International Societies for Precision Engineering and Nanotechnology"
+        ],
+        "color": "#CC0000",
+        "size": 1
+      }
+    },
+    {
+      "source": "u-6000",
+      "target": "uid-bmlane",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Analytical Instrumentation Facility -- Precision Engineering Center",
+        "colleges": "College of Engineering == College of Engineering",
+        "buildings": "unknown --- unknown",
+        "roles": "unknown == unknown",
+        "years": [
+          2010
+        ],
+        "year_recent": 2010,
+        "dois": [
+          "10.1016/j.precisioneng.2010.03.009"
+        ],
+        "ncsu?": true,
+        "cross_college?": false,
+        "cross_department?": true,
+        "cross_unit?": true,
+        "cluster?": false,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          "Precision Engineering-journal of The International Societies for Precision Engineering and Nanotechnology"
+        ],
+        "color": "#CC0000",
+        "size": 1
+      }
+    },
+    {
+      "source": "u-6000",
+      "target": "uid-dow",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Analytical Instrumentation Facility -- Mechanical & Aerospace Engineering",
+        "colleges": "College of Engineering == College of Engineering",
+        "buildings": "Research Building I --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          2010
+        ],
+        "year_recent": 2010,
+        "dois": [
+          "10.1016/j.precisioneng.2010.03.009"
+        ],
+        "ncsu?": true,
+        "cross_college?": false,
+        "cross_department?": true,
+        "cross_unit?": true,
+        "cluster?": false,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          "Precision Engineering-journal of The International Societies for Precision Engineering and Nanotechnology"
+        ],
+        "color": "#CC0000",
+        "size": 1
+      }
+    },
+    {
+      "source": "u-6000",
+      "target": "uid-scatterg",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Analytical Instrumentation Facility -- Materials Science & Engineering",
+        "colleges": "College of Engineering == College of Engineering",
+        "buildings": "Engineering Building I (EB1) --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          2010
+        ],
+        "year_recent": 2010,
+        "dois": [
+          "10.1016/j.precisioneng.2010.03.009"
+        ],
+        "ncsu?": true,
+        "cross_college?": false,
+        "cross_department?": true,
+        "cross_unit?": true,
+        "cluster?": false,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          "Precision Engineering-journal of The International Societies for Precision Engineering and Nanotechnology"
+        ],
+        "color": "#CC0000",
+        "size": 1
+      }
+    },
+    {
+      "source": "u-6000",
+      "target": "skitamura",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Analytical Instrumentation Facility --- unknown",
+        "colleges": "College of Engineering --- unknown",
+        "buildings": "unknown --- unknown",
+        "roles": "unknown == unknown",
+        "years": [
+          2005
+        ],
+        "year_recent": 2005,
+        "dois": [
+
+        ],
+        "ncsu?": null,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": false,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          null
+        ],
+        "color": "#000000",
+        "size": 1
+      }
+    },
+    {
+      "source": "u-6000",
+      "target": "kyonei",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Analytical Instrumentation Facility --- unknown",
+        "colleges": "College of Engineering --- unknown",
+        "buildings": "unknown --- unknown",
+        "roles": "unknown == unknown",
+        "years": [
+          2005
+        ],
+        "year_recent": 2005,
+        "dois": [
+
+        ],
+        "ncsu?": null,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": false,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          null
+        ],
+        "color": "#000000",
+        "size": 1
+      }
+    },
+    {
+      "source": "u-6000",
+      "target": "miwatsuki",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Analytical Instrumentation Facility --- unknown",
+        "colleges": "College of Engineering --- unknown",
+        "buildings": "unknown --- unknown",
+        "roles": "unknown == unknown",
+        "years": [
+          2005
+        ],
+        "year_recent": 2005,
+        "dois": [
+
+        ],
+        "ncsu?": null,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": false,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          null
+        ],
+        "color": "#000000",
+        "size": 1
+      }
+    },
+    {
+      "source": "u-6000",
+      "target": "yfukuda",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Analytical Instrumentation Facility --- unknown",
+        "colleges": "College of Engineering --- unknown",
+        "buildings": "unknown --- unknown",
+        "roles": "unknown == unknown",
+        "years": [
+          2005
+        ],
+        "year_recent": 2005,
+        "dois": [
+
+        ],
+        "ncsu?": null,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": false,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          null
+        ],
+        "color": "#000000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-rgarcia",
+      "target": "https://orcid.org/0000-0002-4627-3990",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Analytical Instrumentation Facility --- unknown",
+        "colleges": "College of Engineering --- unknown",
+        "buildings": "Monteith Engineering Res.Ctr. --- unknown",
+        "roles": "staff --- unknown",
+        "years": [
+          2020
+        ],
+        "year_recent": 2020,
+        "dois": [
+          "10.1017/qua.2019.46"
+        ],
+        "ncsu?": false,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": false,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          "Quaternary Research"
+        ],
+        "color": "#000000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-rgarcia",
+      "target": "matthewboyd",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Analytical Instrumentation Facility --- unknown",
+        "colleges": "College of Engineering --- unknown",
+        "buildings": "Monteith Engineering Res.Ctr. --- unknown",
+        "roles": "staff --- unknown",
+        "years": [
+          2020
+        ],
+        "year_recent": 2020,
+        "dois": [
+          "10.1017/qua.2019.46"
+        ],
+        "ncsu?": false,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": false,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          "Quaternary Research"
+        ],
+        "color": "#000000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-rgarcia",
+      "target": "malcolmalecompte",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Analytical Instrumentation Facility --- unknown",
+        "colleges": "College of Engineering --- unknown",
+        "buildings": "Monteith Engineering Res.Ctr. --- unknown",
+        "roles": "staff --- unknown",
+        "years": [
+          2020
+        ],
+        "year_recent": 2020,
+        "dois": [
+          "10.1017/qua.2019.46"
+        ],
+        "ncsu?": false,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": false,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          "Quaternary Research"
+        ],
+        "color": "#000000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-rgarcia",
+      "target": "jameskennett",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Analytical Instrumentation Facility --- unknown",
+        "colleges": "College of Engineering --- unknown",
+        "buildings": "Monteith Engineering Res.Ctr. --- unknown",
+        "roles": "staff --- unknown",
+        "years": [
+          2020
+        ],
+        "year_recent": 2020,
+        "dois": [
+          "10.1017/qua.2019.46"
+        ],
+        "ncsu?": false,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": false,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          "Quaternary Research"
+        ],
+        "color": "#000000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-rgarcia",
+      "target": "allenwest",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Analytical Instrumentation Facility --- unknown",
+        "colleges": "College of Engineering --- unknown",
+        "buildings": "Monteith Engineering Res.Ctr. --- unknown",
+        "roles": "staff --- unknown",
+        "years": [
+          2020
+        ],
+        "year_recent": 2020,
+        "dois": [
+          "10.1017/qua.2019.46"
+        ],
+        "ncsu?": false,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": false,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          "Quaternary Research"
+        ],
+        "color": "#000000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-rgarcia",
+      "target": "alicemtelka",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Analytical Instrumentation Facility --- unknown",
+        "colleges": "College of Engineering --- unknown",
+        "buildings": "Monteith Engineering Res.Ctr. --- unknown",
+        "roles": "staff --- unknown",
+        "years": [
+          2020
+        ],
+        "year_recent": 2020,
+        "dois": [
+          "10.1017/qua.2019.46"
+        ],
+        "ncsu?": false,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": false,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          "Quaternary Research"
+        ],
+        "color": "#000000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-rgarcia",
+      "target": "auradiaz",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Analytical Instrumentation Facility --- unknown",
+        "colleges": "College of Engineering --- unknown",
+        "buildings": "Monteith Engineering Res.Ctr. --- unknown",
+        "roles": "staff --- unknown",
+        "years": [
+          2020
+        ],
+        "year_recent": 2020,
+        "dois": [
+          "10.1017/qua.2019.46"
+        ],
+        "ncsu?": false,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": false,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          "Quaternary Research"
+        ],
+        "color": "#000000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-rgarcia",
+      "target": "victoradedeji",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Analytical Instrumentation Facility --- unknown",
+        "colleges": "College of Engineering --- unknown",
+        "buildings": "Monteith Engineering Res.Ctr. --- unknown",
+        "roles": "staff --- unknown",
+        "years": [
+          2020
+        ],
+        "year_recent": 2020,
+        "dois": [
+          "10.1017/qua.2019.46"
+        ],
+        "ncsu?": false,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": false,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          "Quaternary Research"
+        ],
+        "color": "#000000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-rgarcia",
+      "target": "dalebatchelor",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Analytical Instrumentation Facility --- unknown",
+        "colleges": "College of Engineering --- unknown",
+        "buildings": "Monteith Engineering Res.Ctr. --- unknown",
+        "roles": "staff --- unknown",
+        "years": [
+          2020
+        ],
+        "year_recent": 2020,
+        "dois": [
+          "10.1017/qua.2019.46"
+        ],
+        "ncsu?": false,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": false,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          "Quaternary Research"
+        ],
+        "color": "#000000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-mcflicki",
+      "target": "uid-cjduran",
+      "attributes": {
+        "label": 3,
+        "weight": 3,
+        "collaboration_count": 3,
+        "departments": "Chemical and Biomolecular Engineering == Chemical and Biomolecular Engineering",
+        "colleges": "College of Engineering == College of Engineering",
+        "buildings": "Engineering Building I (EB1) --- unknown",
+        "roles": "faculty -- student",
+        "years": [
+          2020,
+          2019,
+          2017
+        ],
+        "year_recent": 2020,
+        "dois": [
+          "10.1016/j.ces.2020.115592",
+          "10.1016/j.ces.2019.115163",
+          "10.1007/s11998-017-9933-6"
+        ],
+        "ncsu?": true,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": false,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          "Chemical Engineering Science"
+        ],
+        "color": "#CC0000",
+        "size": 3
+      }
+    },
+    {
+      "source": "uid-mcflicki",
+      "target": "markjschulte",
+      "attributes": {
+        "label": 6,
+        "weight": 6,
+        "collaboration_count": 6,
+        "departments": "Chemical and Biomolecular Engineering --- unknown",
+        "colleges": "College of Engineering --- unknown",
+        "buildings": "Engineering Building I (EB1) --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          2020,
+          2019,
+          2017,
+          2017,
+          2016,
+          2016
+        ],
+        "year_recent": 2020,
+        "dois": [
+          "10.1016/j.ces.2020.115592",
+          "10.1016/j.ces.2019.115163",
+          "10.1371/journal.pone.0180806",
+          "10.1007/s11998-017-9933-6",
+          "10.1002/bit.25966",
+          "10.1007/s00253-016-7978-6"
+        ],
+        "ncsu?": true,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": false,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          "Chemical Engineering Science"
+        ],
+        "color": "#CC0000",
+        "size": 6
+      }
+    },
+    {
+      "source": "uid-mcflicki",
+      "target": "uid-adwalla3",
+      "attributes": {
+        "label": 3,
+        "weight": 3,
+        "collaboration_count": 3,
+        "departments": "Chemical and Biomolecular Engineering == Chemical and Biomolecular Engineering",
+        "colleges": "College of Engineering == College of Engineering",
+        "buildings": "Engineering Building I (EB1) --- unknown",
+        "roles": "faculty -- student",
+        "years": [
+          2020,
+          2019,
+          2017
+        ],
+        "year_recent": 2020,
+        "dois": [
+          "10.1016/j.jcou.2020.101348",
+          "10.1021/acs.iecr.8b05487",
+          "10.1007/s11998-017-9933-6"
+        ],
+        "ncsu?": true,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": false,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+
+        ],
+        "cross_building?": false,
+        "concepts": [
+          "Cyanobacteria",
+          "Carbon dioxide",
+          "Pulp and paper industry",
+          "Environmental science",
+          "Chemistry",
+          "Environmental chemistry",
+          "Botany",
+          "Biology",
+          "Organic chemistry",
+          "Bacteria",
+          "Engineering",
+          "Paleontology"
+        ],
+        "host_venues": [
+          "Journal of CO2 utilization"
+        ],
+        "color": "#CC0000",
+        "size": 3
+      }
+    },
+    {
+      "source": "uid-mcflicki",
+      "target": "oscaribernal",
+      "attributes": {
+        "label": 6,
+        "weight": 6,
+        "collaboration_count": 6,
+        "departments": "Chemical and Biomolecular Engineering --- unknown",
+        "colleges": "College of Engineering --- unknown",
+        "buildings": "Engineering Building I (EB1) --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          2017,
+          2017,
+          2017,
+          2015,
+          2014,
+          2012
+        ],
+        "year_recent": 2017,
+        "dois": [
+          "10.1007/s11998-017-9933-6",
+          "10.1021/ACS.LANGMUIR.7B00335",
+          "10.15376/biores.12.2.4013-4030",
+          "10.1002/bit.25353",
+          "10.1002/bit.25280",
+          "10.1007/s10295-012-1135-8"
+        ],
+        "ncsu?": true,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": false,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          "Journal of Coatings Technology and Research"
+        ],
+        "color": "#CC0000",
+        "size": 6
+      }
+    },
+    {
+      "source": "uid-mcflicki",
+      "target": "jessicajenkinsbroglie",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Chemical and Biomolecular Engineering --- unknown",
+        "colleges": "College of Engineering --- unknown",
+        "buildings": "Engineering Building I (EB1) --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          2017
+        ],
+        "year_recent": 2017,
+        "dois": [
+          "10.1007/s11998-017-9933-6"
+        ],
+        "ncsu?": true,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": false,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          "Journal of Coatings Technology and Research"
+        ],
+        "color": "#CC0000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-mcflicki",
+      "target": "uid-odvelev",
+      "attributes": {
+        "label": 4,
+        "weight": 4,
+        "collaboration_count": 4,
+        "departments": "Chemical and Biomolecular Engineering == Chemical and Biomolecular Engineering",
+        "colleges": "College of Engineering == College of Engineering",
+        "buildings": "Engineering Building I (EB1) == Engineering Building I (EB1)",
+        "roles": "faculty == faculty",
+        "years": [
+          2017,
+          2017,
+          2013,
+          2012
+        ],
+        "year_recent": 2017,
+        "dois": [
+          "10.1007/s11998-017-9933-6",
+          "10.1021/ACS.LANGMUIR.7B00335",
+          "10.3390/ma6051803",
+          "10.1016/j.jcis.2012.04.060"
+        ],
+        "ncsu?": true,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": false,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          "Journal of Coatings Technology and Research"
+        ],
+        "color": "#CC0000",
+        "size": 4
+      }
+    },
+    {
+      "source": "uid-mcflicki",
+      "target": "jeffwiltgen",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Chemical and Biomolecular Engineering --- unknown",
+        "colleges": "College of Engineering --- unknown",
+        "buildings": "Engineering Building I (EB1) --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          2016
+        ],
+        "year_recent": 2016,
+        "dois": [
+          "10.1002/bit.25966"
+        ],
+        "ncsu?": true,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": false,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+
+        ],
+        "cross_building?": false,
+        "concepts": [
+          "Biocomposite",
+          "Bioprocess",
+          "Clostridium thermocellum",
+          "Materials science",
+          "Chromatography",
+          "Chemical engineering",
+          "Volume fraction",
+          "Volume (thermodynamics)",
+          "Bioreactor",
+          "Adsorption",
+          "Chemistry",
+          "Analytical Chemistry (journal)",
+          "Composite material",
+          "Cellulose",
+          "Organic chemistry",
+          "Physics",
+          "Quantum mechanics",
+          "Composite number",
+          "Engineering",
+          "Cellulase"
+        ],
+        "host_venues": [
+          "Biotechnology and Bioengineering"
+        ],
+        "color": "#CC0000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-mcflicki",
+      "target": "johnritter",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Chemical and Biomolecular Engineering --- unknown",
+        "colleges": "College of Engineering --- unknown",
+        "buildings": "Engineering Building I (EB1) --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          2016
+        ],
+        "year_recent": 2016,
+        "dois": [
+          "10.1002/bit.25966"
+        ],
+        "ncsu?": true,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": false,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+
+        ],
+        "cross_building?": false,
+        "concepts": [
+          "Biocomposite",
+          "Bioprocess",
+          "Clostridium thermocellum",
+          "Materials science",
+          "Chromatography",
+          "Chemical engineering",
+          "Volume fraction",
+          "Volume (thermodynamics)",
+          "Bioreactor",
+          "Adsorption",
+          "Chemistry",
+          "Analytical Chemistry (journal)",
+          "Composite material",
+          "Cellulose",
+          "Organic chemistry",
+          "Physics",
+          "Quantum mechanics",
+          "Composite number",
+          "Engineering",
+          "Cellulase"
+        ],
+        "host_venues": [
+          "Biotechnology and Bioengineering"
+        ],
+        "color": "#CC0000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-cjduran",
+      "target": "markjschulte",
+      "attributes": {
+        "label": 3,
+        "weight": 3,
+        "collaboration_count": 3,
+        "departments": "Chemical and Biomolecular Engineering --- unknown",
+        "colleges": "College of Engineering --- unknown",
+        "buildings": "unknown --- unknown",
+        "roles": "student --- unknown",
+        "years": [
+          2020,
+          2019,
+          2017
+        ],
+        "year_recent": 2020,
+        "dois": [
+          "10.1016/j.ces.2020.115592",
+          "10.1016/j.ces.2019.115163",
+          "10.1007/s11998-017-9933-6"
+        ],
+        "ncsu?": true,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": false,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          "Chemical Engineering Science"
+        ],
+        "color": "#CC0000",
+        "size": 3
+      }
+    },
+    {
+      "source": "uid-cjduran",
+      "target": "oscaribernal",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Chemical and Biomolecular Engineering --- unknown",
+        "colleges": "College of Engineering --- unknown",
+        "buildings": "unknown --- unknown",
+        "roles": "student --- unknown",
+        "years": [
+          2017
+        ],
+        "year_recent": 2017,
+        "dois": [
+          "10.1007/s11998-017-9933-6"
+        ],
+        "ncsu?": true,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": false,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          "Journal of Coatings Technology and Research"
+        ],
+        "color": "#CC0000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-cjduran",
+      "target": "jessicajenkinsbroglie",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Chemical and Biomolecular Engineering --- unknown",
+        "colleges": "College of Engineering --- unknown",
+        "buildings": "unknown --- unknown",
+        "roles": "student --- unknown",
+        "years": [
+          2017
+        ],
+        "year_recent": 2017,
+        "dois": [
+          "10.1007/s11998-017-9933-6"
+        ],
+        "ncsu?": true,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": false,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          "Journal of Coatings Technology and Research"
+        ],
+        "color": "#CC0000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-cjduran",
+      "target": "uid-adwalla3",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Chemical and Biomolecular Engineering == Chemical and Biomolecular Engineering",
+        "colleges": "College of Engineering == College of Engineering",
+        "buildings": "unknown --- unknown",
+        "roles": "student == student",
+        "years": [
+          2017
+        ],
+        "year_recent": 2017,
+        "dois": [
+          "10.1007/s11998-017-9933-6"
+        ],
+        "ncsu?": true,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": false,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          "Journal of Coatings Technology and Research"
+        ],
+        "color": "#CC0000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-cjduran",
+      "target": "uid-odvelev",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Chemical and Biomolecular Engineering == Chemical and Biomolecular Engineering",
+        "colleges": "College of Engineering == College of Engineering",
+        "buildings": "Engineering Building I (EB1) --- unknown",
+        "roles": "faculty -- student",
+        "years": [
+          2017
+        ],
+        "year_recent": 2017,
+        "dois": [
+          "10.1007/s11998-017-9933-6"
+        ],
+        "ncsu?": true,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": false,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          "Journal of Coatings Technology and Research"
+        ],
+        "color": "#CC0000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-adwalla3",
+      "target": "oscaribernal",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Chemical and Biomolecular Engineering --- unknown",
+        "colleges": "College of Engineering --- unknown",
+        "buildings": "unknown --- unknown",
+        "roles": "student --- unknown",
+        "years": [
+          2017
+        ],
+        "year_recent": 2017,
+        "dois": [
+          "10.1007/s11998-017-9933-6"
+        ],
+        "ncsu?": true,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": false,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          "Journal of Coatings Technology and Research"
+        ],
+        "color": "#CC0000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-adwalla3",
+      "target": "markjschulte",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Chemical and Biomolecular Engineering --- unknown",
+        "colleges": "College of Engineering --- unknown",
+        "buildings": "unknown --- unknown",
+        "roles": "student --- unknown",
+        "years": [
+          2017
+        ],
+        "year_recent": 2017,
+        "dois": [
+          "10.1007/s11998-017-9933-6"
+        ],
+        "ncsu?": true,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": false,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          "Journal of Coatings Technology and Research"
+        ],
+        "color": "#CC0000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-adwalla3",
+      "target": "jessicajenkinsbroglie",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Chemical and Biomolecular Engineering --- unknown",
+        "colleges": "College of Engineering --- unknown",
+        "buildings": "unknown --- unknown",
+        "roles": "student --- unknown",
+        "years": [
+          2017
+        ],
+        "year_recent": 2017,
+        "dois": [
+          "10.1007/s11998-017-9933-6"
+        ],
+        "ncsu?": true,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": false,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          "Journal of Coatings Technology and Research"
+        ],
+        "color": "#CC0000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-adwalla3",
+      "target": "uid-odvelev",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Chemical and Biomolecular Engineering == Chemical and Biomolecular Engineering",
+        "colleges": "College of Engineering == College of Engineering",
+        "buildings": "Engineering Building I (EB1) --- unknown",
+        "roles": "faculty -- student",
+        "years": [
+          2017
+        ],
+        "year_recent": 2017,
+        "dois": [
+          "10.1007/s11998-017-9933-6"
+        ],
+        "ncsu?": true,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": false,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          "Journal of Coatings Technology and Research"
+        ],
+        "color": "#CC0000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-odvelev",
+      "target": "oscaribernal",
+      "attributes": {
+        "label": 2,
+        "weight": 2,
+        "collaboration_count": 2,
+        "departments": "Chemical and Biomolecular Engineering --- unknown",
+        "colleges": "College of Engineering --- unknown",
+        "buildings": "Engineering Building I (EB1) --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          2017,
+          2017
+        ],
+        "year_recent": 2017,
+        "dois": [
+          "10.1007/s11998-017-9933-6",
+          "10.1021/ACS.LANGMUIR.7B00335"
+        ],
+        "ncsu?": true,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": false,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          "Journal of Coatings Technology and Research"
+        ],
+        "color": "#CC0000",
+        "size": 2
+      }
+    },
+    {
+      "source": "uid-odvelev",
+      "target": "markjschulte",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Chemical and Biomolecular Engineering --- unknown",
+        "colleges": "College of Engineering --- unknown",
+        "buildings": "Engineering Building I (EB1) --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          2017
+        ],
+        "year_recent": 2017,
+        "dois": [
+          "10.1007/s11998-017-9933-6"
+        ],
+        "ncsu?": true,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": false,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          "Journal of Coatings Technology and Research"
+        ],
+        "color": "#CC0000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-odvelev",
+      "target": "jessicajenkinsbroglie",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Chemical and Biomolecular Engineering --- unknown",
+        "colleges": "College of Engineering --- unknown",
+        "buildings": "Engineering Building I (EB1) --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          2017
+        ],
+        "year_recent": 2017,
+        "dois": [
+          "10.1007/s11998-017-9933-6"
+        ],
+        "ncsu?": true,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": false,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          "Journal of Coatings Technology and Research"
+        ],
+        "color": "#CC0000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-jnniemut",
+      "target": "uid-mkstosko",
+      "attributes": {
+        "label": 13,
+        "weight": 13,
+        "collaboration_count": 13,
+        "departments": "Clinical Sciences == Clinical Sciences",
+        "colleges": "College of Veterinary Medicine == College of Veterinary Medicine",
+        "buildings": "CVM Main Building --- unknown",
+        "roles": "faculty -- student",
+        "years": [
+          2022,
+          2020,
+          2019,
+          2018,
+          2017,
+          2017,
+          2017,
+          2014,
+          2014
+        ],
+        "year_recent": 2022,
+        "dois": [
+          "10.1007/s10592-022-01444-8",
+          "10.3996/052019-jfwm-043",
+          "10.3390/metabo9020021",
+          "10.3996/122017-JFWM-099",
+          "10.1098/rsos.171433",
+          "10.5584/jiomics.v7i1.203",
+          "10.1139/facets-2016-0064",
+          "10.2461/wbp.2014.10.3",
+          "10.1638/2013-0135r2.1"
+        ],
+        "ncsu?": true,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": false,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+
+        ],
+        "cross_building?": false,
+        "concepts": [
+          "Biology",
+          "Genetic diversity",
+          "Population bottleneck",
+          "Population",
+          "Ecology",
+          "Biodiversity",
+          "Evolutionary biology",
+          "Zoology",
+          "Genetics",
+          "Demography",
+          "Gene",
+          "Allele",
+          "Sociology",
+          "Microsatellite"
+        ],
+        "host_venues": [
+          "Conservation Genetics"
+        ],
+        "color": "#CC0000",
+        "size": 13
+      }
+    },
+    {
+      "source": "uid-jnniemut",
+      "target": "https://orcid.org/0000-0002-5711-2324",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Clinical Sciences --- unknown",
+        "colleges": "College of Veterinary Medicine --- unknown",
+        "buildings": "unknown --- unknown",
+        "roles": "student --- unknown",
+        "years": [
+          2014
+        ],
+        "year_recent": 2014,
+        "dois": [
+          "10.1638/2013-0135r2.1"
+        ],
+        "ncsu?": false,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": false,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          "Journal of Zoo and Wildlife Medicine"
+        ],
+        "color": "#000000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-jnniemut",
+      "target": "colleenolfenbuttel",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Clinical Sciences --- unknown",
+        "colleges": "College of Veterinary Medicine --- unknown",
+        "buildings": "unknown --- unknown",
+        "roles": "student --- unknown",
+        "years": [
+          2014
+        ],
+        "year_recent": 2014,
+        "dois": [
+          "10.1638/2013-0135r2.1"
+        ],
+        "ncsu?": false,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": false,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          "Journal of Zoo and Wildlife Medicine"
+        ],
+        "color": "#000000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-jnniemut",
+      "target": "uid-csdepern",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Clinical Sciences -- Forestry & Environmental Resources",
+        "colleges": "College of Natural Resources -- College of Veterinary Medicine",
+        "buildings": "Turner House --- unknown",
+        "roles": "faculty -- student",
+        "years": [
+          2014
+        ],
+        "year_recent": 2014,
+        "dois": [
+          "10.1638/2013-0135r2.1"
+        ],
+        "ncsu?": true,
+        "cross_college?": true,
+        "cross_department?": true,
+        "cross_unit?": true,
+        "cluster?": false,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          "Journal of Zoo and Wildlife Medicine"
+        ],
+        "color": "#FAC800",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-csdepern",
+      "target": "uid-mkstosko",
+      "attributes": {
+        "label": 6,
+        "weight": 6,
+        "collaboration_count": 6,
+        "departments": "Clinical Sciences -- Forestry & Environmental Resources",
+        "colleges": "College of Natural Resources -- College of Veterinary Medicine",
+        "buildings": "CVM Main Building -- Turner House",
+        "roles": "faculty == faculty",
+        "years": [
+          2021,
+          2019,
+          2014,
+          2013,
+          2009,
+          2008
+        ],
+        "year_recent": 2021,
+        "dois": [
+          "10.1002/wsb.1237",
+          "10.7589/2018-06-164",
+          "10.1638/2013-0135r2.1",
+          "10.3402/iee.v3i0.19175",
+          "10.7589/0090-3558-45.1.196",
+          "10.7589/0090-3558-44.1.181"
+        ],
+        "ncsu?": true,
+        "cross_college?": true,
+        "cross_department?": true,
+        "cross_unit?": true,
+        "cluster?": false,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+
+        ],
+        "cross_building?": true,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          "Wildlife Society bulletin"
+        ],
+        "color": "#FAC800",
+        "size": 6
+      }
+    },
+    {
+      "source": "uid-csdepern",
+      "target": "colleenolfenbuttel",
+      "attributes": {
+        "label": 10,
+        "weight": 10,
+        "collaboration_count": 10,
+        "departments": "Forestry & Environmental Resources --- unknown",
+        "colleges": "College of Natural Resources --- unknown",
+        "buildings": "Turner House --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          2021,
+          2020,
+          2020,
+          2020,
+          2020,
+          2019,
+          2019,
+          2019,
+          2015,
+          2014
+        ],
+        "year_recent": 2021,
+        "dois": [
+          "10.1093/jmammal/gyab066",
+          "10.1080/08927936.2020.1694302",
+          "10.7589/2019-05-129",
+          "10.1111/1751-7915.13509",
+          "10.1007/s10661-020-8106-8",
+          "10.7589/2018-06-164",
+          "10.1002/wsb.993",
+          "10.7589/2017-10-263",
+          "10.7589/2015-01-002",
+          "10.1638/2013-0135r2.1"
+        ],
+        "ncsu?": false,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": false,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          "Journal of Mammalogy"
+        ],
+        "color": "#000000",
+        "size": 10
+      }
+    },
+    {
+      "source": "uid-csdepern",
+      "target": "https://orcid.org/0000-0002-5711-2324",
+      "attributes": {
+        "label": 3,
+        "weight": 3,
+        "collaboration_count": 3,
+        "departments": "Forestry & Environmental Resources --- unknown",
+        "colleges": "College of Natural Resources --- unknown",
+        "buildings": "Turner House --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          2020,
+          2020,
+          2014
+        ],
+        "year_recent": 2020,
+        "dois": [
+          "10.7589/2019-05-129",
+          "10.1007/s10661-020-8106-8",
+          "10.1638/2013-0135r2.1"
+        ],
+        "ncsu?": true,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": false,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          "Journal of Wildlife Diseases"
+        ],
+        "color": "#CC0000",
+        "size": 3
+      }
+    },
+    {
+      "source": "uid-mkstosko",
+      "target": "colleenolfenbuttel",
+      "attributes": {
+        "label": 3,
+        "weight": 3,
+        "collaboration_count": 3,
+        "departments": "Clinical Sciences --- unknown",
+        "colleges": "College of Veterinary Medicine --- unknown",
+        "buildings": "CVM Main Building --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          2021,
+          2019,
+          2014
+        ],
+        "year_recent": 2021,
+        "dois": [
+          "10.7589/JWD-D-20-00091",
+          "10.7589/2018-06-164",
+          "10.1638/2013-0135r2.1"
+        ],
+        "ncsu?": false,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": false,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          "Journal of Wildlife Diseases"
+        ],
+        "color": "#000000",
+        "size": 3
+      }
+    },
+    {
+      "source": "uid-mkstosko",
+      "target": "https://orcid.org/0000-0002-5711-2324",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Clinical Sciences --- unknown",
+        "colleges": "College of Veterinary Medicine --- unknown",
+        "buildings": "CVM Main Building --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          2014
+        ],
+        "year_recent": 2014,
+        "dois": [
+          "10.1638/2013-0135r2.1"
+        ],
+        "ncsu?": false,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": false,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          "Journal of Zoo and Wildlife Medicine"
+        ],
+        "color": "#000000",
+        "size": 1
+      }
+    },
+    {
+      "source": "uid-bmlane",
+      "target": "uid-dow",
+      "attributes": {
+        "label": 3,
+        "weight": 3,
+        "collaboration_count": 3,
+        "departments": "Mechanical & Aerospace Engineering -- Precision Engineering Center",
+        "colleges": "College of Engineering == College of Engineering",
+        "buildings": "Research Building I --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          2013,
+          2010,
+          2010
+        ],
+        "year_recent": 2013,
+        "dois": [
+          "10.1016/j.wear.2013.02.012",
+          "10.1016/j.precisioneng.2010.03.009",
+          "10.1016/j.wear.2010.02.019"
+        ],
+        "ncsu?": true,
+        "cross_college?": false,
+        "cross_department?": true,
+        "cross_unit?": false,
+        "cluster?": false,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          "Wear"
+        ],
+        "color": "#CC0000",
+        "size": 3
+      }
+    },
+    {
+      "source": "uid-bmlane",
+      "target": "uid-scatterg",
+      "attributes": {
+        "label": 3,
+        "weight": 3,
+        "collaboration_count": 3,
+        "departments": "Materials Science & Engineering -- Precision Engineering Center",
+        "colleges": "College of Engineering == College of Engineering",
+        "buildings": "Engineering Building I (EB1) --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          2013,
+          2010,
+          2010
+        ],
+        "year_recent": 2013,
+        "dois": [
+          "10.1016/j.wear.2013.02.012",
+          "10.1016/j.precisioneng.2010.03.009",
+          "10.1016/j.wear.2010.02.019"
+        ],
+        "ncsu?": true,
+        "cross_college?": false,
+        "cross_department?": true,
+        "cross_unit?": true,
+        "cluster?": false,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          "Wear"
+        ],
+        "color": "#CC0000",
+        "size": 3
+      }
+    },
+    {
+      "source": "uid-bmlane",
+      "target": "mshi",
+      "attributes": {
+        "label": 2,
+        "weight": 2,
+        "collaboration_count": 2,
+        "departments": "Precision Engineering Center --- unknown",
+        "colleges": "College of Engineering --- unknown",
+        "buildings": "unknown --- unknown",
+        "roles": "unknown == unknown",
+        "years": [
+          2010,
+          2010
+        ],
+        "year_recent": 2010,
+        "dois": [
+          "10.1016/j.precisioneng.2010.03.009",
+          "10.1016/j.wear.2010.02.019"
+        ],
+        "ncsu?": true,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": false,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          "Precision Engineering-journal of The International Societies for Precision Engineering and Nanotechnology"
+        ],
+        "color": "#CC0000",
+        "size": 2
+      }
+    },
+    {
+      "source": "uid-dow",
+      "target": "uid-scatterg",
+      "attributes": {
+        "label": 5,
+        "weight": 5,
+        "collaboration_count": 5,
+        "departments": "Materials Science & Engineering -- Mechanical & Aerospace Engineering",
+        "colleges": "College of Engineering == College of Engineering",
+        "buildings": "Engineering Building I (EB1) -- Research Building I",
+        "roles": "faculty == faculty",
+        "years": [
+          2013,
+          2013,
+          2012,
+          2010,
+          2010
+        ],
+        "year_recent": 2013,
+        "dois": [
+          "10.1016/j.precisioneng.2013.05.004",
+          "10.1016/j.wear.2013.02.012",
+          "10.1088/0957-4484/23/41/415303",
+          "10.1016/j.precisioneng.2010.03.009",
+          "10.1016/j.wear.2010.02.019"
+        ],
+        "ncsu?": true,
+        "cross_college?": false,
+        "cross_department?": true,
+        "cross_unit?": true,
+        "cluster?": false,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+
+        ],
+        "cross_building?": true,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          "Precision Engineering-journal of The International Societies for Precision Engineering and Nanotechnology"
+        ],
+        "color": "#CC0000",
+        "size": 5
+      }
+    },
+    {
+      "source": "uid-dow",
+      "target": "mshi",
+      "attributes": {
+        "label": 2,
+        "weight": 2,
+        "collaboration_count": 2,
+        "departments": "Mechanical & Aerospace Engineering --- unknown",
+        "colleges": "College of Engineering --- unknown",
+        "buildings": "Research Building I --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          2010,
+          2010
+        ],
+        "year_recent": 2010,
+        "dois": [
+          "10.1016/j.precisioneng.2010.03.009",
+          "10.1016/j.wear.2010.02.019"
+        ],
+        "ncsu?": true,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": false,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          "Precision Engineering-journal of The International Societies for Precision Engineering and Nanotechnology"
+        ],
+        "color": "#CC0000",
+        "size": 2
+      }
+    },
+    {
+      "source": "uid-scatterg",
+      "target": "mshi",
+      "attributes": {
+        "label": 2,
+        "weight": 2,
+        "collaboration_count": 2,
+        "departments": "Materials Science & Engineering --- unknown",
+        "colleges": "College of Engineering --- unknown",
+        "buildings": "Engineering Building I (EB1) --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          2010,
+          2010
+        ],
+        "year_recent": 2010,
+        "dois": [
+          "10.1016/j.precisioneng.2010.03.009",
+          "10.1016/j.wear.2010.02.019"
+        ],
+        "ncsu?": true,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": false,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          "Precision Engineering-journal of The International Societies for Precision Engineering and Nanotechnology"
+        ],
+        "color": "#CC0000",
+        "size": 2
+      }
+    }
+  ]
+}

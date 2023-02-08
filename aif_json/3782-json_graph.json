@@ -1,0 +1,1296 @@
+{
+  "options": {
+    "type": "undirected",
+    "multi": false,
+    "allowSelfLoops": false
+  },
+  "attributes": {
+    "creator": "Citation Index",
+    "lastModifiedDate": "2023-01-15"
+  },
+  "nodes": [
+    {
+      "key": "u-3782",
+      "attributes": {
+        "label": "M Da Silva",
+        "name": "Maria Ivonete Nogueira Da Silva",
+        "known?": true,
+        "orcid?": false,
+        "ncsu?": true,
+        "affiliations": [
+          "North Carolina State University"
+        ],
+        "countries": [
+          "US"
+        ],
+        "url": "https://ci.lib.ncsu.edu/profiles/3782",
+        "active?": false,
+        "department": "Analytical Instrumentation Facility",
+        "college": "College of Engineering",
+        "ncsu_affiliations": [
+          "Analytical Instrumentation Facility"
+        ],
+        "cluster?": false,
+        "clusters": [
+
+        ],
+        "role": null,
+        "building": null,
+        "count": 2,
+        "oa_count": 0,
+        "years": [
+          2002,
+          2001
+        ],
+        "year_recent": 2002,
+        "article_concepts": [
+
+        ],
+        "host_venues": [
+          "Journal of vacuum science & technology"
+        ],
+        "color": "#990000",
+        "size": 20
+      }
+    },
+    {
+      "key": "https://orcid.org/0000-0001-9155-1657",
+      "attributes": {
+        "label": "J Gonzalez",
+        "name": "J. C. Gonzalez",
+        "known?": true,
+        "orcid?": false,
+        "ncsu?": true,
+        "affiliations": [
+          "North Carolina State University"
+        ],
+        "countries": [
+          "US"
+        ],
+        "url": "https://ci.lib.ncsu.edu/profiles/3963",
+        "active?": false,
+        "department": "Analytical Instrumentation Facility",
+        "college": "College of Engineering",
+        "ncsu_affiliations": [
+          "Analytical Instrumentation Facility"
+        ],
+        "cluster?": false,
+        "clusters": [
+
+        ],
+        "role": null,
+        "building": null,
+        "count": 2,
+        "oa_count": 0,
+        "years": [
+          2002,
+          2001
+        ],
+        "year_recent": 2002,
+        "article_concepts": [
+          "Alternative medicine",
+          "Chemistry",
+          "Copper",
+          "Fabrication",
+          "Focused ion beam",
+          "Ion",
+          "Ion beam",
+          "Materials science",
+          "Medicine",
+          "Metallurgy",
+          "Nanotechnology",
+          "Organic chemistry",
+          "Pathology",
+          "Surface micromachining"
+        ],
+        "host_venues": [
+          "Journal of vacuum science & technology"
+        ],
+        "color": "#990000",
+        "size": 10
+      }
+    },
+    {
+      "key": "mindasilva",
+      "attributes": {
+        "label": "M Da Silva",
+        "name": "M. I. N. da Silva",
+        "known?": false,
+        "orcid?": null,
+        "ncsu?": false,
+        "affiliations": [
+
+        ],
+        "countries": [
+
+        ],
+        "color": "#BFBFBD",
+        "size": 10
+      }
+    },
+    {
+      "key": "uid-dgriffis",
+      "attributes": {
+        "label": "D Griffis",
+        "name": "Dieter Griffis",
+        "known?": true,
+        "orcid?": false,
+        "ncsu?": true,
+        "affiliations": [
+          "North Carolina State University"
+        ],
+        "countries": [
+          "US"
+        ],
+        "uid": "dgriffis",
+        "url": "https://ci.lib.ncsu.edu/profiles/dgriffis",
+        "active?": true,
+        "department": "Materials Science & Engineering",
+        "college": "College of Engineering",
+        "ncsu_affiliations": [
+          "Materials Science & Engineering",
+          "Textile Engineering, Chemistry & Science",
+          "Analytical Instrumentation Facility"
+        ],
+        "cluster?": false,
+        "clusters": [
+
+        ],
+        "role": "faculty",
+        "building": "Textiles Complex",
+        "count": 38,
+        "oa_count": 6,
+        "years": [
+          2014,
+          2013,
+          2012,
+          2011,
+          2010,
+          2008,
+          2007,
+          2006,
+          2004,
+          2003,
+          2002,
+          2001,
+          2000,
+          1999,
+          1998
+        ],
+        "year_recent": 2014,
+        "article_concepts": [
+          "Alternative medicine",
+          "Analytical Chemistry (journal)",
+          "Carbon fibers",
+          "Chemistry",
+          "Chromatography",
+          "Composite material",
+          "Composite number",
+          "Copper",
+          "Environmental chemistry",
+          "Fabrication",
+          "Focused ion beam",
+          "Fractionation",
+          "Hydrogen",
+          "Ion",
+          "Ion beam",
+          "Ionization",
+          "Mass spectrometry",
+          "Materials science",
+          "Medicine",
+          "Metallurgy",
+          "Nanotechnology",
+          "Organic chemistry",
+          "Pathology",
+          "Secondary ion mass spectrometry",
+          "Sputtering",
+          "Static secondary-ion mass spectrometry",
+          "Surface micromachining",
+          "Thermal ionization mass spectrometry",
+          "Thin film"
+        ],
+        "host_venues": [
+          "Analytical Chemistry",
+          "Applied Physics Letters",
+          "Applied Surface Science",
+          "Journal of Electronic Materials",
+          "Journal of Microscopy",
+          "Journal of vacuum science & technology",
+          "Journal of vacuum science and technology",
+          "Microscopy and Microanalysis",
+          "Physical Review Special Topics-accelerators and Beams",
+          "Semiconductor Science and Technology",
+          "Surface and Interface Analysis"
+        ],
+        "color": "#990000",
+        "size": 10
+      }
+    },
+    {
+      "key": "u-1220",
+      "attributes": {
+        "label": "P Russell",
+        "name": "Phillip E. Russell",
+        "known?": true,
+        "orcid?": false,
+        "ncsu?": true,
+        "affiliations": [
+          "North Carolina State University"
+        ],
+        "countries": [
+          "US"
+        ],
+        "url": "https://ci.lib.ncsu.edu/profiles/1220",
+        "active?": false,
+        "department": "Materials Science & Engineering",
+        "college": "College of Engineering",
+        "ncsu_affiliations": [
+          "Materials Science & Engineering"
+        ],
+        "cluster?": false,
+        "clusters": [
+
+        ],
+        "role": null,
+        "building": null,
+        "count": 32,
+        "oa_count": 10,
+        "years": [
+          2008,
+          2007,
+          2006,
+          2005,
+          2004,
+          2003,
+          2002,
+          2001,
+          2000,
+          1999,
+          1998,
+          1992
+        ],
+        "year_recent": 2008,
+        "article_concepts": [
+          "Alternative medicine",
+          "Beam (structure)",
+          "Chemistry",
+          "Classification of discontinuities",
+          "Composite material",
+          "Condensed matter physics",
+          "Copper",
+          "Creep",
+          "Crystallography",
+          "Dislocation",
+          "Elastic modulus",
+          "Elasticity (physics)",
+          "Fabrication",
+          "Focused ion beam",
+          "Grain boundary",
+          "Indentation",
+          "Ion",
+          "Ion beam",
+          "Linguistics",
+          "Materials science",
+          "Mathematical analysis",
+          "Mathematics",
+          "Medicine",
+          "Metal",
+          "Metallurgy",
+          "Microstructure",
+          "Nanoindentation",
+          "Nanostructure",
+          "Nanotechnology",
+          "Optical fiber",
+          "Optics",
+          "Optoelectronics",
+          "Organic chemistry",
+          "Pathology",
+          "Philosophy",
+          "Physics",
+          "Plasticity",
+          "Psychology",
+          "Relaxation (psychology)",
+          "Social psychology",
+          "Stress (linguistics)",
+          "Stress relaxation",
+          "Surface micromachining",
+          "Thin film",
+          "Yield (engineering)",
+          "Young's modulus"
+        ],
+        "host_venues": [
+          "Applied Physics Letters",
+          "Journal of Materials Research",
+          "Journal of Microscopy",
+          "Journal of vacuum science & technology",
+          "Langmuir",
+          "Macromolecular Rapid Communications",
+          "Microelectronics Journal",
+          "Microscopy and Microanalysis",
+          "Nanotechnology",
+          "Polymer",
+          "Semiconductor Science and Technology",
+          "Ultramicroscopy"
+        ],
+        "color": "#990000",
+        "size": 10
+      }
+    },
+    {
+      "key": "fplentz",
+      "attributes": {
+        "label": "F Plentz",
+        "name": "F. Plentz",
+        "known?": false,
+        "orcid?": null,
+        "ncsu?": null,
+        "affiliations": null,
+        "countries": null,
+        "color": "#BFBFBD",
+        "size": 10
+      }
+    },
+    {
+      "key": "nkoche",
+      "attributes": {
+        "label": "N Koche",
+        "name": "N. Koche",
+        "known?": false,
+        "orcid?": null,
+        "ncsu?": null,
+        "affiliations": null,
+        "countries": null,
+        "color": "#BFBFBD",
+        "size": 10
+      }
+    },
+    {
+      "key": "wnrodrigues",
+      "attributes": {
+        "label": "W Rodrigues",
+        "name": "W. N. Rodrigues",
+        "known?": false,
+        "orcid?": null,
+        "ncsu?": null,
+        "affiliations": null,
+        "countries": null,
+        "color": "#BFBFBD",
+        "size": 10
+      }
+    },
+    {
+      "key": "mvbmoreira",
+      "attributes": {
+        "label": "M Moreira",
+        "name": "M. V. B. Moreira",
+        "known?": false,
+        "orcid?": null,
+        "ncsu?": null,
+        "affiliations": null,
+        "countries": null,
+        "color": "#BFBFBD",
+        "size": 10
+      }
+    },
+    {
+      "key": "agdeoliveira",
+      "attributes": {
+        "label": "A De Oliveira",
+        "name": "A. G. De Oliveira",
+        "known?": false,
+        "orcid?": null,
+        "ncsu?": null,
+        "affiliations": null,
+        "countries": null,
+        "color": "#BFBFBD",
+        "size": 10
+      }
+    },
+    {
+      "key": "msandrade",
+      "attributes": {
+        "label": "M Andrade",
+        "name": "M. S. Andrade",
+        "known?": false,
+        "orcid?": null,
+        "ncsu?": null,
+        "affiliations": null,
+        "countries": null,
+        "color": "#BFBFBD",
+        "size": 10
+      }
+    },
+    {
+      "key": "u-3963",
+      "attributes": {
+        "label": "J Gonzalez",
+        "name": "J. C. Gonzalez",
+        "known?": true,
+        "orcid?": false,
+        "ncsu?": true,
+        "affiliations": [
+          "North Carolina State University"
+        ],
+        "countries": [
+          "US"
+        ],
+        "url": "https://ci.lib.ncsu.edu/profiles/3963",
+        "active?": false,
+        "department": "Analytical Instrumentation Facility",
+        "college": "College of Engineering",
+        "ncsu_affiliations": [
+          "Analytical Instrumentation Facility"
+        ],
+        "cluster?": false,
+        "clusters": [
+
+        ],
+        "role": null,
+        "building": null,
+        "count": 2,
+        "oa_count": 0,
+        "years": [
+          2002,
+          2001
+        ],
+        "year_recent": 2002,
+        "article_concepts": [
+          "Alternative medicine",
+          "Chemistry",
+          "Copper",
+          "Fabrication",
+          "Focused ion beam",
+          "Ion",
+          "Ion beam",
+          "Materials science",
+          "Medicine",
+          "Metallurgy",
+          "Nanotechnology",
+          "Organic chemistry",
+          "Pathology",
+          "Surface micromachining"
+        ],
+        "host_venues": [
+          "Journal of vacuum science & technology"
+        ],
+        "color": "#990000",
+        "size": 10
+      }
+    }
+  ],
+  "edges": [
+    {
+      "source": "u-3782",
+      "target": "https://orcid.org/0000-0001-9155-1657",
+      "attributes": {
+        "label": 2,
+        "weight": 2,
+        "collaboration_count": 2,
+        "departments": "Analytical Instrumentation Facility == Analytical Instrumentation Facility",
+        "colleges": "College of Engineering == College of Engineering",
+        "buildings": "unknown --- unknown",
+        "roles": "unknown == unknown",
+        "years": [
+          2002,
+          2001
+        ],
+        "year_recent": 2002,
+        "dois": [
+          "10.1116/1.1515310"
+        ],
+        "ncsu?": true,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": false,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          "Journal of vacuum science & technology"
+        ],
+        "color": "#CC0000",
+        "size": 2
+      }
+    },
+    {
+      "source": "u-3782",
+      "target": "mindasilva",
+      "attributes": {
+        "label": 2,
+        "weight": 2,
+        "collaboration_count": 2,
+        "departments": "Analytical Instrumentation Facility --- unknown",
+        "colleges": "College of Engineering --- unknown",
+        "buildings": "unknown --- unknown",
+        "roles": "unknown == unknown",
+        "years": [
+          2002,
+          2001
+        ],
+        "year_recent": 2002,
+        "dois": [
+          "10.1116/1.1515310"
+        ],
+        "ncsu?": false,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": false,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          "Journal of vacuum science & technology"
+        ],
+        "color": "#000000",
+        "size": 2
+      }
+    },
+    {
+      "source": "u-3782",
+      "target": "uid-dgriffis",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Analytical Instrumentation Facility -- Materials Science & Engineering",
+        "colleges": "College of Engineering == College of Engineering",
+        "buildings": "Textiles Complex --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          2002
+        ],
+        "year_recent": 2002,
+        "dois": [
+          "10.1116/1.1515310"
+        ],
+        "ncsu?": true,
+        "cross_college?": false,
+        "cross_department?": true,
+        "cross_unit?": false,
+        "cluster?": false,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          "Journal of vacuum science & technology"
+        ],
+        "color": "#CC0000",
+        "size": 1
+      }
+    },
+    {
+      "source": "u-3782",
+      "target": "u-1220",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Analytical Instrumentation Facility -- Materials Science & Engineering",
+        "colleges": "College of Engineering == College of Engineering",
+        "buildings": "unknown --- unknown",
+        "roles": "unknown == unknown",
+        "years": [
+          2002
+        ],
+        "year_recent": 2002,
+        "dois": [
+          "10.1116/1.1515310"
+        ],
+        "ncsu?": true,
+        "cross_college?": false,
+        "cross_department?": true,
+        "cross_unit?": true,
+        "cluster?": false,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          "Journal of vacuum science & technology"
+        ],
+        "color": "#CC0000",
+        "size": 1
+      }
+    },
+    {
+      "source": "u-3782",
+      "target": "fplentz",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Analytical Instrumentation Facility --- unknown",
+        "colleges": "College of Engineering --- unknown",
+        "buildings": "unknown --- unknown",
+        "roles": "unknown == unknown",
+        "years": [
+          2001
+        ],
+        "year_recent": 2001,
+        "dois": [
+
+        ],
+        "ncsu?": null,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": false,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          null
+        ],
+        "color": "#000000",
+        "size": 1
+      }
+    },
+    {
+      "source": "u-3782",
+      "target": "nkoche",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Analytical Instrumentation Facility --- unknown",
+        "colleges": "College of Engineering --- unknown",
+        "buildings": "unknown --- unknown",
+        "roles": "unknown == unknown",
+        "years": [
+          2001
+        ],
+        "year_recent": 2001,
+        "dois": [
+
+        ],
+        "ncsu?": null,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": false,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          null
+        ],
+        "color": "#000000",
+        "size": 1
+      }
+    },
+    {
+      "source": "u-3782",
+      "target": "wnrodrigues",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Analytical Instrumentation Facility --- unknown",
+        "colleges": "College of Engineering --- unknown",
+        "buildings": "unknown --- unknown",
+        "roles": "unknown == unknown",
+        "years": [
+          2001
+        ],
+        "year_recent": 2001,
+        "dois": [
+
+        ],
+        "ncsu?": null,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": false,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          null
+        ],
+        "color": "#000000",
+        "size": 1
+      }
+    },
+    {
+      "source": "u-3782",
+      "target": "mvbmoreira",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Analytical Instrumentation Facility --- unknown",
+        "colleges": "College of Engineering --- unknown",
+        "buildings": "unknown --- unknown",
+        "roles": "unknown == unknown",
+        "years": [
+          2001
+        ],
+        "year_recent": 2001,
+        "dois": [
+
+        ],
+        "ncsu?": null,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": false,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          null
+        ],
+        "color": "#000000",
+        "size": 1
+      }
+    },
+    {
+      "source": "u-3782",
+      "target": "agdeoliveira",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Analytical Instrumentation Facility --- unknown",
+        "colleges": "College of Engineering --- unknown",
+        "buildings": "unknown --- unknown",
+        "roles": "unknown == unknown",
+        "years": [
+          2001
+        ],
+        "year_recent": 2001,
+        "dois": [
+
+        ],
+        "ncsu?": null,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": false,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          null
+        ],
+        "color": "#000000",
+        "size": 1
+      }
+    },
+    {
+      "source": "u-3782",
+      "target": "msandrade",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Analytical Instrumentation Facility --- unknown",
+        "colleges": "College of Engineering --- unknown",
+        "buildings": "unknown --- unknown",
+        "roles": "unknown == unknown",
+        "years": [
+          2001
+        ],
+        "year_recent": 2001,
+        "dois": [
+
+        ],
+        "ncsu?": null,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": false,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          null
+        ],
+        "color": "#000000",
+        "size": 1
+      }
+    },
+    {
+      "source": "u-3963",
+      "target": "https://orcid.org/0000-0001-9155-1657",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Analytical Instrumentation Facility == Analytical Instrumentation Facility",
+        "colleges": "College of Engineering == College of Engineering",
+        "buildings": "unknown --- unknown",
+        "roles": "unknown == unknown",
+        "years": [
+          2002
+        ],
+        "year_recent": 2002,
+        "dois": [
+          "10.1116/1.1515310"
+        ],
+        "ncsu?": true,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": false,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          "Journal of vacuum science & technology"
+        ],
+        "color": "#CC0000",
+        "size": 1
+      }
+    },
+    {
+      "source": "u-3963",
+      "target": "mindasilva",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Analytical Instrumentation Facility --- unknown",
+        "colleges": "College of Engineering --- unknown",
+        "buildings": "unknown --- unknown",
+        "roles": "unknown == unknown",
+        "years": [
+          2002
+        ],
+        "year_recent": 2002,
+        "dois": [
+          "10.1116/1.1515310"
+        ],
+        "ncsu?": false,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": false,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          "Journal of vacuum science & technology"
+        ],
+        "color": "#000000",
+        "size": 1
+      }
+    },
+    {
+      "source": "u-3963",
+      "target": "uid-dgriffis",
+      "attributes": {
+        "label": 2,
+        "weight": 2,
+        "collaboration_count": 2,
+        "departments": "Analytical Instrumentation Facility -- Materials Science & Engineering",
+        "colleges": "College of Engineering == College of Engineering",
+        "buildings": "Textiles Complex --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          2002,
+          2001
+        ],
+        "year_recent": 2002,
+        "dois": [
+          "10.1116/1.1515310",
+          "10.1116/1.1418406"
+        ],
+        "ncsu?": true,
+        "cross_college?": false,
+        "cross_department?": true,
+        "cross_unit?": false,
+        "cluster?": false,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          "Journal of vacuum science & technology"
+        ],
+        "color": "#CC0000",
+        "size": 2
+      }
+    },
+    {
+      "source": "u-3963",
+      "target": "u-1220",
+      "attributes": {
+        "label": 2,
+        "weight": 2,
+        "collaboration_count": 2,
+        "departments": "Analytical Instrumentation Facility -- Materials Science & Engineering",
+        "colleges": "College of Engineering == College of Engineering",
+        "buildings": "unknown --- unknown",
+        "roles": "unknown == unknown",
+        "years": [
+          2002,
+          2001
+        ],
+        "year_recent": 2002,
+        "dois": [
+          "10.1116/1.1515310",
+          "10.1116/1.1418406"
+        ],
+        "ncsu?": true,
+        "cross_college?": false,
+        "cross_department?": true,
+        "cross_unit?": true,
+        "cluster?": false,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          "Journal of vacuum science & technology"
+        ],
+        "color": "#CC0000",
+        "size": 2
+      }
+    },
+    {
+      "source": "uid-dgriffis",
+      "target": "u-1220",
+      "attributes": {
+        "label": 9,
+        "weight": 9,
+        "collaboration_count": 9,
+        "departments": "Materials Science & Engineering == Materials Science & Engineering",
+        "colleges": "College of Engineering == College of Engineering",
+        "buildings": "Textiles Complex --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          2004,
+          2003,
+          2003,
+          2002,
+          2001,
+          2000,
+          2000,
+          1999,
+          1998
+        ],
+        "year_recent": 2004,
+        "dois": [
+          "10.1111/j.0022-2720.2004.01337.x",
+          "10.1088/0268-1242/18/4/302",
+          "10.1116/1.1515310",
+          "10.1116/1.1418406",
+          "10.1116/1.582300",
+          "10.1116/1.590197"
+        ],
+        "ncsu?": true,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": false,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          "Journal of Microscopy"
+        ],
+        "color": "#CC0000",
+        "size": 9
+      }
+    },
+    {
+      "source": "uid-dgriffis",
+      "target": "https://orcid.org/0000-0001-9155-1657",
+      "attributes": {
+        "label": 2,
+        "weight": 2,
+        "collaboration_count": 2,
+        "departments": "Analytical Instrumentation Facility -- Materials Science & Engineering",
+        "colleges": "College of Engineering == College of Engineering",
+        "buildings": "Textiles Complex --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          2002,
+          2001
+        ],
+        "year_recent": 2002,
+        "dois": [
+          "10.1116/1.1515310",
+          "10.1116/1.1418406"
+        ],
+        "ncsu?": true,
+        "cross_college?": false,
+        "cross_department?": true,
+        "cross_unit?": false,
+        "cluster?": false,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          "Journal of vacuum science & technology"
+        ],
+        "color": "#CC0000",
+        "size": 2
+      }
+    },
+    {
+      "source": "uid-dgriffis",
+      "target": "mindasilva",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Materials Science & Engineering --- unknown",
+        "colleges": "College of Engineering --- unknown",
+        "buildings": "Textiles Complex --- unknown",
+        "roles": "faculty --- unknown",
+        "years": [
+          2002
+        ],
+        "year_recent": 2002,
+        "dois": [
+          "10.1116/1.1515310"
+        ],
+        "ncsu?": false,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": false,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          "Journal of vacuum science & technology"
+        ],
+        "color": "#000000",
+        "size": 1
+      }
+    },
+    {
+      "source": "u-1220",
+      "target": "mindasilva",
+      "attributes": {
+        "label": 3,
+        "weight": 3,
+        "collaboration_count": 3,
+        "departments": "Materials Science & Engineering --- unknown",
+        "colleges": "College of Engineering --- unknown",
+        "buildings": "unknown --- unknown",
+        "roles": "unknown == unknown",
+        "years": [
+          2003,
+          2003,
+          2002
+        ],
+        "year_recent": 2003,
+        "dois": [
+          "10.1016/S0026-2692(03)00051-X",
+          "10.1016/S0026-2692(03)00072-7",
+          "10.1116/1.1515310"
+        ],
+        "ncsu?": false,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": false,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          "Microelectronics Journal"
+        ],
+        "color": "#000000",
+        "size": 3
+      }
+    },
+    {
+      "source": "u-1220",
+      "target": "https://orcid.org/0000-0001-9155-1657",
+      "attributes": {
+        "label": 5,
+        "weight": 5,
+        "collaboration_count": 5,
+        "departments": "Analytical Instrumentation Facility -- Materials Science & Engineering",
+        "colleges": "College of Engineering == College of Engineering",
+        "buildings": "unknown --- unknown",
+        "roles": "unknown == unknown",
+        "years": [
+          2003,
+          2003,
+          2002,
+          2001,
+          2001
+        ],
+        "year_recent": 2003,
+        "dois": [
+          "10.1016/S0026-2692(03)00051-X",
+          "10.1016/S0026-2692(03)00072-7",
+          "10.1116/1.1515310",
+          "10.1116/1.1418406",
+          "10.1063/1.1400075"
+        ],
+        "ncsu?": true,
+        "cross_college?": false,
+        "cross_department?": true,
+        "cross_unit?": true,
+        "cluster?": false,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          "Microelectronics Journal"
+        ],
+        "color": "#CC0000",
+        "size": 5
+      }
+    },
+    {
+      "source": "u-1220",
+      "target": "msandrade",
+      "attributes": {
+        "label": 1,
+        "weight": 1,
+        "collaboration_count": 1,
+        "departments": "Materials Science & Engineering --- unknown",
+        "colleges": "College of Engineering --- unknown",
+        "buildings": "unknown --- unknown",
+        "roles": "unknown == unknown",
+        "years": [
+          1999
+        ],
+        "year_recent": 1999,
+        "dois": [
+          "10.1016/S0304-3991(98)00071-0"
+        ],
+        "ncsu?": false,
+        "cross_college?": false,
+        "cross_department?": false,
+        "cross_unit?": false,
+        "cluster?": false,
+        "clusters?": false,
+        "cross_cluster?": false,
+        "clusters": [
+
+        ],
+        "cross_building?": false,
+        "concepts": [
+          null
+        ],
+        "host_venues": [
+          "Ultramicroscopy"
+        ],
+        "color": "#000000",
+        "size": 1
+      }
+    }
+  ]
+}
