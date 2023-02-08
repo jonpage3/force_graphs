@@ -3,6 +3,7 @@ $(document).ready(function () {
   $("#inactive").hide();
   $("#force").hide();
   $("#external").attr('value','data-selected');
+  $("#force").attr("value","graph-selected");
 
 var unit_name = document.getElementById('unit_name').textContent;
 
@@ -75,7 +76,7 @@ function ForceGraph ({
     const simulation = d3.forceSimulation(nodes)
       .force("link", forceLink)
       .force("charge", forceNode)
-      //.force("center",  d3.forceCenter())
+      .force("center",  d3.forceCenter())
       .on("tick", ticked);
 
     const svg = d3.create("svg")
@@ -110,6 +111,41 @@ function ForceGraph ({
     if (T) node.append("title").text(({index: i}) => T[i]);
     if (K) node.attr("key",({index: i}) => K[i]);
     if (invalidation != null) invalidation.then(() => simulation.stop());
+
+    // Add the highlighting functionality
+    node
+      .on('mouseover', function (d) {
+        var source_id = d3.select(this).attr("key");
+        target_array = [];
+        edges.forEach(function(i) {
+          if (i.source.id == source_id || i.target.id == source_id) {
+            target_array.push(i.target.id);
+            target_array.push(i.source.id);
+          }
+        })
+        node.attr('fill', function(d) {
+          if (target_array.includes(d.id)) {
+            return color(G[nodes.indexOf(d)]);
+        }
+        else {
+          return "#B8B8B8";
+        }})
+    
+        d3.select(this).attr('fill', ({index: i}) => color(G[i]))
+        edge
+          .attr('stroke', function (edge_d) { 
+            return edge_d.source.id === source_id || edge_d.target.id === source_id ? '#69b3b2' : '#b8b8b8';
+          })
+          .attr('stroke-width', function (edge_d) { 
+            return edge_d.source.id === source_id || edge_d.target.id === source_id ? 4 : 1;
+          })
+      })
+      .on('mouseout', function (d) {
+        node.attr('fill', ({index: i}) => color(G[i]))
+        edge
+          .attr('stroke', typeof linkStroke !== "function" ? linkStroke : nullck)
+          .style('stroke-width', typeof linkStrokeWidth !== "function" ? linkStrokeWidth : null)
+      })
 
     function intern(value) {
         return value !== null && typeof value === "object" ? value.valueOf() : value;
@@ -196,7 +232,11 @@ function CircularGraph ({
 
   const LT = d3.map(edges, linkTarget).map(intern);
 
+  const T = nodeTitle == null ? null : d3.map(nodes, nodeTitle);
+
   const angleSlice = Math.PI*2 / nodes.length;
+
+  const K = nodeKey == null ? null : d3.map(nodes, nodeKey);
 
   const G = nodeGroup == null ? null : d3.map(nodes, nodeGroup).map(intern);
 
@@ -258,6 +298,45 @@ function CircularGraph ({
       .attr("r", nodeRadius);
 
     if (G) node.attr("fill", ({index: i}) => color(G[i]));
+    if (T) node.append("title").text(({index: i}) => T[i]);
+    if (K) node.attr("key",({index: i}) => K[i]);
+
+    // Add the highlighting functionality
+    node
+      .on('mouseover', function (d) {
+        var source_id = d3.select(this).attr("key");
+        target_array = [];
+        edges.forEach(function(i) {
+          if (i.source.id == source_id || i.target.id == source_id) {
+            target_array.push(i.target.id);
+            target_array.push(i.source.id);
+          }
+        })
+        node.attr('fill', function(d) {
+          if (target_array.includes(d.id)) {
+            return color(G[nodes.indexOf(d)])
+        }
+        else {
+          return "#B8B8B8";
+        }})
+
+        d3.select(this).attr('fill', ({index: i}) => color(G[i]))
+        // Highlight the edges
+        edge
+          .attr('stroke', function (edge_d) { 
+            return edge_d.source.id === source_id || edge_d.target.id === source_id ? '#69b3b2' : '#b8b8b8';
+          })
+          .attr('stroke-width', function (edge_d) { 
+            return edge_d.source.id === source_id || edge_d.target.id === source_id ? 4 : 1;
+          })
+      })
+      .on('mouseout', function (d) {
+        node.attr('fill', ({index: i}) => color(G[i]))
+        edge
+          .attr('stroke', typeof linkStroke !== "function" ? linkStroke : nullck)
+          .style('stroke-width', typeof linkStrokeWidth !== "function" ? linkStrokeWidth : null)
+      })
+      
 
     function ticked() {
       edge
@@ -275,7 +354,7 @@ function CircularGraph ({
   
 }
 
-
+// Load Data
 Promise.all([
     d3.json("./aif_json/rgarcia-json_graph.json"),
     d3.json("./aif_json/czhou-json_graph.json"),
@@ -308,23 +387,30 @@ Promise.all([
     }
     
     render(data,null,"force");
-
+    
+    // buttons that control 
+    // the filtering and layouts
+    // filter button logic
     $("#ncstate").click(function (e) {
-      //console.log(data);
-      $("button").attr('value','')
+      $("button[type='filter']").attr('value','')
       $(this).hide();
       $(this).attr('value','data-selected');
       $("#inactive").hide();
       $("#external").show();
       $('#unit').show();
       $("#active").show()
-      
-      render(data,"ncstate","force");
+
+      $("button").each(function(){
+        if ($(this).attr('value') === "graph-selected") {
+          var graph_sel = $(this).attr('id');
+          render(data,"ncstate",graph_sel);
+        };
+      })
 
     });
 
     $("#external").click (function(e) {
-      $("button").attr('value','')
+      $("button[type='filter']").attr('value','')
       $(this).hide();
       $(this).attr('value','data-selected');
       $("#inactive").hide();
@@ -332,11 +418,16 @@ Promise.all([
       $("#unit").show();
       $("#active").show()
       
-      render(data,null,"force");
+      $("button").each(function(){
+        if ($(this).attr('value') === "graph-selected") {
+          var graph_sel = $(this).attr('id');
+          render(data,null,graph_sel);
+        };
+      })
     })
 
     $('#unit').click (function(e) {
-      $("button").attr('value','')
+      $("button[type='filter']").attr('value','')
       $(this).hide();
       $(this).attr('value','data-selected');
       $("#inactive").hide();
@@ -344,11 +435,16 @@ Promise.all([
       $("#external").show();
       $("#active").show()
      
-      render(data,"unit","force");
+      $("button").each(function(){
+        if ($(this).attr('value') === "graph-selected") {
+          var graph_sel = $(this).attr('id');
+          render(data,"unit",graph_sel);
+        };
+      })
     })
 
     $('#active').click (function(e) {
-      $("button").attr('value','')
+      $("button[type='filter']").attr('value','')
       $(this).hide();
       $(this).attr('value','data-selected');
       $("#external").hide();
@@ -356,11 +452,16 @@ Promise.all([
       $("#inactive").show();
       $("#unit").show();
       
-      render(data,"active","force");
+      $("button").each(function(){
+        if ($(this).attr('value') === "graph-selected") {
+          var graph_sel = $(this).attr('id');
+          render(data,"active",graph_sel);
+        };
+      })
     })
 
     $("#inactive").click (function(e) {
-      $("button").attr('value','')
+      $("button[type='filter']").attr('value','')
       $(this).hide();
       $(this).attr('value','data-selected');
       $("#external").hide();
@@ -368,35 +469,28 @@ Promise.all([
       $("#active").show();
       $("#unit").show();
       
-      render(data,null,"force");
+      $("button").each(function(){
+        if ($(this).attr('value') === "graph-selected") {
+          var graph_sel = $(this).attr('id');
+          render(data,null,graph_sel);
+        };
+      })
     })
-
+    
+    //layout button logic
     $("#circular").click (function(e) {
       $("button[type=layout]").attr("value","");
       $(this).hide();
       $("#force").show();
       $(this).attr('value','graph-selected');
       // insert some logic here about using the value selected
-      //let data_sel = $("button").filter(function() {return this.value = "data-selected"});
-      //c(data_sel);
-      //let valArr = [];
-      //var data_sel;
       $("button").each(function(){
         if ($(this).attr('value') === "data-selected") {
           var data_sel = $(this).attr('id');
           render(data,data_sel,"circular");
-          //c(data_sel);
         };
-
-       /* if (data_sel === "external" || data_sel==="inactive") {
-          render(data,null,"circular");
-        }
-        else {
-        render(data,data_sel,"circular");
-        }*/
       })
-      //c(data_sel);
-      //render(data,null,"circular")
+
     })
 
     $("#force").click (function(e) {
@@ -411,7 +505,6 @@ Promise.all([
         if ($(this).attr('value') === "data-selected") {
           var data_sel = $(this).attr('id');
           render(data,data_sel,"force");
-          //c(data_sel);
         };
       })
     })
